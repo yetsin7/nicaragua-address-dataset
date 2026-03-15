@@ -1,0 +1,3426 @@
+{
+  "metadata": {
+    "fuente_principal": "Correos de Nicaragua",
+    "url_correos": "https://www.correos.gob.ni/postalcode/",
+    "fuentes_complementarias": [
+      "OpenStreetMap (Overpass API) — overpass-api.de",
+      "Nominatim OSM — nominatim.openstreetmap.org",
+      "Wikipedia — Departamento de Estelí",
+      "INIDE Nicaragua — División político-administrativa"
+    ],
+    "fecha_extraccion": "2026-03-15",
+    "version": "1.0",
+    "alcance": "Departamento de Estelí, Nicaragua — datos completos de los 6 municipios: barrios, comunidades/comarcas, calles y códigos postales.",
+    "nota_codigos_postales": "Correos de Nicaragua publica un código postal MAESTRO por municipio. Para el departamento de Estelí no hay sub-códigos por barrio publicados oficialmente (a diferencia de Managua que sí los tiene). Los códigos indicados corresponden al código maestro del municipio.",
+    "nota_calles": "El sistema de direcciones en Nicaragua no sigue siempre nomenclatura oficial de calles. En zonas urbanas de Estelí se usa el sistema de cuadrantes (NE, NO, SE, SO). En zonas rurales predominan referencias a puntos de referencia.",
+    "nota_comunidades": "Las comunidades rurales (hamlet/village en OSM) son localidades sin reconocimiento formal de barrio pero con presencia en el territorio. Fuente primaria: OpenStreetMap.",
+    "estado_investigacion": {
+      "departamento": "Estelí",
+      "estado": "completado",
+      "avance": "datos_correos_osm_wikipedia_nominatim_combinados",
+      "total_barrios": 69,
+      "total_comunidades": 108,
+      "total_calles_esteli_ciudad": 101
+    }
+  },
+  "departamento": {
+    "nombre": "Estelí",
+    "codigo_departamento": "ES",
+    "codigo_inide": "4",
+    "codigo_iso": "NI-ES",
+    "apodo": "El Diamante de las Segovias",
+    "capital": "Estelí",
+    "superficie_km2": 2230,
+    "poblacion_censo_2005": 201548,
+    "poblacion_estimacion_2023": 233077,
+    "num_municipios": 6,
+    "ubicacion": "Norte-centro de Nicaragua, zona norte",
+    "limites": {
+      "norte": "Departamento de Madriz",
+      "sur": "Departamentos de León y Matagalpa",
+      "este": "Departamento de Jinotega",
+      "oeste": "Departamento de Chinandega"
+    },
+    "coordenadas_capital": {
+      "lat": 13.0929621,
+      "lon": -86.3561571
+    },
+    "municipios": [
+      {
+        "nombre": "Estelí",
+        "codigo_municipio": "0401",
+        "codigo_correos_sistema": 33,
+        "codigo_postal_maestro": "31000",
+        "superficie_km2": 795.7,
+        "poblacion_censo_2005": 112084,
+        "poblacion_estimacion_2023": 131971,
+        "cabecera_departamental": true,
+        "coordenadas": {
+          "lat": 13.0929621,
+          "lon": -86.3561571
+        },
+        "estado_catalogo": "completado",
+        "sistema_vial": "Cuadrantes NE/NO/SE/SO con Avenida Central y Calle Central como ejes",
+        "barrios": [
+          {
+            "nombre": "Paula Ubeda",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0949139,
+              "lon": -86.3527997
+            }
+          },
+          {
+            "nombre": "Barrio Elías Moncada",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0980525,
+              "lon": -86.3559042
+            }
+          },
+          {
+            "nombre": "Dios Proveera",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1074454,
+              "lon": -86.3622365
+            }
+          },
+          {
+            "nombre": "Barrio Óscar Turcios",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.094427,
+              "lon": -86.3452654
+            }
+          },
+          {
+            "nombre": "Jaime Ubeda",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0992583,
+              "lon": -86.3528188
+            }
+          },
+          {
+            "nombre": "Omar Torrijos",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1029102,
+              "lon": -86.3547642
+            }
+          },
+          {
+            "nombre": "Barrio José Santos Zelaya",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0994655,
+              "lon": -86.3466166
+            }
+          },
+          {
+            "nombre": "Villas de la Riviera",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1075774,
+              "lon": -86.35372
+            }
+          },
+          {
+            "nombre": "Ronaldo Arauz",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1057767,
+              "lon": -86.3484824
+            }
+          },
+          {
+            "nombre": "Barrio Los Ángeles",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1026487,
+              "lon": -86.3471371
+            }
+          },
+          {
+            "nombre": "Óscar Gámez",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0915669,
+              "lon": -86.3670083
+            }
+          },
+          {
+            "nombre": "Barrio La Comuna",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0950518,
+              "lon": -86.3625242
+            }
+          },
+          {
+            "nombre": "Barrio 14 de Abril",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0990373,
+              "lon": -86.3661131
+            }
+          },
+          {
+            "nombre": "Aldeas Emaus",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1040451,
+              "lon": -86.3628138
+            }
+          },
+          {
+            "nombre": "Barrio Panamá Soberana",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0915024,
+              "lon": -86.3631884
+            }
+          },
+          {
+            "nombre": "Barrio El Paraíso III Etapa",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0786973,
+              "lon": -86.3659843
+            }
+          },
+          {
+            "nombre": "Barrio Juan Alberto Blandón",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.078419,
+              "lon": -86.3538135
+            }
+          },
+          {
+            "nombre": "Barrio Alfredo Lazo",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0762725,
+              "lon": -86.3556639
+            }
+          },
+          {
+            "nombre": "Miguel Alonso",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0815526,
+              "lon": -86.3627874
+            }
+          },
+          {
+            "nombre": "Barrio El Calvario",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0837437,
+              "lon": -86.358462
+            }
+          },
+          {
+            "nombre": "Héroes y Mártires",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0841384,
+              "lon": -86.3541562
+            }
+          },
+          {
+            "nombre": "Filemón Rivera",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0857221,
+              "lon": -86.3612817
+            }
+          },
+          {
+            "nombre": "Centenario",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0816508,
+              "lon": -86.3502378
+            }
+          },
+          {
+            "nombre": "Santo Domingo",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0807529,
+              "lon": -86.3458112
+            }
+          },
+          {
+            "nombre": "Barrio Aristeo Benavídez",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0876892,
+              "lon": -86.3502641
+            }
+          },
+          {
+            "nombre": "Juana Elena Mendoza",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0913479,
+              "lon": -86.3501631
+            }
+          },
+          {
+            "nombre": "Barrio José Benito Escobar",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0852643,
+              "lon": -86.3450013
+            }
+          },
+          {
+            "nombre": "Barrio Primero de Mayo",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.090024,
+              "lon": -86.3457565
+            }
+          },
+          {
+            "nombre": "Barrio Justo Flores",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.067155,
+              "lon": -86.3518097
+            }
+          },
+          {
+            "nombre": "Boris Vega",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0789608,
+              "lon": -86.3594323
+            }
+          },
+          {
+            "nombre": "Barrio Boanerges López",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0684107,
+              "lon": -86.3471968
+            }
+          },
+          {
+            "nombre": "Villa Esperanza",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.08901,
+              "lon": -86.3418785
+            }
+          },
+          {
+            "nombre": "La Quiatilla",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0654235,
+              "lon": -86.3444074
+            }
+          },
+          {
+            "nombre": "Igor Ubeda",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0894443,
+              "lon": -86.3585409
+            }
+          },
+          {
+            "nombre": "René Barrantes",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0947542,
+              "lon": -86.355457
+            }
+          },
+          {
+            "nombre": "Barrio Juno Rodríguez",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0872927,
+              "lon": -86.3538656
+            }
+          },
+          {
+            "nombre": "Barrio Hermanos Carcamo",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0910387,
+              "lon": -86.3542439
+            }
+          },
+          {
+            "nombre": "Barrio Milenia Hernández",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0913092,
+              "lon": -86.358614
+            }
+          },
+          {
+            "nombre": "Barrio Óscar Benavides",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.086711,
+              "lon": -86.3584386
+            }
+          },
+          {
+            "nombre": "Barrio Augusto César Sandino",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.101716,
+              "lon": -86.3504362
+            }
+          },
+          {
+            "nombre": "Michiguiste",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0900122,
+              "lon": -86.3481939
+            }
+          },
+          {
+            "nombre": "Camilo II",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0949864,
+              "lon": -86.3493848
+            }
+          },
+          {
+            "nombre": "Linda Vista",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0829792,
+              "lon": -86.3659394
+            }
+          },
+          {
+            "nombre": "William Fonseca",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.086804,
+              "lon": -86.3632786
+            }
+          },
+          {
+            "nombre": "Orlando Ochoa",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0937219,
+              "lon": -86.3580322
+            }
+          },
+          {
+            "nombre": "Barrio Carlos Núñez",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1001276,
+              "lon": -86.3597596
+            }
+          },
+          {
+            "nombre": "Barrio El Rosario",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1015279,
+              "lon": -86.3643086
+            }
+          },
+          {
+            "nombre": "Virginia Quintero",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.081328,
+              "lon": -86.3660681
+            }
+          },
+          {
+            "nombre": "Barrio La Unión",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0907855,
+              "lon": -86.373117
+            }
+          },
+          {
+            "nombre": "Leonel Rugama",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0915692,
+              "lon": -86.3710034
+            }
+          },
+          {
+            "nombre": "Barrio Óscar Gámez Nº 2",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0945266,
+              "lon": -86.3683319
+            }
+          },
+          {
+            "nombre": "Óscar Arnulfo Romero",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1031684,
+              "lon": -86.3651776
+            }
+          },
+          {
+            "nombre": "16 de Julio",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1053315,
+              "lon": -86.3602853
+            }
+          },
+          {
+            "nombre": "Estelí Heróico",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1018831,
+              "lon": -86.3619161
+            }
+          },
+          {
+            "nombre": "Arlen Siu",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1026146,
+              "lon": -86.3594806
+            }
+          },
+          {
+            "nombre": "29 de Octubre",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0893016,
+              "lon": -86.36639
+            }
+          },
+          {
+            "nombre": "Barrio Ex Combatientes del 18 de Mayo",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0980899,
+              "lon": -86.3768506
+            }
+          },
+          {
+            "nombre": "Oasis de Bendición",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1003575,
+              "lon": -86.3743508
+            }
+          },
+          {
+            "nombre": "María Elena Cuadra",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0969509,
+              "lon": -86.3729882
+            }
+          },
+          {
+            "nombre": "Nuevo Amanecer",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0947773,
+              "lon": -86.3775802
+            }
+          },
+          {
+            "nombre": "Barrio Belén",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0997828,
+              "lon": -86.3719797
+            }
+          },
+          {
+            "nombre": "Noel Gámez",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1005769,
+              "lon": -86.3705421
+            }
+          },
+          {
+            "nombre": "Ciudad Dinamarca",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1082573,
+              "lon": -86.3675595
+            }
+          },
+          {
+            "nombre": "El Jazmín",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1041611,
+              "lon": -86.3668084
+            }
+          },
+          {
+            "nombre": "Valle Arriba",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.1949422,
+              "lon": -86.4407938
+            }
+          },
+          {
+            "nombre": "Los Lirios",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0766671,
+              "lon": -86.4103031
+            }
+          },
+          {
+            "nombre": "San José",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0805264,
+              "lon": -86.3776122
+            }
+          },
+          {
+            "nombre": "La Joya",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0830406,
+              "lon": -86.3717513
+            }
+          },
+          {
+            "nombre": "Paso Ancho",
+            "tipo": "reparto_colonia",
+            "codigo_postal": "31000",
+            "codigo_barrio": null,
+            "coordenadas": {
+              "lat": 13.0663179,
+              "lon": -86.3638665
+            }
+          }
+        ],
+        "comunidades": [
+          {
+            "nombre": "La Sirena",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1798466,
+              "lon": -86.3697861
+            }
+          },
+          {
+            "nombre": "Isiquí",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1167073,
+              "lon": -86.2253647
+            }
+          },
+          {
+            "nombre": "Valle Regadio",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1893904,
+              "lon": -86.4368099
+            }
+          },
+          {
+            "nombre": "El Ocotillo",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0088365,
+              "lon": -86.3351412
+            }
+          },
+          {
+            "nombre": "El Pastoreo",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0472409,
+              "lon": -86.3793405
+            }
+          },
+          {
+            "nombre": "La Estanzuela",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0222311,
+              "lon": -86.3520519
+            }
+          },
+          {
+            "nombre": "Las Cámaras",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9951003,
+              "lon": -86.3126363
+            }
+          },
+          {
+            "nombre": "Potrero Grande",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9999234,
+              "lon": -86.4021814
+            }
+          },
+          {
+            "nombre": "Valle Santa Cruz",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0168872,
+              "lon": -86.3119568
+            }
+          },
+          {
+            "nombre": "El Sontule",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2600591,
+              "lon": -86.3146603
+            }
+          },
+          {
+            "nombre": "La Labranza",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2127693,
+              "lon": -86.3137431
+            }
+          },
+          {
+            "nombre": "La Quinta",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.130568,
+              "lon": -86.2698607
+            }
+          },
+          {
+            "nombre": "El Guayacan",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0177917,
+              "lon": -86.4410949
+            }
+          },
+          {
+            "nombre": "La Naranjita",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1558492,
+              "lon": -86.4332951
+            }
+          },
+          {
+            "nombre": "El Zurzular",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2523105,
+              "lon": -86.2908375
+            }
+          },
+          {
+            "nombre": "La Florida",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2161955,
+              "lon": -86.4019453
+            }
+          },
+          {
+            "nombre": "El Porvenir",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.234802,
+              "lon": -86.3785619
+            }
+          },
+          {
+            "nombre": "La Naranja",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2406809,
+              "lon": -86.3300623
+            }
+          },
+          {
+            "nombre": "San José del Rodeo",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2251934,
+              "lon": -86.2953812
+            }
+          },
+          {
+            "nombre": "Los Achiotes",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2330483,
+              "lon": -86.3008918
+            }
+          },
+          {
+            "nombre": "El Terrero",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2408364,
+              "lon": -86.2941064
+            }
+          },
+          {
+            "nombre": "El Chapernal",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2691964,
+              "lon": -86.2565374
+            }
+          },
+          {
+            "nombre": "El Cerro",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1966109,
+              "lon": -86.4378762
+            }
+          },
+          {
+            "nombre": "El Pino I",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2142005,
+              "lon": -86.428408
+            }
+          },
+          {
+            "nombre": "El Pino II",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2222115,
+              "lon": -86.440537
+            }
+          },
+          {
+            "nombre": "Las Travesías",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2644033,
+              "lon": -86.2877798
+            }
+          },
+          {
+            "nombre": "Los Apanates",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2498563,
+              "lon": -86.2772399
+            }
+          },
+          {
+            "nombre": "La Perla",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2606756,
+              "lon": -86.2714532
+            }
+          },
+          {
+            "nombre": "Valle La Pita",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2311892,
+              "lon": -86.2821826
+            }
+          },
+          {
+            "nombre": "Las Alforjas",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2208172,
+              "lon": -86.2897539
+            }
+          },
+          {
+            "nombre": "Las Naranjas",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2178718,
+              "lon": -86.279878
+            }
+          },
+          {
+            "nombre": "El Robledal",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2081425,
+              "lon": -86.2924898
+            }
+          },
+          {
+            "nombre": "El Carrizo",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2179189,
+              "lon": -86.3259208
+            }
+          },
+          {
+            "nombre": "El Coyolito",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2087796,
+              "lon": -86.3286004
+            }
+          },
+          {
+            "nombre": "Las Palmas",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1936601,
+              "lon": -86.3249392
+            }
+          },
+          {
+            "nombre": "Santa Rosa",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1928684,
+              "lon": -86.3735052
+            }
+          },
+          {
+            "nombre": "El Tular",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1842252,
+              "lon": -86.3694424
+            }
+          },
+          {
+            "nombre": "San Francisco",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1719534,
+              "lon": -86.4342669
+            }
+          },
+          {
+            "nombre": "Mesas Plan Helagdo",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2414543,
+              "lon": -86.2559646
+            }
+          },
+          {
+            "nombre": "El Pino III",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2288959,
+              "lon": -86.4466846
+            }
+          },
+          {
+            "nombre": "La Virgen",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1588579,
+              "lon": -86.370703
+            }
+          },
+          {
+            "nombre": "El Jocote",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1672677,
+              "lon": -86.3693109
+            }
+          },
+          {
+            "nombre": "Llanos de Colón",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1110515,
+              "lon": -86.1877517
+            }
+          },
+          {
+            "nombre": "Los Encuentros",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1181818,
+              "lon": -86.2010134
+            }
+          },
+          {
+            "nombre": "El Carrizo",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.126825,
+              "lon": -86.2276018
+            }
+          },
+          {
+            "nombre": "El Jalacate",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9868408,
+              "lon": -86.366382
+            }
+          },
+          {
+            "nombre": "Almaciguera",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9990539,
+              "lon": -86.3675165
+            }
+          },
+          {
+            "nombre": "Hermanos Cruz",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1870113,
+              "lon": -86.4116335
+            }
+          },
+          {
+            "nombre": "El Espinal",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1487844,
+              "lon": -86.270483
+            }
+          },
+          {
+            "nombre": "Pueblo Nuevo",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.100253,
+              "lon": -86.2703777
+            }
+          },
+          {
+            "nombre": "Buena Esperanza",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.114903,
+              "lon": -86.2952364
+            }
+          },
+          {
+            "nombre": "Isidrillo",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1278517,
+              "lon": -86.3273681
+            }
+          },
+          {
+            "nombre": "San Pedro",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1152977,
+              "lon": -86.3293911
+            }
+          },
+          {
+            "nombre": "Mal Paso",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.092353,
+              "lon": -86.320653
+            }
+          },
+          {
+            "nombre": "Los Rastrojos",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.04917,
+              "lon": -86.4242721
+            }
+          },
+          {
+            "nombre": "La Calabaza",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.059538,
+              "lon": -86.3357592
+            }
+          },
+          {
+            "nombre": "Corre Viento",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0463219,
+              "lon": -86.3179118
+            }
+          },
+          {
+            "nombre": "El Pedernal",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.034929,
+              "lon": -86.3116729
+            }
+          },
+          {
+            "nombre": "Llano Redondo",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0411482,
+              "lon": -86.3091141
+            }
+          },
+          {
+            "nombre": "La Montaña",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.049776,
+              "lon": -86.2946093
+            }
+          },
+          {
+            "nombre": "Las Sozas",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0672823,
+              "lon": -86.2949467
+            }
+          },
+          {
+            "nombre": "La Presa",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0683535,
+              "lon": -86.2695784
+            }
+          },
+          {
+            "nombre": "Los Chilamates",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0516314,
+              "lon": -86.2774694
+            }
+          },
+          {
+            "nombre": "El Espinal",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0450543,
+              "lon": -86.2784681
+            }
+          },
+          {
+            "nombre": "Las Cuevas",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0216698,
+              "lon": -86.2864817
+            }
+          },
+          {
+            "nombre": "El Cebollal",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2328907,
+              "lon": -86.2615103
+            }
+          },
+          {
+            "nombre": "Teodoso Previa",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.232379,
+              "lon": -86.267395
+            }
+          },
+          {
+            "nombre": "La Labranza",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2019851,
+              "lon": -86.2980366
+            }
+          },
+          {
+            "nombre": "Buena Vista",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1753952,
+              "lon": -86.3268328
+            }
+          },
+          {
+            "nombre": "Los Cerritos",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1415047,
+              "lon": -86.332841
+            }
+          },
+          {
+            "nombre": "Saca de Agua",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1628483,
+              "lon": -86.330551
+            }
+          },
+          {
+            "nombre": "Los Roblesitos",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1357791,
+              "lon": -86.4879155
+            }
+          },
+          {
+            "nombre": "Rodeo Grande",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1337574,
+              "lon": -86.443128
+            }
+          },
+          {
+            "nombre": "El Rodeito",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1131684,
+              "lon": -86.4465237
+            }
+          },
+          {
+            "nombre": "Los Araditos",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1108704,
+              "lon": -86.4059087
+            }
+          },
+          {
+            "nombre": "La Montañita",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1068403,
+              "lon": -86.399801
+            }
+          },
+          {
+            "nombre": "Buena Vista",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1035865,
+              "lon": -86.3945077
+            }
+          },
+          {
+            "nombre": "San Rafael",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1000353,
+              "lon": -86.4078607
+            }
+          },
+          {
+            "nombre": "Plan Grande",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0853484,
+              "lon": -86.4176401
+            }
+          },
+          {
+            "nombre": "San Roque",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0731069,
+              "lon": -86.4174005
+            }
+          },
+          {
+            "nombre": "Paso Ancho",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0672509,
+              "lon": -86.3704133
+            }
+          },
+          {
+            "nombre": "El Limón",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.057761,
+              "lon": -86.3612427
+            }
+          },
+          {
+            "nombre": "La Tunosa",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0607085,
+              "lon": -86.3875258
+            }
+          },
+          {
+            "nombre": "Los Jobos",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0476031,
+              "lon": -86.3527101
+            }
+          },
+          {
+            "nombre": "La Rinconada",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0382581,
+              "lon": -86.3817752
+            }
+          },
+          {
+            "nombre": "Los Plancitos",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.990999,
+              "lon": -86.3354695
+            }
+          },
+          {
+            "nombre": "La Cebadilla",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0002743,
+              "lon": -86.3168308
+            }
+          },
+          {
+            "nombre": "Santa Cruz",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9956978,
+              "lon": -86.2971682
+            }
+          },
+          {
+            "nombre": "Tres Esquinas",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0064081,
+              "lon": -86.3211573
+            }
+          },
+          {
+            "nombre": "Naranjo",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0298831,
+              "lon": -86.3170508
+            }
+          },
+          {
+            "nombre": "Sabana Larga II",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0277011,
+              "lon": -86.3316393
+            }
+          },
+          {
+            "nombre": "El Quebracho",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0428724,
+              "lon": -86.33779
+            }
+          },
+          {
+            "nombre": "Sabana Larga",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0133073,
+              "lon": -86.3386667
+            }
+          },
+          {
+            "nombre": "El Despoblado",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.004725,
+              "lon": -86.3442939
+            }
+          },
+          {
+            "nombre": "Santa Juana",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0569404,
+              "lon": -86.3752578
+            }
+          },
+          {
+            "nombre": "El Jícaro",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1795888,
+              "lon": -86.4258221
+            }
+          },
+          {
+            "nombre": "La Thompson",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1232529,
+              "lon": -86.3631198
+            }
+          },
+          {
+            "nombre": "Liliam",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1166968,
+              "lon": -86.3597539
+            }
+          },
+          {
+            "nombre": "Villa Vieja",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1016172,
+              "lon": -86.3373305
+            }
+          },
+          {
+            "nombre": "Las Limas",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1339838,
+              "lon": -86.3448849
+            }
+          },
+          {
+            "nombre": "Santa Marta",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1538558,
+              "lon": -86.3365982
+            }
+          },
+          {
+            "nombre": "Sabana Redorida",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1774969,
+              "lon": -86.2650036
+            }
+          },
+          {
+            "nombre": "Puertas Azules",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2534234,
+              "lon": -86.2505914
+            }
+          },
+          {
+            "nombre": "Betania",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.190397,
+              "lon": -86.372594
+            }
+          },
+          {
+            "nombre": "El Portillo del Jícaro",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.161082,
+              "lon": -86.3757303
+            }
+          },
+          {
+            "nombre": "El Porvenir",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.1616621,
+              "lon": -86.3791481
+            }
+          },
+          {
+            "nombre": "La Ceiba",
+            "tipo": "comarca_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.0032745,
+              "lon": -86.3084505
+            }
+          },
+          {
+            "nombre": "Buena Vista",
+            "tipo": "comunidad_rural",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9805544,
+              "lon": -86.3095787
+            }
+          }
+        ],
+        "calles": [
+          {
+            "nombre": "Avenida 1 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 1 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 1 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 1 SO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 10 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 10 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 10 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 11 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 11 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 11 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 12 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 12 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 12 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 13 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 13 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 14 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 15 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 17 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 2 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 2 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 2 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 2 SO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 3 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 3 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 3 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 3 SO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 4 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 4 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 4 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 4 SO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 5 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 5 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 6",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 6 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 6 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 6 SO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 7 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 7 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 7 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 8 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 8 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 8 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 9 NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 9 NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida 9 SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida Central",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida Central Norte",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Avenida Central Sur",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Calle 1 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 1 NO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 1 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 1 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 10 A SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 10 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 10 NO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 10 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 10 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 11 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 11 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 11 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 12 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 12 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 12 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 13 A SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 13 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 2 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 2 NO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 2 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 2 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 3 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 3 NO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 3 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 3 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 4 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 4 NO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 4 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 4 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 5 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 5 NO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 5 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 5 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 6 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 6 NO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 6 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 6 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 7 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 7 NO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 7 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 7 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 8 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 8 NO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 8 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 8 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 9 NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 9 NO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 9 SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Calle 9 SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Carretera Panamericana Norte",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera a Managua",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera a Condega",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera a La Trinidad",
+            "tipo": "carretera"
+          }
+        ]
+      },
+      {
+        "nombre": "Condega",
+        "codigo_municipio": "0402",
+        "codigo_correos_sistema": 34,
+        "codigo_postal_maestro": "32100",
+        "superficie_km2": 370.8,
+        "poblacion_censo_2005": 28481,
+        "poblacion_estimacion_2023": 31338,
+        "cabecera_departamental": false,
+        "coordenadas": {
+          "lat": 13.3613957,
+          "lon": -86.3974189
+        },
+        "estado_catalogo": "completado",
+        "barrios": [
+          {
+            "nombre": "El Centro",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32100",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "San Antonio",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32100",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio El Rosario",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32100",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio El Progreso",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32100",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Nueva Esperanza",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32100",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio La Floresta",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32100",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Jorge Salazar",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32100",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Pedro Joaquín Chamorro",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32100",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Sandino",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32100",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Los Laureles",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32100",
+            "codigo_barrio": null
+          }
+        ],
+        "comunidades": [
+          {
+            "nombre": "San Diego",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.3765373,
+              "lon": -86.3709239
+            }
+          },
+          {
+            "nombre": "Santa Teresa",
+            "tipo": "village",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.3143755,
+              "lon": -86.4391953
+            }
+          },
+          {
+            "nombre": "El Espino",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2748014,
+              "lon": -86.4297865
+            }
+          },
+          {
+            "nombre": "El Qualiqueme",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2728767,
+              "lon": -86.4154188
+            }
+          },
+          {
+            "nombre": "El Zorillo",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.2851857,
+              "lon": -86.437315
+            }
+          },
+          {
+            "nombre": "El Bramadero",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Horno",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Venecia",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Ducuale Grande",
+            "tipo": "village",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Jocote Abajo",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Jocote Arriba",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Los Rodeos",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Rodeo",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "La Almaciguera",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Manos",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Algodonal",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "La Laguna",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Quebrachal",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "San Jerónimo",
+            "tipo": "village",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "La Rica",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Miraflor",
+            "tipo": "village",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Lajas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Los Planes de Condega",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "San Pedro",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "La Laguna de Cofradía",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          }
+        ],
+        "calles": [
+          {
+            "nombre": "Avenida Central",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Calle Central",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "1a Avenida NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "1a Avenida NO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "1a Avenida SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "1a Avenida SO",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "2a Avenida NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "2a Calle SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "2a Calle SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "3a Calle NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "7a Calle NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "13a Calle NE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Carretera Panamericana Norte",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera Yalí - Condega",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera a Jocote Arriba",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera a Los Rodeos",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera a la Montaña",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "NIC-3",
+            "tipo": "carretera_nacional"
+          }
+        ]
+      },
+      {
+        "nombre": "Pueblo Nuevo",
+        "codigo_municipio": "0403",
+        "codigo_correos_sistema": 35,
+        "codigo_postal_maestro": "32200",
+        "superficie_km2": 202.6,
+        "poblacion_censo_2005": 20620,
+        "poblacion_estimacion_2023": 24207,
+        "cabecera_departamental": false,
+        "coordenadas": {
+          "lat": 13.3802097,
+          "lon": -86.4793
+        },
+        "estado_catalogo": "completado",
+        "barrios": [
+          {
+            "nombre": "El Centro",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32200",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio El Progreso",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32200",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio La Esperanza",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32200",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio El Porvenir",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32200",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Carlos Fonseca",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32200",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Sandino",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32200",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Los Ángeles",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32200",
+            "codigo_barrio": null
+          }
+        ],
+        "comunidades": [
+          {
+            "nombre": "Sontule",
+            "tipo": "village",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Mojón",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Pintadas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Coyolar",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Sabana Larga",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Los Jobos",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Carrizal",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "San Ramón",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Porcal",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Limas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Tabaco",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "La Caña",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Cerro Jesús",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Los Alpes",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Lajas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          }
+        ],
+        "calles": [
+          {
+            "nombre": "Avenida Central",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Calle Central",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "1a Avenida NE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "1a Avenida SE",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "2a Calle SE",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "2a Calle SO",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Carretera Panamericana Norte",
+            "tipo": "carretera"
+          }
+        ]
+      },
+      {
+        "nombre": "San Juan de Limay",
+        "codigo_municipio": "0404",
+        "codigo_correos_sistema": 36,
+        "codigo_postal_maestro": "32300",
+        "superficie_km2": 427.6,
+        "poblacion_censo_2005": 13455,
+        "poblacion_estimacion_2023": 15194,
+        "cabecera_departamental": false,
+        "coordenadas": {
+          "lat": 13.1744418,
+          "lon": -86.6120646
+        },
+        "estado_catalogo": "completado",
+        "barrios": [
+          {
+            "nombre": "El Centro",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32300",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio La Libertad",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32300",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio El Calvario",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32300",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio La Esperanza",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32300",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Carlos Fonseca",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32300",
+            "codigo_barrio": null
+          }
+        ],
+        "comunidades": [
+          {
+            "nombre": "Las Mesas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Coyolito",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Mojón",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Sabana Grande",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Los Jobos",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "La Pacayona",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Palmitas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Guasuyuca",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Limay",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Bramadero",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "La Sirena",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Delicias",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Santa Cruz",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Aguas Calientes",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Ceibón",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "La Calera",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Cañas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          }
+        ],
+        "calles": [
+          {
+            "nombre": "Avenida Central",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Calle Central",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Carretera a Estelí",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera a Achuapa",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "NIC-28",
+            "tipo": "carretera_nacional"
+          }
+        ]
+      },
+      {
+        "nombre": "San Nicolás",
+        "codigo_municipio": "0405",
+        "codigo_correos_sistema": 37,
+        "codigo_postal_maestro": "32400",
+        "superficie_km2": 163,
+        "poblacion_censo_2005": 6768,
+        "poblacion_estimacion_2023": 7663,
+        "cabecera_departamental": false,
+        "coordenadas": {
+          "lat": 12.9327488,
+          "lon": -86.3483899
+        },
+        "estado_catalogo": "completado",
+        "barrios": [
+          {
+            "nombre": "El Centro",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32400",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio El Porvenir",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32400",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio La Esperanza",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32400",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Los Cedros",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32400",
+            "codigo_barrio": null
+          }
+        ],
+        "comunidades": [
+          {
+            "nombre": "La Laguna",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9633798,
+              "lon": -86.3413646
+            }
+          },
+          {
+            "nombre": "La Tejera",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9699709,
+              "lon": -86.3620802
+            }
+          },
+          {
+            "nombre": "Comunidad La Garnacha",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9704809,
+              "lon": -86.3765956
+            }
+          },
+          {
+            "nombre": "La Puerta",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9145459,
+              "lon": -86.3192133
+            }
+          },
+          {
+            "nombre": "Rodeo Grande",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.8807373,
+              "lon": -86.2952236
+            }
+          },
+          {
+            "nombre": "Guigajapa",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9100334,
+              "lon": -86.3129424
+            }
+          },
+          {
+            "nombre": "Limay",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9018188,
+              "lon": -86.3170568
+            }
+          },
+          {
+            "nombre": "Jocomico",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.8983389,
+              "lon": -86.2906103
+            }
+          },
+          {
+            "nombre": "El Espinito",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.8903122,
+              "lon": -86.2883813
+            }
+          },
+          {
+            "nombre": "Los Robles",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9235757,
+              "lon": -86.33543
+            }
+          },
+          {
+            "nombre": "Bramaderos San Nicolás",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Coyolito",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Labranzas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "La Pita",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Los Llanos",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Quebrachal",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          }
+        ],
+        "calles": [
+          {
+            "nombre": "Avenida Central",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Calle Central",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Carretera a Estelí",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera a La Trinidad",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "NIC-2 (Carretera Panamericana)",
+            "tipo": "carretera_nacional"
+          }
+        ]
+      },
+      {
+        "nombre": "La Trinidad",
+        "codigo_municipio": "0406",
+        "codigo_correos_sistema": 38,
+        "codigo_postal_maestro": "32500",
+        "superficie_km2": 270,
+        "poblacion_censo_2005": 20140,
+        "poblacion_estimacion_2023": 22704,
+        "cabecera_departamental": false,
+        "coordenadas": {
+          "lat": 12.971,
+          "lon": -86.243
+        },
+        "estado_catalogo": "completado",
+        "barrios": [
+          {
+            "nombre": "El Centro",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32500",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio El Calvario",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32500",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio La Esperanza",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32500",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Las Américas",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32500",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio El Porvenir",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32500",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio El Rosario",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32500",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio Sandino",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32500",
+            "codigo_barrio": null
+          },
+          {
+            "nombre": "Barrio El Paraíso",
+            "tipo": "barrio_urbano",
+            "codigo_postal": "32500",
+            "codigo_barrio": null
+          }
+        ],
+        "comunidades": [
+          {
+            "nombre": "Sacaclí",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 13.10202,
+              "lon": -86.1274545
+            }
+          },
+          {
+            "nombre": "Las Cañas",
+            "tipo": "village",
+            "codigo_postal": "32500",
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9365023,
+              "lon": -86.2134003
+            }
+          },
+          {
+            "nombre": "San José del Guasimal",
+            "tipo": "village",
+            "codigo_postal": "32500",
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9552548,
+              "lon": -86.2241206
+            }
+          },
+          {
+            "nombre": "Oyanca",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9311495,
+              "lon": -86.2543871
+            }
+          },
+          {
+            "nombre": "Sabana Larga",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.936817,
+              "lon": -86.2823893
+            }
+          },
+          {
+            "nombre": "San Francisco",
+            "tipo": "village",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9280987,
+              "lon": -86.2274845
+            }
+          },
+          {
+            "nombre": "Las Pencas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9375489,
+              "lon": -86.2699224
+            }
+          },
+          {
+            "nombre": "Rosario Abajo",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": {
+              "lat": 12.9594804,
+              "lon": -86.2740262
+            }
+          },
+          {
+            "nombre": "El Bramadero",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Los Jícaros",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "La Montañita",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Coyolito",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Lajas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "San Pedro del Norte",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "El Guayabo",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Guasuyuca",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Las Labranzas",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          },
+          {
+            "nombre": "Los Limones",
+            "tipo": "hamlet",
+            "codigo_postal": null,
+            "codigo_comunidad": null,
+            "coordenadas": null
+          }
+        ],
+        "calles": [
+          {
+            "nombre": "Avenida Central",
+            "tipo": "avenida"
+          },
+          {
+            "nombre": "Calle Central",
+            "tipo": "calle"
+          },
+          {
+            "nombre": "Carretera Panamericana Sur",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera a San Nicolás",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "Carretera a El Sauce",
+            "tipo": "carretera"
+          },
+          {
+            "nombre": "NIC-2",
+            "tipo": "carretera_nacional"
+          }
+        ]
+      }
+    ]
+  }
+}
