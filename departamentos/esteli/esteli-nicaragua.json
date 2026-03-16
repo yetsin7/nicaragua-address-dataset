@@ -1,0 +1,3878 @@
+{
+  "departamento": "Estelí",
+  "total_registros": 484,
+  "lugares": [
+    {
+      "osm_id": "node/302261828",
+      "nombre": "Estelí",
+      "tipo_localidad": "city",
+      "latitud": 13.0929621,
+      "longitud": -86.3561571,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/302524590",
+      "nombre": "Condega",
+      "tipo_localidad": "town",
+      "latitud": 13.3613957,
+      "longitud": -86.3974189,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582915812",
+      "nombre": "Paula Ubeda",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0949139,
+      "longitud": -86.3527997,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582918928",
+      "nombre": "Barrio Elías Moncada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0980525,
+      "longitud": -86.3559042,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582929529",
+      "nombre": "Dios Proveera",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1074454,
+      "longitud": -86.3622365,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582937469",
+      "nombre": "Barrio Óscar Turcios",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.094427,
+      "longitud": -86.3452654,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582937477",
+      "nombre": "Jaime Ubeda",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0992583,
+      "longitud": -86.3528188,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582937528",
+      "nombre": "Omar Torrijos",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1029102,
+      "longitud": -86.3547642,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582937544",
+      "nombre": "Barrio José Santos Zelaya",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0994655,
+      "longitud": -86.3466166,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582937583",
+      "nombre": "Villas de la Riviera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.1075774,
+      "longitud": -86.35372,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582937603",
+      "nombre": "Ronaldo Arauz",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1057767,
+      "longitud": -86.3484824,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582937619",
+      "nombre": "Barrio Los Ángeles",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.1026487,
+      "longitud": -86.3471371,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582939976",
+      "nombre": "Óscar Gámez",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0915669,
+      "longitud": -86.3670083,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582939977",
+      "nombre": "Barrio La Comuna",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0950518,
+      "longitud": -86.3625242,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582939978",
+      "nombre": "Barrio 14 de Abril",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0990373,
+      "longitud": -86.3661131,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/582939984",
+      "nombre": "Aldeas Emaus",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1040451,
+      "longitud": -86.3628138,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/583542594",
+      "nombre": "Barrio Panamá Soberana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0915024,
+      "longitud": -86.3631884,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667309",
+      "nombre": "Barrio El Paraíso III Etapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0786973,
+      "longitud": -86.3659843,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667351",
+      "nombre": "Barrio Juan Alberto Blandón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.078419,
+      "longitud": -86.3538135,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667355",
+      "nombre": "Barrio Alfredo Lazo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0762725,
+      "longitud": -86.3556639,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667356",
+      "nombre": "Miguel Alonso",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0815526,
+      "longitud": -86.3627874,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667357",
+      "nombre": "Barrio El Calvario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0837437,
+      "longitud": -86.358462,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667358",
+      "nombre": "Héroes y Mártires",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0841384,
+      "longitud": -86.3541562,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667360",
+      "nombre": "Filemón Rivera",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0857221,
+      "longitud": -86.3612817,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667440",
+      "nombre": "Centenario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0816508,
+      "longitud": -86.3502378,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667444",
+      "nombre": "Santo Domingo",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0807529,
+      "longitud": -86.3458112,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667454",
+      "nombre": "Barrio Aristeo Benavídez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0876892,
+      "longitud": -86.3502641,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667456",
+      "nombre": "Juana Elena Mendoza",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0913479,
+      "longitud": -86.3501631,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667460",
+      "nombre": "Barrio José Benito Escobar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0852643,
+      "longitud": -86.3450013,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587667473",
+      "nombre": "Barrio Primero de Mayo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.090024,
+      "longitud": -86.3457565,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587668244",
+      "nombre": "Barrio Justo Flores",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.067155,
+      "longitud": -86.3518097,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587668245",
+      "nombre": "Boris Vega",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0789608,
+      "longitud": -86.3594323,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587668246",
+      "nombre": "Barrio Boanerges López",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0684107,
+      "longitud": -86.3471968,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/587668247",
+      "nombre": "Villa Esperanza",
+      "tipo_localidad": "suburb",
+      "latitud": 13.08901,
+      "longitud": -86.3418785,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/598149783",
+      "nombre": "La Quiatilla",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0654235,
+      "longitud": -86.3444074,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1335849560",
+      "nombre": "San Diego",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3765373,
+      "longitud": -86.3709239,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336002202",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "village",
+      "latitud": 13.3143755,
+      "longitud": -86.4391953,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336074079",
+      "nombre": "El Espino",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2748014,
+      "longitud": -86.4297865,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336074086",
+      "nombre": "El Qualiqueme",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2728767,
+      "longitud": -86.4154188,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336074087",
+      "nombre": "El Zorillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2851857,
+      "longitud": -86.437315,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336074089",
+      "nombre": "Francisco Luis Espinoza",
+      "tipo_localidad": "village",
+      "latitud": 13.3568568,
+      "longitud": -86.4100834,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336074099",
+      "nombre": "Laguna de Los Hernández",
+      "tipo_localidad": "village",
+      "latitud": 13.3044801,
+      "longitud": -86.4275563,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336101517",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3307724,
+      "longitud": -86.4217079,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336107111",
+      "nombre": "El Mojón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3720111,
+      "longitud": -86.4312408,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336149969",
+      "nombre": "Ducuale Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3848338,
+      "longitud": -86.4122451,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336151037",
+      "nombre": "Santa Elena",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.392667,
+      "longitud": -86.41263,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1336151038",
+      "nombre": "Santa Elisa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3827109,
+      "longitud": -86.4087617,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1744130078",
+      "nombre": "San Juan de Limay",
+      "tipo_localidad": "town",
+      "latitud": 13.1744418,
+      "longitud": -86.6120646,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1744222697",
+      "nombre": "La Sirena",
+      "tipo_localidad": "village",
+      "latitud": 13.1798466,
+      "longitud": -86.3697861,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/1828755252",
+      "nombre": "Sacaclí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.10202,
+      "longitud": -86.1274545,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2755460720",
+      "nombre": "El Pedernal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2311748,
+      "longitud": -86.5514712,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2755460721",
+      "nombre": "Isiquí",
+      "tipo_localidad": "village",
+      "latitud": 13.1167073,
+      "longitud": -86.2253647,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2755460724",
+      "nombre": "Los Encuentros",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1904802,
+      "longitud": -86.500412,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2755463083",
+      "nombre": "Valle Regadio",
+      "tipo_localidad": "village",
+      "latitud": 13.1893904,
+      "longitud": -86.4368099,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2780072611",
+      "nombre": "La Mojada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.143205,
+      "longitud": -86.7362071,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2780078489",
+      "nombre": "Valle La Palma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1324285,
+      "longitud": -86.7423026,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2821147918",
+      "nombre": "El Ocotillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0088365,
+      "longitud": -86.3351412,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2821147919",
+      "nombre": "El Pastoreo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0472409,
+      "longitud": -86.3793405,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2821147920",
+      "nombre": "La Estanzuela",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0222311,
+      "longitud": -86.3520519,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2821147921",
+      "nombre": "La Laguna",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9633798,
+      "longitud": -86.3413646,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2821147922",
+      "nombre": "La Tejera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9699709,
+      "longitud": -86.3620802,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2821147923",
+      "nombre": "Las Cámaras",
+      "tipo_localidad": "village",
+      "latitud": 12.9951003,
+      "longitud": -86.3126363,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2821147925",
+      "nombre": "Potrero Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9999234,
+      "longitud": -86.4021814,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2821147926",
+      "nombre": "San Nicolás",
+      "tipo_localidad": "town",
+      "latitud": 12.9327488,
+      "longitud": -86.3483899,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2821147927",
+      "nombre": "Valle Santa Cruz",
+      "tipo_localidad": "village",
+      "latitud": 13.0168872,
+      "longitud": -86.3119568,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2834410673",
+      "nombre": "Pueblo Nuevo",
+      "tipo_localidad": "town",
+      "latitud": 13.3802097,
+      "longitud": -86.481294,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2854401702",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "town",
+      "latitud": 12.9677562,
+      "longitud": -86.234622,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2861392983",
+      "nombre": "Agua Fría",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1242459,
+      "longitud": -86.6688424,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2861392986",
+      "nombre": "La Grecia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1807831,
+      "longitud": -86.5724036,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2861392987",
+      "nombre": "La Naranja",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1685539,
+      "longitud": -86.6587493,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2861392988",
+      "nombre": "Las Cañas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1384153,
+      "longitud": -86.6371469,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2861392989",
+      "nombre": "Los Colorados",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1469115,
+      "longitud": -86.6621596,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2861392990",
+      "nombre": "Morcillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1583596,
+      "longitud": -86.5923571,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2861393780",
+      "nombre": "Asunción del Guaylo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1185466,
+      "longitud": -86.6598851,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2861393781",
+      "nombre": "San Lorenzo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1379971,
+      "longitud": -86.6206879,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2863469701",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2885523,
+      "longitud": -86.3134435,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2863469702",
+      "nombre": "El Corralito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2971851,
+      "longitud": -86.3084692,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2863469703",
+      "nombre": "El Sontule",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2600591,
+      "longitud": -86.3146603,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2863469706",
+      "nombre": "La Labranza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2127693,
+      "longitud": -86.3137431,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/2883120292",
+      "nombre": "La Quinta",
+      "tipo_localidad": "village",
+      "latitud": 13.130568,
+      "longitud": -86.2698607,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3088026739",
+      "nombre": "Comunidad La Garnacha",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9704809,
+      "longitud": -86.3765956,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3726688887",
+      "nombre": "Cerro de Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2956485,
+      "longitud": -86.5700044,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3726688891",
+      "nombre": "Loma Atravesada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2322263,
+      "longitud": -86.529617,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3726688951",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2208052,
+      "longitud": -86.5747388,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3756201444",
+      "nombre": "Venecia",
+      "tipo_localidad": "village",
+      "latitud": 13.42478,
+      "longitud": -86.257546,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3758382187",
+      "nombre": "Darailí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3981992,
+      "longitud": -86.2697695,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3762097821",
+      "nombre": "Valle La Laguna",
+      "tipo_localidad": "village",
+      "latitud": 13.4174974,
+      "longitud": -86.2868744,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3762102353",
+      "nombre": "Jocote Abjao",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.3619715,
+      "longitud": -86.2516428,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3762109580",
+      "nombre": "El Bramadero",
+      "tipo_localidad": "village",
+      "latitud": 13.3810126,
+      "longitud": -86.261873,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3762113969",
+      "nombre": "Los Rodeos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3760431,
+      "longitud": -86.2764848,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3762116987",
+      "nombre": "Valle Santa Rosa",
+      "tipo_localidad": "village",
+      "latitud": 13.4020142,
+      "longitud": -86.299342,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3762129285",
+      "nombre": "El Tule",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3242795,
+      "longitud": -86.2449555,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3762129292",
+      "nombre": "Sabana Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3971039,
+      "longitud": -86.3217568,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3884121676",
+      "nombre": "Las Cañas",
+      "tipo_localidad": "village",
+      "latitud": 12.9365023,
+      "longitud": -86.2134003,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3884121677",
+      "nombre": "San José del Guasimal",
+      "tipo_localidad": "village",
+      "latitud": 12.9552548,
+      "longitud": -86.2241206,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3928052223",
+      "nombre": "Piedra Larga",
+      "tipo_localidad": "village",
+      "latitud": 13.2964342,
+      "longitud": -86.3600887,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3928052224",
+      "nombre": "San Pedro",
+      "tipo_localidad": "village",
+      "latitud": 13.3171651,
+      "longitud": -86.3605157,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/3928085199",
+      "nombre": "Las Cabullas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4065919,
+      "longitud": -86.294196,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4114854294",
+      "nombre": "La Puerta",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9145459,
+      "longitud": -86.3192133,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4114854296",
+      "nombre": "Rodeo Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8807373,
+      "longitud": -86.2952236,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4114854493",
+      "nombre": "Guigajapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9100334,
+      "longitud": -86.3129424,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4114854692",
+      "nombre": "Limay",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9018188,
+      "longitud": -86.3170568,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4114854791",
+      "nombre": "Jocomico",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8983389,
+      "longitud": -86.2906103,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4114854991",
+      "nombre": "El Espinito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8903122,
+      "longitud": -86.2883813,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4114855190",
+      "nombre": "Los Robles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9235757,
+      "longitud": -86.33543,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4115514193",
+      "nombre": "Oyanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9311495,
+      "longitud": -86.2543871,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4115514194",
+      "nombre": "Sabana Larga",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.936817,
+      "longitud": -86.2823893,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4115514195",
+      "nombre": "San Francisco",
+      "tipo_localidad": "village",
+      "latitud": 12.9280987,
+      "longitud": -86.2274845,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4115547293",
+      "nombre": "Las Pencas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9375489,
+      "longitud": -86.2699224,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4115547294",
+      "nombre": "Rosario Abajo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9594804,
+      "longitud": -86.2740262,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4115547393",
+      "nombre": "La Mesa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9429366,
+      "longitud": -86.2468555,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/4115547490",
+      "nombre": "El Horno",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9091919,
+      "longitud": -86.2808015,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/5016754525",
+      "nombre": "Igor Ubeda",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0894443,
+      "longitud": -86.3585409,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/5016754528",
+      "nombre": "René Barrantes",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0947542,
+      "longitud": -86.355457,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/5016789424",
+      "nombre": "Barrio Juno Rodríguez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0872927,
+      "longitud": -86.3538656,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/5016789425",
+      "nombre": "Barrio Hermanos Carcamo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0910387,
+      "longitud": -86.3542439,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/5016791222",
+      "nombre": "Barrio Milenia Hernández",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0913092,
+      "longitud": -86.358614,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/5016791223",
+      "nombre": "Barrio Óscar Benavides",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.086711,
+      "longitud": -86.3584386,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6264811115",
+      "nombre": "Barrio Augusto César Sandino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.101716,
+      "longitud": -86.3504362,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6264811128",
+      "nombre": "Michiguiste",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0900122,
+      "longitud": -86.3481939,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6264811130",
+      "nombre": "Camilo II",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0949864,
+      "longitud": -86.3493848,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6287210065",
+      "nombre": "Linda Vista",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0829792,
+      "longitud": -86.3659394,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6287210067",
+      "nombre": "William Fonseca",
+      "tipo_localidad": "suburb",
+      "latitud": 13.086804,
+      "longitud": -86.3632786,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6287210073",
+      "nombre": "Orlando Ochoa",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0937219,
+      "longitud": -86.3580322,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6298140764",
+      "nombre": "Barrio Carlos Núñez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.1001276,
+      "longitud": -86.3597596,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6298140765",
+      "nombre": "Barrio El Rosario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.1015279,
+      "longitud": -86.3643086,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6298140767",
+      "nombre": "Virginia Quintero",
+      "tipo_localidad": "suburb",
+      "latitud": 13.081328,
+      "longitud": -86.3660681,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6321691906",
+      "nombre": "Barrio La Unión",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0907855,
+      "longitud": -86.373117,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6321691907",
+      "nombre": "Leonel Rugama",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0915692,
+      "longitud": -86.3710034,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6321691911",
+      "nombre": "Barrio Óscar Gámez Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0945266,
+      "longitud": -86.3683319,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6321691912",
+      "nombre": "Óscar Arnulfo Romero",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1031684,
+      "longitud": -86.3651776,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6321691913",
+      "nombre": "16 de Julio",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1053315,
+      "longitud": -86.3602853,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6321691914",
+      "nombre": "Estelí Heróico",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1018831,
+      "longitud": -86.3619161,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6321691915",
+      "nombre": "Arlen Siu",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1026146,
+      "longitud": -86.3594806,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6325971860",
+      "nombre": "29 de Octubre",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0893016,
+      "longitud": -86.36639,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6325971864",
+      "nombre": "Barrio Ex Combatientes del 18 de Mayo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0980899,
+      "longitud": -86.3768506,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6325971865",
+      "nombre": "Oasis de Bendición",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1003575,
+      "longitud": -86.3743508,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6325971873",
+      "nombre": "María Elena Cuadra",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0969509,
+      "longitud": -86.3729882,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6325971874",
+      "nombre": "Nuevo Amanecer",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0947773,
+      "longitud": -86.3775802,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6325971878",
+      "nombre": "Barrio Belén",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0997828,
+      "longitud": -86.3719797,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6325971881",
+      "nombre": "Noel Gámez",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1005769,
+      "longitud": -86.3705421,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6325972113",
+      "nombre": "Ciudad Dinamarca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.1082573,
+      "longitud": -86.3675595,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6325972135",
+      "nombre": "El Jazmín",
+      "tipo_localidad": "suburb",
+      "latitud": 13.1041611,
+      "longitud": -86.3668084,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6762909557",
+      "nombre": "Los Borditos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9390151,
+      "longitud": -86.4152384,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6813406218",
+      "nombre": "Los Baldivias",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9145564,
+      "longitud": -86.4051533,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/6838346297",
+      "nombre": "El Guayacan",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0177917,
+      "longitud": -86.4410949,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/7018117396",
+      "nombre": "Los torres",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9184883,
+      "longitud": -86.4183283,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/7018117399",
+      "nombre": "Ocotillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8987651,
+      "longitud": -86.4298725,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/7918488830",
+      "nombre": "El Castillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3462429,
+      "longitud": -86.3941715,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/7918503059",
+      "nombre": "El Culse",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3497314,
+      "longitud": -86.4148343,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/8200394679",
+      "nombre": "Hondura Azul",
+      "tipo_localidad": "village",
+      "latitud": 13.2782237,
+      "longitud": -86.4199591,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/8715035211",
+      "nombre": "El Mojón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0682379,
+      "longitud": -86.1164146,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/8832443595",
+      "nombre": "Las Horquetas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1055421,
+      "longitud": -86.1396594,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9371110190",
+      "nombre": "La Otra Banda",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0467556,
+      "longitud": -86.1325657,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9371110191",
+      "nombre": "La Cebadilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0540039,
+      "longitud": -86.138472,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9371110192",
+      "nombre": "Los Zarzales",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0450624,
+      "longitud": -86.1449415,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9371110193",
+      "nombre": "Las Lajas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0285739,
+      "longitud": -86.1541522,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9371110194",
+      "nombre": "Casa Quemada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0341294,
+      "longitud": -86.161893,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9371110195",
+      "nombre": "El Hato de Licoroy",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0438291,
+      "longitud": -86.1683571,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9371110204",
+      "nombre": "La Nueva",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0726645,
+      "longitud": -86.1695266,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9371110205",
+      "nombre": "La Guayaba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0992771,
+      "longitud": -86.1781516,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9371110207",
+      "nombre": "Llano Largo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0946116,
+      "longitud": -86.1638673,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9371110413",
+      "nombre": "Los Carbonales",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.089009,
+      "longitud": -86.1437559,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9585602946",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3407999,
+      "longitud": -86.2411631,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9585602947",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3471887,
+      "longitud": -86.2370968,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9585602948",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3818125,
+      "longitud": -86.2283957,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9585602949",
+      "nombre": "La Baronesa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3907625,
+      "longitud": -86.2219691,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597962820",
+      "nombre": "Los Cerritos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3382788,
+      "longitud": -86.4396358,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971924",
+      "nombre": "Palo Verde",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4237364,
+      "longitud": -86.4855338,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971926",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.376865,
+      "longitud": -86.4022243,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971928",
+      "nombre": "Buenavista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.379203,
+      "longitud": -86.4148843,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971931",
+      "nombre": "La Reforma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3812488,
+      "longitud": -86.4355159,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971932",
+      "nombre": "Río Abajo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3728987,
+      "longitud": -86.4477736,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971934",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3715991,
+      "longitud": -86.4560724,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971936",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3686817,
+      "longitud": -86.4656425,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971938",
+      "nombre": "Mateare",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3672464,
+      "longitud": -86.4407409,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971940",
+      "nombre": "El Cuje",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3505761,
+      "longitud": -86.4574188,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971943",
+      "nombre": "Los Potrerillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3383414,
+      "longitud": -86.4679653,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971945",
+      "nombre": "El Guásimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3417864,
+      "longitud": -86.5006668,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971948",
+      "nombre": "Cañas Viejas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.354989,
+      "longitud": -86.4753306,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971949",
+      "nombre": "La Pelea",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3579928,
+      "longitud": -86.4896965,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971951",
+      "nombre": "El Chilamate",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3665314,
+      "longitud": -86.4945191,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971952",
+      "nombre": "Río Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3721497,
+      "longitud": -86.4925745,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971953",
+      "nombre": "Cofradía",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3965602,
+      "longitud": -86.4937359,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971954",
+      "nombre": "Quebrada Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3938518,
+      "longitud": -86.4854586,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971956",
+      "nombre": "El Cacao",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3851524,
+      "longitud": -86.4590603,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971959",
+      "nombre": "Las Brisas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.403866,
+      "longitud": -86.4736783,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971960",
+      "nombre": "Los Rincones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4041947,
+      "longitud": -86.4591247,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971964",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3986059,
+      "longitud": -86.4071381,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971982",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3818959,
+      "longitud": -86.3324761,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971983",
+      "nombre": "Soledad",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3830649,
+      "longitud": -86.3189471,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971984",
+      "nombre": "San José de Gualiqueme",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3775122,
+      "longitud": -86.3067484,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971988",
+      "nombre": "El Espinaloso",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3976979,
+      "longitud": -86.2788105,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971989",
+      "nombre": "Los Alpes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.3849646,
+      "longitud": -86.2617356,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971990",
+      "nombre": "Portillo El Muerto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3718079,
+      "longitud": -86.2882894,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971992",
+      "nombre": "Jocote Arriba",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.3581077,
+      "longitud": -86.2626314,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971996",
+      "nombre": "Mesa El Bonete",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3374384,
+      "longitud": -86.3001126,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971997",
+      "nombre": "El Elequeme",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3559938,
+      "longitud": -86.3019311,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971998",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3625335,
+      "longitud": -86.3043451,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597971999",
+      "nombre": "El Jícarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3609991,
+      "longitud": -86.3379854,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972000",
+      "nombre": "Portillo El Jícarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3536086,
+      "longitud": -86.3279271,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972003",
+      "nombre": "Soledad",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3432139,
+      "longitud": -86.3680369,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972004",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3334623,
+      "longitud": -86.3711148,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972006",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3382527,
+      "longitud": -86.3846183,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972007",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3464266,
+      "longitud": -86.3952613,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972008",
+      "nombre": "El Castillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3423031,
+      "longitud": -86.3907552,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972011",
+      "nombre": "El Bracito",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.372001,
+      "longitud": -86.3925255,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972012",
+      "nombre": "El Paso Real",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3717713,
+      "longitud": -86.3838887,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972013",
+      "nombre": "Tierras Azules",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.388148,
+      "longitud": -86.34902,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972017",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4126847,
+      "longitud": -86.3237214,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9597972018",
+      "nombre": "El Hato",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4098121,
+      "longitud": -86.3142908,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9598345199",
+      "nombre": "Plaisí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3684312,
+      "longitud": -86.3514662,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9600842303",
+      "nombre": "Loma Palo Solo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3494957,
+      "longitud": -86.3045598,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9600842304",
+      "nombre": "El Arenal",
+      "tipo_localidad": "village",
+      "latitud": 13.3231542,
+      "longitud": -86.3592125,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9600842305",
+      "nombre": "Valle Santa Lucía",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3446259,
+      "longitud": -86.4300147,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9600842306",
+      "nombre": "El Porterillo",
+      "tipo_localidad": "village",
+      "latitud": 13.3257355,
+      "longitud": -86.468652,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9600842309",
+      "nombre": "La Varonesa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3871668,
+      "longitud": -86.2394679,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622527405",
+      "nombre": "Santa Teresa de Guasuyusa",
+      "tipo_localidad": "village",
+      "latitud": 13.4145737,
+      "longitud": -86.5418065,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622527414",
+      "nombre": "Rincón de Motalín",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3972595,
+      "longitud": -86.5595627,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622527415",
+      "nombre": "Los Capules",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4006514,
+      "longitud": -86.5557325,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622527416",
+      "nombre": "Los Mojones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4001818,
+      "longitud": -86.5379227,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544717",
+      "nombre": "La Laguneta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3935753,
+      "longitud": -86.5146733,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544718",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "village",
+      "latitud": 13.3915583,
+      "longitud": -86.5370536,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544719",
+      "nombre": "Matapalo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3861336,
+      "longitud": -86.5276015,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544720",
+      "nombre": "Chilincocal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3778409,
+      "longitud": -86.5221298,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544721",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3723976,
+      "longitud": -86.5153063,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544723",
+      "nombre": "La Lanilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3722724,
+      "longitud": -86.5018308,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544724",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3708684,
+      "longitud": -86.5080804,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544725",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3612757,
+      "longitud": -86.5187609,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544726",
+      "nombre": "Paso Hondo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3562339,
+      "longitud": -86.5230095,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544727",
+      "nombre": "Agua Escondida",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3572934,
+      "longitud": -86.4995134,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544728",
+      "nombre": "La Calera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3539531,
+      "longitud": -86.5199626,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544732",
+      "nombre": "Casa Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3366972,
+      "longitud": -86.524694,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544736",
+      "nombre": "El Rosario",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3580658,
+      "longitud": -86.5421766,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544737",
+      "nombre": "Sabana Grande",
+      "tipo_localidad": "village",
+      "latitud": 13.3618342,
+      "longitud": -86.5423644,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544740",
+      "nombre": "El Horno",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3742138,
+      "longitud": -86.5599704,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544741",
+      "nombre": "El Chorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3492556,
+      "longitud": -86.574921,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544743",
+      "nombre": "La Grecia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3396046,
+      "longitud": -86.5616172,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544744",
+      "nombre": "Macuelizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3371827,
+      "longitud": -86.5698463,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544938",
+      "nombre": "Los Hatillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4255418,
+      "longitud": -86.5087724,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544939",
+      "nombre": "Valle Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4250409,
+      "longitud": -86.5168619,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9622544942",
+      "nombre": "Disparate",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4254844,
+      "longitud": -86.54414,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736088",
+      "nombre": "El Consuelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2830949,
+      "longitud": -86.4921212,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736089",
+      "nombre": "Las Mesas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2952488,
+      "longitud": -86.483506,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736091",
+      "nombre": "El Terrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1992171,
+      "longitud": -86.6116083,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736092",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1920775,
+      "longitud": -86.6154063,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736093",
+      "nombre": "El Calero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1820234,
+      "longitud": -86.6203657,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736094",
+      "nombre": "Las Brisas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1830418,
+      "longitud": -86.5559578,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736095",
+      "nombre": "Cooperativa San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2513549,
+      "longitud": -86.4712644,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736099",
+      "nombre": "El Pacayral",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1677065,
+      "longitud": -86.7238587,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736108",
+      "nombre": "La Guaruma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2589314,
+      "longitud": -86.590215,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736110",
+      "nombre": "El Orejón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2428436,
+      "longitud": -86.597237,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633736114",
+      "nombre": "San Juan de Tranquera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2445697,
+      "longitud": -86.5723477,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742419",
+      "nombre": "Soleras",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1868755,
+      "longitud": -86.5733224,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742422",
+      "nombre": "La Ceibita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2294376,
+      "longitud": -86.5716246,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742425",
+      "nombre": "La Reforma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2155061,
+      "longitud": -86.5783167,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742426",
+      "nombre": "La Ilusión",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2089415,
+      "longitud": -86.5830481,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742428",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2030035,
+      "longitud": -86.5858805,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742429",
+      "nombre": "El Diamante",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1988672,
+      "longitud": -86.6029179,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742431",
+      "nombre": "El Socorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.187074,
+      "longitud": -86.6018129,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742432",
+      "nombre": "Santa Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1920253,
+      "longitud": -86.593541,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742433",
+      "nombre": "Jocote Renco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1755963,
+      "longitud": -86.5860522,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742447",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2021783,
+      "longitud": -86.5431261,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742455",
+      "nombre": "La Ceibita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1678214,
+      "longitud": -86.5416777,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742456",
+      "nombre": "La Naranjita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1558492,
+      "longitud": -86.4332951,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742464",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2072965,
+      "longitud": -86.5008331,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742465",
+      "nombre": "Paso Redondo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.217475,
+      "longitud": -86.5112132,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742478",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2538143,
+      "longitud": -86.5153224,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742480",
+      "nombre": "Comayagua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2575425,
+      "longitud": -86.5252143,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742482",
+      "nombre": "Santa Pancha",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2598503,
+      "longitud": -86.5005219,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742483",
+      "nombre": "La Fraternidad",
+      "tipo_localidad": "village",
+      "latitud": 13.2641893,
+      "longitud": -86.5069967,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742486",
+      "nombre": "Rincón Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2912289,
+      "longitud": -86.5034831,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742488",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2723709,
+      "longitud": -86.5166044,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742490",
+      "nombre": "La Máquina",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2770099,
+      "longitud": -86.5298948,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742491",
+      "nombre": "Las Canarias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2786884,
+      "longitud": -86.5638543,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742500",
+      "nombre": "El Mango",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3066922,
+      "longitud": -86.506176,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742501",
+      "nombre": "Chagüite Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3116202,
+      "longitud": -86.5057469,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742502",
+      "nombre": "El Cacao",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3160052,
+      "longitud": -86.504674,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742503",
+      "nombre": "El Chumpe",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3282202,
+      "longitud": -86.5015412,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742505",
+      "nombre": "El Guapinol",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.328241,
+      "longitud": -86.5188253,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742551",
+      "nombre": "El Caracol",
+      "tipo_localidad": "village",
+      "latitud": 13.3285021,
+      "longitud": -86.5476859,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742552",
+      "nombre": "Los Horcones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3214289,
+      "longitud": -86.553281,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742571",
+      "nombre": "Los Llanos II",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3066504,
+      "longitud": -86.5454972,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742572",
+      "nombre": "Los Lirios",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.3103047,
+      "longitud": -86.5719438,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742573",
+      "nombre": "Los Llanos",
+      "tipo_localidad": "village",
+      "latitud": 13.3076528,
+      "longitud": -86.568296,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742628",
+      "nombre": "Chagüitón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3235222,
+      "longitud": -86.5762675,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742635",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3131811,
+      "longitud": -86.585784,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742643",
+      "nombre": "Las Chácaras",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1854653,
+      "longitud": -86.7309773,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742653",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1906993,
+      "longitud": -86.712927,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742656",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1707412,
+      "longitud": -86.7122931,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742657",
+      "nombre": "La Estancia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1713315,
+      "longitud": -86.7015803,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742658",
+      "nombre": "San Antonio de Palmar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1883693,
+      "longitud": -86.689725,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742662",
+      "nombre": "Quebrada de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1865883,
+      "longitud": -86.6626347,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9633742663",
+      "nombre": "Jocomiquito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2001311,
+      "longitud": -86.6591692,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9639913255",
+      "nombre": "El Guanacaste Norte",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.210994,
+      "longitud": -86.617198,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/9642097117",
+      "nombre": "La Pacaya",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9451737,
+      "longitud": -86.3047447,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10017090036",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8928033,
+      "longitud": -86.3747489,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10017090037",
+      "nombre": "Santa Clara",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8818525,
+      "longitud": -86.3544128,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025654607",
+      "nombre": "El Zurzular",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2523105,
+      "longitud": -86.2908375,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025654611",
+      "nombre": "La Florida",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2161955,
+      "longitud": -86.4019453,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025654612",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.234802,
+      "longitud": -86.3785619,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025880486",
+      "nombre": "La Naranja",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2406809,
+      "longitud": -86.3300623,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025880487",
+      "nombre": "San José del Rodeo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2251934,
+      "longitud": -86.2953812,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025880488",
+      "nombre": "Los Achiotes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2330483,
+      "longitud": -86.3008918,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025880489",
+      "nombre": "El Terrero",
+      "tipo_localidad": "village",
+      "latitud": 13.2408364,
+      "longitud": -86.2941064,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025880490",
+      "nombre": "El Chapernal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2691964,
+      "longitud": -86.2565374,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025945930",
+      "nombre": "Rincón Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2924453,
+      "longitud": -86.4593983,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025945937",
+      "nombre": "La Tuna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2954916,
+      "longitud": -86.4632875,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025945938",
+      "nombre": "El Tule",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2998142,
+      "longitud": -86.4675146,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025946006",
+      "nombre": "Tierra Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3240886,
+      "longitud": -86.4826128,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025946007",
+      "nombre": "La Palagua",
+      "tipo_localidad": "village",
+      "latitud": 13.3123719,
+      "longitud": -86.4924377,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025946008",
+      "nombre": "Las Casitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3196045,
+      "longitud": -86.4750436,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10025946009",
+      "nombre": "Casa Vieja",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3206198,
+      "longitud": -86.4647117,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10026208796",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2920538,
+      "longitud": -86.4364278,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10026208808",
+      "nombre": "Los Tincos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2963974,
+      "longitud": -86.4327479,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10026208809",
+      "nombre": "Chagüite Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3121005,
+      "longitud": -86.4243364,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10026259027",
+      "nombre": "El Níspero",
+      "tipo_localidad": "village",
+      "latitud": 13.3015736,
+      "longitud": -86.4460945,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10026259028",
+      "nombre": "El Aglgodonal",
+      "tipo_localidad": "village",
+      "latitud": 13.3087307,
+      "longitud": -86.4547151,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10026259029",
+      "nombre": "Laguna Los Patillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3098767,
+      "longitud": -86.463899,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029917982",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1804303,
+      "longitud": -86.4972174,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029952454",
+      "nombre": "El Cerro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1966109,
+      "longitud": -86.4378762,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029952455",
+      "nombre": "Valle Arriba",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.1949422,
+      "longitud": -86.4407938,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029952459",
+      "nombre": "El Pino I",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2142005,
+      "longitud": -86.428408,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029952460",
+      "nombre": "El Pino II",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2222115,
+      "longitud": -86.440537,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029952875",
+      "nombre": "Las Travesías",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2644033,
+      "longitud": -86.2877798,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029952876",
+      "nombre": "Las Cruces",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2718592,
+      "longitud": -86.2748945,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029952882",
+      "nombre": "Potrero Chiquito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2974833,
+      "longitud": -86.267674,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029952939",
+      "nombre": "Yucusama",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2765269,
+      "longitud": -86.3522333,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029952971",
+      "nombre": "La Libertad",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2775711,
+      "longitud": -86.393255,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029953086",
+      "nombre": "Jesús María",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3189703,
+      "longitud": -86.4531541,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029953088",
+      "nombre": "La Labranza No. 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2830009,
+      "longitud": -86.4480364,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029953090",
+      "nombre": "Los Montalván",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2744071,
+      "longitud": -86.451534,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029953091",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2694679,
+      "longitud": -86.4499569,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029953092",
+      "nombre": "Potrero Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2688101,
+      "longitud": -86.4534545,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029953093",
+      "nombre": "Los Talavera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2788581,
+      "longitud": -86.4563432,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029953094",
+      "nombre": "La Narjanjita",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.285366,
+      "longitud": -86.4533687,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029953095",
+      "nombre": "La Montañuela",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2908791,
+      "longitud": -86.4705402,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029953130",
+      "nombre": "El Peñasco",
+      "tipo_localidad": "village",
+      "latitud": 13.2836901,
+      "longitud": -86.4698911,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10029953131",
+      "nombre": "San José de Pire",
+      "tipo_localidad": "village",
+      "latitud": 13.2859011,
+      "longitud": -86.450382,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778957",
+      "nombre": "Los Apanates",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2498563,
+      "longitud": -86.2772399,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778958",
+      "nombre": "La Perla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2606756,
+      "longitud": -86.2714532,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778965",
+      "nombre": "Valle La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2311892,
+      "longitud": -86.2821826,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778967",
+      "nombre": "Las Alforjas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2208172,
+      "longitud": -86.2897539,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778968",
+      "nombre": "Las Naranjas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2178718,
+      "longitud": -86.279878,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778980",
+      "nombre": "El Robledal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2081425,
+      "longitud": -86.2924898,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778982",
+      "nombre": "El Carrizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2179189,
+      "longitud": -86.3259208,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778983",
+      "nombre": "El Coyolito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2087796,
+      "longitud": -86.3286004,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778985",
+      "nombre": "Las Palmas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1936601,
+      "longitud": -86.3249392,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778988",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1928684,
+      "longitud": -86.3735052,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031778990",
+      "nombre": "El Tular",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1842252,
+      "longitud": -86.3694424,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10031779010",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1719534,
+      "longitud": -86.4342669,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10032442033",
+      "nombre": "Mesas Plan Helagdo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2414543,
+      "longitud": -86.2559646,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10032442038",
+      "nombre": "El Pino III",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2288959,
+      "longitud": -86.4466846,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10032442056",
+      "nombre": "Las Chilcas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2685595,
+      "longitud": -86.4788282,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10032442057",
+      "nombre": "Quema Venado",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2865145,
+      "longitud": -86.4251465,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10032442059",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3066387,
+      "longitud": -86.3481697,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10032442081",
+      "nombre": "Mata Palo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3206668,
+      "longitud": -86.3202292,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10032442082",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3271907,
+      "longitud": -86.2793082,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10032489356",
+      "nombre": "Valle Guayucalí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3140268,
+      "longitud": -86.2671966,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10042834231",
+      "nombre": "La Virgen",
+      "tipo_localidad": "village",
+      "latitud": 13.1588579,
+      "longitud": -86.370703,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10042834270",
+      "nombre": "El Jocote",
+      "tipo_localidad": "village",
+      "latitud": 13.1672677,
+      "longitud": -86.3693109,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372011",
+      "nombre": "Paso Mariano",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0185757,
+      "longitud": -86.1385203,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372012",
+      "nombre": "El Macuelizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0975927,
+      "longitud": -86.1534044,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372024",
+      "nombre": "Las Lomas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0090842,
+      "longitud": -86.2329662,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372077",
+      "nombre": "Las Ánimas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0005108,
+      "longitud": -86.2231812,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372079",
+      "nombre": "El Coyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0210217,
+      "longitud": -86.2092662,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372080",
+      "nombre": "La Laguna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0134171,
+      "longitud": -86.2139279,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372083",
+      "nombre": "Las Tablas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0313463,
+      "longitud": -86.2409426,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372084",
+      "nombre": "San Lorenzo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0262168,
+      "longitud": -86.1932159,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372129",
+      "nombre": "Llanos de Colón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1110515,
+      "longitud": -86.1877517,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372132",
+      "nombre": "Los Encuentros",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1181818,
+      "longitud": -86.2010134,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10045372136",
+      "nombre": "El Carrizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.126825,
+      "longitud": -86.2276018,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10067316858",
+      "nombre": "Barrio El Olimpo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.9670628,
+      "longitud": -86.2401196,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10067316859",
+      "nombre": "Mechapa",
+      "tipo_localidad": "village",
+      "latitud": 12.995523,
+      "longitud": -86.2479517,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10067316878",
+      "nombre": "El Granero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9839109,
+      "longitud": -86.2320274,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10067316880",
+      "nombre": "Mechapa Arriba",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.9950627,
+      "longitud": -86.2537361,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10067316884",
+      "nombre": "Mechapa Abajo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.9949235,
+      "longitud": -86.242856,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10075065333",
+      "nombre": "El Sesteo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9575327,
+      "longitud": -86.34924,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10075065335",
+      "nombre": "La Guayaba",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9560062,
+      "longitud": -86.341703,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10075065393",
+      "nombre": "El Jalacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9868408,
+      "longitud": -86.366382,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10075065394",
+      "nombre": "Almaciguera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9990539,
+      "longitud": -86.3675165,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10075065395",
+      "nombre": "San Marcos de Apaguaji",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9695931,
+      "longitud": -86.4101556,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10075065396",
+      "nombre": "Chagüite Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9363173,
+      "longitud": -86.3797474,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10592570799",
+      "nombre": "Rodeo Escondido",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1422464,
+      "longitud": -86.7269218,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10592570802",
+      "nombre": "Las Mesitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1537074,
+      "longitud": -86.732018,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10593148383",
+      "nombre": "Valle El Guanacastón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1516075,
+      "longitud": -86.7154849,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10593148386",
+      "nombre": "Los Chapetones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1633711,
+      "longitud": -86.7018888,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10593148388",
+      "nombre": "El Cerro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1632091,
+      "longitud": -86.725452,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10593202848",
+      "nombre": "Sabana Larga",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.161104,
+      "longitud": -86.5353477,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10593202849",
+      "nombre": "Valle El Regén",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.154935,
+      "longitud": -86.5296132,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10593202854",
+      "nombre": "Valle La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1274623,
+      "longitud": -86.5737033,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10593203055",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1320178,
+      "longitud": -86.5972531,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10593203164",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1207648,
+      "longitud": -86.6833467,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10593203165",
+      "nombre": "El Corredor",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1242625,
+      "longitud": -86.6991985,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10605725868",
+      "nombre": "San Lorenzo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1515344,
+      "longitud": -86.6167849,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10605725869",
+      "nombre": "Las Lajas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1609943,
+      "longitud": -86.6135877,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10856647829",
+      "nombre": "Mesa El Gato",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9565499,
+      "longitud": -86.3684606,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008226",
+      "nombre": "Hermanos Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1870113,
+      "longitud": -86.4116335,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008229",
+      "nombre": "El Espinal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1487844,
+      "longitud": -86.270483,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008231",
+      "nombre": "Pueblo Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.100253,
+      "longitud": -86.2703777,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008233",
+      "nombre": "Buena Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.114903,
+      "longitud": -86.2952364,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008234",
+      "nombre": "Isidrillo",
+      "tipo_localidad": "village",
+      "latitud": 13.1278517,
+      "longitud": -86.3273681,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008235",
+      "nombre": "San Pedro",
+      "tipo_localidad": "village",
+      "latitud": 13.1152977,
+      "longitud": -86.3293911,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008236",
+      "nombre": "Mal Paso",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.092353,
+      "longitud": -86.320653,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008238",
+      "nombre": "Los Rastrojos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.04917,
+      "longitud": -86.4242721,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008240",
+      "nombre": "La Calabaza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.059538,
+      "longitud": -86.3357592,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008242",
+      "nombre": "Corre Viento",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0463219,
+      "longitud": -86.3179118,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008251",
+      "nombre": "El Pedernal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.034929,
+      "longitud": -86.3116729,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008253",
+      "nombre": "Llano Redondo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0411482,
+      "longitud": -86.3091141,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008259",
+      "nombre": "La Montaña",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.049776,
+      "longitud": -86.2946093,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008260",
+      "nombre": "Las Sozas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0672823,
+      "longitud": -86.2949467,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008261",
+      "nombre": "La Presa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0683535,
+      "longitud": -86.2695784,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008262",
+      "nombre": "Los Chilamates",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0516314,
+      "longitud": -86.2774694,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008263",
+      "nombre": "El Espinal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0450543,
+      "longitud": -86.2784681,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008294",
+      "nombre": "Tomabú",
+      "tipo_localidad": "village",
+      "latitud": 13.022506,
+      "longitud": -86.2743044,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008295",
+      "nombre": "Zompopera",
+      "tipo_localidad": "village",
+      "latitud": 13.0390106,
+      "longitud": -86.2673933,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008296",
+      "nombre": "Las Cuevas",
+      "tipo_localidad": "village",
+      "latitud": 13.0216698,
+      "longitud": -86.2864817,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008298",
+      "nombre": "Los Guásimos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0181724,
+      "longitud": -86.259464,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008299",
+      "nombre": "El Cebollal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2328907,
+      "longitud": -86.2615103,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008300",
+      "nombre": "Teodoso Previa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.232379,
+      "longitud": -86.267395,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008301",
+      "nombre": "La Labranza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2019851,
+      "longitud": -86.2980366,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008303",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1753952,
+      "longitud": -86.3268328,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857008304",
+      "nombre": "Los Cerritos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1415047,
+      "longitud": -86.332841,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018706",
+      "nombre": "Saca de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1628483,
+      "longitud": -86.330551,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018707",
+      "nombre": "El Caulote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1595736,
+      "longitud": -86.4969975,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018710",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "village",
+      "latitud": 13.1616313,
+      "longitud": -86.489773,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018714",
+      "nombre": "Los Roblesitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1357791,
+      "longitud": -86.4879155,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018715",
+      "nombre": "Rodeo Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1337574,
+      "longitud": -86.443128,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018717",
+      "nombre": "El Rodeito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1131684,
+      "longitud": -86.4465237,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018718",
+      "nombre": "Los Araditos",
+      "tipo_localidad": "village",
+      "latitud": 13.1108704,
+      "longitud": -86.4059087,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018719",
+      "nombre": "La Montañita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1068403,
+      "longitud": -86.399801,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018720",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1035865,
+      "longitud": -86.3945077,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018721",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1000353,
+      "longitud": -86.4078607,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018722",
+      "nombre": "Plan Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0853484,
+      "longitud": -86.4176401,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018723",
+      "nombre": "Los Lirios",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0766671,
+      "longitud": -86.4103031,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018724",
+      "nombre": "San Roque",
+      "tipo_localidad": "village",
+      "latitud": 13.0731069,
+      "longitud": -86.4174005,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018727",
+      "nombre": "Paso Ancho",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0672509,
+      "longitud": -86.3704133,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018728",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.057761,
+      "longitud": -86.3612427,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018743",
+      "nombre": "La Tunosa",
+      "tipo_localidad": "village",
+      "latitud": 13.0607085,
+      "longitud": -86.3875258,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018744",
+      "nombre": "Los Jobos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0476031,
+      "longitud": -86.3527101,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018745",
+      "nombre": "La Rinconada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0382581,
+      "longitud": -86.3817752,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018756",
+      "nombre": "Los Plancitos",
+      "tipo_localidad": "village",
+      "latitud": 12.990999,
+      "longitud": -86.3354695,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018757",
+      "nombre": "La Cebadilla",
+      "tipo_localidad": "village",
+      "latitud": 13.0002743,
+      "longitud": -86.3168308,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018758",
+      "nombre": "Santa Cruz",
+      "tipo_localidad": "village",
+      "latitud": 12.9956978,
+      "longitud": -86.2971682,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018759",
+      "nombre": "Tres Esquinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0064081,
+      "longitud": -86.3211573,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018760",
+      "nombre": "Naranjo",
+      "tipo_localidad": "village",
+      "latitud": 13.0298831,
+      "longitud": -86.3170508,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018761",
+      "nombre": "Sabana Larga II",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0277011,
+      "longitud": -86.3316393,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018762",
+      "nombre": "El Quebracho",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0428724,
+      "longitud": -86.33779,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018763",
+      "nombre": "Sabana Larga",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0133073,
+      "longitud": -86.3386667,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/10857018764",
+      "nombre": "El Despoblado",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.004725,
+      "longitud": -86.3442939,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449583215",
+      "nombre": "Santa Juana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0569404,
+      "longitud": -86.3752578,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449644090",
+      "nombre": "El Jícaro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1795888,
+      "longitud": -86.4258221,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449830665",
+      "nombre": "La Thompson",
+      "tipo_localidad": "village",
+      "latitud": 13.1232529,
+      "longitud": -86.3631198,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449874066",
+      "nombre": "Liliam",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1166968,
+      "longitud": -86.3597539,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449874067",
+      "nombre": "Villa Vieja",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1016172,
+      "longitud": -86.3373305,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449874203",
+      "nombre": "Las Limas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1339838,
+      "longitud": -86.3448849,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449874225",
+      "nombre": "Santa Marta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1538558,
+      "longitud": -86.3365982,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449874420",
+      "nombre": "Sabana Redorida",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1774969,
+      "longitud": -86.2650036,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449874536",
+      "nombre": "Puertas Azules",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2534234,
+      "longitud": -86.2505914,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449874581",
+      "nombre": "Betania",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.190397,
+      "longitud": -86.372594,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449874583",
+      "nombre": "El Portillo del Jícaro",
+      "tipo_localidad": "village",
+      "latitud": 13.161082,
+      "longitud": -86.3757303,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11449874635",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "village",
+      "latitud": 13.1616621,
+      "longitud": -86.3791481,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450076840",
+      "nombre": "San José",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0805264,
+      "longitud": -86.3776122,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450076841",
+      "nombre": "La Joya",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0830406,
+      "longitud": -86.3717513,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450656949",
+      "nombre": "El Japón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9953349,
+      "longitud": -86.2811973,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450661511",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "village",
+      "latitud": 13.0032745,
+      "longitud": -86.3084505,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450661758",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9805544,
+      "longitud": -86.3095787,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450661759",
+      "nombre": "El Hornillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9690815,
+      "longitud": -86.3005361,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450662199",
+      "nombre": "Guajiniquil",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9848116,
+      "longitud": -86.2883741,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450662592",
+      "nombre": "La Concepción",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9996956,
+      "longitud": -86.2645808,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450662776",
+      "nombre": "Los Placeres",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0128399,
+      "longitud": -86.2222585,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450662855",
+      "nombre": "El Hato",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0482992,
+      "longitud": -86.2312728,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450662918",
+      "nombre": "La Cañada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0502104,
+      "longitud": -86.2420098,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11450663582",
+      "nombre": "Paso Ancho",
+      "tipo_localidad": "suburb",
+      "latitud": 13.0663179,
+      "longitud": -86.3638665,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11565613027",
+      "nombre": "Rosario Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9465331,
+      "longitud": -86.2961644,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11565613190",
+      "nombre": "Quebrada de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9328117,
+      "longitud": -86.3336805,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11565613555",
+      "nombre": "Palo Blanco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.902211,
+      "longitud": -86.3921017,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11576962529",
+      "nombre": "Las Nubes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9671308,
+      "longitud": -86.3114744,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11577803971",
+      "nombre": "Loma Las Lomitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9599793,
+      "longitud": -86.4103997,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11610747643",
+      "nombre": "José Benito Escobar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4104253,
+      "longitud": -86.4831466,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/11611740843",
+      "nombre": "El Rosario",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3872034,
+      "longitud": -86.481902,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/12072568641",
+      "nombre": "El Reparto",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.9590821,
+      "longitud": -86.2306237,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/13533376347",
+      "nombre": "Cerro Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3571682,
+      "longitud": -86.5123451,
+      "departamento": "Estelí"
+    },
+    {
+      "osm_id": "node/13608343040",
+      "nombre": "Valle El Jocote",
+      "tipo_localidad": "village",
+      "latitud": 13.3619751,
+      "longitud": -86.2588066,
+      "departamento": "Estelí"
+    }
+  ]
+}

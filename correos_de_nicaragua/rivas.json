@@ -1,0 +1,85 @@
+{
+    "total": 10,
+    "data": [
+        {
+            "NomDepto": "Rivas",
+            "NomMunicipio": "Rivas",
+            "CodPostal": 47000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 81,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rivas",
+            "NomMunicipio": "San Jorge",
+            "CodPostal": 48100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 82,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rivas",
+            "NomMunicipio": "Buenos Aires",
+            "CodPostal": 48200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 83,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rivas",
+            "NomMunicipio": "Potos\u00ed",
+            "CodPostal": 48300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 84,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rivas",
+            "NomMunicipio": "Bel\u00e9n",
+            "CodPostal": 48400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 85,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rivas",
+            "NomMunicipio": "Tola",
+            "CodPostal": 48500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 86,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rivas",
+            "NomMunicipio": "San Juan del Sur",
+            "CodPostal": 48600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 87,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rivas",
+            "NomMunicipio": "Moyogalpa",
+            "CodPostal": 48700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 88,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rivas",
+            "NomMunicipio": "Altagracia",
+            "CodPostal": 48800,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 89,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rivas",
+            "NomMunicipio": "C\u00e1rdenas",
+            "CodPostal": 48900,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 90,
+            "CodBarrio": null
+        }
+    ]
+}

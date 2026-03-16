@@ -1,0 +1,53 @@
+{
+    "total": 6,
+    "data": [
+        {
+            "NomDepto": "Rio San Juan",
+            "NomMunicipio": "San Carlos",
+            "CodPostal": 91000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 148,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rio San Juan",
+            "NomMunicipio": "San Miguelito",
+            "CodPostal": 92100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 149,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rio San Juan",
+            "NomMunicipio": "El Castillo",
+            "CodPostal": 92200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 150,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rio San Juan",
+            "NomMunicipio": "El Almendro",
+            "CodPostal": 92300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 151,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rio San Juan",
+            "NomMunicipio": "Morrito",
+            "CodPostal": 92400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 152,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Rio San Juan",
+            "NomMunicipio": "San Juan de Nicaragua",
+            "CodPostal": 92500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 153,
+            "CodBarrio": null
+        }
+    ]
+}

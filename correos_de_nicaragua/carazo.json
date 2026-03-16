@@ -1,0 +1,69 @@
+{
+    "total": 8,
+    "data": [
+        {
+            "NomDepto": "Carazo",
+            "NomMunicipio": "Jinotepe",
+            "CodPostal": 45000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 73,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Carazo",
+            "NomMunicipio": "Dolores",
+            "CodPostal": 46100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 74,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Carazo",
+            "NomMunicipio": "El Rosario",
+            "CodPostal": 46200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 75,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Carazo",
+            "NomMunicipio": "Diriamba",
+            "CodPostal": 46300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 76,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Carazo",
+            "NomMunicipio": "San Marcos",
+            "CodPostal": 46400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 77,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Carazo",
+            "NomMunicipio": "La Paz de Carazo",
+            "CodPostal": 46500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 78,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Carazo",
+            "NomMunicipio": "Santa Teresa",
+            "CodPostal": 46600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 79,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Carazo",
+            "NomMunicipio": "La Conquista",
+            "CodPostal": 46700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 80,
+            "CodBarrio": null
+        }
+    ]
+}

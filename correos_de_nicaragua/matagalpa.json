@@ -1,0 +1,109 @@
+{
+    "total": 13,
+    "data": [
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "Matagalpa",
+            "CodPostal": 61000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 107,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "San Ram\u00f3n",
+            "CodPostal": 62100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 108,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "S\u00e9baco",
+            "CodPostal": 62200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 109,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "Terrabona",
+            "CodPostal": 62300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 110,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "San Dionisio",
+            "CodPostal": 62400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 111,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "Esquipulas",
+            "CodPostal": 62500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 112,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "Muy Muy",
+            "CodPostal": 62600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 113,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "El Tuma La Dalia",
+            "CodPostal": 62700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 114,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "Ciudad Dar\u00edo",
+            "CodPostal": 62800,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 115,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "San Isidro",
+            "CodPostal": 62900,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 116,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "Matiguas",
+            "CodPostal": 63100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 117,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "R\u00edo Blanco",
+            "CodPostal": 63200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 118,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Matagalpa",
+            "NomMunicipio": "Rancho Grande",
+            "CodPostal": 63300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 119,
+            "CodBarrio": null
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "total": 9,
+    "data": [
+        {
+            "NomDepto": "Masaya",
+            "NomMunicipio": "Masaya",
+            "CodPostal": 41000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 60,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Masaya",
+            "NomMunicipio": "Tisma",
+            "CodPostal": 42100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 61,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Masaya",
+            "NomMunicipio": "Nindir\u00ed",
+            "CodPostal": 42200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 62,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Masaya",
+            "NomMunicipio": "La Concepci\u00f3n",
+            "CodPostal": 42300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 63,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Masaya",
+            "NomMunicipio": "Nandasmo",
+            "CodPostal": 42400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 64,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Masaya",
+            "NomMunicipio": "Catarina",
+            "CodPostal": 42500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 65,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Masaya",
+            "NomMunicipio": "Masatepe",
+            "CodPostal": 42600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 66,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Masaya",
+            "NomMunicipio": "Niquinohomo",
+            "CodPostal": 42700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 67,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Masaya",
+            "NomMunicipio": "San Juan de Oriente",
+            "CodPostal": 42800,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 68,
+            "CodBarrio": null
+        }
+    ]
+}

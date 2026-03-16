@@ -1,0 +1,2366 @@
+{
+  "departamento": "Masaya",
+  "total_registros": 295,
+  "lugares": [
+    {
+      "osm_id": "node/175858850",
+      "nombre": "Catarina",
+      "tipo_localidad": "town",
+      "latitud": 11.9123659,
+      "longitud": -86.0741177,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/302522652",
+      "nombre": "Masatepe",
+      "tipo_localidad": "town",
+      "latitud": 11.9156473,
+      "longitud": -86.1438044,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/302523195",
+      "nombre": "Niquinohomo",
+      "tipo_localidad": "town",
+      "latitud": 11.9041582,
+      "longitud": -86.0945522,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/784159225",
+      "nombre": "San Fernando",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9848777,
+      "longitud": -86.0929985,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/784918974",
+      "nombre": "Masaya",
+      "tipo_localidad": "city",
+      "latitud": 11.9736474,
+      "longitud": -86.0960547,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/918029403",
+      "nombre": "San Jerónimo de Monimbó",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9606586,
+      "longitud": -86.0983204,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/918029914",
+      "nombre": "Cailagua",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9684506,
+      "longitud": -86.102866,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/918030311",
+      "nombre": "Óscar Pérez Casar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9621476,
+      "longitud": -86.0976705,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/918041324",
+      "nombre": "Barrio Paises Bajos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.971293,
+      "longitud": -86.096295,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/918041356",
+      "nombre": "San Miguel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9732704,
+      "longitud": -86.0912741,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/918041425",
+      "nombre": "San Juan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.974226,
+      "longitud": -86.1011298,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/1875479328",
+      "nombre": "San Juan de Oriente",
+      "tipo_localidad": "town",
+      "latitud": 11.90453,
+      "longitud": -86.0735856,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2034361450",
+      "nombre": "Bosques de Capistrano",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0553743,
+      "longitud": -86.1931407,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2295101093",
+      "nombre": "Residencial Ciudad Real",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0707805,
+      "longitud": -86.1783533,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2338939177",
+      "nombre": "Valle De Capistrano V etapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0523578,
+      "longitud": -86.1919957,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2444844102",
+      "nombre": "Reparto Gonzalo Martínez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9818338,
+      "longitud": -86.0854636,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2535965352",
+      "nombre": "Nindirí",
+      "tipo_localidad": "town",
+      "latitud": 12.0030065,
+      "longitud": -86.1201997,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2563863016",
+      "nombre": "La Concepción",
+      "tipo_localidad": "town",
+      "latitud": 11.9373328,
+      "longitud": -86.1901902,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2563863067",
+      "nombre": "Las Flores",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9809894,
+      "longitud": -86.0840821,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2665724252",
+      "nombre": "San Juan de la Concepción",
+      "tipo_localidad": "suburb",
+      "latitud": 11.9532791,
+      "longitud": -86.1868294,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2707105616",
+      "nombre": "Las Flores",
+      "tipo_localidad": "village",
+      "latitud": 11.9942807,
+      "longitud": -86.0369881,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2714691244",
+      "nombre": "San Caralampio",
+      "tipo_localidad": "village",
+      "latitud": 11.9428667,
+      "longitud": -86.2043296,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2715045514",
+      "nombre": "Los Martínez",
+      "tipo_localidad": "suburb",
+      "latitud": 11.9490048,
+      "longitud": -86.1970646,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2715045516",
+      "nombre": "El Panamá",
+      "tipo_localidad": "village",
+      "latitud": 11.972995,
+      "longitud": -86.2049424,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2718064068",
+      "nombre": "El Recuerdo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9311308,
+      "longitud": -86.1847368,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2718064090",
+      "nombre": "La Cruz de Mayo",
+      "tipo_localidad": "village",
+      "latitud": 11.940565,
+      "longitud": -86.164334,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2718064093",
+      "nombre": "Santa Juana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9374202,
+      "longitud": -86.1683755,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2718064099",
+      "nombre": "La Sabanita",
+      "tipo_localidad": "village",
+      "latitud": 11.954938,
+      "longitud": -86.163303,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2718064100",
+      "nombre": "La Sabanita Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9575359,
+      "longitud": -86.1596018,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2718064103",
+      "nombre": "Camilo Ortega",
+      "tipo_localidad": "village",
+      "latitud": 11.9573124,
+      "longitud": -86.1750098,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2719992543",
+      "nombre": "Nandasmo",
+      "tipo_localidad": "town",
+      "latitud": 11.9249927,
+      "longitud": -86.1206565,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2768650980",
+      "nombre": "La Curva",
+      "tipo_localidad": "village",
+      "latitud": 11.8902785,
+      "longitud": -86.1188397,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2768650983",
+      "nombre": "Santa Margarita",
+      "tipo_localidad": "village",
+      "latitud": 11.8831148,
+      "longitud": -86.1177251,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2768653886",
+      "nombre": "San José de Masatepe",
+      "tipo_localidad": "village",
+      "latitud": 11.8505818,
+      "longitud": -86.1429776,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2810197464",
+      "nombre": "La Ceibita",
+      "tipo_localidad": "village",
+      "latitud": 12.0168692,
+      "longitud": -86.0692966,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2810197466",
+      "nombre": "Las Conchitas",
+      "tipo_localidad": "village",
+      "latitud": 12.0188051,
+      "longitud": -86.0872001,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2810197469",
+      "nombre": "Las Cortezas",
+      "tipo_localidad": "village",
+      "latitud": 12.0200776,
+      "longitud": -86.0130078,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2810197470",
+      "nombre": "Los Pérez",
+      "tipo_localidad": "village",
+      "latitud": 12.0112667,
+      "longitud": -86.0552917,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2810197471",
+      "nombre": "El Comején",
+      "tipo_localidad": "village",
+      "latitud": 12.0176905,
+      "longitud": -86.0466549,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2810197474",
+      "nombre": "Puerto Nuevo",
+      "tipo_localidad": "village",
+      "latitud": 12.0109235,
+      "longitud": -86.0656255,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2810205732",
+      "nombre": "Veinticuatro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0339591,
+      "longitud": -86.0116175,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/2846874783",
+      "nombre": "Reparto Faría",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9828489,
+      "longitud": -86.0942606,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/3108830264",
+      "nombre": "Los Cocos",
+      "tipo_localidad": "village",
+      "latitud": 11.9890369,
+      "longitud": -86.0623345,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/3894494311",
+      "nombre": "Tisma",
+      "tipo_localidad": "town",
+      "latitud": 12.0826058,
+      "longitud": -86.0178564,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4075177923",
+      "nombre": "El Pochote",
+      "tipo_localidad": "village",
+      "latitud": 11.9426766,
+      "longitud": -86.1456586,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4089096622",
+      "nombre": "El Rodal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0730277,
+      "longitud": -86.0295134,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567756",
+      "nombre": "Acetuno",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.092718,
+      "longitud": -86.0390055,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567757",
+      "nombre": "Belén",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0567428,
+      "longitud": -86.0696672,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567758",
+      "nombre": "Cofradía",
+      "tipo_localidad": "village",
+      "latitud": 12.1203925,
+      "longitud": -86.1220306,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567759",
+      "nombre": "Comarca Henriquez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0411982,
+      "longitud": -86.0883193,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567761",
+      "nombre": "El Cielo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.074794,
+      "longitud": -86.046509,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567763",
+      "nombre": "Guanacastillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0739166,
+      "longitud": -86.1020508,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567765",
+      "nombre": "La Carbonera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0958862,
+      "longitud": -86.0963297,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567766",
+      "nombre": "Las Pilas Occidentales",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0526141,
+      "longitud": -86.0803974,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567767",
+      "nombre": "Los Altos de Masaya",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0471056,
+      "longitud": -86.102417,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567768",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1269538,
+      "longitud": -86.0633171,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567769",
+      "nombre": "San Joaquín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0842768,
+      "longitud": -86.1206171,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567770",
+      "nombre": "Santa Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1062482,
+      "longitud": -86.0488465,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567771",
+      "nombre": "San Patricio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1125357,
+      "longitud": -86.0935885,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567772",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1074703,
+      "longitud": -86.0668388,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567773",
+      "nombre": "San Rogue",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0658813,
+      "longitud": -86.0579754,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4094567774",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1133499,
+      "longitud": -86.0554019,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/4756898181",
+      "nombre": "Reparto Transatlántico",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9646478,
+      "longitud": -86.0840569,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5482924795",
+      "nombre": "Lotificación Marbella",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0550853,
+      "longitud": -86.1780926,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5635011556",
+      "nombre": "Camilo Ortega",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.966221,
+      "longitud": -86.0820113,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5635025808",
+      "nombre": "Pancasán",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9702021,
+      "longitud": -86.0884604,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5635025817",
+      "nombre": "La Reforma 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9770124,
+      "longitud": -86.0847258,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5635025818",
+      "nombre": "Las Malvinas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9720398,
+      "longitud": -86.0831468,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5635025819",
+      "nombre": "San José",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9745319,
+      "longitud": -86.0795072,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5635056810",
+      "nombre": "26 de Febrero",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.970243,
+      "longitud": -86.0852586,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5635099914",
+      "nombre": "El Calvarito",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9783109,
+      "longitud": -86.1015953,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5635099918",
+      "nombre": "San Carlos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9868615,
+      "longitud": -86.1041641,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5635099920",
+      "nombre": "El Repliegue",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9813577,
+      "longitud": -86.1006381,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5635130590",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9792692,
+      "longitud": -86.0985243,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5897471213",
+      "nombre": "Los Aguirre",
+      "tipo_localidad": "village",
+      "latitud": 11.9728085,
+      "longitud": -86.218525,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5899961554",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0121957,
+      "longitud": -86.0722541,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5899961555",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0115397,
+      "longitud": -86.082514,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5899961556",
+      "nombre": "La Ceibita",
+      "tipo_localidad": "village",
+      "latitud": 11.9991904,
+      "longitud": -86.0793134,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5900368046",
+      "nombre": "Los Cerda",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9600597,
+      "longitud": -86.1543854,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908919316",
+      "nombre": "Los Mangos",
+      "tipo_localidad": "village",
+      "latitud": 11.934946,
+      "longitud": -86.1410184,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908944712",
+      "nombre": "Los Maderales",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9457501,
+      "longitud": -86.1602526,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908946441",
+      "nombre": "19 de Julio Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9453849,
+      "longitud": -86.174812,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908952674",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9325685,
+      "longitud": -86.1770072,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908953457",
+      "nombre": "Barrio Santiago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9304936,
+      "longitud": -86.1777303,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908953519",
+      "nombre": "La Cruz de Mayo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9308468,
+      "longitud": -86.1719376,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908955422",
+      "nombre": "Los Martínez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9308072,
+      "longitud": -86.1603839,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908958054",
+      "nombre": "6 de Julio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9266816,
+      "longitud": -86.1543143,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908960017",
+      "nombre": "19 de Julio Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9513958,
+      "longitud": -86.1749551,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908965342",
+      "nombre": "Los Aguirres Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.968712,
+      "longitud": -86.2222877,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908966057",
+      "nombre": "Rigoberto López Pérez",
+      "tipo_localidad": "village",
+      "latitud": 11.9626173,
+      "longitud": -86.2070109,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908967560",
+      "nombre": "San Ignacio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9721071,
+      "longitud": -86.2145612,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5908968596",
+      "nombre": "Los Mercados",
+      "tipo_localidad": "village",
+      "latitud": 11.960964,
+      "longitud": -86.1892815,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/5927153995",
+      "nombre": "Llano Grande",
+      "tipo_localidad": "village",
+      "latitud": 11.9901867,
+      "longitud": -86.0222466,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/8451056187",
+      "nombre": "La Reforma 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9765832,
+      "longitud": -86.0890816,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/10030043970",
+      "nombre": "La Parroquia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9738598,
+      "longitud": -86.0958,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/10030069286",
+      "nombre": "Veracruz",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0791035,
+      "longitud": -86.1661812,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/10030078425",
+      "nombre": "Sector El Coyotepe",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9910937,
+      "longitud": -86.0986205,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/10030078426",
+      "nombre": "El Calvarito",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9917631,
+      "longitud": -86.1007289,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/10030472844",
+      "nombre": "San Francisco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0405385,
+      "longitud": -86.1288046,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/10030495172",
+      "nombre": "Villa Bosco Monge",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9821874,
+      "longitud": -86.079263,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/10030495173",
+      "nombre": "Villa 10 de Mayo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.983377,
+      "longitud": -86.0826265,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/10030495174",
+      "nombre": "Villa San Jerónimo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.980524,
+      "longitud": -86.0819805,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/10030495175",
+      "nombre": "Villa Holanda",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9835729,
+      "longitud": -86.0758728,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/10030501509",
+      "nombre": "Reparto Kühn",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9804616,
+      "longitud": -86.0931175,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/11117735744",
+      "nombre": "Los Tololos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.018759,
+      "longitud": -86.0008747,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/11887127896",
+      "nombre": "Santa Clara",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.013339,
+      "longitud": -85.9915567,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/11899082006",
+      "nombre": "El Palenque",
+      "tipo_localidad": "village",
+      "latitud": 12.0329723,
+      "longitud": -86.0176411,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/11899199755",
+      "nombre": "La Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0482682,
+      "longitud": -86.0158816,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12631794404",
+      "nombre": "Temoá Grande Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9524686,
+      "longitud": -86.2721615,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12705922518",
+      "nombre": "Temoá Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9523763,
+      "longitud": -86.2714718,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12705922519",
+      "nombre": "Temoá Grande Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9530706,
+      "longitud": -86.2692305,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12705922537",
+      "nombre": "Temoá Grande Nº 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9525897,
+      "longitud": -86.2754665,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12720646640",
+      "nombre": "La Sabanita Nº 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9583823,
+      "longitud": -86.1620164,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12720646645",
+      "nombre": "Los Cerda Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9613421,
+      "longitud": -86.1543667,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12720646646",
+      "nombre": "Los Maderales",
+      "tipo_localidad": "village",
+      "latitud": 11.9515231,
+      "longitud": -86.1485624,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12720646725",
+      "nombre": "Los Maderales Nº 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9501585,
+      "longitud": -86.1458159,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12720646738",
+      "nombre": "Los Maderales Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9512042,
+      "longitud": -86.1485919,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12720646751",
+      "nombre": "Los Maderales Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9552492,
+      "longitud": -86.1503997,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12720646804",
+      "nombre": "Los Cerda Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9575514,
+      "longitud": -86.1539766,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12720646805",
+      "nombre": "Los Cerda Nº 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.959075,
+      "longitud": -86.1536855,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12752757440",
+      "nombre": "El Pavo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.940751,
+      "longitud": -86.2222481,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12752757480",
+      "nombre": "El Pavito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9437977,
+      "longitud": -86.2282026,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12752760860",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9446007,
+      "longitud": -86.2191635,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12752761298",
+      "nombre": "Quebrada Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9617252,
+      "longitud": -86.174081,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12752761309",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "village",
+      "latitud": 11.9542626,
+      "longitud": -86.1991382,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12752761370",
+      "nombre": "El Rodeo Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9539241,
+      "longitud": -86.2045133,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12753327241",
+      "nombre": "Quebrada Grande Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9625387,
+      "longitud": -86.1654228,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12753327273",
+      "nombre": "Pedro Joaquín Chamorro Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9534097,
+      "longitud": -86.1732334,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12754508239",
+      "nombre": "Daniel Roa Padilla",
+      "tipo_localidad": "village",
+      "latitud": 11.9260369,
+      "longitud": -86.2062085,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12754510734",
+      "nombre": "El Manantial",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9578575,
+      "longitud": -86.2292165,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12755708883",
+      "nombre": "La Bolsa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9258427,
+      "longitud": -86.1956835,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12760764875",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8690151,
+      "longitud": -86.1374769,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12760831278",
+      "nombre": "Justo Rufino Garay Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.874501,
+      "longitud": -86.1423826,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12760831304",
+      "nombre": "Campos Azules",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8720547,
+      "longitud": -86.1483264,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12760831353",
+      "nombre": "Justo Rufino Garay Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8700414,
+      "longitud": -86.1565527,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12761541003",
+      "nombre": "Santa Julia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8547827,
+      "longitud": -86.1070257,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12761541187",
+      "nombre": "General Sandino",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.847073,
+      "longitud": -86.0965303,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12761541246",
+      "nombre": "Barrio Los Muñoz",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8399248,
+      "longitud": -86.1049122,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12761541379",
+      "nombre": "El Corozo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8417703,
+      "longitud": -86.1162955,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12761541407",
+      "nombre": "San Diego",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8448233,
+      "longitud": -86.1275178,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12761541436",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8520737,
+      "longitud": -86.133526,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12761541518",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8552552,
+      "longitud": -86.1497212,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12761541593",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8601586,
+      "longitud": -86.1513412,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12761541688",
+      "nombre": "Santo Domingo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8626707,
+      "longitud": -86.1355913,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12762269964",
+      "nombre": "El Pleitado",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8697028,
+      "longitud": -86.1204958,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12762271203",
+      "nombre": "Las Crucitas",
+      "tipo_localidad": "village",
+      "latitud": 11.8573027,
+      "longitud": -86.1170143,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12762271300",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.844755,
+      "longitud": -86.1437237,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12764558918",
+      "nombre": "Santa Margarita Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8847481,
+      "longitud": -86.1163008,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12764558954",
+      "nombre": "Justo Romero",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.88279,
+      "longitud": -86.109075,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12764558975",
+      "nombre": "San Carlos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8760444,
+      "longitud": -86.1078358,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12764574320",
+      "nombre": "Santa Rita Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8759945,
+      "longitud": -86.1150885,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12764574348",
+      "nombre": "Santa Rita Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8672065,
+      "longitud": -86.1112583,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12764574373",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8637443,
+      "longitud": -86.1070687,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12766960624",
+      "nombre": "Pío XII",
+      "tipo_localidad": "village",
+      "latitud": 11.898328,
+      "longitud": -86.1196804,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12766960693",
+      "nombre": "Santa Margarita Nº 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8818031,
+      "longitud": -86.1193988,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12766968547",
+      "nombre": "Santa Margarita Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8808215,
+      "longitud": -86.1168855,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12766968548",
+      "nombre": "Santa Margarita Nº 4",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.884273,
+      "longitud": -86.1190742,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768463057",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9062541,
+      "longitud": -86.1311334,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768463084",
+      "nombre": "Nuevo Amanecer",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9038501,
+      "longitud": -86.1360151,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768463102",
+      "nombre": "Mata de Guayabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8957979,
+      "longitud": -86.1330056,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768463176",
+      "nombre": "La Moragueña",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8985117,
+      "longitud": -86.136986,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768463193",
+      "nombre": "San Agustín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9278353,
+      "longitud": -86.1392914,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768838159",
+      "nombre": "Venecia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9429999,
+      "longitud": -86.1301732,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768838194",
+      "nombre": "Nimboja",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9326501,
+      "longitud": -86.1344862,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768855656",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9431968,
+      "longitud": -86.1779916,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768855682",
+      "nombre": "El Tanque",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9201689,
+      "longitud": -86.1374152,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768855710",
+      "nombre": "17 de Julio",
+      "tipo_localidad": "village",
+      "latitud": 11.9162323,
+      "longitud": -86.1327052,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768855868",
+      "nombre": "Cuatro Esquinas",
+      "tipo_localidad": "village",
+      "latitud": 11.896979,
+      "longitud": -86.1245191,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768855923",
+      "nombre": "San Bernardo",
+      "tipo_localidad": "village",
+      "latitud": 11.9033881,
+      "longitud": -86.1217403,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12768856085",
+      "nombre": "Luis Alfonso Velázquez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9099966,
+      "longitud": -86.1293981,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12770632122",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "village",
+      "latitud": 11.9423255,
+      "longitud": -86.1760122,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771091365",
+      "nombre": "Macario Brenes",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8903518,
+      "longitud": -86.1423853,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099608",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.89021,
+      "longitud": -86.1485383,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099632",
+      "nombre": "Mauricio López",
+      "tipo_localidad": "village",
+      "latitud": 11.8996928,
+      "longitud": -86.1488521,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099664",
+      "nombre": "Georgino Andrade",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8990524,
+      "longitud": -86.1581084,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099690",
+      "nombre": "El Parque",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9025325,
+      "longitud": -86.1576444,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099723",
+      "nombre": "El Guapinol",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9048001,
+      "longitud": -86.1524677,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099757",
+      "nombre": "Santa María",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9073931,
+      "longitud": -86.1585671,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099781",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9111252,
+      "longitud": -86.157639,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099808",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9171535,
+      "longitud": -86.157352,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099843",
+      "nombre": "La Granjita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9137286,
+      "longitud": -86.1550748,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099941",
+      "nombre": "San José Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9202109,
+      "longitud": -86.1617589,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12771099968",
+      "nombre": "Macario Brenes",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8937859,
+      "longitud": -86.1400777,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12963495060",
+      "nombre": "El Jocote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9534416,
+      "longitud": -86.103239,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/12963524992",
+      "nombre": "Vista Alegre",
+      "tipo_localidad": "village",
+      "latitud": 11.9449088,
+      "longitud": -86.1133148,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926449",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "village",
+      "latitud": 11.9037556,
+      "longitud": -86.0675007,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926455",
+      "nombre": "El Hatillo",
+      "tipo_localidad": "village",
+      "latitud": 11.9631841,
+      "longitud": -86.0373902,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926456",
+      "nombre": "La Reforma",
+      "tipo_localidad": "village",
+      "latitud": 11.9761777,
+      "longitud": -86.0425723,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926457",
+      "nombre": "El Chilamate",
+      "tipo_localidad": "village",
+      "latitud": 11.9669626,
+      "longitud": -86.0251916,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926468",
+      "nombre": "La Reforma Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9606389,
+      "longitud": -86.052357,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926469",
+      "nombre": "Valle La Laguna",
+      "tipo_localidad": "village",
+      "latitud": 11.9529191,
+      "longitud": -86.0433233,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926471",
+      "nombre": "Pacaya",
+      "tipo_localidad": "village",
+      "latitud": 11.9322565,
+      "longitud": -86.0638207,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926472",
+      "nombre": "Campo Alegre",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9290181,
+      "longitud": -86.0732728,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926473",
+      "nombre": "Patria Libre",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9296847,
+      "longitud": -86.0894868,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926474",
+      "nombre": "El Túnel Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9484792,
+      "longitud": -86.0855895,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926475",
+      "nombre": "Pacayita Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9337942,
+      "longitud": -86.0687694,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926476",
+      "nombre": "Pacayita Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 11.9388327,
+      "longitud": -86.0717762,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13015926477",
+      "nombre": "Laguna Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9432112,
+      "longitud": -86.040798,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13016319627",
+      "nombre": "La Olla del Barro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8998555,
+      "longitud": -86.1079753,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13016319637",
+      "nombre": "El Jocote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9275039,
+      "longitud": -86.1046413,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13288223846",
+      "nombre": "El Sitio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9966191,
+      "longitud": -86.0020602,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13288223871",
+      "nombre": "Guadalupe",
+      "tipo_localidad": "village",
+      "latitud": 11.989816,
+      "longitud": -86.0031867,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289326848",
+      "nombre": "Camino Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9882732,
+      "longitud": -86.0526198,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289326851",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9868774,
+      "longitud": -86.0566431,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289326875",
+      "nombre": "La Gruta",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9784446,
+      "longitud": -86.0612994,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289326889",
+      "nombre": "Quatros Esquinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9506991,
+      "longitud": -86.0357058,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289330511",
+      "nombre": "Llano Grande Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9846368,
+      "longitud": -86.0262859,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289330512",
+      "nombre": "Llano Grande Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9866518,
+      "longitud": -86.0178423,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289330516",
+      "nombre": "El Mapachín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9891811,
+      "longitud": -86.0171503,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289330635",
+      "nombre": "Colonia Los Velásquez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0012918,
+      "longitud": -86.0373098,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289330682",
+      "nombre": "Las Flores Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 11.9919517,
+      "longitud": -86.0290647,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289330772",
+      "nombre": "Gancho de la Mona",
+      "tipo_localidad": "village",
+      "latitud": 11.9948062,
+      "longitud": -86.0189366,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289523707",
+      "nombre": "El Mojón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9410056,
+      "longitud": -86.0903478,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289523874",
+      "nombre": "El Túnel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9252496,
+      "longitud": -86.0789403,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289523894",
+      "nombre": "Los Canos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9817926,
+      "longitud": -86.0671306,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13289523899",
+      "nombre": "El Edén Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9842379,
+      "longitud": -86.0561496,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13291459007",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8736164,
+      "longitud": -86.0869333,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13291480714",
+      "nombre": "San Fernando",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9323549,
+      "longitud": -86.1044468,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302341329",
+      "nombre": "La Graza",
+      "tipo_localidad": "village",
+      "latitud": 11.9745929,
+      "longitud": -86.0274393,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302638004",
+      "nombre": "La Reforma Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9700483,
+      "longitud": -86.0520941,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302649934",
+      "nombre": "El Edén",
+      "tipo_localidad": "village",
+      "latitud": 11.9803863,
+      "longitud": -86.0640299,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302650038",
+      "nombre": "Residencial Prados de San Jerónimo",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0041777,
+      "longitud": -86.081754,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302650073",
+      "nombre": "Entrada al Comején",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9950266,
+      "longitud": -86.0786882,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302650105",
+      "nombre": "El Comején 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0060089,
+      "longitud": -86.0636652,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302650139",
+      "nombre": "El Comején 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0022887,
+      "longitud": -86.0709608,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302650171",
+      "nombre": "El Comején 4",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0017168,
+      "longitud": -86.0625547,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302758958",
+      "nombre": "Pacaya Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9285562,
+      "longitud": -86.0651833,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302785920",
+      "nombre": "Pacaya Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9387698,
+      "longitud": -86.0626567,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302785956",
+      "nombre": "Diriomito",
+      "tipo_localidad": "village",
+      "latitud": 11.942832,
+      "longitud": -86.0565734,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302786105",
+      "nombre": "La Poma Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 11.9631842,
+      "longitud": -86.0722053,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302786193",
+      "nombre": "La Poma",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9726932,
+      "longitud": -86.0656393,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302786247",
+      "nombre": "Gancho de Camino Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.962271,
+      "longitud": -86.0659075,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13302786298",
+      "nombre": "Quebrada Honda",
+      "tipo_localidad": "village",
+      "latitud": 11.9569968,
+      "longitud": -86.0592502,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306688616",
+      "nombre": "El Pochote",
+      "tipo_localidad": "village",
+      "latitud": 11.9352796,
+      "longitud": -86.1001056,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306688695",
+      "nombre": "Vista Alegre Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9477444,
+      "longitud": -86.097579,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306688712",
+      "nombre": "Vista Alegre Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9443776,
+      "longitud": -86.095798,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306688720",
+      "nombre": "El Túnel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9437977,
+      "longitud": -86.0851228,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306688760",
+      "nombre": "El Túnel Nº 1",
+      "tipo_localidad": "village",
+      "latitud": 11.9540369,
+      "longitud": -86.0813141,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306688869",
+      "nombre": "Pacayita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9483584,
+      "longitud": -86.0761964,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306688910",
+      "nombre": "La Poma",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9526672,
+      "longitud": -86.0748339,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306909393",
+      "nombre": "Las Malvinas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9701638,
+      "longitud": -86.0746944,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306909394",
+      "nombre": "La Ceibita",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9951315,
+      "longitud": -86.0854662,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306909395",
+      "nombre": "El Palomar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.987292,
+      "longitud": -86.0811853,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306909396",
+      "nombre": "Los Chilamates",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9900285,
+      "longitud": -86.1024231,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306909398",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9821704,
+      "longitud": -86.0900152,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306909399",
+      "nombre": "Países Bajos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9712711,
+      "longitud": -86.0981798,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306909400",
+      "nombre": "Silvio Reñazco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9638716,
+      "longitud": -86.0782591,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921301",
+      "nombre": "Monimbó",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9645066,
+      "longitud": -86.0897362,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921302",
+      "nombre": "El Candil",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9784656,
+      "longitud": -86.0792434,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921303",
+      "nombre": "El Pochotillo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.977647,
+      "longitud": -86.0931641,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921304",
+      "nombre": "La Siete Esquinas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.976015,
+      "longitud": -86.0984507,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921305",
+      "nombre": "El Carmen",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9812573,
+      "longitud": -86.1032385,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921306",
+      "nombre": "La Estación",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9837604,
+      "longitud": -86.0977078,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921307",
+      "nombre": "El Replieguito",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9823436,
+      "longitud": -86.0962218,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921308",
+      "nombre": "Villa Sancuanjoche",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9886773,
+      "longitud": -86.0888672,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921309",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9899839,
+      "longitud": -86.093899,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921310",
+      "nombre": "17 de Octubre",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9886143,
+      "longitud": -86.0964954,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921311",
+      "nombre": "Villa Guadalupe",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9881526,
+      "longitud": -86.0991347,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921312",
+      "nombre": "Ulises Tapia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9828526,
+      "longitud": -86.1003471,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921313",
+      "nombre": "Reparto Fox",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9859486,
+      "longitud": -86.0987055,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921314",
+      "nombre": "San Ramón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9854659,
+      "longitud": -86.0955191,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921315",
+      "nombre": "San Francisco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9864629,
+      "longitud": -86.0920215,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921316",
+      "nombre": "Reparto Caldera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.985151,
+      "longitud": -86.101774,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306921317",
+      "nombre": "Bella Vista",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9764505,
+      "longitud": -86.1041451,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13306932575",
+      "nombre": "Santa Susana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.990506,
+      "longitud": -86.0800159,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13307051756",
+      "nombre": "La Barranca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9966113,
+      "longitud": -86.111033,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13324823079",
+      "nombre": "La Liberdad",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9332484,
+      "longitud": -86.0988584,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13324823100",
+      "nombre": "Ana Julia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.978749,
+      "longitud": -86.0460162,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13324858201",
+      "nombre": "La Canchita",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9740261,
+      "longitud": -86.0406625,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13427895561",
+      "nombre": "El Castillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.899908,
+      "longitud": -86.0743725,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13427938012",
+      "nombre": "Sócrates Sandino Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8661903,
+      "longitud": -86.0944731,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13427938025",
+      "nombre": "Pica Pica",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8959317,
+      "longitud": -86.0773981,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430895957",
+      "nombre": "José Napoleón García",
+      "tipo_localidad": "village",
+      "latitud": 11.9118233,
+      "longitud": -86.125077,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430895958",
+      "nombre": "Niños Libres",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9092355,
+      "longitud": -86.1180121,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430918907",
+      "nombre": "La Sincaya",
+      "tipo_localidad": "village",
+      "latitud": 11.9133874,
+      "longitud": -86.1158234,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430918935",
+      "nombre": "Los Pocitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9135239,
+      "longitud": -86.1031097,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430918936",
+      "nombre": "El Descanso",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9240267,
+      "longitud": -86.1093244,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430918943",
+      "nombre": "Santa Amalia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9115136,
+      "longitud": -86.1064786,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430918955",
+      "nombre": "Barrio Momotombo",
+      "tipo_localidad": "village",
+      "latitud": 11.915445,
+      "longitud": -86.1091662,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430918994",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "village",
+      "latitud": 11.9084639,
+      "longitud": -86.104027,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430919013",
+      "nombre": "El Güegüense",
+      "tipo_localidad": "village",
+      "latitud": 11.9151773,
+      "longitud": -86.0789377,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430919051",
+      "nombre": "Las Azucenas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9097552,
+      "longitud": -86.0969299,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430919100",
+      "nombre": "Santa Inés",
+      "tipo_localidad": "village",
+      "latitud": 11.8715687,
+      "longitud": -86.0988078,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13430919101",
+      "nombre": "El Guapinol",
+      "tipo_localidad": "village",
+      "latitud": 11.9034039,
+      "longitud": -86.0853589,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431185588",
+      "nombre": "El Portillo Nº 4",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8700965,
+      "longitud": -86.106543,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431185594",
+      "nombre": "El Portillo Nº 5",
+      "tipo_localidad": "village",
+      "latitud": 11.8673929,
+      "longitud": -86.1049605,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431201246",
+      "nombre": "El Portillo Nº 4",
+      "tipo_localidad": "village",
+      "latitud": 11.8706267,
+      "longitud": -86.104762,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431201280",
+      "nombre": "El Portillo Nº 6",
+      "tipo_localidad": "village",
+      "latitud": 11.8621431,
+      "longitud": -86.1009854,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431201301",
+      "nombre": "Sócrates Sandino Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8688208,
+      "longitud": -86.0960931,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431201338",
+      "nombre": "Sócrates Sandino Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8692618,
+      "longitud": -86.0926652,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431201416",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8784054,
+      "longitud": -86.0695674,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431201427",
+      "nombre": "Sócrates Sandino",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8614554,
+      "longitud": -86.0928396,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431201456",
+      "nombre": "Los Bologna",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9285182,
+      "longitud": -86.1206205,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431201467",
+      "nombre": "Barrio Sector 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9266221,
+      "longitud": -86.1201659,
+      "departamento": "Masaya"
+    },
+    {
+      "osm_id": "node/13431201468",
+      "nombre": "Barrio 5 de Junio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9201059,
+      "longitud": -86.1227167,
+      "departamento": "Masaya"
+    }
+  ]
+}

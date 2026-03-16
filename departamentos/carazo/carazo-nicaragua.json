@@ -1,0 +1,2006 @@
+{
+  "departamento": "Carazo",
+  "total_registros": 250,
+  "lugares": [
+    {
+      "osm_id": "node/302522720",
+      "nombre": "San Marcos",
+      "tipo_localidad": "town",
+      "latitud": 11.9091914,
+      "longitud": -86.2047174,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/302523440",
+      "nombre": "Jinotepe",
+      "tipo_localidad": "city",
+      "latitud": 11.8478476,
+      "longitud": -86.1992469,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/302560927",
+      "nombre": "Dolores",
+      "tipo_localidad": "town",
+      "latitud": 11.8562374,
+      "longitud": -86.215818,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/302562439",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "town",
+      "latitud": 11.8037329,
+      "longitud": -86.1634385,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/871120168",
+      "nombre": "La Boquita",
+      "tipo_localidad": "village",
+      "latitud": 11.6782531,
+      "longitud": -86.3823607,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/871127105",
+      "nombre": "Casares",
+      "tipo_localidad": "village",
+      "latitud": 11.6464473,
+      "longitud": -86.3574698,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/1587636089",
+      "nombre": "El Manantial",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7387135,
+      "longitud": -86.2405638,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/1710702197",
+      "nombre": "La Conquista",
+      "tipo_localidad": "town",
+      "latitud": 11.7339318,
+      "longitud": -86.1929607,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/1730512197",
+      "nombre": "Santa Emilia",
+      "tipo_localidad": "village",
+      "latitud": 11.8871249,
+      "longitud": -86.1613857,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/1880983087",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6764357,
+      "longitud": -86.1795725,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2245863542",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "village",
+      "latitud": 11.7363909,
+      "longitud": -86.3327399,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2245870764",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "village",
+      "latitud": 11.797216,
+      "longitud": -86.3177034,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2245871433",
+      "nombre": "La Cruz del Aguacate",
+      "tipo_localidad": "village",
+      "latitud": 11.806736,
+      "longitud": -86.3147637,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2245873308",
+      "nombre": "San Gregorio de las Cañas",
+      "tipo_localidad": "village",
+      "latitud": 11.8330577,
+      "longitud": -86.3070121,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2245873319",
+      "nombre": "Buena Vista del Norte",
+      "tipo_localidad": "village",
+      "latitud": 11.8137564,
+      "longitud": -86.3309482,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2606559232",
+      "nombre": "Santa Clara",
+      "tipo_localidad": "village",
+      "latitud": 11.8958953,
+      "longitud": -86.24895,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2667747961",
+      "nombre": "Barrio de la Cruz",
+      "tipo_localidad": "village",
+      "latitud": 11.9192556,
+      "longitud": -86.2063773,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2742233260",
+      "nombre": "Carril Guásimo",
+      "tipo_localidad": "village",
+      "latitud": 11.6876503,
+      "longitud": -86.3623518,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2742233261",
+      "nombre": "Huehuete",
+      "tipo_localidad": "village",
+      "latitud": 11.6204253,
+      "longitud": -86.3291195,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2742234844",
+      "nombre": "San Francisco de Tepano",
+      "tipo_localidad": "village",
+      "latitud": 11.6971812,
+      "longitud": -86.3581868,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2768650973",
+      "nombre": "Berta Díaz",
+      "tipo_localidad": "village",
+      "latitud": 11.8306416,
+      "longitud": -86.1552801,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2768650975",
+      "nombre": "El Rosario",
+      "tipo_localidad": "town",
+      "latitud": 11.833034,
+      "longitud": -86.1663432,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2768650977",
+      "nombre": "Esquipulas",
+      "tipo_localidad": "village",
+      "latitud": 11.8239553,
+      "longitud": -86.0963845,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2768650979",
+      "nombre": "Güisquiliapa",
+      "tipo_localidad": "village",
+      "latitud": 11.8224921,
+      "longitud": -86.1817997,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2768650981",
+      "nombre": "La Paz de Carazo",
+      "tipo_localidad": "town",
+      "latitud": 11.8226879,
+      "longitud": -86.1278901,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2768653884",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8258627,
+      "longitud": -86.1495196,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2768653887",
+      "nombre": "San Pedro",
+      "tipo_localidad": "village",
+      "latitud": 11.8339624,
+      "longitud": -86.0924566,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2771745232",
+      "nombre": "La Piñuela",
+      "tipo_localidad": "village",
+      "latitud": 11.6046037,
+      "longitud": -86.2113703,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2771749261",
+      "nombre": "Tupilapa",
+      "tipo_localidad": "village",
+      "latitud": 11.6071208,
+      "longitud": -86.3058444,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/2774497031",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "village",
+      "latitud": 11.7462714,
+      "longitud": -86.3526742,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3108652504",
+      "nombre": "Barrio los Mameyes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8402213,
+      "longitud": -86.1904078,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3108652518",
+      "nombre": "Villa Madre Proletaria",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8411617,
+      "longitud": -86.18818,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3108657216",
+      "nombre": "José Elías",
+      "tipo_localidad": "village",
+      "latitud": 11.8950524,
+      "longitud": -86.1713991,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3185829039",
+      "nombre": "Pikín Guerrero Nº 1",
+      "tipo_localidad": "village",
+      "latitud": 11.8876612,
+      "longitud": -86.1913869,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3319847204",
+      "nombre": "San Juan de la Sierra",
+      "tipo_localidad": "village",
+      "latitud": 11.7918592,
+      "longitud": -86.3271352,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3554867085",
+      "nombre": "El Terrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5955164,
+      "longitud": -86.1257168,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3554867091",
+      "nombre": "La Pita",
+      "tipo_localidad": "village",
+      "latitud": 11.6236911,
+      "longitud": -86.1436275,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3554867473",
+      "nombre": "El Abra",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.783721,
+      "longitud": -86.1798616,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3554867474",
+      "nombre": "La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6093484,
+      "longitud": -86.1122579,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3554867486",
+      "nombre": "La Chota",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5905652,
+      "longitud": -86.1512425,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3554867506",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6045165,
+      "longitud": -86.2467337,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3554867534",
+      "nombre": "Los Pedrones",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.594857,
+      "longitud": -86.1435639,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3554867553",
+      "nombre": "Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6225299,
+      "longitud": -86.2328418,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/3890799685",
+      "nombre": "El Esfuerzo",
+      "tipo_localidad": "village",
+      "latitud": 11.8179538,
+      "longitud": -86.1413636,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/4155840032",
+      "nombre": "Dulce Nombre de Jesús",
+      "tipo_localidad": "village",
+      "latitud": 11.8578343,
+      "longitud": -86.344144,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5269181226",
+      "nombre": "Complejo Angélica Morales",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8387811,
+      "longitud": -86.2124537,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283208007",
+      "nombre": "El Eslabón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6389126,
+      "longitud": -86.1263753,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283209345",
+      "nombre": "San José de Los Baltodanos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8921183,
+      "longitud": -86.209325,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283209346",
+      "nombre": "Vivienda 2 El Central-Dolores",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8578694,
+      "longitud": -86.2151483,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283209347",
+      "nombre": "La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6509086,
+      "longitud": -86.3483332,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283209349",
+      "nombre": "La Chota",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.660605,
+      "longitud": -86.2928352,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283212013",
+      "nombre": "Gómez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6630359,
+      "longitud": -86.1497864,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283212014",
+      "nombre": "La Cholpa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6482326,
+      "longitud": -86.1853746,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283212547",
+      "nombre": "Paso La Solera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.636328,
+      "longitud": -86.1949604,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283212548",
+      "nombre": "El Guabillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6417217,
+      "longitud": -86.2388873,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283213607",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6550952,
+      "longitud": -86.3285136,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283218790",
+      "nombre": "Las Colinas",
+      "tipo_localidad": "village",
+      "latitud": 11.850828,
+      "longitud": -86.2511179,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283219020",
+      "nombre": "San Jorge",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6572436,
+      "longitud": -86.1835753,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283229257",
+      "nombre": "La Pitilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6364472,
+      "longitud": -86.1692372,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283229258",
+      "nombre": "El Carrizol",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6819978,
+      "longitud": -86.1613624,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283230721",
+      "nombre": "Mata de Tule",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7030064,
+      "longitud": -86.1332299,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283230770",
+      "nombre": "Ochomogo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.690631,
+      "longitud": -86.1547309,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283230771",
+      "nombre": "Los Gómez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.67947,
+      "longitud": -86.14615,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283231321",
+      "nombre": "Huiste",
+      "tipo_localidad": "village",
+      "latitud": 11.6419533,
+      "longitud": -86.2202375,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5283232221",
+      "nombre": "Santa Gertrudis",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7012013,
+      "longitud": -86.1518017,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5284995444",
+      "nombre": "Las Mohosa",
+      "tipo_localidad": "village",
+      "latitud": 11.7009228,
+      "longitud": -86.175335,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5284996323",
+      "nombre": "El Brasil",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7279811,
+      "longitud": -86.1696349,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5284996324",
+      "nombre": "La Hormiga",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6706749,
+      "longitud": -86.1732868,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5284996866",
+      "nombre": "San José de Los Remates",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6552116,
+      "longitud": -86.1926323,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5285161328",
+      "nombre": "Los Ramos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8491299,
+      "longitud": -86.2242733,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5285161544",
+      "nombre": "La Quebradita",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8530148,
+      "longitud": -86.1975111,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5285162527",
+      "nombre": "La Quebradita",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.853189,
+      "longitud": -86.1966886,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5285162733",
+      "nombre": "La Orqueta",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8463559,
+      "longitud": -86.2217944,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5285170739",
+      "nombre": "Anexo a Pilas Grande",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8513942,
+      "longitud": -86.19405,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5285170740",
+      "nombre": "La Competencia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8536579,
+      "longitud": -86.1999689,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5285170916",
+      "nombre": "Pilas Grandes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8524322,
+      "longitud": -86.1950441,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5285171702",
+      "nombre": "El Quinal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6126876,
+      "longitud": -86.1790581,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5286250417",
+      "nombre": "Panamá Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 11.8387512,
+      "longitud": -86.150677,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5286253479",
+      "nombre": "El Panamá",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.841127,
+      "longitud": -86.1367837,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5286657431",
+      "nombre": "Los Potrillos",
+      "tipo_localidad": "village",
+      "latitud": 11.8040129,
+      "longitud": -86.145413,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5286658106",
+      "nombre": "Barrio Nuevo",
+      "tipo_localidad": "village",
+      "latitud": 11.801739,
+      "longitud": -86.0978298,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5286659706",
+      "nombre": "Barrio Las Tablas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7925827,
+      "longitud": -86.1171131,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5286659707",
+      "nombre": "Santa Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8019103,
+      "longitud": -86.1251291,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5286659965",
+      "nombre": "La Chiripa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8127816,
+      "longitud": -86.0941059,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/5399834936",
+      "nombre": "Los Campos",
+      "tipo_localidad": "village",
+      "latitud": 11.9182628,
+      "longitud": -86.2151525,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/6711720916",
+      "nombre": "Diriamba",
+      "tipo_localidad": "town",
+      "latitud": 11.8561449,
+      "longitud": -86.2403037,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/10068483501",
+      "nombre": "El Golfo",
+      "tipo_localidad": "village",
+      "latitud": 11.8964884,
+      "longitud": -86.3412903,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/10068493381",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7832518,
+      "longitud": -86.414739,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11063329962",
+      "nombre": "Punta de Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5769042,
+      "longitud": -86.2483755,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11063329989",
+      "nombre": "Tecomapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6486375,
+      "longitud": -86.2591875,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11075215164",
+      "nombre": "Paso Cenizas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6922338,
+      "longitud": -86.3598883,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11075389434",
+      "nombre": "Barranco Bayo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6755993,
+      "longitud": -86.3052732,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11075389440",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6931768,
+      "longitud": -86.3254649,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11075389461",
+      "nombre": "Amayito",
+      "tipo_localidad": "village",
+      "latitud": 11.7176813,
+      "longitud": -86.3280344,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11081457948",
+      "nombre": "Mazapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6978879,
+      "longitud": -86.4019656,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11081457968",
+      "nombre": "Santo Domingo",
+      "tipo_localidad": "village",
+      "latitud": 11.7339281,
+      "longitud": -86.3639167,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11105987922",
+      "nombre": "San Vicente",
+      "tipo_localidad": "village",
+      "latitud": 11.8362706,
+      "longitud": -86.3269615,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11108469901",
+      "nombre": "La Guatusa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7405083,
+      "longitud": -86.3366523,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11108634920",
+      "nombre": "Horno Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.725301,
+      "longitud": -86.4016665,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11108635266",
+      "nombre": "La Junta",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7861566,
+      "longitud": -86.4021921,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109764436",
+      "nombre": "El Horizonte Viejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6815383,
+      "longitud": -86.3000469,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109764460",
+      "nombre": "Amayo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7889134,
+      "longitud": -86.2754094,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109948911",
+      "nombre": "Las Cuchillas",
+      "tipo_localidad": "village",
+      "latitud": 11.7518843,
+      "longitud": -86.3040931,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109948940",
+      "nombre": "La Nueva Reforma",
+      "tipo_localidad": "village",
+      "latitud": 11.7474936,
+      "longitud": -86.3091409,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109948968",
+      "nombre": "Buena Vista del Sur",
+      "tipo_localidad": "village",
+      "latitud": 11.7601718,
+      "longitud": -86.2999893,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109948973",
+      "nombre": "El Chanal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7640398,
+      "longitud": -86.3074028,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109948983",
+      "nombre": "La Ciriagüena",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7736687,
+      "longitud": -86.2562907,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949028",
+      "nombre": "Barrio Nuevo",
+      "tipo_localidad": "village",
+      "latitud": 11.7934637,
+      "longitud": -86.2511382,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949046",
+      "nombre": "Sontole",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8372005,
+      "longitud": -86.2504201,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949072",
+      "nombre": "Río Seco",
+      "tipo_localidad": "village",
+      "latitud": 11.8129685,
+      "longitud": -86.2708712,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949073",
+      "nombre": "Los Chilamos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8230315,
+      "longitud": -86.2600297,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949076",
+      "nombre": "Los Romeros",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8371212,
+      "longitud": -86.2647209,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949077",
+      "nombre": "El Boneño",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8272503,
+      "longitud": -86.2907142,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949079",
+      "nombre": "Santa Catarina",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8191539,
+      "longitud": -86.2767828,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949080",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8225248,
+      "longitud": -86.2725663,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949081",
+      "nombre": "El Carrizal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8211492,
+      "longitud": -86.266703,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949082",
+      "nombre": "El Jobo Dulce",
+      "tipo_localidad": "village",
+      "latitud": 11.8275233,
+      "longitud": -86.2648416,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949086",
+      "nombre": "Los Guerreros",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8269222,
+      "longitud": -86.2746491,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949088",
+      "nombre": "La Sirena",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8029341,
+      "longitud": -86.2962556,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949093",
+      "nombre": "San Antonio de Abaio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8287835,
+      "longitud": -86.2947321,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949099",
+      "nombre": "San Miguel del Guayacán",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7989433,
+      "longitud": -86.3281096,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949104",
+      "nombre": "Paso Real",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8212646,
+      "longitud": -86.3424701,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11109949105",
+      "nombre": "Las Lajitas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8099282,
+      "longitud": -86.3375992,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11110199190",
+      "nombre": "El Espadillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7950837,
+      "longitud": -86.3152242,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11110199220",
+      "nombre": "El Apompuá",
+      "tipo_localidad": "village",
+      "latitud": 11.780942,
+      "longitud": -86.285795,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11110199222",
+      "nombre": "El Trapiche",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7606025,
+      "longitud": -86.3380391,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11110199262",
+      "nombre": "Los Baltodanos",
+      "tipo_localidad": "village",
+      "latitud": 11.7938024,
+      "longitud": -86.3649845,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11110199266",
+      "nombre": "El Socorro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.7926156,
+      "longitud": -86.3655853,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11110199267",
+      "nombre": "San José",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.7931722,
+      "longitud": -86.3692331,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11114087382",
+      "nombre": "La Fonseca",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7647093,
+      "longitud": -86.1796332,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11114087383",
+      "nombre": "Las Entramadas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7639321,
+      "longitud": -86.1866498,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11114087385",
+      "nombre": "Comarca La Vanilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.749815,
+      "longitud": -86.1608792,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11114087386",
+      "nombre": "La Vanilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7575669,
+      "longitud": -86.1662865,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11114087401",
+      "nombre": "Los Encuentros",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7092665,
+      "longitud": -86.2435127,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11114104314",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6870358,
+      "longitud": -86.2223661,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221387601",
+      "nombre": "La Hoyada",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8104796,
+      "longitud": -86.244328,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221464460",
+      "nombre": "El Panamá",
+      "tipo_localidad": "village",
+      "latitud": 11.7642577,
+      "longitud": -86.2470156,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221464462",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7392058,
+      "longitud": -86.2472355,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221464464",
+      "nombre": "Pozo Dulce",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7787364,
+      "longitud": -86.2156552,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221464488",
+      "nombre": "El Cangrejo",
+      "tipo_localidad": "village",
+      "latitud": 11.8173266,
+      "longitud": -86.2243402,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221464504",
+      "nombre": "El Ojochal",
+      "tipo_localidad": "village",
+      "latitud": 11.8097025,
+      "longitud": -86.2158537,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221464526",
+      "nombre": "La Pita",
+      "tipo_localidad": "village",
+      "latitud": 11.7940912,
+      "longitud": -86.2141746,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221465541",
+      "nombre": "El Zapotal",
+      "tipo_localidad": "village",
+      "latitud": 11.8009386,
+      "longitud": -86.2059376,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221465542",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.826825,
+      "longitud": -86.2030918,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221465544",
+      "nombre": "Román Esteban Toledo",
+      "tipo_localidad": "village",
+      "latitud": 11.8228346,
+      "longitud": -86.2145502,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221465547",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8290565,
+      "longitud": -86.20726,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221465554",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8031703,
+      "longitud": -86.1804915,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221465555",
+      "nombre": "Francisco González",
+      "tipo_localidad": "village",
+      "latitud": 11.8266937,
+      "longitud": -86.1713559,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221465556",
+      "nombre": "Francisco González",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8270245,
+      "longitud": -86.1904022,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11221465575",
+      "nombre": "5 de Julio",
+      "tipo_localidad": "village",
+      "latitud": 11.8261425,
+      "longitud": -86.1969763,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222444585",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7740363,
+      "longitud": -86.2393928,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222444588",
+      "nombre": "El Mojón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.791526,
+      "longitud": -86.1811781,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222721572",
+      "nombre": "La Cabecera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7778278,
+      "longitud": -86.1943317,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222721590",
+      "nombre": "El Gigante",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7332812,
+      "longitud": -86.1847401,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222878425",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.810196,
+      "longitud": -86.123811,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222930839",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8046773,
+      "longitud": -86.1090964,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222930843",
+      "nombre": "El Poterón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8200832,
+      "longitud": -86.136176,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222930845",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8186235,
+      "longitud": -86.1182508,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222930846",
+      "nombre": "La Bolsa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8230551,
+      "longitud": -86.1245191,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222930849",
+      "nombre": "El Laberinto",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8225668,
+      "longitud": -86.1205494,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11222930850",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "village",
+      "latitud": 11.8247038,
+      "longitud": -86.1071331,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11223674855",
+      "nombre": "El Rincón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7556499,
+      "longitud": -86.0888994,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11223675010",
+      "nombre": "La Calera",
+      "tipo_localidad": "village",
+      "latitud": 11.7262595,
+      "longitud": -86.0949501,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11223675011",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7569682,
+      "longitud": -86.1152065,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11223675015",
+      "nombre": "Los Morada",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7663426,
+      "longitud": -86.0996202,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11223675016",
+      "nombre": "La Bolsa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7710035,
+      "longitud": -86.104491,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11223675054",
+      "nombre": "San José de Gracias",
+      "tipo_localidad": "village",
+      "latitud": 11.7785946,
+      "longitud": -86.1108399,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11223675055",
+      "nombre": "Barrio San Antonio de Los Costillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7889397,
+      "longitud": -86.1040432,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11223675060",
+      "nombre": "El Guayabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7926051,
+      "longitud": -86.1340249,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11223675065",
+      "nombre": "Reparto Hermanos de Finlandia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8115718,
+      "longitud": -86.1613324,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11223675066",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8132415,
+      "longitud": -86.1562336,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918882",
+      "nombre": "Calihuate",
+      "tipo_localidad": "village",
+      "latitud": 11.7701291,
+      "longitud": -86.1420393,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918884",
+      "nombre": "Aguas Calientes de Acayo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6219777,
+      "longitud": -86.2008333,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918897",
+      "nombre": "La Calera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7690105,
+      "longitud": -86.2148184,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918899",
+      "nombre": "Los Ranchos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7546048,
+      "longitud": -86.1802769,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918900",
+      "nombre": "Comarca Nancite Dulce",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.779981,
+      "longitud": -86.1434126,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918901",
+      "nombre": "Los Coyoles",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7933823,
+      "longitud": -86.1478758,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918943",
+      "nombre": "Los Encuentros",
+      "tipo_localidad": "village",
+      "latitud": 11.7690787,
+      "longitud": -86.1231244,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918944",
+      "nombre": "La Unión",
+      "tipo_localidad": "village",
+      "latitud": 11.7838355,
+      "longitud": -86.1572206,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918945",
+      "nombre": "Freddy Solano",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7809262,
+      "longitud": -86.1514298,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918958",
+      "nombre": "El Cacao",
+      "tipo_localidad": "village",
+      "latitud": 11.7653816,
+      "longitud": -86.1485839,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918959",
+      "nombre": "Los Aragones",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7450095,
+      "longitud": -86.165455,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918960",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7643628,
+      "longitud": -86.1673272,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226918978",
+      "nombre": "El Pastor",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7743303,
+      "longitud": -86.1710769,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226919020",
+      "nombre": "Barrio Nuevo",
+      "tipo_localidad": "village",
+      "latitud": 11.729594,
+      "longitud": -86.1325872,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11226919023",
+      "nombre": "El Sol",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7155173,
+      "longitud": -86.1335367,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11228166518",
+      "nombre": "Milton Dinarte Rodríguez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8022461,
+      "longitud": -86.1515022,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11228187940",
+      "nombre": "Los Cocos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.80829,
+      "longitud": -86.1487985,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11228187941",
+      "nombre": "Los Cruces",
+      "tipo_localidad": "village",
+      "latitud": 11.8153838,
+      "longitud": -86.1492866,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/11492509051",
+      "nombre": "La Riviera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6699834,
+      "longitud": -86.3746592,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12518987807",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6866365,
+      "longitud": -86.1775195,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12613399564",
+      "nombre": "Marvin Corrales",
+      "tipo_localidad": "village",
+      "latitud": 11.903026,
+      "longitud": -86.2582433,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12630670352",
+      "nombre": "San Pedro de Los Molinas",
+      "tipo_localidad": "village",
+      "latitud": 11.8799396,
+      "longitud": -86.3218653,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12630670742",
+      "nombre": "San Marcos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9391291,
+      "longitud": -86.2959317,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12631312222",
+      "nombre": "San Antonio de Arriba",
+      "tipo_localidad": "village",
+      "latitud": 11.8474903,
+      "longitud": -86.2728667,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12631312282",
+      "nombre": "San Antonio de Abajo",
+      "tipo_localidad": "village",
+      "latitud": 11.843726,
+      "longitud": -86.2930423,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12631348284",
+      "nombre": "El Tigre",
+      "tipo_localidad": "village",
+      "latitud": 11.8484669,
+      "longitud": -86.3009843,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12631348285",
+      "nombre": "Ojoche de Agua",
+      "tipo_localidad": "village",
+      "latitud": 11.8528113,
+      "longitud": -86.3281256,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12631348288",
+      "nombre": "El Brasilito",
+      "tipo_localidad": "village",
+      "latitud": 11.8510762,
+      "longitud": -86.3378003,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12631795002",
+      "nombre": "La Chona",
+      "tipo_localidad": "village",
+      "latitud": 11.9246775,
+      "longitud": -86.2829465,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12633545980",
+      "nombre": "El Roble",
+      "tipo_localidad": "village",
+      "latitud": 11.8612926,
+      "longitud": -86.2569022,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12633545981",
+      "nombre": "Versalles",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8755824,
+      "longitud": -86.2582165,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12633545982",
+      "nombre": "Los Sánchez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8734563,
+      "longitud": -86.2661585,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12634691977",
+      "nombre": "Los Gutiérrez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.850328,
+      "longitud": -86.2800819,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12697763015",
+      "nombre": "La Promisión",
+      "tipo_localidad": "village",
+      "latitud": 11.8754778,
+      "longitud": -86.2493962,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12697763046",
+      "nombre": "Palo de Pan",
+      "tipo_localidad": "village",
+      "latitud": 11.8706247,
+      "longitud": -86.2494152,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12697763068",
+      "nombre": "Rodolfo Sequeira",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8576467,
+      "longitud": -86.2622125,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12697763069",
+      "nombre": "San Carlos",
+      "tipo_localidad": "village",
+      "latitud": 11.8651314,
+      "longitud": -86.2681339,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12697763146",
+      "nombre": "Las Pinturas",
+      "tipo_localidad": "village",
+      "latitud": 11.8600771,
+      "longitud": -86.2723781,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12702534790",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8378011,
+      "longitud": -86.2196899,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12702534792",
+      "nombre": "Guachipilín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8294363,
+      "longitud": -86.2277091,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12702534797",
+      "nombre": "San Cayetano",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8181871,
+      "longitud": -86.2205419,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12702534798",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8316205,
+      "longitud": -86.2141101,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12702594222",
+      "nombre": "Los Chilamates",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7287066,
+      "longitud": -86.1884931,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12703904624",
+      "nombre": "Vivienda 4 Concepción de María",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9073516,
+      "longitud": -86.184765,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12705922550",
+      "nombre": "Pikín Guerrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8764608,
+      "longitud": -86.2441903,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710002764",
+      "nombre": "El Tanque",
+      "tipo_localidad": "village",
+      "latitud": 11.87038,
+      "longitud": -86.2128764,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710009258",
+      "nombre": "La Palmera",
+      "tipo_localidad": "village",
+      "latitud": 11.8718394,
+      "longitud": -86.2400794,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710009300",
+      "nombre": "Pikín Guerrero Nº 6",
+      "tipo_localidad": "village",
+      "latitud": 11.8828058,
+      "longitud": -86.2361687,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710009349",
+      "nombre": "Residencial Santa Regina",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8721597,
+      "longitud": -86.2368929,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710009361",
+      "nombre": "Villas de San Sebastián",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8821496,
+      "longitud": -86.2328562,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710009437",
+      "nombre": "Los Altos de San Marcos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9005667,
+      "longitud": -86.2283689,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710009537",
+      "nombre": "Las Carolinas",
+      "tipo_localidad": "village",
+      "latitud": 11.9012308,
+      "longitud": -86.2245762,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710009666",
+      "nombre": "Los Marqueces",
+      "tipo_localidad": "village",
+      "latitud": 11.9057975,
+      "longitud": -86.232183,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710009711",
+      "nombre": "Santa Margarita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9127851,
+      "longitud": -86.2348853,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710243562",
+      "nombre": "San Sebastián",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8599014,
+      "longitud": -86.2245494,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12710243587",
+      "nombre": "Cristo Rey Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8639963,
+      "longitud": -86.2168407,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12714076445",
+      "nombre": "Dulce Nombre de Jesús",
+      "tipo_localidad": "village",
+      "latitud": 11.8364281,
+      "longitud": -86.1765111,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12714076832",
+      "nombre": "Cristo Rey",
+      "tipo_localidad": "village",
+      "latitud": 11.8594525,
+      "longitud": -86.2154487,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12714145989",
+      "nombre": "Cañas Blancas Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 11.8431485,
+      "longitud": -86.1701489,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12755708848",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9159699,
+      "longitud": -86.18702,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12755708849",
+      "nombre": "San Carlos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9205468,
+      "longitud": -86.1945248,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12757507518",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.869128,
+      "longitud": -86.1831495,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12757841642",
+      "nombre": "Monte Líbano",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8740658,
+      "longitud": -86.1883013,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12762904801",
+      "nombre": "El Guayabal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.864054,
+      "longitud": -86.1898041,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12762904940",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8581225,
+      "longitud": -86.1854103,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12762905055",
+      "nombre": "San Joaquín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8364648,
+      "longitud": -86.1512125,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12762905238",
+      "nombre": "Colonia Santiago",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.869366,
+      "longitud": -86.1936098,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12763114658",
+      "nombre": "Colonia Santiago",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.866427,
+      "longitud": -86.199621,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12772768413",
+      "nombre": "Mirazul del Llano",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8796246,
+      "longitud": -86.1629123,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12773238760",
+      "nombre": "Dulce Nombre",
+      "tipo_localidad": "village",
+      "latitud": 11.8344828,
+      "longitud": -86.1717099,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12773317671",
+      "nombre": "Cañas Blancas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8492071,
+      "longitud": -86.1645109,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12773317704",
+      "nombre": "Cañas Blancas Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8573237,
+      "longitud": -86.1665547,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/12773317839",
+      "nombre": "San Juan del Llano",
+      "tipo_localidad": "village",
+      "latitud": 11.8673089,
+      "longitud": -86.1648327,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/13517216508",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5966371,
+      "longitud": -86.1696231,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/13567160784",
+      "nombre": "Mata Palo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5979928,
+      "longitud": -86.2457228,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/13568196579",
+      "nombre": "Los Aburtos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7525011,
+      "longitud": -86.0975857,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/13610416009",
+      "nombre": "Las Conchitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7125574,
+      "longitud": -86.2466776,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/13610495011",
+      "nombre": "Las Marías",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.7987699,
+      "longitud": -86.1592671,
+      "departamento": "Carazo"
+    },
+    {
+      "osm_id": "node/13613241843",
+      "nombre": "Las Latas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.727606,
+      "longitud": -86.2123427,
+      "departamento": "Carazo"
+    }
+  ]
+}

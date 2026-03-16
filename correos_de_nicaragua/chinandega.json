@@ -1,0 +1,109 @@
+{
+    "total": 13,
+    "data": [
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "Chinandega",
+            "CodPostal": 25000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 20,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "Chichigalpa",
+            "CodPostal": 26100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 21,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "El Viejo",
+            "CodPostal": 26200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 22,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "El Realejo",
+            "CodPostal": 26300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 23,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "Corinto",
+            "CodPostal": 26400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 24,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "Posoltega",
+            "CodPostal": 26500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 25,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "Puerto Moraz\u00e1n",
+            "CodPostal": 26600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 26,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "Villanueva",
+            "CodPostal": 26700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 27,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "Somotillo",
+            "CodPostal": 26800,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 28,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "San Francisco del Norte",
+            "CodPostal": 26900,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 29,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "Santo T\u00f3mas del Norte",
+            "CodPostal": 27100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 30,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "Cinco Pinos",
+            "CodPostal": 27200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 31,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chinandega",
+            "NomMunicipio": "San Pedro del Norte",
+            "CodPostal": 27300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 32,
+            "CodBarrio": null
+        }
+    ]
+}

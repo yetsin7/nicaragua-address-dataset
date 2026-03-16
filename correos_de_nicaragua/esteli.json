@@ -1,0 +1,53 @@
+{
+    "total": 6,
+    "data": [
+        {
+            "NomDepto": "Estel\u00ed",
+            "NomMunicipio": "Estel\u00ed",
+            "CodPostal": 31000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 33,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Estel\u00ed",
+            "NomMunicipio": "Condega",
+            "CodPostal": 32100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 34,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Estel\u00ed",
+            "NomMunicipio": "Pueblo Nuevo",
+            "CodPostal": 32200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 35,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Estel\u00ed",
+            "NomMunicipio": "San Juan de Limay",
+            "CodPostal": 32300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 36,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Estel\u00ed",
+            "NomMunicipio": "San Nicol\u00e1s",
+            "CodPostal": 32400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 37,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Estel\u00ed",
+            "NomMunicipio": "La Trinidad",
+            "CodPostal": 32500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 38,
+            "CodBarrio": null
+        }
+    ]
+}

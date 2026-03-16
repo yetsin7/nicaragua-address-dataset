@@ -1,0 +1,85 @@
+{
+    "total": 10,
+    "data": [
+        {
+            "NomDepto": "Le\u00f3n",
+            "NomMunicipio": "Le\u00f3n",
+            "CodPostal": 21000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 10,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Le\u00f3n",
+            "NomMunicipio": "La Paz Centro",
+            "CodPostal": 22100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 11,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Le\u00f3n",
+            "NomMunicipio": "Nagarote",
+            "CodPostal": 22200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 12,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Le\u00f3n",
+            "NomMunicipio": "Quezalguaque",
+            "CodPostal": 22300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 13,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Le\u00f3n",
+            "NomMunicipio": "Telica",
+            "CodPostal": 22400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 14,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Le\u00f3n",
+            "NomMunicipio": "Larreynaga",
+            "CodPostal": 22500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 15,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Le\u00f3n",
+            "NomMunicipio": "El Jicaral",
+            "CodPostal": 22600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 16,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Le\u00f3n",
+            "NomMunicipio": "Santa Rosa del Pe\u00f1\u00f3n",
+            "CodPostal": 22700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 17,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Le\u00f3n",
+            "NomMunicipio": "El Sauce",
+            "CodPostal": 22800,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 18,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Le\u00f3n",
+            "NomMunicipio": "Achuapa",
+            "CodPostal": 22900,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 19,
+            "CodBarrio": null
+        }
+    ]
+}

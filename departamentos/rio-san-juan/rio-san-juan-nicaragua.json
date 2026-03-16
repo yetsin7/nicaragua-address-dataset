@@ -1,0 +1,1486 @@
+{
+  "departamento": "Rio San Juan",
+  "total_registros": 185,
+  "lugares": [
+    {
+      "osm_id": "node/301547995",
+      "nombre": "Empalme El Almendro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5850736,
+      "longitud": -84.8450972,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/302367577",
+      "nombre": "El Almendro",
+      "tipo_localidad": "town",
+      "latitud": 11.6776809,
+      "longitud": -84.7024366,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/304199249",
+      "nombre": "Empalme San Miguelito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4408913,
+      "longitud": -84.851766,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/304199405",
+      "nombre": "San Miguelito",
+      "tipo_localidad": "town",
+      "latitud": 11.4028037,
+      "longitud": -84.9004,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/304199947",
+      "nombre": "Laurel Galán",
+      "tipo_localidad": "village",
+      "latitud": 11.1950256,
+      "longitud": -84.7421242,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/304204033",
+      "nombre": "Morrito",
+      "tipo_localidad": "town",
+      "latitud": 11.6218378,
+      "longitud": -85.0808351,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/979906391",
+      "nombre": "Greytown",
+      "tipo_localidad": "town",
+      "latitud": 10.946566,
+      "longitud": -83.7356688,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/984407594",
+      "nombre": "El Jobo",
+      "tipo_localidad": "hamlet",
+      "latitud": 10.7925783,
+      "longitud": -83.6905773,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/1553841773",
+      "nombre": "El Castillo",
+      "tipo_localidad": "village",
+      "latitud": 11.0188768,
+      "longitud": -84.3970204,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/1628881975",
+      "nombre": "Boca de Sábalos",
+      "tipo_localidad": "town",
+      "latitud": 11.0426326,
+      "longitud": -84.4722821,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/1628881976",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "village",
+      "latitud": 11.1648283,
+      "longitud": -84.4311249,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714401402",
+      "nombre": "Colonia El Corocito",
+      "tipo_localidad": "village",
+      "latitud": 11.7623032,
+      "longitud": -84.57774,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714401405",
+      "nombre": "Colonia Villa Álvarez",
+      "tipo_localidad": "village",
+      "latitud": 11.7279474,
+      "longitud": -84.6697445,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714401406",
+      "nombre": "El Cascal",
+      "tipo_localidad": "village",
+      "latitud": 11.7379039,
+      "longitud": -84.5792693,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714401408",
+      "nombre": "El Triunfo",
+      "tipo_localidad": "village",
+      "latitud": 11.7932614,
+      "longitud": -84.6073101,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714401409",
+      "nombre": "La Azucena",
+      "tipo_localidad": "village",
+      "latitud": 11.1563219,
+      "longitud": -84.6295636,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714401411",
+      "nombre": "Las Palomas",
+      "tipo_localidad": "village",
+      "latitud": 11.515636,
+      "longitud": -84.8265682,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714401412",
+      "nombre": "Los Chiles",
+      "tipo_localidad": "village",
+      "latitud": 11.2371183,
+      "longitud": -84.5597825,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714401414",
+      "nombre": "México",
+      "tipo_localidad": "village",
+      "latitud": 11.2755716,
+      "longitud": -84.6654165,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714401415",
+      "nombre": "Morrillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2421542,
+      "longitud": -84.7905062,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714418725",
+      "nombre": "El Tule",
+      "tipo_localidad": "village",
+      "latitud": 11.3555486,
+      "longitud": -84.7595587,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2714623045",
+      "nombre": "Las Colinas",
+      "tipo_localidad": "village",
+      "latitud": 11.0907465,
+      "longitud": -84.410527,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/2842445002",
+      "nombre": "Nueva Jerusalén",
+      "tipo_localidad": "village",
+      "latitud": 11.283859,
+      "longitud": -84.7202318,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/3152499577",
+      "nombre": "B° 19 de Julio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.1395754,
+      "longitud": -84.7570232,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/3931662346",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "village",
+      "latitud": 11.0987988,
+      "longitud": -84.5610094,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/4238622972",
+      "nombre": "Nueva Quesada",
+      "tipo_localidad": "village",
+      "latitud": 11.2407272,
+      "longitud": -84.309534,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/5283148311",
+      "nombre": "Valle Pueblo Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0212483,
+      "longitud": -85.0805219,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/5563118480",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0901442,
+      "longitud": -83.9050329,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/5695471526",
+      "nombre": "San Bartolo",
+      "tipo_localidad": "village",
+      "latitud": 11.6586767,
+      "longitud": -85.0181565,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/6043100413",
+      "nombre": "Santa Elena",
+      "tipo_localidad": "village",
+      "latitud": 11.0286732,
+      "longitud": -85.0068466,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/6096013363",
+      "nombre": "La Palmera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2200961,
+      "longitud": -84.5316832,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/9333089400",
+      "nombre": "El Zapotal",
+      "tipo_localidad": "village",
+      "latitud": 11.6742918,
+      "longitud": -84.7306541,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/10083027343",
+      "nombre": "El Jícaro",
+      "tipo_localidad": "village",
+      "latitud": 11.5475808,
+      "longitud": -84.669646,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/10083027349",
+      "nombre": "Santa Julia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7435546,
+      "longitud": -84.5580126,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/10958583093",
+      "nombre": "La Luz",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.862172,
+      "longitud": -84.7362561,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11006033136",
+      "nombre": "La Virgen",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8538062,
+      "longitud": -84.7575581,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11009449713",
+      "nombre": "Los Cerritos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6790374,
+      "longitud": -84.9568294,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11051878895",
+      "nombre": "El Guapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5253793,
+      "longitud": -85.0068104,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11051878897",
+      "nombre": "Puerto El Copelito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5621391,
+      "longitud": -85.0419688,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11056720860",
+      "nombre": "El Pital",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6597074,
+      "longitud": -85.0537599,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11060726769",
+      "nombre": "El Venado",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.497688,
+      "longitud": -84.934085,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11061551124",
+      "nombre": "El Sincoyal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7255891,
+      "longitud": -84.9693641,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11061551125",
+      "nombre": "Los Rincones",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6911123,
+      "longitud": -84.891867,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11061560583",
+      "nombre": "Paso de Laja",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6770336,
+      "longitud": -84.7921586,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11061560617",
+      "nombre": "El Nisperal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.829768,
+      "longitud": -84.7688154,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11061560642",
+      "nombre": "El Portillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8178517,
+      "longitud": -84.8274458,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11062229302",
+      "nombre": "Mayasang",
+      "tipo_localidad": "village",
+      "latitud": 11.6753997,
+      "longitud": -84.9227688,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11062487469",
+      "nombre": "Walter Acevedo",
+      "tipo_localidad": "village",
+      "latitud": 11.5987548,
+      "longitud": -84.9293885,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11165655367",
+      "nombre": "Valle Guadalupe",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0046457,
+      "longitud": -85.0489708,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11166116094",
+      "nombre": "Avanzada",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1481111,
+      "longitud": -84.7613588,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11166116098",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1326132,
+      "longitud": -84.7634228,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11229660191",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1688869,
+      "longitud": -84.9771197,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11229725056",
+      "nombre": "Mancarrón",
+      "tipo_localidad": "town",
+      "latitud": 11.174218,
+      "longitud": -85.0006226,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11229830932",
+      "nombre": "El Refugio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.1738497,
+      "longitud": -85.0048417,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11229831027",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "village",
+      "latitud": 11.1848854,
+      "longitud": -85.0111985,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11229831116",
+      "nombre": "Punta de Caña",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2020157,
+      "longitud": -85.0263758,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11231084991",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1771049,
+      "longitud": -84.755688,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11234761441",
+      "nombre": "Las Nubes",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4531912,
+      "longitud": -84.7935641,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11234761445",
+      "nombre": "San Martín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4803388,
+      "longitud": -84.7670665,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11234761447",
+      "nombre": "La Virtud",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4959795,
+      "longitud": -84.759602,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11234761448",
+      "nombre": "El Cacao",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4974041,
+      "longitud": -84.7779268,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11234761472",
+      "nombre": "Los Pantanos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4441216,
+      "longitud": -84.8721528,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11234761474",
+      "nombre": "Never Oporta",
+      "tipo_localidad": "village",
+      "latitud": 11.4643055,
+      "longitud": -84.8460496,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11234761478",
+      "nombre": "Los Sánchez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4852607,
+      "longitud": -84.8457921,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11236628673",
+      "nombre": "La Pedrera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5047976,
+      "longitud": -84.8371661,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11236628674",
+      "nombre": "El Raudal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3954253,
+      "longitud": -84.8060793,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11236628702",
+      "nombre": "Mancha de Coyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3973658,
+      "longitud": -84.8205417,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11236628712",
+      "nombre": "Comarca El Tamboral",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3757598,
+      "longitud": -84.7816498,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11242337952",
+      "nombre": "El Frijolar",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4057374,
+      "longitud": -84.639262,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11242337992",
+      "nombre": "El Roble",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3799223,
+      "longitud": -84.6604246,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11242338010",
+      "nombre": "Quebrada Seca",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.403187,
+      "longitud": -84.6944457,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11242338014",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4530755,
+      "longitud": -84.6559507,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11242346853",
+      "nombre": "Santa María",
+      "tipo_localidad": "village",
+      "latitud": 11.4492742,
+      "longitud": -84.7085381,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11243576977",
+      "nombre": "La Conquista Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4408014,
+      "longitud": -84.7419288,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11243761663",
+      "nombre": "La Cruz Verde",
+      "tipo_localidad": "village",
+      "latitud": 11.2859819,
+      "longitud": -84.7053918,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11243761718",
+      "nombre": "El Dorado Nº 3",
+      "tipo_localidad": "village",
+      "latitud": 11.398854,
+      "longitud": -84.6146286,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11244569431",
+      "nombre": "El Fajardo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3855178,
+      "longitud": -84.5562449,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11250346020",
+      "nombre": "El Pavón No.1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2641177,
+      "longitud": -84.611764,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11250346021",
+      "nombre": "El Danubio",
+      "tipo_localidad": "village",
+      "latitud": 11.2734454,
+      "longitud": -84.6396482,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11250346276",
+      "nombre": "Los Rugamas",
+      "tipo_localidad": "village",
+      "latitud": 11.2100813,
+      "longitud": -84.7222066,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11250346290",
+      "nombre": "La Argentina",
+      "tipo_localidad": "village",
+      "latitud": 11.2269562,
+      "longitud": -84.6922786,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11250346291",
+      "nombre": "Carlos Zeledón",
+      "tipo_localidad": "village",
+      "latitud": 11.2428884,
+      "longitud": -84.6921283,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11250346315",
+      "nombre": "Armenia Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 11.3045279,
+      "longitud": -84.5508,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251472903",
+      "nombre": "Filadelfia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6611206,
+      "longitud": -84.7557664,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251472904",
+      "nombre": "Las Tranqueras",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6350452,
+      "longitud": -84.7769023,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251472905",
+      "nombre": "Filadelfia Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.648627,
+      "longitud": -84.7599667,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251493347",
+      "nombre": "El Peñón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5515437,
+      "longitud": -84.824034,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251493358",
+      "nombre": "El Calderón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6010643,
+      "longitud": -84.7670961,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251493365",
+      "nombre": "Las Ollas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.556873,
+      "longitud": -84.7889185,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251493376",
+      "nombre": "Los Potreros",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.520081,
+      "longitud": -84.8534418,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251493489",
+      "nombre": "El Bejuco",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5914925,
+      "longitud": -84.9297264,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251493494",
+      "nombre": "Nuevo Amanecer",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6321082,
+      "longitud": -84.8958689,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251493519",
+      "nombre": "San Pancho",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6279047,
+      "longitud": -84.9150682,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251493520",
+      "nombre": "Barrio La Ñoca",
+      "tipo_localidad": "village",
+      "latitud": 11.6414553,
+      "longitud": -84.9037278,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251493525",
+      "nombre": "La Oropéndola",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6170149,
+      "longitud": -84.9487889,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11251493781",
+      "nombre": "El Raicero",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6573563,
+      "longitud": -84.8944876,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11254031049",
+      "nombre": "Barrio Los Chiles",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.1936895,
+      "longitud": -84.7393057,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11254031051",
+      "nombre": "La Tigra",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1550559,
+      "longitud": -84.7550154,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11254031052",
+      "nombre": "Quinta Lidia",
+      "tipo_localidad": "village",
+      "latitud": 11.1716024,
+      "longitud": -84.7429777,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11254031075",
+      "nombre": "San José",
+      "tipo_localidad": "village",
+      "latitud": 11.1790439,
+      "longitud": -84.6263015,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11257960871",
+      "nombre": "Isla Medio Queso",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1011491,
+      "longitud": -84.6534911,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260056859",
+      "nombre": "Corexsa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.071261,
+      "longitud": -84.4436994,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260056860",
+      "nombre": "Isla Chica",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0830745,
+      "longitud": -84.543711,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260056861",
+      "nombre": "El Espejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3230621,
+      "longitud": -84.5684087,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260056905",
+      "nombre": "Las Maravillas",
+      "tipo_localidad": "village",
+      "latitud": 11.123231,
+      "longitud": -84.3486849,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260056906",
+      "nombre": "El Romerito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0525022,
+      "longitud": -84.3635719,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260056923",
+      "nombre": "Marlón Zelaya",
+      "tipo_localidad": "village",
+      "latitud": 11.0849539,
+      "longitud": -84.4443083,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260078648",
+      "nombre": "Pueblo Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.031179,
+      "longitud": -84.4218957,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260078656",
+      "nombre": "Laureano Mairena",
+      "tipo_localidad": "village",
+      "latitud": 11.052329,
+      "longitud": -84.4578105,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260110958",
+      "nombre": "La Vega",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.148877,
+      "longitud": -84.6544969,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260110966",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1515296,
+      "longitud": -84.5673895,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260110974",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "village",
+      "latitud": 11.1164224,
+      "longitud": -84.6017539,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11260110993",
+      "nombre": "El Puentón",
+      "tipo_localidad": "village",
+      "latitud": 11.0843011,
+      "longitud": -84.5091587,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263001943",
+      "nombre": "Cascada Sábalos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.323141,
+      "longitud": -84.4370878,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263243232",
+      "nombre": "Mauricio Gutiérrez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.080108,
+      "longitud": -84.4609085,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263277046",
+      "nombre": "Cabo de Hornos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1148116,
+      "longitud": -84.4344378,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263277052",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1546743,
+      "longitud": -84.4296205,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263277053",
+      "nombre": "Centros de Boca Negra",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1726866,
+      "longitud": -84.4711035,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263368178",
+      "nombre": "La Mónica",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1517111,
+      "longitud": -84.3362448,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263368183",
+      "nombre": "El Che Guevara",
+      "tipo_localidad": "village",
+      "latitud": 11.0625375,
+      "longitud": -84.3749678,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263368220",
+      "nombre": "La Perilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 10.9929083,
+      "longitud": -84.3527162,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263368737",
+      "nombre": "San Modesto",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0245341,
+      "longitud": -84.4575316,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263368787",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "village",
+      "latitud": 11.0327586,
+      "longitud": -84.4920194,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263369010",
+      "nombre": "La Escalera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0809766,
+      "longitud": -84.3057614,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263369395",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.0473378,
+      "longitud": -84.4746065,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263369415",
+      "nombre": "Nueva Libertad",
+      "tipo_localidad": "village",
+      "latitud": 11.2218365,
+      "longitud": -84.3754399,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263369416",
+      "nombre": "Marcelo",
+      "tipo_localidad": "village",
+      "latitud": 11.1325238,
+      "longitud": -84.428317,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263497205",
+      "nombre": "El Guásimo",
+      "tipo_localidad": "village",
+      "latitud": 11.2530429,
+      "longitud": -84.4338315,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11263497227",
+      "nombre": "Muelle Real",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3080707,
+      "longitud": -84.4392872,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11264786396",
+      "nombre": "Corozo",
+      "tipo_localidad": "hamlet",
+      "latitud": 10.9878108,
+      "longitud": -84.3955243,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11264848693",
+      "nombre": "Boca Río Bartola",
+      "tipo_localidad": "hamlet",
+      "latitud": 10.9723123,
+      "longitud": -84.3385676,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11265013903",
+      "nombre": "La Florcita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1550296,
+      "longitud": -84.7034687,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11265013909",
+      "nombre": "La Concordia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1518559,
+      "longitud": -84.6545291,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11265013910",
+      "nombre": "Melchora",
+      "tipo_localidad": "village",
+      "latitud": 11.1581874,
+      "longitud": -84.6876114,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11265013911",
+      "nombre": "La Maravilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1608156,
+      "longitud": -84.6678542,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11288876609",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2434763,
+      "longitud": -84.6358971,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11288876610",
+      "nombre": "La Maravilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2055347,
+      "longitud": -84.5832163,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11288876625",
+      "nombre": "Alejandro Granja",
+      "tipo_localidad": "village",
+      "latitud": 11.1973507,
+      "longitud": -84.6144461,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11289897241",
+      "nombre": "El Tulito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4063158,
+      "longitud": -84.4868991,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11289957985",
+      "nombre": "Las Miradas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8267147,
+      "longitud": -84.6058685,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11310857709",
+      "nombre": "Laguna Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1307552,
+      "longitud": -84.4780639,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11327773264",
+      "nombre": "Toro Bayo",
+      "tipo_localidad": "village",
+      "latitud": 11.5610801,
+      "longitud": -84.5723113,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11327773266",
+      "nombre": "La Letra",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6019366,
+      "longitud": -84.5594286,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11341970394",
+      "nombre": "Válgame Dios",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0228176,
+      "longitud": -85.0725675,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11341970395",
+      "nombre": "Embarcadero Abelardo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.005585,
+      "longitud": -85.0647248,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11342109591",
+      "nombre": "Venado",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2002516,
+      "longitud": -84.5973337,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11432436712",
+      "nombre": "Monte Verdes",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7679182,
+      "longitud": -84.7360629,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11432452098",
+      "nombre": "La Paula",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7788467,
+      "longitud": -84.5930851,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11432452108",
+      "nombre": "Paso de Lajas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7824596,
+      "longitud": -84.6189416,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11432452619",
+      "nombre": "Montevideo",
+      "tipo_localidad": "village",
+      "latitud": 11.8095922,
+      "longitud": -84.6132124,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11432452632",
+      "nombre": "La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7755172,
+      "longitud": -84.6570343,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11432473588",
+      "nombre": "Talolinga",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8233089,
+      "longitud": -84.6848207,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11432667876",
+      "nombre": "Embarcadero César",
+      "tipo_localidad": "village",
+      "latitud": 11.0285877,
+      "longitud": -85.0547882,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11432830904",
+      "nombre": "Paso de La Yeguas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7328347,
+      "longitud": -84.9769521,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11436127944",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5950896,
+      "longitud": -84.5495152,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11436135991",
+      "nombre": "San Rafael (El Espino)",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5634635,
+      "longitud": -84.6310866,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11436135995",
+      "nombre": "El Frijolar",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5601735,
+      "longitud": -84.6874881,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11443537712",
+      "nombre": "San Ramón",
+      "tipo_localidad": "village",
+      "latitud": 11.3453584,
+      "longitud": -84.4498015,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11443537713",
+      "nombre": "La Bodega",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2381478,
+      "longitud": -84.480722,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11443740192",
+      "nombre": "La Bodega",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2500571,
+      "longitud": -84.5150945,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11443740223",
+      "nombre": "Maritza Quesada",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2493942,
+      "longitud": -84.3337664,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11443781071",
+      "nombre": "La Bijagua",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0410495,
+      "longitud": -84.3137728,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11443781072",
+      "nombre": "Boca de Escalera",
+      "tipo_localidad": "village",
+      "latitud": 11.0682235,
+      "longitud": -84.3499563,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11443815769",
+      "nombre": "El Coral",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0420147,
+      "longitud": -85.0018792,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11444007204",
+      "nombre": "Homusa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0359391,
+      "longitud": -85.1445527,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11444012622",
+      "nombre": "Condega",
+      "tipo_localidad": "hamlet",
+      "latitud": 10.9863224,
+      "longitud": -85.0161417,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11464696663",
+      "nombre": "Las Latas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6149577,
+      "longitud": -84.6231902,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11464736685",
+      "nombre": "Caño Blanco",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6448704,
+      "longitud": -84.5637471,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11466381306",
+      "nombre": "Roger Obregón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.667312,
+      "longitud": -84.9229136,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11477226963",
+      "nombre": "El Monje",
+      "tipo_localidad": "village",
+      "latitud": 11.3458317,
+      "longitud": -84.7572148,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11477227065",
+      "nombre": "Caño San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3143566,
+      "longitud": -84.7305375,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11477227248",
+      "nombre": "Carazo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2805634,
+      "longitud": -84.6617174,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11477227304",
+      "nombre": "El Ojo de Agua",
+      "tipo_localidad": "village",
+      "latitud": 11.2567521,
+      "longitud": -84.7106731,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11477227378",
+      "nombre": "La Culebra",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2360011,
+      "longitud": -84.6904868,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11477227409",
+      "nombre": "La Pedrera",
+      "tipo_localidad": "village",
+      "latitud": 11.2208999,
+      "longitud": -84.7009742,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11495474340",
+      "nombre": "Filas Verdes",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1100005,
+      "longitud": -84.3006706,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11501455352",
+      "nombre": "El Mojón Nº 7",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0255609,
+      "longitud": -84.5435822,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/11501487352",
+      "nombre": "Armenia Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2777646,
+      "longitud": -84.5206225,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/12437216582",
+      "nombre": "San Carlos",
+      "tipo_localidad": "city",
+      "latitud": 11.1230694,
+      "longitud": -84.7783433,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/12465729137",
+      "nombre": "El Aparejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5991673,
+      "longitud": -84.5981249,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/12500785065",
+      "nombre": "El Venado",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8390037,
+      "longitud": -84.6575698,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/13358052377",
+      "nombre": "Siempre Viva",
+      "tipo_localidad": "hamlet",
+      "latitud": 10.9902595,
+      "longitud": -83.771739,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/13409487843",
+      "nombre": "Bread Fruit",
+      "tipo_localidad": "hamlet",
+      "latitud": 10.9791809,
+      "longitud": -83.7646446,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/13409643277",
+      "nombre": "Campamento Las Murallas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3754364,
+      "longitud": -84.6069574,
+      "departamento": "Rio San Juan"
+    },
+    {
+      "osm_id": "node/13448395655",
+      "nombre": "Chichicaste",
+      "tipo_localidad": "village",
+      "latitud": 11.1107716,
+      "longitud": -84.9138719,
+      "departamento": "Rio San Juan"
+    }
+  ]
+}

@@ -1,0 +1,6285 @@
+{
+    "total": 785,
+    "data": [
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 10000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 1,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Tipitapa",
+            "CodPostal": 15100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 2,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "San Francisco Libre",
+            "CodPostal": 15300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 3,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Mateare",
+            "CodPostal": 15500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 4,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Ciudad Sandino",
+            "CodPostal": 15700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 5,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "El Crucero",
+            "CodPostal": 16100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 6,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Ticuantepe",
+            "CodPostal": 16300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 7,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Villa El Carmen",
+            "CodPostal": 16500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 8,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "San Rafael Del Sur",
+            "CodPostal": 16700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 9,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11001,
+            "Barrio": "Centro Hist\u00f3rico Cultural",
+            "CodMunicipio": 1,
+            "CodBarrio": 1
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11002,
+            "Barrio": "Candelaria",
+            "CodMunicipio": 1,
+            "CodBarrio": 2
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11002,
+            "Barrio": "Rub\u00e9n Dar\u00edo - Candelaria",
+            "CodMunicipio": 1,
+            "CodBarrio": 3
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11003,
+            "Barrio": "Carlos Reina",
+            "CodMunicipio": 1,
+            "CodBarrio": 4
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11003,
+            "Barrio": "Los Pescadores",
+            "CodMunicipio": 1,
+            "CodBarrio": 5
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11004,
+            "Barrio": "Benedicto Valverde",
+            "CodMunicipio": 1,
+            "CodBarrio": 6
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11004,
+            "Barrio": "Quinta Nina",
+            "CodMunicipio": 1,
+            "CodBarrio": 7
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11005,
+            "Barrio": "San Luis Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 8
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11005,
+            "Barrio": "Hilario S\u00e1nchez 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 9
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11006,
+            "Barrio": "Barricada",
+            "CodMunicipio": 1,
+            "CodBarrio": 10
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11006,
+            "Barrio": "Hilario S\u00e1nchez 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 11
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11007,
+            "Barrio": "Las Torres",
+            "CodMunicipio": 1,
+            "CodBarrio": 12
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11008,
+            "Barrio": "Villa Pedro Joaqu\u00edn Chamorro",
+            "CodMunicipio": 1,
+            "CodBarrio": 13
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11009,
+            "Barrio": "Riguero Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 14
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11011,
+            "Barrio": "Domitila Lugo",
+            "CodMunicipio": 1,
+            "CodBarrio": 15
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11012,
+            "Barrio": "Jardines De Santa Clara",
+            "CodMunicipio": 1,
+            "CodBarrio": 16
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11013,
+            "Barrio": "Shelim Shible",
+            "CodMunicipio": 1,
+            "CodBarrio": 17
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11014,
+            "Barrio": "Santa Lucia",
+            "CodMunicipio": 1,
+            "CodBarrio": 18
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11015,
+            "Barrio": "Sector Oeste Portezuelo",
+            "CodMunicipio": 1,
+            "CodBarrio": 19
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11016,
+            "Barrio": "Portezuelo Parque Industrial",
+            "CodMunicipio": 1,
+            "CodBarrio": 20
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11017,
+            "Barrio": "Sector Este Portezuelo",
+            "CodMunicipio": 1,
+            "CodBarrio": 21
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11018,
+            "Barrio": "La Primavera",
+            "CodMunicipio": 1,
+            "CodBarrio": 22
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11019,
+            "Barrio": "Anexo La Primavera",
+            "CodMunicipio": 1,
+            "CodBarrio": 23
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11021,
+            "Barrio": "Vallarta",
+            "CodMunicipio": 1,
+            "CodBarrio": 24
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11022,
+            "Barrio": "Sector Este Vallarta",
+            "CodMunicipio": 1,
+            "CodBarrio": 25
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11023,
+            "Barrio": "Sector Este La Primavera",
+            "CodMunicipio": 1,
+            "CodBarrio": 26
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11024,
+            "Barrio": "Jose Dolores Estrada",
+            "CodMunicipio": 1,
+            "CodBarrio": 27
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11025,
+            "Barrio": "Sector Corte Suprema De Justicia",
+            "CodMunicipio": 1,
+            "CodBarrio": 28
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11026,
+            "Barrio": "Jorge Cassaly",
+            "CodMunicipio": 1,
+            "CodBarrio": 29
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11027,
+            "Barrio": "Wasp\u00e1n Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 30
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11028,
+            "Barrio": "Sector Norte De Wasp\u00e1n Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 31
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11029,
+            "Barrio": "Santa Maria De Las Victorias",
+            "CodMunicipio": 1,
+            "CodBarrio": 32
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11031,
+            "Barrio": "Hugo Ch\u00e1vez",
+            "CodMunicipio": 1,
+            "CodBarrio": 33
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11032,
+            "Barrio": "Camilo Chamorro",
+            "CodMunicipio": 1,
+            "CodBarrio": 34
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11033,
+            "Barrio": "Sector Noreste Camilo Chamorro",
+            "CodMunicipio": 1,
+            "CodBarrio": 35
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11034,
+            "Barrio": "Oscar Lino Paz Cubas",
+            "CodMunicipio": 1,
+            "CodBarrio": 36
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11035,
+            "Barrio": "Bertha D\u00edaz",
+            "CodMunicipio": 1,
+            "CodBarrio": 37
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11036,
+            "Barrio": "Sector Oeste Am\u00e9ricas 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 38
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11037,
+            "Barrio": "Anexo Am\u00e9ricas 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 39
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11037,
+            "Barrio": "B15",
+            "CodMunicipio": 1,
+            "CodBarrio": 40
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11037,
+            "Barrio": "Carlos N\u00fa\u00f1ez",
+            "CodMunicipio": 1,
+            "CodBarrio": 41
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11038,
+            "Barrio": "Am\u00e9ricas 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 42
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11038,
+            "Barrio": "Jose Benito Escobar",
+            "CodMunicipio": 1,
+            "CodBarrio": 43
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11039,
+            "Barrio": "Las Mercedes",
+            "CodMunicipio": 1,
+            "CodBarrio": 44
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11041,
+            "Barrio": "Anexo 1 Unidad De Prop\u00f3sito",
+            "CodMunicipio": 1,
+            "CodBarrio": 45
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11042,
+            "Barrio": "Unidad De Prop\u00f3sito",
+            "CodMunicipio": 1,
+            "CodBarrio": 46
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11043,
+            "Barrio": "German Pomares Am\u00e9ricas 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 47
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11044,
+            "Barrio": "Anexo 2 Unidad De Prop\u00f3sito",
+            "CodMunicipio": 1,
+            "CodBarrio": 48
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11045,
+            "Barrio": "Colinas De Verona",
+            "CodMunicipio": 1,
+            "CodBarrio": 49
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11046,
+            "Barrio": "Las Delicias",
+            "CodMunicipio": 1,
+            "CodBarrio": 50
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11047,
+            "Barrio": "Sector Este Am\u00e9rica 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 51
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11048,
+            "Barrio": "Casa Real Etapa 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 52
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11049,
+            "Barrio": "Casa Real Etapa 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 53
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11051,
+            "Barrio": "Casa Real Etapa 3",
+            "CodMunicipio": 1,
+            "CodBarrio": 54
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11052,
+            "Barrio": "Sector Hotel Camino Real",
+            "CodMunicipio": 1,
+            "CodBarrio": 55
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11053,
+            "Barrio": "Sector Sur Montecristi",
+            "CodMunicipio": 1,
+            "CodBarrio": 56
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11054,
+            "Barrio": "Escuela Quemada",
+            "CodMunicipio": 1,
+            "CodBarrio": 57
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11055,
+            "Barrio": "Montecristi",
+            "CodMunicipio": 1,
+            "CodBarrio": 58
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11056,
+            "Barrio": "Sector Norte Montecristi",
+            "CodMunicipio": 1,
+            "CodBarrio": 59
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11057,
+            "Barrio": "Sector Norte Aeropuerto Internacional De Managua",
+            "CodMunicipio": 1,
+            "CodBarrio": 60
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11058,
+            "Barrio": "15 De Mayo Una",
+            "CodMunicipio": 1,
+            "CodBarrio": 61
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11059,
+            "Barrio": "Sector Hotel Las Mercedes",
+            "CodMunicipio": 1,
+            "CodBarrio": 62
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11061,
+            "Barrio": "El Rodeito",
+            "CodMunicipio": 1,
+            "CodBarrio": 63
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11062,
+            "Barrio": "El Rodeo",
+            "CodMunicipio": 1,
+            "CodBarrio": 64
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11063,
+            "Barrio": "Sector Rio Santa Elena",
+            "CodMunicipio": 1,
+            "CodBarrio": 65
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11064,
+            "Barrio": "Santa Elena",
+            "CodMunicipio": 1,
+            "CodBarrio": 66
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11065,
+            "Barrio": "Monte Fresco",
+            "CodMunicipio": 1,
+            "CodBarrio": 67
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11066,
+            "Barrio": "Sector Rio Borboll\u00f3n",
+            "CodMunicipio": 1,
+            "CodBarrio": 68
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11067,
+            "Barrio": "Sector Rio Lodoso",
+            "CodMunicipio": 1,
+            "CodBarrio": 69
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11068,
+            "Barrio": "Sector Este Zona Franca Industrial",
+            "CodMunicipio": 1,
+            "CodBarrio": 70
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11069,
+            "Barrio": "Alexis Arguello",
+            "CodMunicipio": 1,
+            "CodBarrio": 71
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11071,
+            "Barrio": "Sector Zona Franca Industrial",
+            "CodMunicipio": 1,
+            "CodBarrio": 72
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11072,
+            "Barrio": "Sector Aeropuerto Internacional De Managua",
+            "CodMunicipio": 1,
+            "CodBarrio": 73
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11073,
+            "Barrio": "Sector La Subasta",
+            "CodMunicipio": 1,
+            "CodBarrio": 74
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11074,
+            "Barrio": "Jorge Salazar",
+            "CodMunicipio": 1,
+            "CodBarrio": 75
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11075,
+            "Barrio": "Reparto Segovia",
+            "CodMunicipio": 1,
+            "CodBarrio": 76
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11076,
+            "Barrio": "Concepci\u00f3n De Maria",
+            "CodMunicipio": 1,
+            "CodBarrio": 77
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11076,
+            "Barrio": "Sector Mercado Mayoreo",
+            "CodMunicipio": 1,
+            "CodBarrio": 78
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11077,
+            "Barrio": "Canad\u00e1 Sureste",
+            "CodMunicipio": 1,
+            "CodBarrio": 79
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11078,
+            "Barrio": "Palestina",
+            "CodMunicipio": 1,
+            "CodBarrio": 80
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11079,
+            "Barrio": "Villa Israel",
+            "CodMunicipio": 1,
+            "CodBarrio": 81
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11081,
+            "Barrio": "Villa Reconciliaci\u00f3n",
+            "CodMunicipio": 1,
+            "CodBarrio": 82
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11082,
+            "Barrio": "Sector La Kativo",
+            "CodMunicipio": 1,
+            "CodBarrio": 83
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11083,
+            "Barrio": "Sector Este Wasp\u00e1n Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 84
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11084,
+            "Barrio": "Waspan Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 85
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11085,
+            "Barrio": "Anexo Wasp\u00e1n Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 86
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11086,
+            "Barrio": "Villa Miguel Guti\u00e9rrez",
+            "CodMunicipio": 1,
+            "CodBarrio": 87
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11087,
+            "Barrio": "Oswaldo Manzanares",
+            "CodMunicipio": 1,
+            "CodBarrio": 88
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11088,
+            "Barrio": "Mombacho",
+            "CodMunicipio": 1,
+            "CodBarrio": 89
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11089,
+            "Barrio": "Sector Norte Ciudad Industrial Xolotl\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 90
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11091,
+            "Barrio": "Ciudad Xolotl\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 91
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11092,
+            "Barrio": "Carlos Marx",
+            "CodMunicipio": 1,
+            "CodBarrio": 92
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11093,
+            "Barrio": "Pedro Arauz Palacios",
+            "CodMunicipio": 1,
+            "CodBarrio": 93
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11094,
+            "Barrio": "Nuevo Horizonte",
+            "CodMunicipio": 1,
+            "CodBarrio": 94
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11095,
+            "Barrio": "Santa Rosa",
+            "CodMunicipio": 1,
+            "CodBarrio": 95
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11096,
+            "Barrio": "Costa Rica",
+            "CodMunicipio": 1,
+            "CodBarrio": 96
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11097,
+            "Barrio": "San Luis Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 97
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11098,
+            "Barrio": "Leonel Rugama",
+            "CodMunicipio": 1,
+            "CodBarrio": 98
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11099,
+            "Barrio": "Los Angeles",
+            "CodMunicipio": 1,
+            "CodBarrio": 99
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11101,
+            "Barrio": "Sector Mercado Oriental",
+            "CodMunicipio": 1,
+            "CodBarrio": 100
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11102,
+            "Barrio": "Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 101
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11103,
+            "Barrio": "Sector Sur Centro Hist\u00f3rico",
+            "CodMunicipio": 1,
+            "CodBarrio": 102
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11104,
+            "Barrio": "Sector Gobierno",
+            "CodMunicipio": 1,
+            "CodBarrio": 103
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11105,
+            "Barrio": "Blas Real Espinales",
+            "CodMunicipio": 1,
+            "CodBarrio": 104
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11106,
+            "Barrio": "Sajonia",
+            "CodMunicipio": 1,
+            "CodBarrio": 105
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11107,
+            "Barrio": "19 De Julio",
+            "CodMunicipio": 1,
+            "CodBarrio": 106
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11107,
+            "Barrio": "Buenos Aires",
+            "CodMunicipio": 1,
+            "CodBarrio": 107
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11108,
+            "Barrio": "Ciudad Jard\u00edn",
+            "CodMunicipio": 1,
+            "CodBarrio": 108
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11109,
+            "Barrio": "Romin Manrique",
+            "CodMunicipio": 1,
+            "CodBarrio": 109
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11111,
+            "Barrio": "Tender\u00ed",
+            "CodMunicipio": 1,
+            "CodBarrio": 110
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11112,
+            "Barrio": "El Paraisito",
+            "CodMunicipio": 1,
+            "CodBarrio": 111
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11113,
+            "Barrio": "Larreynaga",
+            "CodMunicipio": 1,
+            "CodBarrio": 112
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11114,
+            "Barrio": "Colonia Edgard Lang",
+            "CodMunicipio": 1,
+            "CodBarrio": 113
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11115,
+            "Barrio": "Hogar Propio",
+            "CodMunicipio": 1,
+            "CodBarrio": 114
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11116,
+            "Barrio": "Francisco Meza Rojas",
+            "CodMunicipio": 1,
+            "CodBarrio": 115
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11117,
+            "Barrio": "Largaespada",
+            "CodMunicipio": 1,
+            "CodBarrio": 116
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11118,
+            "Barrio": "Loma De Tiscapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 117
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11119,
+            "Barrio": "Colonia Oscar Perez Cassar",
+            "CodMunicipio": 1,
+            "CodBarrio": 118
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11121,
+            "Barrio": "Sector Laguna De Tiscapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 119
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11122,
+            "Barrio": "Sector Sur Laguna Tiscapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 120
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11123,
+            "Barrio": "La Florida",
+            "CodMunicipio": 1,
+            "CodBarrio": 121
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11124,
+            "Barrio": "Villa Tiscapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 122
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11125,
+            "Barrio": "Sector La Pi\u00f1ata",
+            "CodMunicipio": 1,
+            "CodBarrio": 123
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11126,
+            "Barrio": "Sector Oeste Avenida Universitaria",
+            "CodMunicipio": 1,
+            "CodBarrio": 124
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11127,
+            "Barrio": "Sector Noroeste Rotonda Rub\u00e9n Dar\u00edo",
+            "CodMunicipio": 1,
+            "CodBarrio": 125
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11128,
+            "Barrio": "Reparto Walter Ferret\u00ed",
+            "CodMunicipio": 1,
+            "CodBarrio": 126
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11129,
+            "Barrio": "Sector Catedral Metropolitana",
+            "CodMunicipio": 1,
+            "CodBarrio": 127
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11131,
+            "Barrio": "Reparto Serrano",
+            "CodMunicipio": 1,
+            "CodBarrio": 128
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11132,
+            "Barrio": "Jorge Dimitrov",
+            "CodMunicipio": 1,
+            "CodBarrio": 129
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11133,
+            "Barrio": "Enrique Schmitd Rotonda de Cristo",
+            "CodMunicipio": 1,
+            "CodBarrio": 130
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11134,
+            "Barrio": "Oscar Turcios Rotonda de Cristo",
+            "CodMunicipio": 1,
+            "CodBarrio": 131
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11135,
+            "Barrio": "Colonia Managua",
+            "CodMunicipio": 1,
+            "CodBarrio": 132
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11136,
+            "Barrio": "Campo Bruce",
+            "CodMunicipio": 1,
+            "CodBarrio": 133
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11137,
+            "Barrio": "San Jose Oriental",
+            "CodMunicipio": 1,
+            "CodBarrio": 134
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11138,
+            "Barrio": "San Crist\u00f3bal",
+            "CodMunicipio": 1,
+            "CodBarrio": 135
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11139,
+            "Barrio": "Maria Auxiliadora",
+            "CodMunicipio": 1,
+            "CodBarrio": 136
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11141,
+            "Barrio": "El Ed\u00e9n",
+            "CodMunicipio": 1,
+            "CodBarrio": 137
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11142,
+            "Barrio": "Cristian Perez",
+            "CodMunicipio": 1,
+            "CodBarrio": 138
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11142,
+            "Barrio": "Salvadorita",
+            "CodMunicipio": 1,
+            "CodBarrio": 139
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11143,
+            "Barrio": "Maestro Gabriel",
+            "CodMunicipio": 1,
+            "CodBarrio": 140
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11144,
+            "Barrio": "Bello Horizonte Etapa 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 141
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11145,
+            "Barrio": "Bello Horizonte Etapa 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 142
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11146,
+            "Barrio": "Bello Horizonte Etapa 3",
+            "CodMunicipio": 1,
+            "CodBarrio": 143
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11147,
+            "Barrio": "Bello Horizonte Etapa 4",
+            "CodMunicipio": 1,
+            "CodBarrio": 144
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11148,
+            "Barrio": "Bello Horizonte Etapa 5",
+            "CodMunicipio": 1,
+            "CodBarrio": 145
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11149,
+            "Barrio": "Bello Horizonte Etapa 6",
+            "CodMunicipio": 1,
+            "CodBarrio": 146
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11151,
+            "Barrio": "Nueva Libia",
+            "CodMunicipio": 1,
+            "CodBarrio": 147
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11152,
+            "Barrio": "Villa Progreso",
+            "CodMunicipio": 1,
+            "CodBarrio": 148
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11153,
+            "Barrio": "Villa Rub\u00e9n Dar\u00edo",
+            "CodMunicipio": 1,
+            "CodBarrio": 149
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11154,
+            "Barrio": "Rafaela Herrera",
+            "CodMunicipio": 1,
+            "CodBarrio": 150
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11155,
+            "Barrio": "M\u00e1rtires De Ayapal",
+            "CodMunicipio": 1,
+            "CodBarrio": 151
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11156,
+            "Barrio": "Villa San Jacinto",
+            "CodMunicipio": 1,
+            "CodBarrio": 152
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11157,
+            "Barrio": "Laureano Mairena",
+            "CodMunicipio": 1,
+            "CodBarrio": 153
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11158,
+            "Barrio": "Villa Fraternidad",
+            "CodMunicipio": 1,
+            "CodBarrio": 154
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11159,
+            "Barrio": "Anexo Villa Fraternidad",
+            "CodMunicipio": 1,
+            "CodBarrio": 155
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11161,
+            "Barrio": "Villa Jap\u00f3n",
+            "CodMunicipio": 1,
+            "CodBarrio": 156
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11162,
+            "Barrio": "9 De Junio",
+            "CodMunicipio": 1,
+            "CodBarrio": 157
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11163,
+            "Barrio": "Anexo Georgino Andrade",
+            "CodMunicipio": 1,
+            "CodBarrio": 158
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11164,
+            "Barrio": "Georgino Andrade",
+            "CodMunicipio": 1,
+            "CodBarrio": 159
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11165,
+            "Barrio": "Barrio Primero De Mayo",
+            "CodMunicipio": 1,
+            "CodBarrio": 160
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11166,
+            "Barrio": "Barrio Venezuela",
+            "CodMunicipio": 1,
+            "CodBarrio": 161
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11167,
+            "Barrio": "Ducuali",
+            "CodMunicipio": 1,
+            "CodBarrio": 162
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11168,
+            "Barrio": "Paula Corea",
+            "CodMunicipio": 1,
+            "CodBarrio": 163
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11169,
+            "Barrio": "El Dorado",
+            "CodMunicipio": 1,
+            "CodBarrio": 164
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11171,
+            "Barrio": "10 De Junio",
+            "CodMunicipio": 1,
+            "CodBarrio": 165
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11172,
+            "Barrio": "Reparto Colombia",
+            "CodMunicipio": 1,
+            "CodBarrio": 166
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11173,
+            "Barrio": "Don Bosco",
+            "CodMunicipio": 1,
+            "CodBarrio": 167
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11174,
+            "Barrio": "Santa Margarita",
+            "CodMunicipio": 1,
+            "CodBarrio": 168
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11175,
+            "Barrio": "Santa Julia",
+            "CodMunicipio": 1,
+            "CodBarrio": 169
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11176,
+            "Barrio": "Farabundo Mart\u00ed",
+            "CodMunicipio": 1,
+            "CodBarrio": 170
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11177,
+            "Barrio": "Francisco Aguilar",
+            "CodMunicipio": 1,
+            "CodBarrio": 171
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11178,
+            "Barrio": "Habana 2 Maria",
+            "CodMunicipio": 1,
+            "CodBarrio": 172
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11179,
+            "Barrio": "Colonia Nicarao",
+            "CodMunicipio": 1,
+            "CodBarrio": 173
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11181,
+            "Barrio": "Carlos Aguirre",
+            "CodMunicipio": 1,
+            "CodBarrio": 174
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11182,
+            "Barrio": "Uni\u00f3n Sovi\u00e9tica",
+            "CodMunicipio": 1,
+            "CodBarrio": 175
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11183,
+            "Barrio": "Rubenia",
+            "CodMunicipio": 1,
+            "CodBarrio": 176
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11184,
+            "Barrio": "Villa Austria",
+            "CodMunicipio": 1,
+            "CodBarrio": 177
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11185,
+            "Barrio": "Am\u00e9ricas 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 178
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11186,
+            "Barrio": "Villa Bulgaria",
+            "CodMunicipio": 1,
+            "CodBarrio": 179
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11187,
+            "Barrio": "8 De Marzo",
+            "CodMunicipio": 1,
+            "CodBarrio": 180
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11187,
+            "Barrio": "Mercado Ivan Montenegro",
+            "CodMunicipio": 1,
+            "CodBarrio": 181
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11188,
+            "Barrio": "Am\u00e9ricas 3",
+            "CodMunicipio": 1,
+            "CodBarrio": 182
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11188,
+            "Barrio": "Villa Revoluci\u00f3n",
+            "CodMunicipio": 1,
+            "CodBarrio": 183
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11189,
+            "Barrio": "10 De Enero",
+            "CodMunicipio": 1,
+            "CodBarrio": 184
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11191,
+            "Barrio": "Reparto Lopez",
+            "CodMunicipio": 1,
+            "CodBarrio": 185
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11192,
+            "Barrio": "Jericob",
+            "CodMunicipio": 1,
+            "CodBarrio": 186
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11193,
+            "Barrio": "Villa Feliz",
+            "CodMunicipio": 1,
+            "CodBarrio": 187
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11194,
+            "Barrio": "Sector Sur Villa Reconciliaci\u00f3n",
+            "CodMunicipio": 1,
+            "CodBarrio": 188
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11195,
+            "Barrio": "19 De Febrero",
+            "CodMunicipio": 1,
+            "CodBarrio": 189
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11196,
+            "Barrio": "Betancur",
+            "CodMunicipio": 1,
+            "CodBarrio": 190
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11197,
+            "Barrio": "Sector Norte Laureles Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 191
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11198,
+            "Barrio": "Laureles Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 192
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11199,
+            "Barrio": "Sector Sur 1 Mercado Mayoreo",
+            "CodMunicipio": 1,
+            "CodBarrio": 193
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11201,
+            "Barrio": "Reparto Sim\u00f3n Bol\u00edvar",
+            "CodMunicipio": 1,
+            "CodBarrio": 194
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11202,
+            "Barrio": "Sector Sur 2 Mercado Mayoreo",
+            "CodMunicipio": 1,
+            "CodBarrio": 195
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11203,
+            "Barrio": "Planes Del Doral",
+            "CodMunicipio": 1,
+            "CodBarrio": 196
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11204,
+            "Barrio": "Praderas Del Doral",
+            "CodMunicipio": 1,
+            "CodBarrio": 197
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11205,
+            "Barrio": "Gertrudis \u00c1reas",
+            "CodMunicipio": 1,
+            "CodBarrio": 198
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11206,
+            "Barrio": "31 De Diciembre",
+            "CodMunicipio": 1,
+            "CodBarrio": 199
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11207,
+            "Barrio": "Sector Norte Laureles Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 200
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11208,
+            "Barrio": "Cortijo De La Sabana",
+            "CodMunicipio": 1,
+            "CodBarrio": 201
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11209,
+            "Barrio": "La Curva Sabana Grande",
+            "CodMunicipio": 1,
+            "CodBarrio": 202
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11211,
+            "Barrio": "Villa Dignidad",
+            "CodMunicipio": 1,
+            "CodBarrio": 203
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11212,
+            "Barrio": "La Maravilla",
+            "CodMunicipio": 1,
+            "CodBarrio": 204
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11212,
+            "Barrio": "Sector Norte Sabana Grande",
+            "CodMunicipio": 1,
+            "CodBarrio": 205
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11213,
+            "Barrio": "Sector Este Sabana Grande",
+            "CodMunicipio": 1,
+            "CodBarrio": 206
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11214,
+            "Barrio": "Sector Norte Comarca San Crist\u00f3bal",
+            "CodMunicipio": 1,
+            "CodBarrio": 207
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 11215,
+            "Barrio": "Sector Noreste Comarca San Crist\u00f3bal",
+            "CodMunicipio": 1,
+            "CodBarrio": 208
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12001,
+            "Barrio": "San Sebasti\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 209
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12002,
+            "Barrio": "Manchester",
+            "CodMunicipio": 1,
+            "CodBarrio": 210
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12003,
+            "Barrio": "Cristo Del Rosario",
+            "CodMunicipio": 1,
+            "CodBarrio": 211
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12004,
+            "Barrio": "Julio Buitrago",
+            "CodMunicipio": 1,
+            "CodBarrio": 212
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12005,
+            "Barrio": "Santa Ana Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 213
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12006,
+            "Barrio": "Santa Ana Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 214
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12007,
+            "Barrio": "Acahualinca",
+            "CodMunicipio": 1,
+            "CodBarrio": 215
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12008,
+            "Barrio": "Alemania Democr\u00e1tica",
+            "CodMunicipio": 1,
+            "CodBarrio": 216
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12009,
+            "Barrio": "Barrio Cuba",
+            "CodMunicipio": 1,
+            "CodBarrio": 217
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12011,
+            "Barrio": "Rub\u00e9n Dar\u00edo",
+            "CodMunicipio": 1,
+            "CodBarrio": 218
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12012,
+            "Barrio": "Francisco Moraz\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 219
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12013,
+            "Barrio": "Rafael R\u00edos",
+            "CodMunicipio": 1,
+            "CodBarrio": 220
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12014,
+            "Barrio": "Sector Norte Linda Vista",
+            "CodMunicipio": 1,
+            "CodBarrio": 221
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12015,
+            "Barrio": "Sector Occidental Lago De Managua",
+            "CodMunicipio": 1,
+            "CodBarrio": 222
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12016,
+            "Barrio": "La Chureca",
+            "CodMunicipio": 1,
+            "CodBarrio": 223
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12017,
+            "Barrio": "Virgen De Guadalupe",
+            "CodMunicipio": 1,
+            "CodBarrio": 224
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12018,
+            "Barrio": "Sector Norte Las Brisas",
+            "CodMunicipio": 1,
+            "CodBarrio": 225
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12019,
+            "Barrio": "Linda Vista Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 226
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12021,
+            "Barrio": "Las Brisas",
+            "CodMunicipio": 1,
+            "CodBarrio": 227
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12022,
+            "Barrio": "Carlos N\u00fa\u00f1ez Los Martinez",
+            "CodMunicipio": 1,
+            "CodBarrio": 228
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12023,
+            "Barrio": "Valle Dorado",
+            "CodMunicipio": 1,
+            "CodBarrio": 229
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12024,
+            "Barrio": "Sector Cerro Los Martinez",
+            "CodMunicipio": 1,
+            "CodBarrio": 230
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12025,
+            "Barrio": "Sector Cuesta Del Plomo",
+            "CodMunicipio": 1,
+            "CodBarrio": 231
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12026,
+            "Barrio": "Sector Industrial La Refiner\u00eda",
+            "CodMunicipio": 1,
+            "CodBarrio": 232
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12027,
+            "Barrio": "Ulsa",
+            "CodMunicipio": 1,
+            "CodBarrio": 233
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12028,
+            "Barrio": "Sector Paseo Las Brisa",
+            "CodMunicipio": 1,
+            "CodBarrio": 234
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12029,
+            "Barrio": "Los Arcos",
+            "CodMunicipio": 1,
+            "CodBarrio": 235
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12031,
+            "Barrio": "Linda Vista Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 236
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12032,
+            "Barrio": "Loma Verde",
+            "CodMunicipio": 1,
+            "CodBarrio": 237
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12033,
+            "Barrio": "El Seminario",
+            "CodMunicipio": 1,
+            "CodBarrio": 238
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12034,
+            "Barrio": "El Cortijo",
+            "CodMunicipio": 1,
+            "CodBarrio": 239
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12035,
+            "Barrio": "Dignidad 4 De Mayo",
+            "CodMunicipio": 1,
+            "CodBarrio": 240
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12036,
+            "Barrio": "Monse\u00f1or Lezcano Oeste",
+            "CodMunicipio": 1,
+            "CodBarrio": 241
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12037,
+            "Barrio": "Monse\u00f1or Lezcano Este",
+            "CodMunicipio": 1,
+            "CodBarrio": 242
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12038,
+            "Barrio": "Javier Cuadra",
+            "CodMunicipio": 1,
+            "CodBarrio": 243
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12039,
+            "Barrio": "La Reforma",
+            "CodMunicipio": 1,
+            "CodBarrio": 244
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12041,
+            "Barrio": "San Jose",
+            "CodMunicipio": 1,
+            "CodBarrio": 245
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12042,
+            "Barrio": "San Antonio",
+            "CodMunicipio": 1,
+            "CodBarrio": 246
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12043,
+            "Barrio": "San Pedro",
+            "CodMunicipio": 1,
+            "CodBarrio": 247
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12044,
+            "Barrio": "El B\u00f3er",
+            "CodMunicipio": 1,
+            "CodBarrio": 248
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12045,
+            "Barrio": "Che Guevara",
+            "CodMunicipio": 1,
+            "CodBarrio": 249
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12046,
+            "Barrio": "Martha Quezada",
+            "CodMunicipio": 1,
+            "CodBarrio": 250
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12047,
+            "Barrio": "William Diaz",
+            "CodMunicipio": 1,
+            "CodBarrio": 251
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12048,
+            "Barrio": "El Carmen",
+            "CodMunicipio": 1,
+            "CodBarrio": 252
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12049,
+            "Barrio": "Colonia Mantica",
+            "CodMunicipio": 1,
+            "CodBarrio": 253
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12049,
+            "Barrio": "Callej\u00f3n Zelaya",
+            "CodMunicipio": 1,
+            "CodBarrio": 254
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12051,
+            "Barrio": "Las Palmas",
+            "CodMunicipio": 1,
+            "CodBarrio": 255
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12052,
+            "Barrio": "Manuel Olivares",
+            "CodMunicipio": 1,
+            "CodBarrio": 256
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12053,
+            "Barrio": "Reparto Espa\u00f1a",
+            "CodMunicipio": 1,
+            "CodBarrio": 257
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12054,
+            "Barrio": "Miraflores 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 258
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12055,
+            "Barrio": "Miraflores 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 259
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12056,
+            "Barrio": "Juan Emilio Menocal",
+            "CodMunicipio": 1,
+            "CodBarrio": 260
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12057,
+            "Barrio": "Sector El Seminario",
+            "CodMunicipio": 1,
+            "CodBarrio": 261
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12058,
+            "Barrio": "Sector Laguna De Asososca",
+            "CodMunicipio": 1,
+            "CodBarrio": 262
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12059,
+            "Barrio": "Sector Este Laguna De Asososca",
+            "CodMunicipio": 1,
+            "CodBarrio": 263
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12061,
+            "Barrio": "Dinamarca",
+            "CodMunicipio": 1,
+            "CodBarrio": 264
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12062,
+            "Barrio": "Batahola Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 265
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12063,
+            "Barrio": "Jardines De Managua",
+            "CodMunicipio": 1,
+            "CodBarrio": 266
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12064,
+            "Barrio": "Edgard Lang",
+            "CodMunicipio": 1,
+            "CodBarrio": 267
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12065,
+            "Barrio": "Altagracia Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 268
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12066,
+            "Barrio": "Bolonia",
+            "CodMunicipio": 1,
+            "CodBarrio": 269
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12067,
+            "Barrio": "San Martin",
+            "CodMunicipio": 1,
+            "CodBarrio": 270
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12068,
+            "Barrio": "25 Aniversario",
+            "CodMunicipio": 1,
+            "CodBarrio": 271
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12069,
+            "Barrio": "San Ignacio Waslala",
+            "CodMunicipio": 1,
+            "CodBarrio": 272
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12071,
+            "Barrio": "Embusa 1 Y 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 273
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12072,
+            "Barrio": "Anexo Batahola Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 274
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12073,
+            "Barrio": "Batahola Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 275
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12074,
+            "Barrio": "Llamas Del Bosque",
+            "CodMunicipio": 1,
+            "CodBarrio": 276
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12075,
+            "Barrio": "Los Madro\u00f1os",
+            "CodMunicipio": 1,
+            "CodBarrio": 277
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12076,
+            "Barrio": "Daniel Chavarr\u00eda",
+            "CodMunicipio": 1,
+            "CodBarrio": 278
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12077,
+            "Barrio": "Nora Astorga",
+            "CodMunicipio": 1,
+            "CodBarrio": 279
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12078,
+            "Barrio": "Santa Ana Nicalit",
+            "CodMunicipio": 1,
+            "CodBarrio": 280
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12079,
+            "Barrio": "Altagracia Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 281
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12081,
+            "Barrio": "Bertha Calderon",
+            "CodMunicipio": 1,
+            "CodBarrio": 282
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12082,
+            "Barrio": "Recreo Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 283
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12083,
+            "Barrio": "Bosques De Bolonia",
+            "CodMunicipio": 1,
+            "CodBarrio": 284
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12084,
+            "Barrio": "Sector Plaza Espa\u00f1a",
+            "CodMunicipio": 1,
+            "CodBarrio": 285
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12085,
+            "Barrio": "Plaza Espa\u00f1a Costado Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 286
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12086,
+            "Barrio": "Sector El Retiro",
+            "CodMunicipio": 1,
+            "CodBarrio": 287
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12087,
+            "Barrio": "Jonathan Gonzalez",
+            "CodMunicipio": 1,
+            "CodBarrio": 288
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12088,
+            "Barrio": "Villa Argentina",
+            "CodMunicipio": 1,
+            "CodBarrio": 289
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12089,
+            "Barrio": "Golfo P\u00e9rsico",
+            "CodMunicipio": 1,
+            "CodBarrio": 290
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12091,
+            "Barrio": "Sector Enel Central",
+            "CodMunicipio": 1,
+            "CodBarrio": 291
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12092,
+            "Barrio": "Enrique Bermudez 380",
+            "CodMunicipio": 1,
+            "CodBarrio": 292
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12093,
+            "Barrio": "Carlos N\u00fa\u00f1ez 380",
+            "CodMunicipio": 1,
+            "CodBarrio": 293
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12094,
+            "Barrio": "Sector Oeste Avenida Naciones Unidas",
+            "CodMunicipio": 1,
+            "CodBarrio": 294
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12095,
+            "Barrio": "Rene Cisneros",
+            "CodMunicipio": 1,
+            "CodBarrio": 295
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12096,
+            "Barrio": "Recreo Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 296
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12097,
+            "Barrio": "Andr\u00e9s Castro",
+            "CodMunicipio": 1,
+            "CodBarrio": 297
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12098,
+            "Barrio": "Centro C\u00edvico",
+            "CodMunicipio": 1,
+            "CodBarrio": 298
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12099,
+            "Barrio": "Sector Mercado Israel Lewites",
+            "CodMunicipio": 1,
+            "CodBarrio": 299
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12101,
+            "Barrio": "Sector Pali Zumen",
+            "CodMunicipio": 1,
+            "CodBarrio": 300
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12102,
+            "Barrio": "Sector Centro Comercial Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 301
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12103,
+            "Barrio": "Enrique Schmidt Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 302
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12104,
+            "Barrio": "Belmonte",
+            "CodMunicipio": 1,
+            "CodBarrio": 303
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12105,
+            "Barrio": "David Tejada",
+            "CodMunicipio": 1,
+            "CodBarrio": 304
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12106,
+            "Barrio": "Sector Cerro Tabuya",
+            "CodMunicipio": 1,
+            "CodBarrio": 305
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12107,
+            "Barrio": "Sector Parque Las Piedrecitas",
+            "CodMunicipio": 1,
+            "CodBarrio": 306
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12108,
+            "Barrio": "Motastepe",
+            "CodMunicipio": 1,
+            "CodBarrio": 307
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12109,
+            "Barrio": "Mirna Ugarte",
+            "CodMunicipio": 1,
+            "CodBarrio": 308
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12111,
+            "Barrio": "Las Piedrecitas",
+            "CodMunicipio": 1,
+            "CodBarrio": 309
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 12112,
+            "Barrio": "H\u00e9roes Y M\u00e1rtires De Ayapal",
+            "CodMunicipio": 1,
+            "CodBarrio": 310
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13001,
+            "Barrio": "Casimiro Sotelo",
+            "CodMunicipio": 1,
+            "CodBarrio": 311
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13002,
+            "Barrio": "Sector Instituto Salom\u00f3n De La Selva",
+            "CodMunicipio": 1,
+            "CodBarrio": 312
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13002,
+            "Barrio": "Hialeah 1 Y 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 313
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13004,
+            "Barrio": "Sector Holiday Inn",
+            "CodMunicipio": 1,
+            "CodBarrio": 314
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13005,
+            "Barrio": "Sector Ofiplaza",
+            "CodMunicipio": 1,
+            "CodBarrio": 315
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13006,
+            "Barrio": "Colonia Del Periodista",
+            "CodMunicipio": 1,
+            "CodBarrio": 316
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13007,
+            "Barrio": "La Esperanza",
+            "CodMunicipio": 1,
+            "CodBarrio": 317
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13008,
+            "Barrio": "El Pilar",
+            "CodMunicipio": 1,
+            "CodBarrio": 318
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13009,
+            "Barrio": "Sector Hospital Bertha Calder\u00f3n",
+            "CodMunicipio": 1,
+            "CodBarrio": 319
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13011,
+            "Barrio": "Colonia Independencia",
+            "CodMunicipio": 1,
+            "CodBarrio": 320
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13011,
+            "Barrio": "H\u00e9roes Y M\u00e1rtires Del Bocay",
+            "CodMunicipio": 1,
+            "CodBarrio": 321
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13012,
+            "Barrio": "Tierra Prometida",
+            "CodMunicipio": 1,
+            "CodBarrio": 322
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13013,
+            "Barrio": "Sector Banco Central",
+            "CodMunicipio": 1,
+            "CodBarrio": 323
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13014,
+            "Barrio": "Frawley",
+            "CodMunicipio": 1,
+            "CodBarrio": 324
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13015,
+            "Barrio": "Reisel",
+            "CodMunicipio": 1,
+            "CodBarrio": 325
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13016,
+            "Barrio": "Sector Laguna De Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 326
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13017,
+            "Barrio": "Sector Este Laguna De Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 327
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13018,
+            "Barrio": "Sector Noroeste Pista Suburbana",
+            "CodMunicipio": 1,
+            "CodBarrio": 328
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13019,
+            "Barrio": "Lomas De San Judas",
+            "CodMunicipio": 1,
+            "CodBarrio": 329
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13021,
+            "Barrio": "Herlinda L\u00f3pez",
+            "CodMunicipio": 1,
+            "CodBarrio": 330
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13022,
+            "Barrio": "Luis Alfonso Vel\u00e1squez 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 331
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13023,
+            "Barrio": "Luis Alfonso Vel\u00e1squez 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 332
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13024,
+            "Barrio": "San Judas",
+            "CodMunicipio": 1,
+            "CodBarrio": 333
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13025,
+            "Barrio": "Los Mart\u00ednez San Judas",
+            "CodMunicipio": 1,
+            "CodBarrio": 334
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13026,
+            "Barrio": "Sector Este San Judas",
+            "CodMunicipio": 1,
+            "CodBarrio": 335
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13027,
+            "Barrio": "San Pedro San Judas",
+            "CodMunicipio": 1,
+            "CodBarrio": 336
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13028,
+            "Barrio": "Vista Hermosa",
+            "CodMunicipio": 1,
+            "CodBarrio": 337
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13029,
+            "Barrio": "Martin Luter King",
+            "CodMunicipio": 1,
+            "CodBarrio": 338
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13031,
+            "Barrio": "Paseo Del Valle",
+            "CodMunicipio": 1,
+            "CodBarrio": 339
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13032,
+            "Barrio": "San Francisco De As\u00eds",
+            "CodMunicipio": 1,
+            "CodBarrio": 340
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13033,
+            "Barrio": "Memorial Sandino",
+            "CodMunicipio": 1,
+            "CodBarrio": 341
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13034,
+            "Barrio": "Bosques De Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 342
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13035,
+            "Barrio": "Sector Suroeste Colonia El Periodista",
+            "CodMunicipio": 1,
+            "CodBarrio": 343
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13036,
+            "Barrio": "Altos De Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 344
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13037,
+            "Barrio": "Hialeah 3",
+            "CodMunicipio": 1,
+            "CodBarrio": 345
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13038,
+            "Barrio": "Hialeah 4",
+            "CodMunicipio": 1,
+            "CodBarrio": 346
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13039,
+            "Barrio": "Sector Oeste Lomas De San \u00c1ngel",
+            "CodMunicipio": 1,
+            "CodBarrio": 347
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13041,
+            "Barrio": "Villa San \u00c1ngel",
+            "CodMunicipio": 1,
+            "CodBarrio": 348
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13042,
+            "Barrio": "Lomas De San \u00c1ngel",
+            "CodMunicipio": 1,
+            "CodBarrio": 349
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13043,
+            "Barrio": "Lomas De Monserrat",
+            "CodMunicipio": 1,
+            "CodBarrio": 350
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13044,
+            "Barrio": "Catalina",
+            "CodMunicipio": 1,
+            "CodBarrio": 351
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13045,
+            "Barrio": "Acr\u00f3polis",
+            "CodMunicipio": 1,
+            "CodBarrio": 352
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13046,
+            "Barrio": "Sector Noroeste Rotonda Universitaria",
+            "CodMunicipio": 1,
+            "CodBarrio": 353
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13047,
+            "Barrio": "Lomas Del Consuelo",
+            "CodMunicipio": 1,
+            "CodBarrio": 354
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13048,
+            "Barrio": "Sector Colegio Americano",
+            "CodMunicipio": 1,
+            "CodBarrio": 355
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13049,
+            "Barrio": "Sector Suroeste Rotonda Universitaria",
+            "CodMunicipio": 1,
+            "CodBarrio": 356
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13051,
+            "Barrio": "Colonia Miguel Bonilla",
+            "CodMunicipio": 1,
+            "CodBarrio": 357
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13052,
+            "Barrio": "Sector Mokor\u00f3n",
+            "CodMunicipio": 1,
+            "CodBarrio": 358
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13053,
+            "Barrio": "Sector Norte Comarca Los Ladinos",
+            "CodMunicipio": 1,
+            "CodBarrio": 359
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13054,
+            "Barrio": "Sector Sur Memorial Sandino",
+            "CodMunicipio": 1,
+            "CodBarrio": 360
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13055,
+            "Barrio": "Marvin Mar\u00edn",
+            "CodMunicipio": 1,
+            "CodBarrio": 361
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13056,
+            "Barrio": "Villa Roma",
+            "CodMunicipio": 1,
+            "CodBarrio": 362
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13057,
+            "Barrio": "Omar Torrijos - Loma Linda",
+            "CodMunicipio": 1,
+            "CodBarrio": 363
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13058,
+            "Barrio": "Lomas De Buenos Aires",
+            "CodMunicipio": 1,
+            "CodBarrio": 364
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13059,
+            "Barrio": "Sector Suroeste Pista Suburbana",
+            "CodMunicipio": 1,
+            "CodBarrio": 365
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13061,
+            "Barrio": "San Patricio",
+            "CodMunicipio": 1,
+            "CodBarrio": 366
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13062,
+            "Barrio": "Kilocho",
+            "CodMunicipio": 1,
+            "CodBarrio": 367
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13063,
+            "Barrio": "Germ\u00e1n Pomares -Ticomo",
+            "CodMunicipio": 1,
+            "CodBarrio": 368
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13064,
+            "Barrio": "Arges Sequeira",
+            "CodMunicipio": 1,
+            "CodBarrio": 369
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13065,
+            "Barrio": "Sector Noreste Valle De Ticomo",
+            "CodMunicipio": 1,
+            "CodBarrio": 370
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13066,
+            "Barrio": "Villa Nueva",
+            "CodMunicipio": 1,
+            "CodBarrio": 371
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13067,
+            "Barrio": "Lomas Del Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 372
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13068,
+            "Barrio": "Buena Vista",
+            "CodMunicipio": 1,
+            "CodBarrio": 373
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13069,
+            "Barrio": "Bertilda Olegaria",
+            "CodMunicipio": 1,
+            "CodBarrio": 374
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13071,
+            "Barrio": "La Zacatera",
+            "CodMunicipio": 1,
+            "CodBarrio": 375
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13072,
+            "Barrio": "Los Laureles- Camilo Ortega",
+            "CodMunicipio": 1,
+            "CodBarrio": 376
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13073,
+            "Barrio": "Sector Sureste Valle Ticomo",
+            "CodMunicipio": 1,
+            "CodBarrio": 377
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13074,
+            "Barrio": "William Galeano",
+            "CodMunicipio": 1,
+            "CodBarrio": 378
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13075,
+            "Barrio": "Camilo Ortega",
+            "CodMunicipio": 1,
+            "CodBarrio": 379
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13075,
+            "Barrio": "Torres Molina",
+            "CodMunicipio": 1,
+            "CodBarrio": 380
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13076,
+            "Barrio": "Anexo Camilo Ortega",
+            "CodMunicipio": 1,
+            "CodBarrio": 381
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13077,
+            "Barrio": "Sector Sur Loma Linda",
+            "CodMunicipio": 1,
+            "CodBarrio": 382
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13078,
+            "Barrio": "Loma Linda",
+            "CodMunicipio": 1,
+            "CodBarrio": 383
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13078,
+            "Barrio": "Sierra Maestra",
+            "CodMunicipio": 1,
+            "CodBarrio": 384
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13079,
+            "Barrio": "Anexo Villa Roma",
+            "CodMunicipio": 1,
+            "CodBarrio": 385
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13081,
+            "Barrio": "Sector Noreste Comarca Pochocuape",
+            "CodMunicipio": 1,
+            "CodBarrio": 386
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13082,
+            "Barrio": "Sector Noroeste Comarca San Isidro Libertador",
+            "CodMunicipio": 1,
+            "CodBarrio": 387
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13083,
+            "Barrio": "Sector Norte Comarca San Isidro Libertador",
+            "CodMunicipio": 1,
+            "CodBarrio": 388
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13084,
+            "Barrio": "Sector Sur Comarca Los Ladinos",
+            "CodMunicipio": 1,
+            "CodBarrio": 389
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13085,
+            "Barrio": "El Progreso",
+            "CodMunicipio": 1,
+            "CodBarrio": 390
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13086,
+            "Barrio": "Sector Norte Comarca Las Viudas",
+            "CodMunicipio": 1,
+            "CodBarrio": 391
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13087,
+            "Barrio": "Sector Sur Comarca Las Viudas",
+            "CodMunicipio": 1,
+            "CodBarrio": 392
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13088,
+            "Barrio": "Sector Sur Comarca San Isidro Libertador",
+            "CodMunicipio": 1,
+            "CodBarrio": 393
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13089,
+            "Barrio": "Sector Sur Comarca Pochocuape",
+            "CodMunicipio": 1,
+            "CodBarrio": 394
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13091,
+            "Barrio": "Sector Sur Comarca Ticomo",
+            "CodMunicipio": 1,
+            "CodBarrio": 395
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13092,
+            "Barrio": "Sector Sur Valle Ticomo",
+            "CodMunicipio": 1,
+            "CodBarrio": 396
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13093,
+            "Barrio": "Sector Valle De Ticomo",
+            "CodMunicipio": 1,
+            "CodBarrio": 397
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13094,
+            "Barrio": "Sector Sur Laguna Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 398
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13095,
+            "Barrio": "Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 399
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13096,
+            "Barrio": "Sector Norte Comarca Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 400
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13097,
+            "Barrio": "German Pomares- Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 401
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13098,
+            "Barrio": "Delagneau",
+            "CodMunicipio": 1,
+            "CodBarrio": 402
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13099,
+            "Barrio": "Villa Galicia",
+            "CodMunicipio": 1,
+            "CodBarrio": 403
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13101,
+            "Barrio": "Sector Noroeste Altos De Ticomo",
+            "CodMunicipio": 1,
+            "CodBarrio": 404
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13102,
+            "Barrio": "Sector Sur Comarca Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 405
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13103,
+            "Barrio": "Bosques De Miraflores",
+            "CodMunicipio": 1,
+            "CodBarrio": 406
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13104,
+            "Barrio": "Sector Oeste Comarca Nejapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 407
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13105,
+            "Barrio": "Sector Norte Cedro Gal\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 408
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13106,
+            "Barrio": "Sector Central Comarca Cedro Gal\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 409
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13107,
+            "Barrio": "Sector Norte Comarca Chiquilistagua",
+            "CodMunicipio": 1,
+            "CodBarrio": 410
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13108,
+            "Barrio": "Lomas De Maromo",
+            "CodMunicipio": 1,
+            "CodBarrio": 411
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13109,
+            "Barrio": "Sector Central Comarca Chiquilistagua",
+            "CodMunicipio": 1,
+            "CodBarrio": 412
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13111,
+            "Barrio": "Vista Esmeralda",
+            "CodMunicipio": 1,
+            "CodBarrio": 413
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13112,
+            "Barrio": "Sector Oeste Comarca Chiquilistagua",
+            "CodMunicipio": 1,
+            "CodBarrio": 414
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13113,
+            "Barrio": "Casa Blanca",
+            "CodMunicipio": 1,
+            "CodBarrio": 415
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13114,
+            "Barrio": "Monte Verde",
+            "CodMunicipio": 1,
+            "CodBarrio": 416
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13115,
+            "Barrio": "Planetarium",
+            "CodMunicipio": 1,
+            "CodBarrio": 417
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13116,
+            "Barrio": "Sector Este Comarca Chiquilistagua",
+            "CodMunicipio": 1,
+            "CodBarrio": 418
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13117,
+            "Barrio": "Sector Suroeste Comarca Cedro Gal\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 419
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13118,
+            "Barrio": "Sector Sur Comarca Cedro Gal\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 420
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13119,
+            "Barrio": "Sector Noroeste Comarca San Jose De La Ca\u00f1ada",
+            "CodMunicipio": 1,
+            "CodBarrio": 421
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13121,
+            "Barrio": "Altos De Ticomo",
+            "CodMunicipio": 1,
+            "CodBarrio": 422
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13122,
+            "Barrio": "Lomas De Ticomo",
+            "CodMunicipio": 1,
+            "CodBarrio": 423
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13123,
+            "Barrio": "Santa Anita",
+            "CodMunicipio": 1,
+            "CodBarrio": 424
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13124,
+            "Barrio": "Santa Anita 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 425
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13125,
+            "Barrio": "Santa Isabel",
+            "CodMunicipio": 1,
+            "CodBarrio": 426
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13125,
+            "Barrio": "Marcell Pallais",
+            "CodMunicipio": 1,
+            "CodBarrio": 427
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13126,
+            "Barrio": "Sector Suroeste Santa Anita",
+            "CodMunicipio": 1,
+            "CodBarrio": 428
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13127,
+            "Barrio": "San Sebasti\u00e1n Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 429
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13128,
+            "Barrio": "Sector Este Comarca San Jose De La Ca\u00f1ada",
+            "CodMunicipio": 1,
+            "CodBarrio": 430
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13129,
+            "Barrio": "Sector Sureste Santa Isabel",
+            "CodMunicipio": 1,
+            "CodBarrio": 431
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13131,
+            "Barrio": "El Sosiego",
+            "CodMunicipio": 1,
+            "CodBarrio": 432
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13132,
+            "Barrio": "Samarkanda",
+            "CodMunicipio": 1,
+            "CodBarrio": 433
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13133,
+            "Barrio": "Villa Jacinto",
+            "CodMunicipio": 1,
+            "CodBarrio": 434
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13134,
+            "Barrio": "Sector Oeste Monte Tabor",
+            "CodMunicipio": 1,
+            "CodBarrio": 435
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13135,
+            "Barrio": "Las Carolinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 436
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13135,
+            "Barrio": "Serran\u00edas",
+            "CodMunicipio": 1,
+            "CodBarrio": 437
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13136,
+            "Barrio": "Los Cocos",
+            "CodMunicipio": 1,
+            "CodBarrio": 438
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13137,
+            "Barrio": "Urbanizaci\u00f3n Ticomo Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 439
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13138,
+            "Barrio": "Sector Este Comarca Monte Tabor",
+            "CodMunicipio": 1,
+            "CodBarrio": 440
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13139,
+            "Barrio": "Las Jinotepes",
+            "CodMunicipio": 1,
+            "CodBarrio": 441
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13141,
+            "Barrio": "El Pedernal",
+            "CodMunicipio": 1,
+            "CodBarrio": 442
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13142,
+            "Barrio": "El Rosal",
+            "CodMunicipio": 1,
+            "CodBarrio": 443
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13143,
+            "Barrio": "Hilario S\u00e1nchez Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 444
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13144,
+            "Barrio": "Sector Sureste Comarca San Jose La Ca\u00f1ada",
+            "CodMunicipio": 1,
+            "CodBarrio": 445
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13145,
+            "Barrio": "La Veranera",
+            "CodMunicipio": 1,
+            "CodBarrio": 446
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 13146,
+            "Barrio": "Sector Suroeste Comarca San Jose La Ca\u00f1ada",
+            "CodMunicipio": 1,
+            "CodBarrio": 447
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14001,
+            "Barrio": "Edgard Mungu\u00eda",
+            "CodMunicipio": 1,
+            "CodBarrio": 448
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14002,
+            "Barrio": "Reparto San Juan",
+            "CodMunicipio": 1,
+            "CodBarrio": 449
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14003,
+            "Barrio": "Reparto Lomas De Guadalupe",
+            "CodMunicipio": 1,
+            "CodBarrio": 450
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14004,
+            "Barrio": "Reparto Tiscapa",
+            "CodMunicipio": 1,
+            "CodBarrio": 451
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14005,
+            "Barrio": "Sector Metrocentro",
+            "CodMunicipio": 1,
+            "CodBarrio": 452
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14006,
+            "Barrio": "Colonial Los Robles 3",
+            "CodMunicipio": 1,
+            "CodBarrio": 453
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14007,
+            "Barrio": "Colonial Los Robles 5",
+            "CodMunicipio": 1,
+            "CodBarrio": 454
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14008,
+            "Barrio": "Colonial Los Robles 7",
+            "CodMunicipio": 1,
+            "CodBarrio": 455
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14009,
+            "Barrio": "Colonial Los Robles 8",
+            "CodMunicipio": 1,
+            "CodBarrio": 456
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14011,
+            "Barrio": "Pedro Joaqu\u00edn Chamorro",
+            "CodMunicipio": 1,
+            "CodBarrio": 457
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14012,
+            "Barrio": "La Luz",
+            "CodMunicipio": 1,
+            "CodBarrio": 458
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14012,
+            "Barrio": "14 De Junio",
+            "CodMunicipio": 1,
+            "CodBarrio": 459
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14013,
+            "Barrio": "Habana 1 - Rotonda De Cristo",
+            "CodMunicipio": 1,
+            "CodBarrio": 460
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14014,
+            "Barrio": "Riguero",
+            "CodMunicipio": 1,
+            "CodBarrio": 461
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14015,
+            "Barrio": "Aldo Chavarr\u00eda",
+            "CodMunicipio": 1,
+            "CodBarrio": 462
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14016,
+            "Barrio": "M\u00e1ximo Jer\u00e9z",
+            "CodMunicipio": 1,
+            "CodBarrio": 463
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14017,
+            "Barrio": "Barrio M\u00e9xico",
+            "CodMunicipio": 1,
+            "CodBarrio": 464
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14018,
+            "Barrio": "Revoluci\u00f3n",
+            "CodMunicipio": 1,
+            "CodBarrio": 465
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14019,
+            "Barrio": "Liberia",
+            "CodMunicipio": 1,
+            "CodBarrio": 466
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14021,
+            "Barrio": "Carlos Fonseca",
+            "CodMunicipio": 1,
+            "CodBarrio": 467
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14022,
+            "Barrio": "Sector Mercado Roberto Huembes",
+            "CodMunicipio": 1,
+            "CodBarrio": 468
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14023,
+            "Barrio": "Isa\u00edas G\u00f3mez",
+            "CodMunicipio": 1,
+            "CodBarrio": 469
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14024,
+            "Barrio": "Sector Hospital Manolo Morales",
+            "CodMunicipio": 1,
+            "CodBarrio": 470
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14025,
+            "Barrio": "Santos L\u00f3pez",
+            "CodMunicipio": 1,
+            "CodBarrio": 471
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14026,
+            "Barrio": "Bosques De Altamira",
+            "CodMunicipio": 1,
+            "CodBarrio": 472
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14027,
+            "Barrio": "Altamira Este",
+            "CodMunicipio": 1,
+            "CodBarrio": 473
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14028,
+            "Barrio": "Colonial Los Robles 6",
+            "CodMunicipio": 1,
+            "CodBarrio": 474
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14029,
+            "Barrio": "Colonial Los Robles 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 475
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14031,
+            "Barrio": "Planes De Altamira 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 476
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14032,
+            "Barrio": "Colonial Los Robles 4",
+            "CodMunicipio": 1,
+            "CodBarrio": 477
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14033,
+            "Barrio": "Colonial Los Robles 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 478
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14034,
+            "Barrio": "Planes De Altamira 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 479
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14035,
+            "Barrio": "Reparto Los Robles",
+            "CodMunicipio": 1,
+            "CodBarrio": 480
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14036,
+            "Barrio": "Anexo Reparto San Juan",
+            "CodMunicipio": 1,
+            "CodBarrio": 481
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14037,
+            "Barrio": "Lomas De San Juan",
+            "CodMunicipio": 1,
+            "CodBarrio": 482
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14038,
+            "Barrio": "Villa Santa Fe",
+            "CodMunicipio": 1,
+            "CodBarrio": 483
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14039,
+            "Barrio": "Sector Sur San Juan",
+            "CodMunicipio": 1,
+            "CodBarrio": 484
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14041,
+            "Barrio": "Sector Sureste San Juan",
+            "CodMunicipio": 1,
+            "CodBarrio": 485
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14042,
+            "Barrio": "Planes De Altamira 3",
+            "CodMunicipio": 1,
+            "CodBarrio": 486
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14043,
+            "Barrio": "Sector Este Planes De Altamira 3",
+            "CodMunicipio": 1,
+            "CodBarrio": 487
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14044,
+            "Barrio": "Las Flores",
+            "CodMunicipio": 1,
+            "CodBarrio": 488
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14045,
+            "Barrio": "Bell Air",
+            "CodMunicipio": 1,
+            "CodBarrio": 489
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14046,
+            "Barrio": "Sector Noroeste Paso Desnivel Centroam\u00e9rica",
+            "CodMunicipio": 1,
+            "CodBarrio": 490
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14047,
+            "Barrio": "La Morita",
+            "CodMunicipio": 1,
+            "CodBarrio": 491
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14048,
+            "Barrio": "Colonia Centroam\u00e9rica",
+            "CodMunicipio": 1,
+            "CodBarrio": 492
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14049,
+            "Barrio": "Sector Centro Comercial Managua",
+            "CodMunicipio": 1,
+            "CodBarrio": 493
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14051,
+            "Barrio": "Pantasma",
+            "CodMunicipio": 1,
+            "CodBarrio": 494
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14052,
+            "Barrio": "Grenada",
+            "CodMunicipio": 1,
+            "CodBarrio": 495
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14053,
+            "Barrio": "La Fuente",
+            "CodMunicipio": 1,
+            "CodBarrio": 496
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14053,
+            "Barrio": "Ariel Darce",
+            "CodMunicipio": 1,
+            "CodBarrio": 497
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14054,
+            "Barrio": "Reparto Cuadra",
+            "CodMunicipio": 1,
+            "CodBarrio": 498
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14055,
+            "Barrio": "Nicarao Sector Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 499
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14056,
+            "Barrio": "Santa B\u00e1rbara",
+            "CodMunicipio": 1,
+            "CodBarrio": 500
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14056,
+            "Barrio": "Edmundo Matamoros",
+            "CodMunicipio": 1,
+            "CodBarrio": 501
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14057,
+            "Barrio": "14 De Septiembre",
+            "CodMunicipio": 1,
+            "CodBarrio": 502
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14058,
+            "Barrio": "Omar Torrijos",
+            "CodMunicipio": 1,
+            "CodBarrio": 503
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14058,
+            "Barrio": "Santa Emilia",
+            "CodMunicipio": 1,
+            "CodBarrio": 504
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14059,
+            "Barrio": "Jardines De Veracruz",
+            "CodMunicipio": 1,
+            "CodBarrio": 505
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14061,
+            "Barrio": "Anexo Jardines De Veracruz",
+            "CodMunicipio": 1,
+            "CodBarrio": 506
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14062,
+            "Barrio": "Sector Conchita Palacios",
+            "CodMunicipio": 1,
+            "CodBarrio": 507
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14063,
+            "Barrio": "Leningrado",
+            "CodMunicipio": 1,
+            "CodBarrio": 508
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14064,
+            "Barrio": "Colonia Primero De Mayo",
+            "CodMunicipio": 1,
+            "CodBarrio": 509
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14065,
+            "Barrio": "Anexo Colonia Primero De Mayo",
+            "CodMunicipio": 1,
+            "CodBarrio": 510
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14066,
+            "Barrio": "Villa Valencia",
+            "CodMunicipio": 1,
+            "CodBarrio": 511
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14067,
+            "Barrio": "Villa Flor Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 512
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14068,
+            "Barrio": "Las Alemanias",
+            "CodMunicipio": 1,
+            "CodBarrio": 513
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14069,
+            "Barrio": "Bosque Norte Y Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 514
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14071,
+            "Barrio": "Am\u00e9ricas 4",
+            "CodMunicipio": 1,
+            "CodBarrio": 515
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14071,
+            "Barrio": "Villa Venezuela",
+            "CodMunicipio": 1,
+            "CodBarrio": 516
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14072,
+            "Barrio": "Villa La Sabana",
+            "CodMunicipio": 1,
+            "CodBarrio": 517
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14073,
+            "Barrio": "Sector Este Villa Venezuela",
+            "CodMunicipio": 1,
+            "CodBarrio": 518
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14074,
+            "Barrio": "Arlen Siu",
+            "CodMunicipio": 1,
+            "CodBarrio": 519
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14075,
+            "Barrio": "Mirador La Sabana",
+            "CodMunicipio": 1,
+            "CodBarrio": 520
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14076,
+            "Barrio": "Laureles Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 521
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14076,
+            "Barrio": "Manuel Fern\u00e1ndez",
+            "CodMunicipio": 1,
+            "CodBarrio": 522
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14077,
+            "Barrio": "Arnoldo Alem\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 523
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14078,
+            "Barrio": "Maria Dolores Alem\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 524
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14079,
+            "Barrio": "Vittoria",
+            "CodMunicipio": 1,
+            "CodBarrio": 525
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14081,
+            "Barrio": "Sector Este Laureles Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 526
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14082,
+            "Barrio": "Altos De La Sabana",
+            "CodMunicipio": 1,
+            "CodBarrio": 527
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14083,
+            "Barrio": "Los Cocos Sabana Grande",
+            "CodMunicipio": 1,
+            "CodBarrio": 528
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14084,
+            "Barrio": "4 De Noviembre",
+            "CodMunicipio": 1,
+            "CodBarrio": 529
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14085,
+            "Barrio": "Sabana Grande",
+            "CodMunicipio": 1,
+            "CodBarrio": 530
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14086,
+            "Barrio": "R\u00edos De Agua Viva",
+            "CodMunicipio": 1,
+            "CodBarrio": 531
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14087,
+            "Barrio": "Sector Sur Sabana Grande",
+            "CodMunicipio": 1,
+            "CodBarrio": 532
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14088,
+            "Barrio": "Sector Sur Comarca San Crist\u00f3bal",
+            "CodMunicipio": 1,
+            "CodBarrio": 533
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14089,
+            "Barrio": "Sector Este 2 Comarca Sabana Grande Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 534
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14091,
+            "Barrio": "Villa Sol",
+            "CodMunicipio": 1,
+            "CodBarrio": 535
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14092,
+            "Barrio": "Sabanas",
+            "CodMunicipio": 1,
+            "CodBarrio": 536
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14093,
+            "Barrio": "Sector Este 1 Comarca Sabana Grande Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 537
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14094,
+            "Barrio": "Sector Oeste Comarca Sabana Grande Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 538
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14095,
+            "Barrio": "Israel Galeano",
+            "CodMunicipio": 1,
+            "CodBarrio": 539
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14096,
+            "Barrio": "Nueva Sabana",
+            "CodMunicipio": 1,
+            "CodBarrio": 540
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14097,
+            "Barrio": "Comandante Aureleano",
+            "CodMunicipio": 1,
+            "CodBarrio": 541
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14098,
+            "Barrio": "Camino Del R\u00edo",
+            "CodMunicipio": 1,
+            "CodBarrio": 542
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14099,
+            "Barrio": "Sector Sur Lomas De Guadalupe",
+            "CodMunicipio": 1,
+            "CodBarrio": 543
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14099,
+            "Barrio": "Los Corteses",
+            "CodMunicipio": 1,
+            "CodBarrio": 544
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14099,
+            "Barrio": "Los Ingenieros",
+            "CodMunicipio": 1,
+            "CodBarrio": 545
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14101,
+            "Barrio": "Lomas De Guadalupe",
+            "CodMunicipio": 1,
+            "CodBarrio": 546
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14102,
+            "Barrio": "Villa Libertad",
+            "CodMunicipio": 1,
+            "CodBarrio": 547
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14103,
+            "Barrio": "Anexo Villa Libertad",
+            "CodMunicipio": 1,
+            "CodBarrio": 548
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14104,
+            "Barrio": "Sol De Libertad",
+            "CodMunicipio": 1,
+            "CodBarrio": 549
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14105,
+            "Barrio": "Nueva Nicaragua",
+            "CodMunicipio": 1,
+            "CodBarrio": 550
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14106,
+            "Barrio": "Divino Ni\u00f1o",
+            "CodMunicipio": 1,
+            "CodBarrio": 551
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14107,
+            "Barrio": "Ciudad San Sebasti\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 552
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14108,
+            "Barrio": "Sector Sur Anexo Villa Libertad",
+            "CodMunicipio": 1,
+            "CodBarrio": 553
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14109,
+            "Barrio": "Milagro De Dios",
+            "CodMunicipio": 1,
+            "CodBarrio": 554
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14111,
+            "Barrio": "Anexo Villa Venezuela",
+            "CodMunicipio": 1,
+            "CodBarrio": 555
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14112,
+            "Barrio": "Vista Al Xolotl\u00e1n",
+            "CodMunicipio": 1,
+            "CodBarrio": 556
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14113,
+            "Barrio": "Carlos N\u00fa\u00f1ez Am\u00e9ricas 4",
+            "CodMunicipio": 1,
+            "CodBarrio": 557
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14114,
+            "Barrio": "Villa Canad\u00e1",
+            "CodMunicipio": 1,
+            "CodBarrio": 558
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14115,
+            "Barrio": "Manolo Morales",
+            "CodMunicipio": 1,
+            "CodBarrio": 559
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14116,
+            "Barrio": "25 De Febrero",
+            "CodMunicipio": 1,
+            "CodBarrio": 560
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14117,
+            "Barrio": "Villa Flor Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 561
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14118,
+            "Barrio": "Enrique Schmidt Villa Flor",
+            "CodMunicipio": 1,
+            "CodBarrio": 562
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14119,
+            "Barrio": "11 De Mayo",
+            "CodMunicipio": 1,
+            "CodBarrio": 563
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14121,
+            "Barrio": "13 De Mayo",
+            "CodMunicipio": 1,
+            "CodBarrio": 564
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14122,
+            "Barrio": "18 De Agosto",
+            "CodMunicipio": 1,
+            "CodBarrio": 565
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14123,
+            "Barrio": "Ciudadela Nicaragua",
+            "CodMunicipio": 1,
+            "CodBarrio": 566
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14124,
+            "Barrio": "28 De Mayo",
+            "CodMunicipio": 1,
+            "CodBarrio": 567
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14125,
+            "Barrio": "Eddy Mayorga",
+            "CodMunicipio": 1,
+            "CodBarrio": 568
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14126,
+            "Barrio": "Eduardo Contreras",
+            "CodMunicipio": 1,
+            "CodBarrio": 569
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14127,
+            "Barrio": "30 De Mayo",
+            "CodMunicipio": 1,
+            "CodBarrio": 570
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14127,
+            "Barrio": "Sector Milagro De Dios",
+            "CodMunicipio": 1,
+            "CodBarrio": 571
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14128,
+            "Barrio": "Alfredo Nobel",
+            "CodMunicipio": 1,
+            "CodBarrio": 572
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14128,
+            "Barrio": "Che Guevara",
+            "CodMunicipio": 1,
+            "CodBarrio": 573
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14129,
+            "Barrio": "Salom\u00f3n Moreno",
+            "CodMunicipio": 1,
+            "CodBarrio": 574
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14131,
+            "Barrio": "Reparto Shick 3",
+            "CodMunicipio": 1,
+            "CodBarrio": 575
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14131,
+            "Barrio": "Enrique Lorente",
+            "CodMunicipio": 1,
+            "CodBarrio": 576
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14132,
+            "Barrio": "Blanca Segovia",
+            "CodMunicipio": 1,
+            "CodBarrio": 577
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14132,
+            "Barrio": "Bariloche",
+            "CodMunicipio": 1,
+            "CodBarrio": 578
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14133,
+            "Barrio": "Amanda Aguilar",
+            "CodMunicipio": 1,
+            "CodBarrio": 579
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14133,
+            "Barrio": "Blanca Arauz",
+            "CodMunicipio": 1,
+            "CodBarrio": 580
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14134,
+            "Barrio": "S\u00f3crates Sandino",
+            "CodMunicipio": 1,
+            "CodBarrio": 581
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14135,
+            "Barrio": "Reparto Shick 4",
+            "CodMunicipio": 1,
+            "CodBarrio": 582
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14135,
+            "Barrio": "Enrique Guti\u00e9rrez",
+            "CodMunicipio": 1,
+            "CodBarrio": 583
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14136,
+            "Barrio": "Reparto Shick 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 584
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14136,
+            "Barrio": "\u00c1ngel Valent\u00edn Barrios",
+            "CodMunicipio": 1,
+            "CodBarrio": 585
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14137,
+            "Barrio": "Rene Polanco",
+            "CodMunicipio": 1,
+            "CodBarrio": 586
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14138,
+            "Barrio": "Germ\u00e1n Pomares",
+            "CodMunicipio": 1,
+            "CodBarrio": 587
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14139,
+            "Barrio": "Proyecto Piloto",
+            "CodMunicipio": 1,
+            "CodBarrio": 588
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14141,
+            "Barrio": "Pablo \u00dabeda",
+            "CodMunicipio": 1,
+            "CodBarrio": 589
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14142,
+            "Barrio": "Reparto Shick 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 590
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14142,
+            "Barrio": "Macaraly",
+            "CodMunicipio": 1,
+            "CodBarrio": 591
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14143,
+            "Barrio": "Francisco Salazar",
+            "CodMunicipio": 1,
+            "CodBarrio": 592
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14144,
+            "Barrio": "Finlandia Rub\u00e9n Dar\u00edo Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 593
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14145,
+            "Barrio": "Augusto Cesar Sandino",
+            "CodMunicipio": 1,
+            "CodBarrio": 594
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14146,
+            "Barrio": "12 De Octubre",
+            "CodMunicipio": 1,
+            "CodBarrio": 595
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14147,
+            "Barrio": "San Lucas",
+            "CodMunicipio": 1,
+            "CodBarrio": 596
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14148,
+            "Barrio": "Anexo 18 De Mayo",
+            "CodMunicipio": 1,
+            "CodBarrio": 597
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14149,
+            "Barrio": "18 De Mayo",
+            "CodMunicipio": 1,
+            "CodBarrio": 598
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14151,
+            "Barrio": "Walter Ferreti",
+            "CodMunicipio": 1,
+            "CodBarrio": 599
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14152,
+            "Barrio": "Adolfo Reyes",
+            "CodMunicipio": 1,
+            "CodBarrio": 600
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14152,
+            "Barrio": "Isabel Urbina",
+            "CodMunicipio": 1,
+            "CodBarrio": 601
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14153,
+            "Barrio": "Sector Hogar Zacar\u00edas Guerra",
+            "CodMunicipio": 1,
+            "CodBarrio": 602
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14154,
+            "Barrio": "Lomas Del Valle",
+            "CodMunicipio": 1,
+            "CodBarrio": 603
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14155,
+            "Barrio": "Las Lomitas Centroam\u00e9rica",
+            "CodMunicipio": 1,
+            "CodBarrio": 604
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14155,
+            "Barrio": "Piqu\u00edn Guerrero",
+            "CodMunicipio": 1,
+            "CodBarrio": 605
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14156,
+            "Barrio": "22 De Enero",
+            "CodMunicipio": 1,
+            "CodBarrio": 606
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14157,
+            "Barrio": "Sector Camino De Oriente",
+            "CodMunicipio": 1,
+            "CodBarrio": 607
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14158,
+            "Barrio": "Sector Noroeste Rotonda Jean Paul Genie",
+            "CodMunicipio": 1,
+            "CodBarrio": 608
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14159,
+            "Barrio": "Planes De Puntald\u00eda",
+            "CodMunicipio": 1,
+            "CodBarrio": 609
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14161,
+            "Barrio": "Villas Italianas",
+            "CodMunicipio": 1,
+            "CodBarrio": 610
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14162,
+            "Barrio": "Mirasol",
+            "CodMunicipio": 1,
+            "CodBarrio": 611
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14163,
+            "Barrio": "Madro\u00f1os Villa Fontana",
+            "CodMunicipio": 1,
+            "CodBarrio": 612
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14164,
+            "Barrio": "Inmaculada Villa Fontana",
+            "CodMunicipio": 1,
+            "CodBarrio": 613
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14165,
+            "Barrio": "Villa Fontana Este",
+            "CodMunicipio": 1,
+            "CodBarrio": 614
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14166,
+            "Barrio": "Sector Suroeste Camino De Oriente",
+            "CodMunicipio": 1,
+            "CodBarrio": 615
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14167,
+            "Barrio": "Sector Radio Nicaragua",
+            "CodMunicipio": 1,
+            "CodBarrio": 616
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14168,
+            "Barrio": "Sector La Salle",
+            "CodMunicipio": 1,
+            "CodBarrio": 617
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14169,
+            "Barrio": "Condominio Roma",
+            "CodMunicipio": 1,
+            "CodBarrio": 618
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14171,
+            "Barrio": "Casa Fontana",
+            "CodMunicipio": 1,
+            "CodBarrio": 619
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14172,
+            "Barrio": "Sector Unan Managua",
+            "CodMunicipio": 1,
+            "CodBarrio": 620
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14173,
+            "Barrio": "Villa Fontana Norte",
+            "CodMunicipio": 1,
+            "CodBarrio": 621
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14174,
+            "Barrio": "Villa Fontana Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 622
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14175,
+            "Barrio": "Las Veraneras",
+            "CodMunicipio": 1,
+            "CodBarrio": 623
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14176,
+            "Barrio": "Sector Comarca Jocote Dulce",
+            "CodMunicipio": 1,
+            "CodBarrio": 624
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14177,
+            "Barrio": "Sector Colegio Centroam\u00e9rica",
+            "CodMunicipio": 1,
+            "CodBarrio": 625
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14178,
+            "Barrio": "Bosques Del Recreo",
+            "CodMunicipio": 1,
+            "CodBarrio": 626
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14179,
+            "Barrio": "Sector Sur Club Terraza",
+            "CodMunicipio": 1,
+            "CodBarrio": 627
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14181,
+            "Barrio": "Bosques Del Terraza",
+            "CodMunicipio": 1,
+            "CodBarrio": 628
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14182,
+            "Barrio": "Las Cumbres",
+            "CodMunicipio": 1,
+            "CodBarrio": 629
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14183,
+            "Barrio": "Mirador Las Cumbres",
+            "CodMunicipio": 1,
+            "CodBarrio": 630
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14184,
+            "Barrio": "Altos De Las Cumbres",
+            "CodMunicipio": 1,
+            "CodBarrio": 631
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14185,
+            "Barrio": "Portal Del Carmen",
+            "CodMunicipio": 1,
+            "CodBarrio": 632
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14186,
+            "Barrio": "La Rioja",
+            "CodMunicipio": 1,
+            "CodBarrio": 633
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14187,
+            "Barrio": "Sector Sur Pista Jean Paul Genie",
+            "CodMunicipio": 1,
+            "CodBarrio": 634
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14188,
+            "Barrio": "Santa M\u00f3nica Cruz Del Para\u00edso",
+            "CodMunicipio": 1,
+            "CodBarrio": 635
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14189,
+            "Barrio": "Sector Norte Cruz Del Para\u00edso",
+            "CodMunicipio": 1,
+            "CodBarrio": 636
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14191,
+            "Barrio": "Sector Sur Rotonda Jean Paul Genie",
+            "CodMunicipio": 1,
+            "CodBarrio": 637
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14192,
+            "Barrio": "Magnolia",
+            "CodMunicipio": 1,
+            "CodBarrio": 638
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14193,
+            "Barrio": "Sector Noroeste Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 639
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14194,
+            "Barrio": "Sector Norte Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 640
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14195,
+            "Barrio": "Goenz",
+            "CodMunicipio": 1,
+            "CodBarrio": 641
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14196,
+            "Barrio": "Sector Hotel Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 642
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14197,
+            "Barrio": "Paseo Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 643
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14198,
+            "Barrio": "Cumbres De Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 644
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14199,
+            "Barrio": "Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 645
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14201,
+            "Barrio": "Cedros De Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 646
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14202,
+            "Barrio": "Lomas De Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 647
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14203,
+            "Barrio": "Sector Noreste Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 648
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14204,
+            "Barrio": "Naciones Unidas",
+            "CodMunicipio": 1,
+            "CodBarrio": 649
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14205,
+            "Barrio": "Villa Cuba Libre",
+            "CodMunicipio": 1,
+            "CodBarrio": 650
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14206,
+            "Barrio": "Sector Oeste Colinas De Santa Cruz",
+            "CodMunicipio": 1,
+            "CodBarrio": 651
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14207,
+            "Barrio": "Flor De Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 652
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14208,
+            "Barrio": "Villa Loreto",
+            "CodMunicipio": 1,
+            "CodBarrio": 653
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14209,
+            "Barrio": "Colinas De Santa Cruz",
+            "CodMunicipio": 1,
+            "CodBarrio": 654
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14211,
+            "Barrio": "Sector Norte Colinas De Santa Cruz",
+            "CodMunicipio": 1,
+            "CodBarrio": 655
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14212,
+            "Barrio": "Sector Norte Las Jaguitas",
+            "CodMunicipio": 1,
+            "CodBarrio": 656
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14213,
+            "Barrio": "Sector Oeste Comarca Las Enramadas",
+            "CodMunicipio": 1,
+            "CodBarrio": 657
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14214,
+            "Barrio": "Cuatro Esquinas De Las Enramadas",
+            "CodMunicipio": 1,
+            "CodBarrio": 658
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14215,
+            "Barrio": "Sector Este Comarca Las Enramadas",
+            "CodMunicipio": 1,
+            "CodBarrio": 659
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14216,
+            "Barrio": "Sector Sureste Comarca Las Enramadas",
+            "CodMunicipio": 1,
+            "CodBarrio": 660
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14217,
+            "Barrio": "Mayales",
+            "CodMunicipio": 1,
+            "CodBarrio": 661
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14218,
+            "Barrio": "Sector Sur Comarca Las Enramadas",
+            "CodMunicipio": 1,
+            "CodBarrio": 662
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14219,
+            "Barrio": "Sector Norte Comarca Esquipulas",
+            "CodMunicipio": 1,
+            "CodBarrio": 663
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14221,
+            "Barrio": "Sector Este Las Cuarezma",
+            "CodMunicipio": 1,
+            "CodBarrio": 664
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14222,
+            "Barrio": "Sector Sur Comarca Las Jaguitas",
+            "CodMunicipio": 1,
+            "CodBarrio": 665
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14223,
+            "Barrio": "Sector Este Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 666
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14224,
+            "Barrio": "Villa Florencia",
+            "CodMunicipio": 1,
+            "CodBarrio": 667
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14225,
+            "Barrio": "Colinas Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 668
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14226,
+            "Barrio": "Frascati",
+            "CodMunicipio": 1,
+            "CodBarrio": 669
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14227,
+            "Barrio": "Terracota 1 Y 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 670
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14228,
+            "Barrio": "Estefan\u00eda",
+            "CodMunicipio": 1,
+            "CodBarrio": 671
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14229,
+            "Barrio": "Acoma",
+            "CodMunicipio": 1,
+            "CodBarrio": 672
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14231,
+            "Barrio": "Las Cuarezmas",
+            "CodMunicipio": 1,
+            "CodBarrio": 673
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14232,
+            "Barrio": "San Pablo",
+            "CodMunicipio": 1,
+            "CodBarrio": 674
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14233,
+            "Barrio": "Jardines De Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 675
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14234,
+            "Barrio": "El Boquete Sector Norte Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 676
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14235,
+            "Barrio": "Mirador Sur Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 677
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14236,
+            "Barrio": "Mirador Norte Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 678
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14237,
+            "Barrio": "Lomas De Notredame",
+            "CodMunicipio": 1,
+            "CodBarrio": 679
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14238,
+            "Barrio": "Sector Norte El Mirador",
+            "CodMunicipio": 1,
+            "CodBarrio": 680
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14239,
+            "Barrio": "Castellana",
+            "CodMunicipio": 1,
+            "CodBarrio": 681
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14241,
+            "Barrio": "Alamedas Km 8 Carretera Masaya",
+            "CodMunicipio": 1,
+            "CodBarrio": 682
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14242,
+            "Barrio": "Las Lomas Camino Viejo",
+            "CodMunicipio": 1,
+            "CodBarrio": 683
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14243,
+            "Barrio": "Villa Bellini",
+            "CodMunicipio": 1,
+            "CodBarrio": 684
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14244,
+            "Barrio": "Sector Sur Cruz Del Para\u00edso",
+            "CodMunicipio": 1,
+            "CodBarrio": 685
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14245,
+            "Barrio": "Los Membre\u00f1os",
+            "CodMunicipio": 1,
+            "CodBarrio": 686
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14246,
+            "Barrio": "Sector Norte San Isidro De La Cruz Verde",
+            "CodMunicipio": 1,
+            "CodBarrio": 687
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14247,
+            "Barrio": "Combatiente Desconocido",
+            "CodMunicipio": 1,
+            "CodBarrio": 688
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14248,
+            "Barrio": "Urbanizaci\u00f3n Gloria",
+            "CodMunicipio": 1,
+            "CodBarrio": 689
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14249,
+            "Barrio": "Sector Norte Jocote Dulce",
+            "CodMunicipio": 1,
+            "CodBarrio": 690
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14251,
+            "Barrio": "Vincent Poujardeu",
+            "CodMunicipio": 1,
+            "CodBarrio": 691
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14252,
+            "Barrio": "Miralagos",
+            "CodMunicipio": 1,
+            "CodBarrio": 692
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14253,
+            "Barrio": "Sector Sur Jocote Dulce",
+            "CodMunicipio": 1,
+            "CodBarrio": 693
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14254,
+            "Barrio": "Sector Oeste San Isidro De La Cruz Verde",
+            "CodMunicipio": 1,
+            "CodBarrio": 694
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14255,
+            "Barrio": "Sector San Isidro De La Cruz Verde",
+            "CodMunicipio": 1,
+            "CodBarrio": 695
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14256,
+            "Barrio": "Los Andes",
+            "CodMunicipio": 1,
+            "CodBarrio": 696
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14257,
+            "Barrio": "Jacarandas",
+            "CodMunicipio": 1,
+            "CodBarrio": 697
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14258,
+            "Barrio": "La Quinta",
+            "CodMunicipio": 1,
+            "CodBarrio": 698
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14259,
+            "Barrio": "Altos De Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 699
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14261,
+            "Barrio": "Anexo Las Sierritas Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 700
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14262,
+            "Barrio": "Santa M\u00f3nica",
+            "CodMunicipio": 1,
+            "CodBarrio": 701
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14263,
+            "Barrio": "Lomas De Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 702
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14264,
+            "Barrio": "Sierritas De Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 703
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14265,
+            "Barrio": "Sector Norte Sierritas De Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 704
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14266,
+            "Barrio": "Urbanizaci\u00f3n Madrid",
+            "CodMunicipio": 1,
+            "CodBarrio": 705
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14267,
+            "Barrio": "Acr\u00f3polis",
+            "CodMunicipio": 1,
+            "CodBarrio": 706
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14268,
+            "Barrio": "Pedregal",
+            "CodMunicipio": 1,
+            "CodBarrio": 707
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14269,
+            "Barrio": "Los Palmares",
+            "CodMunicipio": 1,
+            "CodBarrio": 708
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14271,
+            "Barrio": "Germ\u00e1n Silva",
+            "CodMunicipio": 1,
+            "CodBarrio": 709
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14272,
+            "Barrio": "16 De Marzo",
+            "CodMunicipio": 1,
+            "CodBarrio": 710
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14273,
+            "Barrio": "Barrio Nuevo",
+            "CodMunicipio": 1,
+            "CodBarrio": 711
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14274,
+            "Barrio": "Bosques De Santa Mar\u00eda",
+            "CodMunicipio": 1,
+            "CodBarrio": 712
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14275,
+            "Barrio": "Santa Mar\u00eda De Los Lagos",
+            "CodMunicipio": 1,
+            "CodBarrio": 713
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14276,
+            "Barrio": "Villas Gaudi",
+            "CodMunicipio": 1,
+            "CodBarrio": 714
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14277,
+            "Barrio": "Sector Cuatro Esquinas De Esquipulas",
+            "CodMunicipio": 1,
+            "CodBarrio": 715
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14278,
+            "Barrio": "Michelangelo",
+            "CodMunicipio": 1,
+            "CodBarrio": 716
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14279,
+            "Barrio": "Entreverde",
+            "CodMunicipio": 1,
+            "CodBarrio": 717
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14281,
+            "Barrio": "Altos De Las Colinas",
+            "CodMunicipio": 1,
+            "CodBarrio": 718
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14282,
+            "Barrio": "Sector Oeste Comarca Esquipulas",
+            "CodMunicipio": 1,
+            "CodBarrio": 719
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14283,
+            "Barrio": "Sector Esquipulas",
+            "CodMunicipio": 1,
+            "CodBarrio": 720
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14284,
+            "Barrio": "Ermitas De Esquipulas",
+            "CodMunicipio": 1,
+            "CodBarrio": 721
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14285,
+            "Barrio": "Vistas De Esquipulas",
+            "CodMunicipio": 1,
+            "CodBarrio": 722
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14286,
+            "Barrio": "Sector Noreste Los Vanegas",
+            "CodMunicipio": 1,
+            "CodBarrio": 723
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14287,
+            "Barrio": "El Cenicero",
+            "CodMunicipio": 1,
+            "CodBarrio": 724
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14288,
+            "Barrio": "Los Vanegas",
+            "CodMunicipio": 1,
+            "CodBarrio": 725
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14289,
+            "Barrio": "Sector Sur Esquipulas",
+            "CodMunicipio": 1,
+            "CodBarrio": 726
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14291,
+            "Barrio": "Villanova",
+            "CodMunicipio": 1,
+            "CodBarrio": 727
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14292,
+            "Barrio": "Berl\u00edn",
+            "CodMunicipio": 1,
+            "CodBarrio": 728
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14293,
+            "Barrio": "Las Praderas",
+            "CodMunicipio": 1,
+            "CodBarrio": 729
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14294,
+            "Barrio": "Paseo Del Prado",
+            "CodMunicipio": 1,
+            "CodBarrio": 730
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14295,
+            "Barrio": "Villa Del Rosario",
+            "CodMunicipio": 1,
+            "CodBarrio": 731
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14296,
+            "Barrio": "Alamedas Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 732
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14297,
+            "Barrio": "Palma Real",
+            "CodMunicipio": 1,
+            "CodBarrio": 733
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14298,
+            "Barrio": "Sector Norte Estancia De Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 734
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14299,
+            "Barrio": "Estancia Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 735
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14301,
+            "Barrio": "Sector Sur Altos De Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 736
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14302,
+            "Barrio": "Altamonte",
+            "CodMunicipio": 1,
+            "CodBarrio": 737
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14303,
+            "Barrio": "Palermo",
+            "CodMunicipio": 1,
+            "CodBarrio": 738
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14304,
+            "Barrio": "Bosques Del Prado",
+            "CodMunicipio": 1,
+            "CodBarrio": 739
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14305,
+            "Barrio": "Sector Sur Sierritas De Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 740
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14306,
+            "Barrio": "Hadas Villas",
+            "CodMunicipio": 1,
+            "CodBarrio": 741
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14307,
+            "Barrio": "Villa De Andaluc\u00eda",
+            "CodMunicipio": 1,
+            "CodBarrio": 742
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14308,
+            "Barrio": "La Arboleda Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 743
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14309,
+            "Barrio": "Bosques De Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 744
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14311,
+            "Barrio": "Quintas Del Valle",
+            "CodMunicipio": 1,
+            "CodBarrio": 745
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14312,
+            "Barrio": "El Rodeo Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 746
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14313,
+            "Barrio": "Haras De La Hoyada",
+            "CodMunicipio": 1,
+            "CodBarrio": 747
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14314,
+            "Barrio": "Condesa 1 Y 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 748
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14315,
+            "Barrio": "Valle Blanco",
+            "CodMunicipio": 1,
+            "CodBarrio": 749
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14316,
+            "Barrio": "Valle Azul",
+            "CodMunicipio": 1,
+            "CodBarrio": 750
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14317,
+            "Barrio": "El Encanto 1 Y 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 751
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14318,
+            "Barrio": "Sector Oeste Comarca Santo Domingo",
+            "CodMunicipio": 1,
+            "CodBarrio": 752
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14319,
+            "Barrio": "Bosques De San Isidro",
+            "CodMunicipio": 1,
+            "CodBarrio": 753
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14321,
+            "Barrio": "Sector Sur San Isidro De La Cruz Verde",
+            "CodMunicipio": 1,
+            "CodBarrio": 754
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14322,
+            "Barrio": "Monte Carlos",
+            "CodMunicipio": 1,
+            "CodBarrio": 755
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14323,
+            "Barrio": "La Esperanza Jocote Dulce",
+            "CodMunicipio": 1,
+            "CodBarrio": 756
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14324,
+            "Barrio": "Los Angeles Jocote Dulce",
+            "CodMunicipio": 1,
+            "CodBarrio": 757
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14325,
+            "Barrio": "Sector Sur Jocote Dulce",
+            "CodMunicipio": 1,
+            "CodBarrio": 758
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14326,
+            "Barrio": "Portal Del Bosque",
+            "CodMunicipio": 1,
+            "CodBarrio": 759
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14327,
+            "Barrio": "Intermezzo Del Bosque",
+            "CodMunicipio": 1,
+            "CodBarrio": 760
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14328,
+            "Barrio": "Balcones De Santo Domingo 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 761
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14329,
+            "Barrio": "Balcones De Santo Domingo 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 762
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14331,
+            "Barrio": "Sector Sureste San Isidro De La Cruz Verde",
+            "CodMunicipio": 1,
+            "CodBarrio": 763
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14332,
+            "Barrio": "Jardines De Santo Domingo 2",
+            "CodMunicipio": 1,
+            "CodBarrio": 764
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14333,
+            "Barrio": "Jardines De Santo Domingo 1",
+            "CodMunicipio": 1,
+            "CodBarrio": 765
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14334,
+            "Barrio": "San Antonio Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 766
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14335,
+            "Barrio": "Puertas Del Sol",
+            "CodMunicipio": 1,
+            "CodBarrio": 767
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14336,
+            "Barrio": "Sacuanjoche",
+            "CodMunicipio": 1,
+            "CodBarrio": 768
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14337,
+            "Barrio": "Valle Del Prado",
+            "CodMunicipio": 1,
+            "CodBarrio": 769
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14338,
+            "Barrio": "Campo Bello",
+            "CodMunicipio": 1,
+            "CodBarrio": 770
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14339,
+            "Barrio": "Las Palmeras",
+            "CodMunicipio": 1,
+            "CodBarrio": 771
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14341,
+            "Barrio": "Los Geranios",
+            "CodMunicipio": 1,
+            "CodBarrio": 772
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14342,
+            "Barrio": "Sector Norte Comarca San Antonio Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 773
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14343,
+            "Barrio": "Sector Sur Comarca San Antonio Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 774
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14344,
+            "Barrio": "Sector Este Comarca Candelaria Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 775
+        },
+        {
+            "NomDepto": "Managua",
+            "NomMunicipio": "Managua",
+            "CodPostal": 14345,
+            "Barrio": "Sector Oeste Comarca Candelaria Sur",
+            "CodMunicipio": 1,
+            "CodBarrio": 776
+        }
+    ]
+}

@@ -1,0 +1,6070 @@
+{
+  "departamento": "Leon",
+  "total_registros": 758,
+  "lugares": [
+    {
+      "osm_id": "node/290862240",
+      "nombre": "Nagarote",
+      "tipo_localidad": "town",
+      "latitud": 12.264799,
+      "longitud": -86.5630451,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/290862597",
+      "nombre": "La Paz Centro",
+      "tipo_localidad": "town",
+      "latitud": 12.339421,
+      "longitud": -86.6762856,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/290863561",
+      "nombre": "Puerto Sandino",
+      "tipo_localidad": "village",
+      "latitud": 12.1956609,
+      "longitud": -86.760045,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/293298496",
+      "nombre": "León",
+      "tipo_localidad": "city",
+      "latitud": 12.4348568,
+      "longitud": -86.8788302,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/302362469",
+      "nombre": "El Sauce",
+      "tipo_localidad": "town",
+      "latitud": 12.8859781,
+      "longitud": -86.5389698,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/302523896",
+      "nombre": "Telica",
+      "tipo_localidad": "town",
+      "latitud": 12.5220422,
+      "longitud": -86.8598895,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/303976051",
+      "nombre": "San Jacinto",
+      "tipo_localidad": "village",
+      "latitud": 12.580767,
+      "longitud": -86.7772367,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/303980155",
+      "nombre": "Malpaisillo",
+      "tipo_localidad": "town",
+      "latitud": 12.5933587,
+      "longitud": -86.6789877,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1202208284",
+      "nombre": "La Chibola",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4076267,
+      "longitud": -86.6662404,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1662583538",
+      "nombre": "Monte Redondo",
+      "tipo_localidad": "village",
+      "latitud": 12.4699348,
+      "longitud": -86.8366657,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1662583754",
+      "nombre": "Los Chávez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.454114,
+      "longitud": -86.8298268,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1693158911",
+      "nombre": "El Tololar",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.492879,
+      "longitud": -86.8319801,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1693159133",
+      "nombre": "Los Pocitos",
+      "tipo_localidad": "village",
+      "latitud": 12.4769863,
+      "longitud": -86.8280949,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1693159186",
+      "nombre": "El Jaboncillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4805733,
+      "longitud": -86.7974566,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1693159189",
+      "nombre": "El Pastal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4919932,
+      "longitud": -86.7985755,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1693159190",
+      "nombre": "La Pintora",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4746182,
+      "longitud": -86.8456345,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1728419455",
+      "nombre": "Las Peñitas",
+      "tipo_localidad": "village",
+      "latitud": 12.361382,
+      "longitud": -87.0214543,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1728421401",
+      "nombre": "Poneloya",
+      "tipo_localidad": "village",
+      "latitud": 12.3783023,
+      "longitud": -87.042231,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730406787",
+      "nombre": "Francisco Estrada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2689604,
+      "longitud": -86.5660545,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730406799",
+      "nombre": "19 de Julio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2602095,
+      "longitud": -86.5668608,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730406801",
+      "nombre": "Germán Pomáres",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2619182,
+      "longitud": -86.5665983,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407155",
+      "nombre": "Marvin Palacios",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2637991,
+      "longitud": -86.5611269,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407222",
+      "nombre": "Edgardo Corea",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.263899,
+      "longitud": -86.5642559,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407269",
+      "nombre": "Jairo Pérez I, II y III",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2649457,
+      "longitud": -86.573544,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407275",
+      "nombre": "Camillo Ortega",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2593859,
+      "longitud": -86.5636362,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407285",
+      "nombre": "Guadalupe I",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2617369,
+      "longitud": -86.56315,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407286",
+      "nombre": "Guadalupe II",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.263595,
+      "longitud": -86.5630302,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407728",
+      "nombre": "Santiago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2602504,
+      "longitud": -86.5700645,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407762",
+      "nombre": "Luis de La Llana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2635913,
+      "longitud": -86.5690662,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407773",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.211909,
+      "longitud": -86.6046136,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407774",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2439383,
+      "longitud": -86.5843192,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407886",
+      "nombre": "Ermita Corazón de Jesús",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2638174,
+      "longitud": -86.5655801,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730407912",
+      "nombre": "Fernando Salazar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2614724,
+      "longitud": -86.5693629,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730408039",
+      "nombre": "Copaltepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1706152,
+      "longitud": -86.5917292,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730408546",
+      "nombre": "Carlos Fonseca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2657303,
+      "longitud": -86.5673308,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730409095",
+      "nombre": "San Miguelito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1877176,
+      "longitud": -86.5373454,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730409538",
+      "nombre": "Genízaro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2663918,
+      "longitud": -86.5652087,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730409808",
+      "nombre": "Julio Buitrago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2676004,
+      "longitud": -86.5687981,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730409894",
+      "nombre": "Ariel Saballo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2656729,
+      "longitud": -86.5693529,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730409946",
+      "nombre": "Pancasan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.266532,
+      "longitud": -86.5630394,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730409952",
+      "nombre": "Valle La Grupera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.255613,
+      "longitud": -86.591714,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730409967",
+      "nombre": "El Pital",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2008322,
+      "longitud": -86.5830045,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730410015",
+      "nombre": "Orlando Cásares",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2702119,
+      "longitud": -86.5685195,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730410020",
+      "nombre": "San Martín",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2731075,
+      "longitud": -86.5616685,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730410042",
+      "nombre": "Gerónimo López III",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2712814,
+      "longitud": -86.5576036,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730410049",
+      "nombre": "Gerónimo López II",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.269892,
+      "longitud": -86.5581564,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/1730410081",
+      "nombre": "Gerónimo López I",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2697734,
+      "longitud": -86.5624665,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2268327350",
+      "nombre": "Los Guidos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4495831,
+      "longitud": -86.7524604,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2459398769",
+      "nombre": "El Tránsito",
+      "tipo_localidad": "village",
+      "latitud": 12.0547491,
+      "longitud": -86.7041848,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2686076752",
+      "nombre": "Los Cerritos",
+      "tipo_localidad": "village",
+      "latitud": 12.6796114,
+      "longitud": -86.514169,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2696901659",
+      "nombre": "El Espino",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6430339,
+      "longitud": -86.5572514,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2696901668",
+      "nombre": "La Sabaneta",
+      "tipo_localidad": "village",
+      "latitud": 12.6135197,
+      "longitud": -86.5576594,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2752674065",
+      "nombre": "El Llano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8991858,
+      "longitud": -86.4405359,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2752674072",
+      "nombre": "La Montaña",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.928781,
+      "longitud": -86.4563339,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2752674075",
+      "nombre": "La Montañita de Salale",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9202914,
+      "longitud": -86.4707974,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2752674618",
+      "nombre": "Barrio El Laborio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4308937,
+      "longitud": -86.8841927,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2752678823",
+      "nombre": "Quezalguaque",
+      "tipo_localidad": "town",
+      "latitud": 12.5077729,
+      "longitud": -86.9029934,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2752678828",
+      "nombre": "Río Grande",
+      "tipo_localidad": "village",
+      "latitud": 12.9843396,
+      "longitud": -86.5700963,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2752678831",
+      "nombre": "Salale",
+      "tipo_localidad": "village",
+      "latitud": 12.933823,
+      "longitud": -86.4624486,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2755460723",
+      "nombre": "Los Cerritos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9523682,
+      "longitud": -86.4716745,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2777241165",
+      "nombre": "Calle Daniel Amador",
+      "tipo_localidad": "village",
+      "latitud": 12.1106338,
+      "longitud": -86.5562804,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2777241167",
+      "nombre": "El Velero",
+      "tipo_localidad": "village",
+      "latitud": 12.1389753,
+      "longitud": -86.7452922,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2777241169",
+      "nombre": "Miramar",
+      "tipo_localidad": "village",
+      "latitud": 12.1686527,
+      "longitud": -86.7616634,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845852",
+      "nombre": "Comunidad Gracias a Dios",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5715876,
+      "longitud": -86.7858947,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845854",
+      "nombre": "El Carrizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9377694,
+      "longitud": -86.5403436,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845855",
+      "nombre": "El Cuval",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.002399,
+      "longitud": -86.5675393,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845856",
+      "nombre": "Minvha",
+      "tipo_localidad": "village",
+      "latitud": 12.6974005,
+      "longitud": -86.717456,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845858",
+      "nombre": "La Bolsa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6500713,
+      "longitud": -86.6969987,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845859",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5912551,
+      "longitud": -86.7165512,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845860",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9123303,
+      "longitud": -86.5957838,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845861",
+      "nombre": "La Palma",
+      "tipo_localidad": "village",
+      "latitud": 12.935694,
+      "longitud": -86.5728912,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845862",
+      "nombre": "Los Caraos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0424051,
+      "longitud": -86.6272578,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845864",
+      "nombre": "Mina El Limón",
+      "tipo_localidad": "village",
+      "latitud": 12.7512696,
+      "longitud": -86.7382397,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781845865",
+      "nombre": "Mina Santa Pancha",
+      "tipo_localidad": "village",
+      "latitud": 12.7378139,
+      "longitud": -86.7001408,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781849044",
+      "nombre": "Rigoberto Morales Chávez",
+      "tipo_localidad": "village",
+      "latitud": 12.5356848,
+      "longitud": -86.8441792,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781849046",
+      "nombre": "Valle Las Zapatas",
+      "tipo_localidad": "village",
+      "latitud": 12.6334214,
+      "longitud": -86.6969634,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2781849047",
+      "nombre": "Wisquilí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.00945,
+      "longitud": -86.5772252,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2782113250",
+      "nombre": "La Palma",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3918329,
+      "longitud": -86.6732951,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2782113252",
+      "nombre": "Jim Burt",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3978228,
+      "longitud": -86.6623704,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2782113257",
+      "nombre": "Los Linartes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3293177,
+      "longitud": -86.6403549,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2782113277",
+      "nombre": "19 de Julio",
+      "tipo_localidad": "village",
+      "latitud": 12.334326,
+      "longitud": -86.6555881,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2782113290",
+      "nombre": "El Chorizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3035564,
+      "longitud": -86.6452766,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2782113299",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3791594,
+      "longitud": -86.6766218,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2782113354",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "village",
+      "latitud": 12.4353208,
+      "longitud": -86.7184522,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2782113358",
+      "nombre": "Cabo de Horno",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3682059,
+      "longitud": -86.6725606,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2808793299",
+      "nombre": "Puerto Momotombo",
+      "tipo_localidad": "village",
+      "latitud": 12.4049128,
+      "longitud": -86.6154807,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2808952755",
+      "nombre": "Miralago",
+      "tipo_localidad": "village",
+      "latitud": 12.4105812,
+      "longitud": -86.6247583,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2823433105",
+      "nombre": "El Tamarindo",
+      "tipo_localidad": "village",
+      "latitud": 12.2389626,
+      "longitud": -86.7196042,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2823433108",
+      "nombre": "Villas Alba",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1757658,
+      "longitud": -86.7648184,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2823433109",
+      "nombre": "Osman Zapata",
+      "tipo_localidad": "village",
+      "latitud": 12.3519775,
+      "longitud": -86.6873889,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2823433110",
+      "nombre": "Playa Hermosa",
+      "tipo_localidad": "village",
+      "latitud": 12.1109045,
+      "longitud": -86.7368723,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2823434063",
+      "nombre": "Rota",
+      "tipo_localidad": "village",
+      "latitud": 12.5343755,
+      "longitud": -86.7275305,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2823434065",
+      "nombre": "Valle Los Urroz",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.475449,
+      "longitud": -86.7474075,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2825591209",
+      "nombre": "El Jicaral",
+      "tipo_localidad": "town",
+      "latitud": 12.7284813,
+      "longitud": -86.3807822,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2826632568",
+      "nombre": "Calle Real de Talpata",
+      "tipo_localidad": "village",
+      "latitud": 12.6348948,
+      "longitud": -86.541021,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2826632569",
+      "nombre": "Casas Nuevas",
+      "tipo_localidad": "village",
+      "latitud": 12.5623561,
+      "longitud": -86.4121292,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2826632571",
+      "nombre": "El Empalme",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6738951,
+      "longitud": -86.4233683,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2826632572",
+      "nombre": "Las Mojarras",
+      "tipo_localidad": "village",
+      "latitud": 12.6024401,
+      "longitud": -86.3574265,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2826632574",
+      "nombre": "Los Zarzales",
+      "tipo_localidad": "village",
+      "latitud": 12.664867,
+      "longitud": -86.4404141,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2826634416",
+      "nombre": "Santa Rosa de Los Parrales",
+      "tipo_localidad": "village",
+      "latitud": 12.7130084,
+      "longitud": -86.5119325,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956907",
+      "nombre": "Coralito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8478055,
+      "longitud": -86.4286688,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956908",
+      "nombre": "El Abra (Pueblo Nuevo)",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7605648,
+      "longitud": -86.4046185,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956909",
+      "nombre": "Terrero Blanco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8831691,
+      "longitud": -86.4227208,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956910",
+      "nombre": "El Censo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7572165,
+      "longitud": -86.4188446,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956912",
+      "nombre": "El Chaparral",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7840755,
+      "longitud": -86.4106322,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956913",
+      "nombre": "El Charco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8152346,
+      "longitud": -86.39014,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956915",
+      "nombre": "El Coyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8328993,
+      "longitud": -86.4029525,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956917",
+      "nombre": "El Jicote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8611263,
+      "longitud": -86.4430465,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956922",
+      "nombre": "La Morada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8651941,
+      "longitud": -86.4283141,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956923",
+      "nombre": "La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8094503,
+      "longitud": -86.4227173,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956924",
+      "nombre": "La Sapera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7805905,
+      "longitud": -86.3968158,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956927",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8543027,
+      "longitud": -86.4367868,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836956930",
+      "nombre": "El Picacho",
+      "tipo_localidad": "village",
+      "latitud": 12.8455667,
+      "longitud": -86.4156446,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836960090",
+      "nombre": "Quintero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8081444,
+      "longitud": -86.4380005,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836960091",
+      "nombre": "El Regadío",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8445427,
+      "longitud": -86.4030071,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836960092",
+      "nombre": "Hato Viejo",
+      "tipo_localidad": "village",
+      "latitud": 12.7511756,
+      "longitud": -86.4505527,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836960094",
+      "nombre": "San Martín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7838031,
+      "longitud": -86.481695,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836960095",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7895439,
+      "longitud": -86.4317294,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836960097",
+      "nombre": "Santa Rosa del Peñón",
+      "tipo_localidad": "town",
+      "latitud": 12.8009167,
+      "longitud": -86.3696165,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836960098",
+      "nombre": "Talolinga",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.834616,
+      "longitud": -86.4196016,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2836960099",
+      "nombre": "Tierra Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8222203,
+      "longitud": -86.4311564,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2861392984",
+      "nombre": "El Portillo de Las Tablas",
+      "tipo_localidad": "village",
+      "latitud": 13.116134,
+      "longitud": -86.6198198,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2914698455",
+      "nombre": "Barrio Felipe Santana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4341688,
+      "longitud": -86.9088215,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2914698459",
+      "nombre": "Barrio Ronald Sandino Zamora",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4271347,
+      "longitud": -86.8970564,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2914698460",
+      "nombre": "Reparto Juan Álvarez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4370472,
+      "longitud": -86.9001044,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2914698464",
+      "nombre": "Reparto Fanor Urroz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4303183,
+      "longitud": -86.901968,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2914698466",
+      "nombre": "Reparto San Mateo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4315014,
+      "longitud": -86.9009155,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2914698477",
+      "nombre": "Reparto Carlos Núñez Téllez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4290093,
+      "longitud": -86.905637,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2914699296",
+      "nombre": "Barrio Sutiava",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4321209,
+      "longitud": -86.8936522,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/2930398383",
+      "nombre": "El Lagartillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0835655,
+      "longitud": -86.5580991,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/3505270626",
+      "nombre": "San José de Telica",
+      "tipo_localidad": "village",
+      "latitud": 12.5136732,
+      "longitud": -86.8613443,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/3880840607",
+      "nombre": "Larreynaga",
+      "tipo_localidad": "village",
+      "latitud": 12.6761223,
+      "longitud": -86.5711729,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/3928052222",
+      "nombre": "La Cruz de La India",
+      "tipo_localidad": "village",
+      "latitud": 12.7483082,
+      "longitud": -86.302196,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/3957505057",
+      "nombre": "El Papalonal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4741405,
+      "longitud": -86.4661803,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/3961704557",
+      "nombre": "Empalme Puerto Sandino",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2191672,
+      "longitud": -86.6912697,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/3961821318",
+      "nombre": "Las Limas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2551109,
+      "longitud": -86.6373755,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/3962417540",
+      "nombre": "Candelaria",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.143124,
+      "longitud": -86.6012608,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/3962417545",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1143686,
+      "longitud": -86.5795696,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/3962417549",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "village",
+      "latitud": 12.1176318,
+      "longitud": -86.5755881,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/3962417550",
+      "nombre": "Ojo de Agua",
+      "tipo_localidad": "village",
+      "latitud": 12.1061521,
+      "longitud": -86.5881613,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4022231508",
+      "nombre": "Betania",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2875696,
+      "longitud": -86.5889216,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4022231509",
+      "nombre": "Carro Volcado",
+      "tipo_localidad": "village",
+      "latitud": 12.2837447,
+      "longitud": -86.5525192,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4022231514",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.274316,
+      "longitud": -86.5668137,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4022231519",
+      "nombre": "La Playa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3179981,
+      "longitud": -86.5895129,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4022231524",
+      "nombre": "Monte Cristo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.298319,
+      "longitud": -86.5982538,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4022231530",
+      "nombre": "Silvio Mayorga",
+      "tipo_localidad": "village",
+      "latitud": 12.2430476,
+      "longitud": -86.5317303,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4022640838",
+      "nombre": "Valle de Jesús",
+      "tipo_localidad": "village",
+      "latitud": 12.2365461,
+      "longitud": -86.5696591,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4024314135",
+      "nombre": "El Nacascolo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.103855,
+      "longitud": -86.6005473,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4027122596",
+      "nombre": "Tamborcito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0610108,
+      "longitud": -86.6663438,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4027168031",
+      "nombre": "San Pablo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.06934,
+      "longitud": -86.6796242,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4030622446",
+      "nombre": "La Gloria",
+      "tipo_localidad": "village",
+      "latitud": 12.1335996,
+      "longitud": -86.7334828,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4034064075",
+      "nombre": "El Empalme de Izapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.267373,
+      "longitud": -86.7364727,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4034064078",
+      "nombre": "Los Corrales",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2837441,
+      "longitud": -86.7220453,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4034064081",
+      "nombre": "Sontomil",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2503085,
+      "longitud": -86.7287827,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4034109641",
+      "nombre": "La Paz Vieja",
+      "tipo_localidad": "village",
+      "latitud": 12.3468863,
+      "longitud": -86.6989282,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4035080765",
+      "nombre": "El Coco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3383434,
+      "longitud": -86.6894778,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4035790593",
+      "nombre": "Felipe López",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3694227,
+      "longitud": -86.733035,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4035790596",
+      "nombre": "Flor de Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3796663,
+      "longitud": -86.7130406,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4035790599",
+      "nombre": "Silvia Ferrufino",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4374001,
+      "longitud": -86.7309409,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4035790600",
+      "nombre": "Las Sabanetas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3893792,
+      "longitud": -86.6632267,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4035790605",
+      "nombre": "La Concepción",
+      "tipo_localidad": "village",
+      "latitud": 12.3587508,
+      "longitud": -86.7321198,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4048669334",
+      "nombre": "La Fuente",
+      "tipo_localidad": "village",
+      "latitud": 12.5407068,
+      "longitud": -86.5807365,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4048669336",
+      "nombre": "Las Ramadas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5347948,
+      "longitud": -86.5504101,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4048669337",
+      "nombre": "Los Portillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5544258,
+      "longitud": -86.5416125,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4048669339",
+      "nombre": "Cuatro Palos",
+      "tipo_localidad": "village",
+      "latitud": 12.4792211,
+      "longitud": -86.4358329,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4048669343",
+      "nombre": "Tecuaname",
+      "tipo_localidad": "village",
+      "latitud": 12.5402931,
+      "longitud": -86.5473954,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4057258462",
+      "nombre": "Correviento",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.617061,
+      "longitud": -86.6892847,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4057258463",
+      "nombre": "El Cambio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6429645,
+      "longitud": -86.6973984,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4057258464",
+      "nombre": "El Chorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5905306,
+      "longitud": -86.7760247,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4057258465",
+      "nombre": "El Piñuelar",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6679677,
+      "longitud": -86.704061,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4057258467",
+      "nombre": "El Tigre",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6650525,
+      "longitud": -86.7005017,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4057258468",
+      "nombre": "El Tiziate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5972685,
+      "longitud": -86.7733317,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4057258472",
+      "nombre": "La Managua",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6498528,
+      "longitud": -86.7396324,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4057258474",
+      "nombre": "El Petén",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6594171,
+      "longitud": -86.7041982,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4057258476",
+      "nombre": "Puente de Oro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6622157,
+      "longitud": -86.7441278,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4063545933",
+      "nombre": "Tolapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6242218,
+      "longitud": -86.6151148,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4063545936",
+      "nombre": "Charco de los Bueyes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5879716,
+      "longitud": -86.5415005,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4063545942",
+      "nombre": "El Llano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6261981,
+      "longitud": -86.5779287,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4063545947",
+      "nombre": "La Cabaña",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5880294,
+      "longitud": -86.6746583,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4063545950",
+      "nombre": "La Lechuza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6163181,
+      "longitud": -86.6267544,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4063545952",
+      "nombre": "La Palmeriita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5610109,
+      "longitud": -86.5944793,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4063545954",
+      "nombre": "Cuatro Esquinas de Tonalapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.607986,
+      "longitud": -86.5436893,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4063545959",
+      "nombre": "San Claudio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6171636,
+      "longitud": -86.5340142,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4063545961",
+      "nombre": "San Pancho",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5575912,
+      "longitud": -86.605176,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4063545966",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6251142,
+      "longitud": -86.5976046,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4070781561",
+      "nombre": "Santa Bárbara",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8596658,
+      "longitud": -86.5901979,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4110790450",
+      "nombre": "El Pavón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6481083,
+      "longitud": -86.2913995,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4110790454",
+      "nombre": "La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6544867,
+      "longitud": -86.2965909,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4114854293",
+      "nombre": "El Talpetate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7822687,
+      "longitud": -86.2925521,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4114854690",
+      "nombre": "El Tanque",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7949705,
+      "longitud": -86.3003627,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/4809898682",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0824219,
+      "longitud": -86.6557012,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5012978606",
+      "nombre": "Hato Quemado",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9934671,
+      "longitud": -86.5332093,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5177237398",
+      "nombre": "Monte Frío No 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0609929,
+      "longitud": -86.6954674,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5177237871",
+      "nombre": "Los Lanitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0507974,
+      "longitud": -86.6561278,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5177237873",
+      "nombre": "Las Minitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.025059,
+      "longitud": -86.6051413,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5179886328",
+      "nombre": "Santa Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0989317,
+      "longitud": -86.6900325,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5189726848",
+      "nombre": "El Barro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0133387,
+      "longitud": -86.6607855,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5365109564",
+      "nombre": "Villa Castellón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4094569,
+      "longitud": -86.859808,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5661529291",
+      "nombre": "Puerta de Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4355156,
+      "longitud": -86.7422335,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5661989853",
+      "nombre": "Barrio Nuevo Amanecer",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8843105,
+      "longitud": -86.5450223,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5662137481",
+      "nombre": "Barrio Zaragoza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4372773,
+      "longitud": -86.8855763,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5662137482",
+      "nombre": "Barrio San Sebastián",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4322495,
+      "longitud": -86.8785812,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5662137483",
+      "nombre": "Barrio Sagrado",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.437166,
+      "longitud": -86.8799827,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5662137484",
+      "nombre": "Barrio El Calvario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4369158,
+      "longitud": -86.8729794,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670444929",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3936428,
+      "longitud": -86.8268017,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670678217",
+      "nombre": "Amatitán",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3664623,
+      "longitud": -86.7679817,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670678218",
+      "nombre": "Las Parcelas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.350773,
+      "longitud": -86.7746308,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670678219",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "village",
+      "latitud": 12.3987027,
+      "longitud": -86.8128798,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670678220",
+      "nombre": "El Convento",
+      "tipo_localidad": "village",
+      "latitud": 12.4061542,
+      "longitud": -86.825984,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670682421",
+      "nombre": "Santa Bárbara",
+      "tipo_localidad": "village",
+      "latitud": 12.3641957,
+      "longitud": -86.7595339,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670682422",
+      "nombre": "Hato Grande Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3888237,
+      "longitud": -86.8175609,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670682423",
+      "nombre": "El Encanto",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4005817,
+      "longitud": -86.8547151,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670682425",
+      "nombre": "Hato Grande Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3729163,
+      "longitud": -86.7974151,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670682426",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3827046,
+      "longitud": -86.7880972,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/5670682427",
+      "nombre": "El Mojón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3966981,
+      "longitud": -86.7898864,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6384702904",
+      "nombre": "San Ramón",
+      "tipo_localidad": "village",
+      "latitud": 12.8534408,
+      "longitud": -86.5221029,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6384724036",
+      "nombre": "Cofradía",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8705139,
+      "longitud": -86.531943,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6384724037",
+      "nombre": "El Tejar",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8607266,
+      "longitud": -86.5283857,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6386044161",
+      "nombre": "El Guásimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.849399,
+      "longitud": -86.4926809,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6386114223",
+      "nombre": "cuatro Esquinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.839909,
+      "longitud": -86.4967738,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6386954163",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8397221,
+      "longitud": -86.5168512,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6386954164",
+      "nombre": "Las Porras",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8425778,
+      "longitud": -86.5129029,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6386954174",
+      "nombre": "La Barnacha",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8589061,
+      "longitud": -86.5206385,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6386969450",
+      "nombre": "Armenia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8539481,
+      "longitud": -86.5686821,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6386969451",
+      "nombre": "Esquipulas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8608202,
+      "longitud": -86.554209,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6386978786",
+      "nombre": "Los Mangos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8780885,
+      "longitud": -86.5537048,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6386978788",
+      "nombre": "San Nicolás",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8325775,
+      "longitud": -86.5306807,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6422117324",
+      "nombre": "Sabana Grande",
+      "tipo_localidad": "village",
+      "latitud": 12.8200189,
+      "longitud": -86.4843482,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6422124287",
+      "nombre": "San Martín Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7752192,
+      "longitud": -86.4929903,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6422206138",
+      "nombre": "El Poseron",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7423799,
+      "longitud": -86.4917614,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6422206178",
+      "nombre": "El Tempisque",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7366131,
+      "longitud": -86.4626247,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6422206179",
+      "nombre": "San Migelito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7207627,
+      "longitud": -86.4696175,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6422206180",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7290146,
+      "longitud": -86.5108377,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6422206182",
+      "nombre": "Nagualapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7267707,
+      "longitud": -86.4755288,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6422210892",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8032435,
+      "longitud": -86.5004039,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6422210893",
+      "nombre": "Condadillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7413859,
+      "longitud": -86.4723126,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6422250229",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7578863,
+      "longitud": -86.5070396,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6424054318",
+      "nombre": "El Coco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8283251,
+      "longitud": -86.5121305,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6424054319",
+      "nombre": "El Guacucal",
+      "tipo_localidad": "village",
+      "latitud": 12.8011817,
+      "longitud": -86.5218167,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6431770613",
+      "nombre": "El Tamarindo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7903434,
+      "longitud": -86.447618,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6431770615",
+      "nombre": "Jiquelite",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8012161,
+      "longitud": -86.4621802,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6431780666",
+      "nombre": "El Jobo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8157767,
+      "longitud": -86.4516145,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6431781339",
+      "nombre": "La Leonera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8294497,
+      "longitud": -86.4604336,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6431781340",
+      "nombre": "Piedras de Aqua",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8373884,
+      "longitud": -86.4532618,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6431781341",
+      "nombre": "El Borbollón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8360105,
+      "longitud": -86.4800736,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6432013806",
+      "nombre": "Hato Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9426354,
+      "longitud": -86.6219919,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6432013809",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9242999,
+      "longitud": -86.5871488,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6432013810",
+      "nombre": "El Pavón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8994427,
+      "longitud": -86.5715409,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6437419163",
+      "nombre": "El Sayulero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9079247,
+      "longitud": -86.6001999,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6437419164",
+      "nombre": "Los Panales 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8869462,
+      "longitud": -86.5846468,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6437432318",
+      "nombre": "Las Mesitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7626892,
+      "longitud": -86.4623166,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6437446158",
+      "nombre": "La Cooperativa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8376609,
+      "longitud": -86.4859945,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6437446159",
+      "nombre": "Guapinol",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8327919,
+      "longitud": -86.478851,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6437446162",
+      "nombre": "Las Joyas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7353774,
+      "longitud": -86.4501071,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6437463647",
+      "nombre": "El Guasimal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7613708,
+      "longitud": -86.491499,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6481840644",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8412284,
+      "longitud": -86.472274,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6481840645",
+      "nombre": "El Bourbollon arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8498023,
+      "longitud": -86.4663653,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6501177611",
+      "nombre": "Mata de Caña",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9668333,
+      "longitud": -86.6648535,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6504504670",
+      "nombre": "Puente Ocho",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9670577,
+      "longitud": -86.5735531,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6504504671",
+      "nombre": "La Puerta",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9358678,
+      "longitud": -86.5557863,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6504517773",
+      "nombre": "Chagüite Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9726825,
+      "longitud": -86.6028322,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6522303840",
+      "nombre": "El Chaparral",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9213327,
+      "longitud": -86.5624058,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6530991920",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9521794,
+      "longitud": -86.5755487,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6531312923",
+      "nombre": "Chocoya",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9494505,
+      "longitud": -86.5580821,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6531312924",
+      "nombre": "La Horqueta",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9594251,
+      "longitud": -86.553769,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6534527587",
+      "nombre": "El Pilón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8643164,
+      "longitud": -86.6302925,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6534542758",
+      "nombre": "Tres Puertas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8840658,
+      "longitud": -86.6211382,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6534543247",
+      "nombre": "Chagüite Grande o El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8911201,
+      "longitud": -86.6463537,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6664283395",
+      "nombre": "El Valle",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.757587,
+      "longitud": -86.4659927,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6666363817",
+      "nombre": "San Fernando",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7615799,
+      "longitud": -86.5356588,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6668911361",
+      "nombre": "San Antonio de Guaylo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0692445,
+      "longitud": -86.4800969,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6713188148",
+      "nombre": "La Estancia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8655271,
+      "longitud": -86.4542378,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6713188149",
+      "nombre": "El Almendro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8554544,
+      "longitud": -86.4783562,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6720163349",
+      "nombre": "Subtiava",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8884114,
+      "longitud": -86.5430832,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6721916829",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7699614,
+      "longitud": -86.5368284,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724522666",
+      "nombre": "Valencia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8762373,
+      "longitud": -86.5412163,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738733",
+      "nombre": "Divino Niño",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8788939,
+      "longitud": -86.5429625,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738734",
+      "nombre": "Bavinic",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8798561,
+      "longitud": -86.5415517,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738735",
+      "nombre": "Azul y Blanco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8818642,
+      "longitud": -86.5406048,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738737",
+      "nombre": "Esquipulas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.883203,
+      "longitud": -86.5384913,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738738",
+      "nombre": "Centro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8856921,
+      "longitud": -86.5391672,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738739",
+      "nombre": "La Estación",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8861481,
+      "longitud": -86.5412729,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738740",
+      "nombre": "Parroquia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8878257,
+      "longitud": -86.5389633,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738741",
+      "nombre": "Pedernal",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8895618,
+      "longitud": -86.5379977,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738742",
+      "nombre": "Rochester",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8917372,
+      "longitud": -86.5362811,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738743",
+      "nombre": "Las Peñitas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8901056,
+      "longitud": -86.5342641,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738744",
+      "nombre": "Calvario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8885266,
+      "longitud": -86.5351086,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738745",
+      "nombre": "Chaguitillo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.885713,
+      "longitud": -86.5350151,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738746",
+      "nombre": "Cerro de Hule",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8872086,
+      "longitud": -86.5340388,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738748",
+      "nombre": "El Granero",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8830282,
+      "longitud": -86.5343439,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738749",
+      "nombre": "Poza Azul",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8819479,
+      "longitud": -86.5282345,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6724738750",
+      "nombre": "Guanacaste",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8779108,
+      "longitud": -86.5344572,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6728165949",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8340629,
+      "longitud": -86.5837241,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6728165950",
+      "nombre": "La Ramada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8455277,
+      "longitud": -86.5851832,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6728165951",
+      "nombre": "La Virgen",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8502557,
+      "longitud": -86.633184,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6728165952",
+      "nombre": "El Guanacaste",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8617407,
+      "longitud": -86.6129709,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6734165080",
+      "nombre": "Los Tololos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8644811,
+      "longitud": -86.5394623,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6734165081",
+      "nombre": "Agua Fría",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8404128,
+      "longitud": -86.6172089,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6734268939",
+      "nombre": "Los Llanos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9085029,
+      "longitud": -86.591237,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6736382722",
+      "nombre": "El Jobito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9584424,
+      "longitud": -86.5489626,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6736382723",
+      "nombre": "La Sabana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9671831,
+      "longitud": -86.5540266,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6736382724",
+      "nombre": "Las Cañas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9441386,
+      "longitud": -86.5439361,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6736382725",
+      "nombre": "San Cayetano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.924449,
+      "longitud": -86.5432443,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6739538123",
+      "nombre": "El Bloque",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0551865,
+      "longitud": -86.5828351,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6740333260",
+      "nombre": "El Madroño",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8272529,
+      "longitud": -86.5161056,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6741547085",
+      "nombre": "El Capulin",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9788562,
+      "longitud": -86.5428632,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6741547094",
+      "nombre": "La Gabilana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9814818,
+      "longitud": -86.5640367,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6741547095",
+      "nombre": "Chagüitillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9797538,
+      "longitud": -86.5516053,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6746654913",
+      "nombre": "Sinai Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8869027,
+      "longitud": -86.5449232,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6746816766",
+      "nombre": "El Cobano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9716319,
+      "longitud": -86.5199536,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6746816767",
+      "nombre": "La Troja",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9759865,
+      "longitud": -86.5269783,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6746816768",
+      "nombre": "Corre Viento",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9503151,
+      "longitud": -86.5215214,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6746816769",
+      "nombre": "Panamá",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9372181,
+      "longitud": -86.5229902,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6746816771",
+      "nombre": "El Salitre",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9036537,
+      "longitud": -86.6259348,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6746820420",
+      "nombre": "Petaquilla",
+      "tipo_localidad": "village",
+      "latitud": 12.9623815,
+      "longitud": -86.4931485,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6747261797",
+      "nombre": "La Jicara 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8883905,
+      "longitud": -86.5091588,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6747261798",
+      "nombre": "La Chaparra",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8939125,
+      "longitud": -86.5169263,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6748461461",
+      "nombre": "Los Altos de Ocotal",
+      "tipo_localidad": "village",
+      "latitud": 12.8915699,
+      "longitud": -86.4748157,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6748461462",
+      "nombre": "La Montaña",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.892077,
+      "longitud": -86.4238697,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6748461464",
+      "nombre": "Las Cruces",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9045275,
+      "longitud": -86.4594092,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6748461465",
+      "nombre": "La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8795006,
+      "longitud": -86.4743329,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6748461466",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8686649,
+      "longitud": -86.4880873,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6748461467",
+      "nombre": "El Cacao",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8753587,
+      "longitud": -86.4502573,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6748461468",
+      "nombre": "La Minita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.869418,
+      "longitud": -86.4540769,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6748461469",
+      "nombre": "El Guayabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8705894,
+      "longitud": -86.4730884,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6759889486",
+      "nombre": "La Ramada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.837494,
+      "longitud": -86.5587902,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6759889487",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8501301,
+      "longitud": -86.5397895,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6759889488",
+      "nombre": "La Hacienda",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8407368,
+      "longitud": -86.5370751,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6762909556",
+      "nombre": "Taquezal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9523049,
+      "longitud": -86.4514912,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6762909558",
+      "nombre": "Los Salmerones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9304826,
+      "longitud": -86.4705456,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6762909559",
+      "nombre": "El Alboroto",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9446301,
+      "longitud": -86.4690543,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6762909560",
+      "nombre": "Los Guásimos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9354285,
+      "longitud": -86.4722139,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6762952124",
+      "nombre": "Los Limones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9638793,
+      "longitud": -86.4259352,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6762952125",
+      "nombre": "El Campamento",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9900739,
+      "longitud": -86.4850778,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6762952127",
+      "nombre": "Nacascolo Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0027963,
+      "longitud": -86.4782167,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6773466333",
+      "nombre": "Río Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0940594,
+      "longitud": -86.5786026,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6773466334",
+      "nombre": "Las Lajas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1103067,
+      "longitud": -86.559475,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6773466335",
+      "nombre": "El Pajarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1034464,
+      "longitud": -86.5403413,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6773466336",
+      "nombre": "Valle San Nicolás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0604995,
+      "longitud": -86.5382095,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6773466338",
+      "nombre": "La Aceituna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0366762,
+      "longitud": -86.4718701,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6784117194",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9951755,
+      "longitud": -86.6476063,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6784117211",
+      "nombre": "El Caracol",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0145344,
+      "longitud": -86.6800555,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6784122984",
+      "nombre": "El Bejuco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9788404,
+      "longitud": -86.5778017,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6796105847",
+      "nombre": "El Cacao",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0317201,
+      "longitud": -86.6306359,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6796105848",
+      "nombre": "Los Carbones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0329587,
+      "longitud": -86.6367245,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6796105849",
+      "nombre": "El Consuelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.01602,
+      "longitud": -86.6102029,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6796105850",
+      "nombre": "Los Coralitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0139032,
+      "longitud": -86.6245151,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6796105873",
+      "nombre": "San Marqueña",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0093874,
+      "longitud": -86.6399433,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6796128196",
+      "nombre": "Tierra Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.994624,
+      "longitud": -86.6621358,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6796236044",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0048647,
+      "longitud": -86.5049421,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6804536622",
+      "nombre": "Monte Frio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0490375,
+      "longitud": -86.6350639,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810275872",
+      "nombre": "Rodeito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0641783,
+      "longitud": -86.5772224,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810275873",
+      "nombre": "Sabana de la Via",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0555978,
+      "longitud": -86.5669441,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810285317",
+      "nombre": "El Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0671726,
+      "longitud": -86.602521,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810644736",
+      "nombre": "Montañita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9189485,
+      "longitud": -86.5063477,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810651663",
+      "nombre": "Varela",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0302307,
+      "longitud": -86.491499,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810651664",
+      "nombre": "El Coyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0162969,
+      "longitud": -86.4670479,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810651716",
+      "nombre": "Roble",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0623684,
+      "longitud": -86.4803673,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810651737",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.05194,
+      "longitud": -86.481922,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810651757",
+      "nombre": "San Nicolás 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0541869,
+      "longitud": -86.5142013,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810651848",
+      "nombre": "La Cañada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0206141,
+      "longitud": -86.504159,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810651864",
+      "nombre": "Guaillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0688186,
+      "longitud": -86.5281058,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6810651865",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0569408,
+      "longitud": -86.5416428,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6813343407",
+      "nombre": "Las Lajas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9857823,
+      "longitud": -86.4250016,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6813384825",
+      "nombre": "San Juan",
+      "tipo_localidad": "village",
+      "latitud": 13.0623154,
+      "longitud": -86.586712,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6813384826",
+      "nombre": "La Perla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0512316,
+      "longitud": -86.605922,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6813395050",
+      "nombre": "Los Bordos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9393341,
+      "longitud": -86.4313156,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6813424496",
+      "nombre": "Iván Vílchez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9247693,
+      "longitud": -86.6332724,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6881912444",
+      "nombre": "Los Brasiles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7940179,
+      "longitud": -86.4823348,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6980081666",
+      "nombre": "Arlen Siu",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8708404,
+      "longitud": -86.4939881,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/6980176114",
+      "nombre": "El Carrizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8800653,
+      "longitud": -86.4369536,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/7018043416",
+      "nombre": "Los Martínez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9402699,
+      "longitud": -86.4490343,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/7018043427",
+      "nombre": "El Carrizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9797311,
+      "longitud": -86.4406583,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/7402617786",
+      "nombre": "Zanjón Santo Cristo",
+      "tipo_localidad": "village",
+      "latitud": 12.5163419,
+      "longitud": -86.8284326,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10014430491",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "village",
+      "latitud": 12.5358338,
+      "longitud": -86.9050304,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10014437835",
+      "nombre": "El Tamarindo",
+      "tipo_localidad": "village",
+      "latitud": 12.6721804,
+      "longitud": -86.4295777,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10017090053",
+      "nombre": "Los Limones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.873033,
+      "longitud": -86.3404214,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10017090054",
+      "nombre": "El Guanacaste",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.838188,
+      "longitud": -86.3248596,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10017090154",
+      "nombre": "El Terrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8360307,
+      "longitud": -86.29825,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10017090408",
+      "nombre": "El Boquerón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.829021,
+      "longitud": -86.3247424,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10017090409",
+      "nombre": "Bacacán",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8259423,
+      "longitud": -86.3219684,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10017090410",
+      "nombre": "San Roque",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8210081,
+      "longitud": -86.3186394,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10017090411",
+      "nombre": "La Mora",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8283789,
+      "longitud": -86.3128547,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10017090517",
+      "nombre": "La Lima",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8548892,
+      "longitud": -86.387347,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10018058264",
+      "nombre": "Monte Oscuro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.864093,
+      "longitud": -86.4053755,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10018058409",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7172359,
+      "longitud": -86.3363491,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10018120474",
+      "nombre": "El Cristalito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7268697,
+      "longitud": -86.3144203,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10018120571",
+      "nombre": "Bordo Las Tinajas",
+      "tipo_localidad": "village",
+      "latitud": 12.7358492,
+      "longitud": -86.312758,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10018120713",
+      "nombre": "El Carrizal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7277406,
+      "longitud": -86.3008661,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10018121088",
+      "nombre": "Agua Fría",
+      "tipo_localidad": "village",
+      "latitud": 12.7639983,
+      "longitud": -86.2893419,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10074061462",
+      "nombre": "El Níspero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9719271,
+      "longitud": -86.4646205,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10075065400",
+      "nombre": "Taquezal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9478192,
+      "longitud": -86.4520705,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10075065401",
+      "nombre": "La Cigarrera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9486949,
+      "longitud": -86.4614019,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10075065408",
+      "nombre": "Nacascolo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9993661,
+      "longitud": -86.4804711,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10127040895",
+      "nombre": "Salinas Grandes",
+      "tipo_localidad": "village",
+      "latitud": 12.2679038,
+      "longitud": -86.8494236,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10591757520",
+      "nombre": "Los Hornos",
+      "tipo_localidad": "village",
+      "latitud": 13.0971599,
+      "longitud": -86.6046238,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10593148377",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1049527,
+      "longitud": -86.6970259,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10593148378",
+      "nombre": "Planes de Luzmatú",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0872742,
+      "longitud": -86.7373503,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10593202754",
+      "nombre": "El Portillo de La Guaruma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.020844,
+      "longitud": -86.5366996,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10593202758",
+      "nombre": "El Divisadero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0498807,
+      "longitud": -86.5628243,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10593202763",
+      "nombre": "La Guaruma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0800008,
+      "longitud": -86.5805054,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10593202764",
+      "nombre": "Agua Sarca",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0861143,
+      "longitud": -86.6106427,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10593203052",
+      "nombre": "Las Tablas",
+      "tipo_localidad": "village",
+      "latitud": 13.1092264,
+      "longitud": -86.602926,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10593203054",
+      "nombre": "Las Brisas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1243278,
+      "longitud": -86.6187832,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10605797083",
+      "nombre": "La Pintada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0579807,
+      "longitud": -86.5127045,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10605797091",
+      "nombre": "California",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0232796,
+      "longitud": -86.6361022,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10605797103",
+      "nombre": "Chico Pine",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0269276,
+      "longitud": -86.6827619,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10605844005",
+      "nombre": "Los Ponederos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0229503,
+      "longitud": -86.6671944,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10605844009",
+      "nombre": "El Coyolar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0185862,
+      "longitud": -86.6532684,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10605844010",
+      "nombre": "El Pacón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0237343,
+      "longitud": -86.6465199,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10605844048",
+      "nombre": "La Calera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0673919,
+      "longitud": -86.6230077,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10605844049",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0819655,
+      "longitud": -86.630711,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10606441466",
+      "nombre": "Quebrada Honda",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0403276,
+      "longitud": -86.6641367,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10606441533",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0874519,
+      "longitud": -86.6909856,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10606441537",
+      "nombre": "Monte Frío No 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0746606,
+      "longitud": -86.706242,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10780108213",
+      "nombre": "Mocorón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6806034,
+      "longitud": -86.8543375,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10780108217",
+      "nombre": "San Pedro Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6644239,
+      "longitud": -86.8504402,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10780108272",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6891182,
+      "longitud": -86.8376595,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10780108274",
+      "nombre": "Las Marías",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.667158,
+      "longitud": -86.861971,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10780108276",
+      "nombre": "Trapichito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.654832,
+      "longitud": -86.8316889,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10780693171",
+      "nombre": "Los Naranjos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8493248,
+      "longitud": -86.5482652,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10780697189",
+      "nombre": "La Herradura",
+      "tipo_localidad": "village",
+      "latitud": 12.9538942,
+      "longitud": -86.6317677,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10780697190",
+      "nombre": "Los Playones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9948043,
+      "longitud": -86.6966799,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10855926542",
+      "nombre": "Las Pencas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8837416,
+      "longitud": -86.5744168,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948965258",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8227545,
+      "longitud": -86.306212,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948965267",
+      "nombre": "La Rinconada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7704113,
+      "longitud": -86.4231456,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948965269",
+      "nombre": "La Gripita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7205638,
+      "longitud": -86.4060331,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948965272",
+      "nombre": "San Juan de Dios",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.708769,
+      "longitud": -86.4192027,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948965276",
+      "nombre": "Las Tablas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6900368,
+      "longitud": -86.4766101,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948965281",
+      "nombre": "El Alcaraban",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6923211,
+      "longitud": -86.4023316,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948965282",
+      "nombre": "El Tule",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6990406,
+      "longitud": -86.4018917,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948965289",
+      "nombre": "Las Cañas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7067333,
+      "longitud": -86.3688362,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948965293",
+      "nombre": "La Montaña",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7003384,
+      "longitud": -86.3171554,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984005",
+      "nombre": "Las Vacas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7300584,
+      "longitud": -86.2833381,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984006",
+      "nombre": "Linda Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7363506,
+      "longitud": -86.289239,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984007",
+      "nombre": "Limoncillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7316622,
+      "longitud": -86.2963307,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984008",
+      "nombre": "Los Rastrajos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7339279,
+      "longitud": -86.297865,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984017",
+      "nombre": "La Torera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8134647,
+      "longitud": -86.3525391,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984018",
+      "nombre": "Ojo de Aqua",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8108702,
+      "longitud": -86.3597918,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984019",
+      "nombre": "El Amarradero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8111004,
+      "longitud": -86.3443852,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984020",
+      "nombre": "Guacalpisque",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8293267,
+      "longitud": -86.362305,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984021",
+      "nombre": "Poza de La Hoya",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8313222,
+      "longitud": -86.3724465,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984024",
+      "nombre": "Mazotal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8265101,
+      "longitud": -86.440022,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/10948984025",
+      "nombre": "Mazotal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8196998,
+      "longitud": -86.4542163,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11502008645",
+      "nombre": "Mejía",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7502318,
+      "longitud": -86.4108771,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11505021245",
+      "nombre": "Las Guayabas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.753078,
+      "longitud": -86.3729507,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11505021722",
+      "nombre": "El Ochotillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7568608,
+      "longitud": -86.3562942,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11505966509",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7875708,
+      "longitud": -86.3751984,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11527111826",
+      "nombre": "Eduardo Contreras",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9179863,
+      "longitud": -86.6090333,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11527111827",
+      "nombre": "Llano San Lorenzo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.91087,
+      "longitud": -86.6102028,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11529864009",
+      "nombre": "Sandino",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0918148,
+      "longitud": -86.6429687,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11530867327",
+      "nombre": "Las Grazas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8485193,
+      "longitud": -86.661154,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582093548",
+      "nombre": "San Martín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5801723,
+      "longitud": -86.7072451,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582093623",
+      "nombre": "Las Ramadas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7702884,
+      "longitud": -86.6915341,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582093682",
+      "nombre": "Las Parcelas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7734849,
+      "longitud": -86.4828032,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582093780",
+      "nombre": "Jiquillio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8104099,
+      "longitud": -86.6185123,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582561780",
+      "nombre": "Quebrada Honda",
+      "tipo_localidad": "village",
+      "latitud": 12.7267018,
+      "longitud": -86.7215252,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582562002",
+      "nombre": "El Guásimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.735304,
+      "longitud": -86.708436,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582818379",
+      "nombre": "La Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6100922,
+      "longitud": -86.7523599,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582818425",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6139739,
+      "longitud": -86.7520984,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582818438",
+      "nombre": "San Ignacio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6222162,
+      "longitud": -86.7368218,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582818477",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6515973,
+      "longitud": -86.7526066,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582818601",
+      "nombre": "San Carlos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6836493,
+      "longitud": -86.7334181,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582818616",
+      "nombre": "Galilao",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6887938,
+      "longitud": -86.7289656,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11582818694",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6942967,
+      "longitud": -86.725165,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11583046164",
+      "nombre": "El Tamarindo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5756859,
+      "longitud": -86.6996195,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11583046195",
+      "nombre": "San Cristóbal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5810937,
+      "longitud": -86.6964358,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11583046224",
+      "nombre": "Jorge Barreto Romero",
+      "tipo_localidad": "village",
+      "latitud": 12.5929521,
+      "longitud": -86.7094338,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11583046270",
+      "nombre": "La Milagrosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5908213,
+      "longitud": -86.7340162,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11583046297",
+      "nombre": "Empalme",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5899313,
+      "longitud": -86.7419529,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11583046315",
+      "nombre": "San José de Apante",
+      "tipo_localidad": "village",
+      "latitud": 12.5884287,
+      "longitud": -86.7481273,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11583635081",
+      "nombre": "La Montaña",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7008617,
+      "longitud": -86.5126455,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11585219367",
+      "nombre": "Portobanco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7586632,
+      "longitud": -86.6124827,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11585219447",
+      "nombre": "Guásimo Macho",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7288445,
+      "longitud": -86.6001378,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11593588032",
+      "nombre": "Los Velásquez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6538819,
+      "longitud": -86.8662158,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11599149370",
+      "nombre": "Nuevo Amanecer",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6610238,
+      "longitud": -86.8131173,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11599149371",
+      "nombre": "Unión España",
+      "tipo_localidad": "village",
+      "latitud": 12.656889,
+      "longitud": -86.8108535,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11599149651",
+      "nombre": "Piedra Quemada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6472843,
+      "longitud": -86.8114168,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11599149652",
+      "nombre": "El Cortezal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6621805,
+      "longitud": -86.7999262,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11599149664",
+      "nombre": "La Sirena",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6707798,
+      "longitud": -86.784085,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11620266718",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5785545,
+      "longitud": -86.7324418,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11620436460",
+      "nombre": "El Ojochal",
+      "tipo_localidad": "village",
+      "latitud": 12.5634648,
+      "longitud": -86.7968309,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11624967182",
+      "nombre": "El Espino",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.581743,
+      "longitud": -86.5192652,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11624967183",
+      "nombre": "Santa María",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.578866,
+      "longitud": -86.5363053,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11624967184",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5652765,
+      "longitud": -86.5329123,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11624967187",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5398443,
+      "longitud": -86.5694118,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11624967587",
+      "nombre": "Terrero Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5363621,
+      "longitud": -86.6084272,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11625076153",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5715307,
+      "longitud": -86.6125,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11625076154",
+      "nombre": "Terrero Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5650016,
+      "longitud": -86.605411,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11625076261",
+      "nombre": "Terrero Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5818948,
+      "longitud": -86.629563,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11625076304",
+      "nombre": "Las Lomas",
+      "tipo_localidad": "village",
+      "latitud": 12.5850571,
+      "longitud": -86.5064228,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11625718728",
+      "nombre": "Columbia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5983393,
+      "longitud": -86.5414095,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11625827441",
+      "nombre": "El Terrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5492017,
+      "longitud": -86.6122306,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11625827493",
+      "nombre": "Punta de Plancha",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5259935,
+      "longitud": -86.6007185,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11627337768",
+      "nombre": "San Augustín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5613547,
+      "longitud": -86.4874005,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11627337769",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5751513,
+      "longitud": -86.5056181,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11627536459",
+      "nombre": "San Rogue",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6118302,
+      "longitud": -86.6459674,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11629022780",
+      "nombre": "El Edén",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6218079,
+      "longitud": -86.5214807,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11630440949",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "village",
+      "latitud": 12.6444735,
+      "longitud": -86.5289962,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11630523175",
+      "nombre": "El Barro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.654743,
+      "longitud": -86.5360236,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11630523220",
+      "nombre": "La Chilama",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6498333,
+      "longitud": -86.5379924,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11630549077",
+      "nombre": "El Madroño",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6319318,
+      "longitud": -86.5085364,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11630855030",
+      "nombre": "Nuevo Renacer",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4821531,
+      "longitud": -86.4781952,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11632889867",
+      "nombre": "El Güiscoyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6063805,
+      "longitud": -86.3829446,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11632961184",
+      "nombre": "El Portillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5850728,
+      "longitud": -86.406666,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11632961225",
+      "nombre": "La Montaña",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5865126,
+      "longitud": -86.392858,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11632961290",
+      "nombre": "El Sontrol",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5770989,
+      "longitud": -86.3913077,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11632961413",
+      "nombre": "Santa Elena",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5451173,
+      "longitud": -86.4009798,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11633597320",
+      "nombre": "Villa Samaria",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6530942,
+      "longitud": -86.4067787,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11642031061",
+      "nombre": "Santa Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6204625,
+      "longitud": -86.4552677,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11642031083",
+      "nombre": "Las Pilitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6071291,
+      "longitud": -86.4508528,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11642328701",
+      "nombre": "Uval Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.74377,
+      "longitud": -86.3189149,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11642336014",
+      "nombre": "Dos Brazos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7212702,
+      "longitud": -86.282748,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11642336039",
+      "nombre": "Nance Dulce",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7438805,
+      "longitud": -86.3247097,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11642336076",
+      "nombre": "Los Limones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7251843,
+      "longitud": -86.2955904,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11796101101",
+      "nombre": "Terrero Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5311255,
+      "longitud": -86.5941417,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/11836019088",
+      "nombre": "San Esteban",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1638968,
+      "longitud": -86.5289801,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12090431882",
+      "nombre": "María Cristina",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3822682,
+      "longitud": -87.017743,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12092514210",
+      "nombre": "Colonia Rey Pablo Hernández",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4530722,
+      "longitud": -86.9990158,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12092514213",
+      "nombre": "Los Barzones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4126196,
+      "longitud": -87.0179898,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12093532825",
+      "nombre": "Troilo",
+      "tipo_localidad": "village",
+      "latitud": 12.4525536,
+      "longitud": -86.9855082,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12093532914",
+      "nombre": "La Virgen",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.460183,
+      "longitud": -86.9963524,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12094316820",
+      "nombre": "La Gallina",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3862922,
+      "longitud": -86.9763458,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12094325978",
+      "nombre": "Gracias a Dios",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4322018,
+      "longitud": -87.0073455,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12109310848",
+      "nombre": "San Augustín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5051295,
+      "longitud": -86.9646782,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12109413383",
+      "nombre": "Ceiba Chachaga",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.549254,
+      "longitud": -86.9163716,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12109418053",
+      "nombre": "Canta Rana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5446736,
+      "longitud": -86.9065842,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12109418070",
+      "nombre": "El Pozo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5419258,
+      "longitud": -86.8973011,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12109418072",
+      "nombre": "Las Colinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5693081,
+      "longitud": -86.8975049,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12109418214",
+      "nombre": "La Fortuna",
+      "tipo_localidad": "village",
+      "latitud": 12.5460389,
+      "longitud": -86.9255126,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110481610",
+      "nombre": "Los Portillos",
+      "tipo_localidad": "village",
+      "latitud": 12.6276969,
+      "longitud": -86.8947154,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110502115",
+      "nombre": "El Boquerón",
+      "tipo_localidad": "village",
+      "latitud": 12.5559692,
+      "longitud": -86.9178785,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110502155",
+      "nombre": "Mitapán",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5968472,
+      "longitud": -86.9008577,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110502184",
+      "nombre": "Cristo Rey",
+      "tipo_localidad": "village",
+      "latitud": 12.6105895,
+      "longitud": -86.8990552,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110516029",
+      "nombre": "Paso de Lajas",
+      "tipo_localidad": "village",
+      "latitud": 12.5131213,
+      "longitud": -86.8686712,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110522201",
+      "nombre": "El Cementerio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5223034,
+      "longitud": -86.862836,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110522202",
+      "nombre": "La Parroquia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5231971,
+      "longitud": -86.8602008,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110522203",
+      "nombre": "San Antonio Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5233542,
+      "longitud": -86.8574756,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110522204",
+      "nombre": "San Antonio Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5208615,
+      "longitud": -86.8587899,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110522205",
+      "nombre": "Salinas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.520741,
+      "longitud": -86.862309,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110522206",
+      "nombre": "Félix Pedro Carrillo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.518861,
+      "longitud": -86.8667722,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12110522207",
+      "nombre": "Antenor Sandino Hernandez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5168762,
+      "longitud": -86.8709832,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12111400443",
+      "nombre": "Vieja Estación Ferrocarril de Quezalguaque",
+      "tipo_localidad": "village",
+      "latitud": 12.5062607,
+      "longitud": -86.9199389,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12111400512",
+      "nombre": "Guadalupe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4942203,
+      "longitud": -86.9085395,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12111400546",
+      "nombre": "El Jazmín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4995571,
+      "longitud": -86.901775,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12111433679",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "village",
+      "latitud": 12.5324032,
+      "longitud": -86.8960699,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12111433696",
+      "nombre": "Punta Arena",
+      "tipo_localidad": "village",
+      "latitud": 12.5242811,
+      "longitud": -86.9007933,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12111735434",
+      "nombre": "Santa Patricia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5212359,
+      "longitud": -86.9053558,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12111735484",
+      "nombre": "Garrobo Empinado",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5419755,
+      "longitud": -86.8763047,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12111735515",
+      "nombre": "Los Cocos",
+      "tipo_localidad": "village",
+      "latitud": 12.5296801,
+      "longitud": -86.8784452,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12111735618",
+      "nombre": "Verónica Lacayo",
+      "tipo_localidad": "village",
+      "latitud": 12.5306123,
+      "longitud": -86.8884981,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12111735669",
+      "nombre": "El Panal",
+      "tipo_localidad": "village",
+      "latitud": 12.5311045,
+      "longitud": -86.8713963,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12116955565",
+      "nombre": "San Pío",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5838529,
+      "longitud": -86.7667848,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12133995199",
+      "nombre": "Omar Torrijos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.273109,
+      "longitud": -86.8419242,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12134078906",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2601038,
+      "longitud": -86.7503402,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12134078920",
+      "nombre": "El Censo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2956531,
+      "longitud": -86.811406,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12134078921",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.294825,
+      "longitud": -86.8175376,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12134078939",
+      "nombre": "Salto Quesada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2825861,
+      "longitud": -86.8247205,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12134078963",
+      "nombre": "El Malinche",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.330637,
+      "longitud": -86.8074686,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12134078968",
+      "nombre": "Los Arcos",
+      "tipo_localidad": "village",
+      "latitud": 12.3334197,
+      "longitud": -86.7725623,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12134078970",
+      "nombre": "El Trapiche",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.311576,
+      "longitud": -86.7852344,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12134324887",
+      "nombre": "El Descanso",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3079701,
+      "longitud": -86.7674607,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12134324888",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3079281,
+      "longitud": -86.7600632,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12134324935",
+      "nombre": "Santa María",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.292697,
+      "longitud": -86.7587596,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12286203932",
+      "nombre": "Los Mendoza",
+      "tipo_localidad": "village",
+      "latitud": 12.2817721,
+      "longitud": -86.5653151,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12324418545",
+      "nombre": "Ojo de Agua II",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1034505,
+      "longitud": -86.5797973,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12324418606",
+      "nombre": "Nagualapa",
+      "tipo_localidad": "village",
+      "latitud": 12.1211628,
+      "longitud": -86.5631756,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12324418612",
+      "nombre": "La Virgen",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1466964,
+      "longitud": -86.5861941,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12324418616",
+      "nombre": "Tierra Colorada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1350612,
+      "longitud": -86.5914837,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12324418617",
+      "nombre": "Valle Los Jiménez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1527216,
+      "longitud": -86.5631998,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12324418645",
+      "nombre": "Los Carriones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1579422,
+      "longitud": -86.5962928,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12324418651",
+      "nombre": "El Guayabal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1292292,
+      "longitud": -86.6499048,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12324418658",
+      "nombre": "Tecolote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0280038,
+      "longitud": -86.6798759,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12324418668",
+      "nombre": "El Alcarabán",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1266646,
+      "longitud": -86.5770882,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12327757167",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2060524,
+      "longitud": -86.5751034,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12329363427",
+      "nombre": "Barrio Chino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3307575,
+      "longitud": -86.6775638,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12329368729",
+      "nombre": "San Benito",
+      "tipo_localidad": "village",
+      "latitud": 12.2662605,
+      "longitud": -86.5506202,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12329368842",
+      "nombre": "El Topón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3163583,
+      "longitud": -86.6106427,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12334639290",
+      "nombre": "Santa Elena",
+      "tipo_localidad": "village",
+      "latitud": 12.474836,
+      "longitud": -86.9489336,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12337250619",
+      "nombre": "Los Remedios",
+      "tipo_localidad": "village",
+      "latitud": 12.4847457,
+      "longitud": -86.8991947,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12337250671",
+      "nombre": "El Platanal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4703944,
+      "longitud": -86.8860814,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12337278758",
+      "nombre": "El Madroñal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.490685,
+      "longitud": -86.8714339,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338123525",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "village",
+      "latitud": 12.4767819,
+      "longitud": -86.8633443,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338123544",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4892552,
+      "longitud": -86.8606621,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338142616",
+      "nombre": "El Tololar",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5072034,
+      "longitud": -86.8341887,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338169661",
+      "nombre": "Reparto Discapacitados",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4570008,
+      "longitud": -86.8733597,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338169662",
+      "nombre": "Reparto William Fonseca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4559584,
+      "longitud": -86.8872428,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216854",
+      "nombre": "Barrio Benito Lacayo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4320085,
+      "longitud": -86.8670404,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216855",
+      "nombre": "Villa 23 de Julio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4350102,
+      "longitud": -86.8682098,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216856",
+      "nombre": "Barrio El Coyolar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4415531,
+      "longitud": -86.8699211,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216857",
+      "nombre": "Barrio Pedro Avendaño",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4424017,
+      "longitud": -86.8639827,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216858",
+      "nombre": "Barrio Rosada del Sol",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4435961,
+      "longitud": -86.8647471,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216859",
+      "nombre": "Barrio Rosendo Díaz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4440597,
+      "longitud": -86.867263,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216860",
+      "nombre": "Reparto Primero de Mayo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4465243,
+      "longitud": -86.8680704,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216861",
+      "nombre": "Reparto José Benito Escobar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4470796,
+      "longitud": -86.8646881,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216862",
+      "nombre": "Villa Serrana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4503791,
+      "longitud": -86.8634576,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216863",
+      "nombre": "Barrio Todo Sera Mejor",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4526034,
+      "longitud": -86.8624377,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216864",
+      "nombre": "Barrio Linda Vista",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4534179,
+      "longitud": -86.8641919,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216865",
+      "nombre": "Barrio Augusto César Sandino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4540727,
+      "longitud": -86.8624485,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216866",
+      "nombre": "Reparto Óscar Pérez César",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4552984,
+      "longitud": -86.8611717,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216867",
+      "nombre": "Barrio Venceremos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4562413,
+      "longitud": -86.8635964,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12338216868",
+      "nombre": "Barrio Andrés Zapata",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4564927,
+      "longitud": -86.8699828,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339763234",
+      "nombre": "Fundeci 3ra Etapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4248472,
+      "longitud": -86.8662411,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339763235",
+      "nombre": "Reparto Reynaldo Varela",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4275399,
+      "longitud": -86.8691701,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339763236",
+      "nombre": "Reparto Marcos Medina",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4264974,
+      "longitud": -86.8669546,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339763237",
+      "nombre": "Reparto Héroes y Mártires del Calvario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4255754,
+      "longitud": -86.8694168,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339763238",
+      "nombre": "Reparto Marcio Hernandez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4288286,
+      "longitud": -86.8703234,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339763239",
+      "nombre": "Barrio La Arrocera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4284698,
+      "longitud": -86.8666676,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890651",
+      "nombre": "Barrio Guadalupe",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4284357,
+      "longitud": -86.8784452,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890652",
+      "nombre": "Reparto Juan Ramón Sampson",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.427739,
+      "longitud": -86.8863148,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890653",
+      "nombre": "Reparto Mario Quan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4269872,
+      "longitud": -86.8827903,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890654",
+      "nombre": "Reparto Óscar Turcios",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4259788,
+      "longitud": -86.889925,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890655",
+      "nombre": "Reparto 18 de Agosto",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4266755,
+      "longitud": -86.8877792,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890656",
+      "nombre": "Reparto Che Guevara",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4249834,
+      "longitud": -86.8876237,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890657",
+      "nombre": "Reparto Carlos Fonseca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.425261,
+      "longitud": -86.8857247,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890658",
+      "nombre": "Reparto Emir Cabezas Lacayo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4249467,
+      "longitud": -86.882785,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890659",
+      "nombre": "Reparto Julio Canales",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.423307,
+      "longitud": -86.8832892,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890660",
+      "nombre": "Reparto Walter Ferreti",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4234851,
+      "longitud": -86.888954,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890661",
+      "nombre": "Reparto Brisas de Acosaaco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4210909,
+      "longitud": -86.8865696,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890662",
+      "nombre": "Reparto Universitaria",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4183143,
+      "longitud": -86.867094,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890663",
+      "nombre": "Reparto Rigoberto López",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4214577,
+      "longitud": -86.8812507,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890664",
+      "nombre": "Reparto Gustavo López",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4321761,
+      "longitud": -86.8734804,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890665",
+      "nombre": "Barrio El Calvarito",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4300885,
+      "longitud": -86.8742234,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339890666",
+      "nombre": "Fundeci 2da Etapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4239199,
+      "longitud": -86.8730056,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339936121",
+      "nombre": "Barrio La Providencia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4446962,
+      "longitud": -86.8889165,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339936122",
+      "nombre": "Barrio Héroes y Mártires de Zaragoza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.441506,
+      "longitud": -86.8865401,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12339936123",
+      "nombre": "Colonia 4 de Mayo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4379124,
+      "longitud": -86.8879429,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12342570737",
+      "nombre": "Valle Los Manzanares",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4725366,
+      "longitud": -86.7755342,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12342570758",
+      "nombre": "Las Torres",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4586089,
+      "longitud": -86.7818427,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12342570811",
+      "nombre": "La Majada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4548165,
+      "longitud": -86.7775297,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12342570844",
+      "nombre": "Pedro Araúz Palacios",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4371475,
+      "longitud": -86.7716771,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12342570915",
+      "nombre": "Los Guidos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4499502,
+      "longitud": -86.7606157,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12343879357",
+      "nombre": "La Limeña",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4544027,
+      "longitud": -86.7918849,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12343879359",
+      "nombre": "Punta Caliente Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4585356,
+      "longitud": -86.7952967,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12343892142",
+      "nombre": "Punta Caliente Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4626841,
+      "longitud": -86.8042123,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12343892217",
+      "nombre": "Valle Los Hernández",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4663245,
+      "longitud": -86.7821056,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344490570",
+      "nombre": "Pozo Hondo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4736628,
+      "longitud": -86.8133748,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344515052",
+      "nombre": "La Ermita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4614899,
+      "longitud": -86.8158263,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344515113",
+      "nombre": "El Guapango",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4523022,
+      "longitud": -86.8077958,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344515194",
+      "nombre": "La Bolsa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4422708,
+      "longitud": -86.8170226,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344515252",
+      "nombre": "Santa María",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.45624,
+      "longitud": -86.8179788,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344651007",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4007844,
+      "longitud": -86.7572308,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344651042",
+      "nombre": "Perpetuo del Socorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4067885,
+      "longitud": -86.7847127,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344669138",
+      "nombre": "Julio Buitrago",
+      "tipo_localidad": "village",
+      "latitud": 12.4309608,
+      "longitud": -86.8303585,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344669214",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4362203,
+      "longitud": -86.7996311,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344669232",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "village",
+      "latitud": 12.4311808,
+      "longitud": -86.8145657,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344669239",
+      "nombre": "Chacaraseca",
+      "tipo_localidad": "village",
+      "latitud": 12.4282995,
+      "longitud": -86.8046093,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344864598",
+      "nombre": "Las Playitas Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 12.4165017,
+      "longitud": -86.9082821,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891811",
+      "nombre": "Reparto Luisa Amanda Espinoza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4258792,
+      "longitud": -86.916672,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891812",
+      "nombre": "Barrio Veracruz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4268327,
+      "longitud": -86.9127882,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891813",
+      "nombre": "Reparto Santa Lucía",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4365661,
+      "longitud": -86.9031215,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891814",
+      "nombre": "Reparto Adiak Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4428103,
+      "longitud": -86.8936908,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891815",
+      "nombre": "Reparto Adiak Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4396882,
+      "longitud": -86.8935138,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891816",
+      "nombre": "Barrio La Unión",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4415898,
+      "longitud": -86.8923336,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891817",
+      "nombre": "Barrio San Felipe",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4427527,
+      "longitud": -86.8821198,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891818",
+      "nombre": "Reparto Farabundo Martí",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4491225,
+      "longitud": -86.8778658,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891819",
+      "nombre": "Reparto Aracely Pérez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4531403,
+      "longitud": -86.8680489,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891820",
+      "nombre": "Reparto San Carlos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4543346,
+      "longitud": -86.8752265,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891821",
+      "nombre": "Barrio Nuevo Horizonte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.453706,
+      "longitud": -86.8718684,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891822",
+      "nombre": "Reparto Benjamín Zeledón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4521765,
+      "longitud": -86.8750066,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891823",
+      "nombre": "Barrio Cuchilla San Carlos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4509559,
+      "longitud": -86.8721581,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891824",
+      "nombre": "Barrio Igriega",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4498245,
+      "longitud": -86.8751514,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891825",
+      "nombre": "Barrio Igriega",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4501388,
+      "longitud": -86.869728,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891826",
+      "nombre": "Barrio Enrique Lorente",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4483997,
+      "longitud": -86.8729413,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891827",
+      "nombre": "Barrio Ermita de Dolores",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4456076,
+      "longitud": -86.8753392,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891828",
+      "nombre": "Barrio San Juan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4406469,
+      "longitud": -86.8754304,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344891829",
+      "nombre": "Barrio San José",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4403037,
+      "longitud": -86.8807974,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12344913561",
+      "nombre": "Las Playitas Nº 1",
+      "tipo_localidad": "village",
+      "latitud": 12.4205671,
+      "longitud": -86.9030947,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12346633227",
+      "nombre": "Talchocote",
+      "tipo_localidad": "village",
+      "latitud": 12.3963414,
+      "longitud": -86.8709993,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12346633290",
+      "nombre": "Colonia Mercedes Varela",
+      "tipo_localidad": "village",
+      "latitud": 12.4138927,
+      "longitud": -86.8740571,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12346633366",
+      "nombre": "Colonia Eugenio Pérez",
+      "tipo_localidad": "village",
+      "latitud": 12.4099739,
+      "longitud": -86.8824256,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12346633469",
+      "nombre": "Tomás Borge Martínez Primera Etapa",
+      "tipo_localidad": "village",
+      "latitud": 12.4166981,
+      "longitud": -86.882388,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12346633479",
+      "nombre": "El Fortín",
+      "tipo_localidad": "village",
+      "latitud": 12.4140708,
+      "longitud": -86.886996,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12347155388",
+      "nombre": "Las Chácaras",
+      "tipo_localidad": "village",
+      "latitud": 12.388629,
+      "longitud": -86.8566871,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12347157625",
+      "nombre": "Casa Blanca",
+      "tipo_localidad": "village",
+      "latitud": 12.3649349,
+      "longitud": -86.8353903,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12347157670",
+      "nombre": "Augusto César Sandino",
+      "tipo_localidad": "village",
+      "latitud": 12.3470659,
+      "longitud": -86.8268824,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12347157919",
+      "nombre": "La Hermita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3403792,
+      "longitud": -86.8124789,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12347157963",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3504145,
+      "longitud": -86.8643314,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12347157996",
+      "nombre": "Trapichito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3669719,
+      "longitud": -86.8544447,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12348847213",
+      "nombre": "El Chagüe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3688334,
+      "longitud": -86.8751407,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12348847262",
+      "nombre": "La Veranera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3644528,
+      "longitud": -86.8727696,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12348847322",
+      "nombre": "El Obraje",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.407731,
+      "longitud": -86.928663,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12350265698",
+      "nombre": "El Infiernito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4181729,
+      "longitud": -86.9401091,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12350265699",
+      "nombre": "Guanacastillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4178533,
+      "longitud": -86.9461387,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12350279408",
+      "nombre": "Colonia Santa Isabel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4109379,
+      "longitud": -86.8888146,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12350279437",
+      "nombre": "El Convento",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.414524,
+      "longitud": -86.8425626,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12351350534",
+      "nombre": "San Carlos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.412135,
+      "longitud": -86.9532895,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12351352314",
+      "nombre": "El Country",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4225631,
+      "longitud": -86.9343638,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12351352340",
+      "nombre": "Cristóbal Caballero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4209076,
+      "longitud": -86.9309735,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12351352404",
+      "nombre": "Carlos Canales",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4225803,
+      "longitud": -86.9216237,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12351751671",
+      "nombre": "Abangasca Central",
+      "tipo_localidad": "village",
+      "latitud": 12.471222,
+      "longitud": -86.919086,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12351803372",
+      "nombre": "Abangasca Sur",
+      "tipo_localidad": "village",
+      "latitud": 12.4520088,
+      "longitud": -86.9294018,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12356709345",
+      "nombre": "La Palmera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5025607,
+      "longitud": -86.8232721,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12356709427",
+      "nombre": "La Peineta",
+      "tipo_localidad": "village",
+      "latitud": 12.496111,
+      "longitud": -86.8319088,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12357074059",
+      "nombre": "San Gabriel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4766902,
+      "longitud": -86.7539209,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12357143331",
+      "nombre": "La Concepción",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4615003,
+      "longitud": -86.8288672,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12357143359",
+      "nombre": "El Obraje",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4598556,
+      "longitud": -86.8376971,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12358214001",
+      "nombre": "El Recreo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4177354,
+      "longitud": -86.8127739,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12358214002",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4203366,
+      "longitud": -86.8258631,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12358214166",
+      "nombre": "Reparto Rubén Dario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4328362,
+      "longitud": -86.8571323,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12358214167",
+      "nombre": "Residencial Paderas Nuevo León",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4326267,
+      "longitud": -86.8408299,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12358214168",
+      "nombre": "Reparto Reparto Lino Argüello",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4200222,
+      "longitud": -86.8460816,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12358214169",
+      "nombre": "Reparto Antenor Sandino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4228695,
+      "longitud": -86.8461299,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12358214170",
+      "nombre": "Reparto La Esperanza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4224033,
+      "longitud": -86.8570358,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12365181930",
+      "nombre": "Hato Grande Nº 1",
+      "tipo_localidad": "village",
+      "latitud": 12.3804605,
+      "longitud": -86.8051082,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12365254512",
+      "nombre": "Nicolás López Roque",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4666336,
+      "longitud": -86.9560576,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12365254559",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4577708,
+      "longitud": -86.9508433,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12366057885",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5033698,
+      "longitud": -86.8036544,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12366158836",
+      "nombre": "León",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5022386,
+      "longitud": -86.7987889,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12366158853",
+      "nombre": "El Morral",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5159362,
+      "longitud": -86.805367,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12366158898",
+      "nombre": "La Mora",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5214873,
+      "longitud": -86.8084073,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12366158910",
+      "nombre": "La Ceibita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5069625,
+      "longitud": -86.7905653,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12366158943",
+      "nombre": "El Hatillo",
+      "tipo_localidad": "village",
+      "latitud": 12.533639,
+      "longitud": -86.8152281,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12367905012",
+      "nombre": "San José de Los Pocitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5050562,
+      "longitud": -86.811862,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12368196893",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5474028,
+      "longitud": -86.8261714,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061511",
+      "nombre": "Villa San Nicolás",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3345202,
+      "longitud": -86.6701502,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061512",
+      "nombre": "Agapito Osorio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3340381,
+      "longitud": -86.6732347,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061513",
+      "nombre": "Felipe López",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3325236,
+      "longitud": -86.6777784,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061514",
+      "nombre": "Pancasán",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3473122,
+      "longitud": -86.670987,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061515",
+      "nombre": "Adrían Reyes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3461436,
+      "longitud": -86.6687769,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061516",
+      "nombre": "Antenor Ulloa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3419303,
+      "longitud": -86.6703218,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061517",
+      "nombre": "María Elena Narváez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3408718,
+      "longitud": -86.6718453,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061518",
+      "nombre": "17 de Julio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.337434,
+      "longitud": -86.6673714,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061519",
+      "nombre": "Ausberto Narváez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3377484,
+      "longitud": -86.6705257,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061520",
+      "nombre": "Enrique López",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3366479,
+      "longitud": -86.6741306,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061521",
+      "nombre": "Raúl Cabezas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3357203,
+      "longitud": -86.6776872,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061522",
+      "nombre": "Otilio García",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3377327,
+      "longitud": -86.6772258,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061523",
+      "nombre": "Manuél Velásquez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3379528,
+      "longitud": -86.6795942,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061524",
+      "nombre": "Enrique Martínez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3393415,
+      "longitud": -86.6802836,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061525",
+      "nombre": "Tomás Ocampo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3391896,
+      "longitud": -86.677419,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061528",
+      "nombre": "Marcial Muñóz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3391057,
+      "longitud": -86.674431,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061529",
+      "nombre": "Hermanos Reyes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3405573,
+      "longitud": -86.6743666,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061530",
+      "nombre": "Nelson Medrano",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3424072,
+      "longitud": -86.6745436,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061531",
+      "nombre": "19 de Julio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3442283,
+      "longitud": -86.6736451,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061532",
+      "nombre": "René Linarte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3452947,
+      "longitud": -86.6760457,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061533",
+      "nombre": "Elías Téllez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.343188,
+      "longitud": -86.6772902,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061534",
+      "nombre": "Nicolás Bolaño",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3404787,
+      "longitud": -86.6776711,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061535",
+      "nombre": "Rubén Vílchez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3407512,
+      "longitud": -86.6792429,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061536",
+      "nombre": "Betania",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3409582,
+      "longitud": -86.682094,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12379061538",
+      "nombre": "Ósman Zapata",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.347307,
+      "longitud": -86.6803104,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12435724330",
+      "nombre": "Achuapa",
+      "tipo_localidad": "town",
+      "latitud": 13.0538428,
+      "longitud": -86.5899242,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12466204683",
+      "nombre": "Colonia Máximo Jerez",
+      "tipo_localidad": "village",
+      "latitud": 12.5434836,
+      "longitud": -86.8399876,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12468155234",
+      "nombre": "El Jicarito Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5250195,
+      "longitud": -86.8379545,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12468155327",
+      "nombre": "El Jicarito",
+      "tipo_localidad": "village",
+      "latitud": 12.5349691,
+      "longitud": -86.8321824,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12469953562",
+      "nombre": "La Liberdad",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.529434,
+      "longitud": -86.8571645,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12469953581",
+      "nombre": "El Trabuco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5254463,
+      "longitud": -86.8535543,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12470281209",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5312407,
+      "longitud": -86.8539834,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12470281227",
+      "nombre": "Pueblo Redondo - Miguel Ángel Ortez",
+      "tipo_localidad": "village",
+      "latitud": 12.536561,
+      "longitud": -86.8521595,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12470281379",
+      "nombre": "Palo de Lapa",
+      "tipo_localidad": "village",
+      "latitud": 12.5052971,
+      "longitud": -86.7818964,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12470281465",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5189971,
+      "longitud": -86.7538941,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12470281494",
+      "nombre": "El Desagüe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5151873,
+      "longitud": -86.7677222,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12476513382",
+      "nombre": "Genízaro Mocho",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5203011,
+      "longitud": -86.7430231,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12588846784",
+      "nombre": "San Ildelfonso",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2501122,
+      "longitud": -86.5499604,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12590336077",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1605223,
+      "longitud": -86.590274,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/12590526286",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1322868,
+      "longitud": -86.5759456,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/13456697839",
+      "nombre": "El Carrizo Abajo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.9377655,
+      "longitud": -86.5448588,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/13534727072",
+      "nombre": "La Garita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2713792,
+      "longitud": -86.8772221,
+      "departamento": "Leon"
+    },
+    {
+      "osm_id": "node/13571519822",
+      "nombre": "Madreado",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0843626,
+      "longitud": -86.6570556,
+      "departamento": "Leon"
+    }
+  ]
+}

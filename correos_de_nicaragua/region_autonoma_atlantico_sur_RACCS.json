@@ -1,0 +1,101 @@
+{
+    "total": 12,
+    "data": [
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "Bluefields",
+            "CodPostal": 81000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 136,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "Corn Island",
+            "CodPostal": 82100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 137,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "Kukrahill",
+            "CodPostal": 82200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 138,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "El Rama",
+            "CodPostal": 82300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 139,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "Muelle de los Bueyes",
+            "CodPostal": 82400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 140,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "Nueva Guinea",
+            "CodPostal": 82500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 141,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "Laguna de Perlas",
+            "CodPostal": 82600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 142,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "El Tortuguero",
+            "CodPostal": 82700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 143,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "El Ayote",
+            "CodPostal": 82800,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 144,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "Desembocadura de Cruz R\u00edo Grande",
+            "CodPostal": 82900,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 145,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "Cruz del R\u00edo Grande",
+            "CodPostal": 83100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 146,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAS",
+            "NomMunicipio": "Paiwas",
+            "CodPostal": 83200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 147,
+            "CodBarrio": null
+        }
+    ]
+}

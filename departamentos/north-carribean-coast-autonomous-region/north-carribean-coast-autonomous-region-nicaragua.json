@@ -1,0 +1,5398 @@
+{
+  "departamento": "North Carribean Coast Autonomous Region",
+  "total_registros": 674,
+  "lugares": [
+    {
+      "osm_id": "node/306243099",
+      "nombre": "Bilwi",
+      "tipo_localidad": "city",
+      "latitud": 14.0294451,
+      "longitud": -83.3831224,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/306469863",
+      "nombre": "Rosita",
+      "tipo_localidad": "town",
+      "latitud": 13.9236675,
+      "longitud": -84.3996175,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/306946045",
+      "nombre": "Waslala",
+      "tipo_localidad": "town",
+      "latitud": 13.3363374,
+      "longitud": -85.3712992,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/307383316",
+      "nombre": "Bonanza",
+      "tipo_localidad": "town",
+      "latitud": 14.0307223,
+      "longitud": -84.6000771,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/308011111",
+      "nombre": "Prinzapolka",
+      "tipo_localidad": "village",
+      "latitud": 13.4065545,
+      "longitud": -83.5650013,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/308015977",
+      "nombre": "Karatá",
+      "tipo_localidad": "village",
+      "latitud": 13.9241719,
+      "longitud": -83.4812926,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/310244358",
+      "nombre": "Kangrina",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.1829512,
+      "longitud": -84.9475894,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2460193070",
+      "nombre": "Mulukukú",
+      "tipo_localidad": "town",
+      "latitud": 13.1720127,
+      "longitud": -84.9603418,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2460200725",
+      "nombre": "Bismuna",
+      "tipo_localidad": "village",
+      "latitud": 14.7478434,
+      "longitud": -83.4079938,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2561749266",
+      "nombre": "Siuna",
+      "tipo_localidad": "town",
+      "latitud": 13.7341305,
+      "longitud": -84.7789494,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2654938480",
+      "nombre": "Auya Pihni",
+      "tipo_localidad": "village",
+      "latitud": 14.2934144,
+      "longitud": -83.6130273,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2654938482",
+      "nombre": "Ninayeri",
+      "tipo_localidad": "village",
+      "latitud": 14.4691594,
+      "longitud": -83.2877468,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2654938484",
+      "nombre": "Sangnilaya",
+      "tipo_localidad": "village",
+      "latitud": 14.3088791,
+      "longitud": -83.7158036,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2654938487",
+      "nombre": "Santa Marta",
+      "tipo_localidad": "village",
+      "latitud": 14.3046258,
+      "longitud": -83.6241203,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2654938489",
+      "nombre": "Sisin",
+      "tipo_localidad": "village",
+      "latitud": 14.2733273,
+      "longitud": -83.5542912,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2654938491",
+      "nombre": "Tuara",
+      "tipo_localidad": "village",
+      "latitud": 14.3232821,
+      "longitud": -83.4343722,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2706221229",
+      "nombre": "Alamikamba",
+      "tipo_localidad": "town",
+      "latitud": 13.5001429,
+      "longitud": -84.2244395,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2706221230",
+      "nombre": "Ebaniso Tasbapau",
+      "tipo_localidad": "village",
+      "latitud": 13.4328931,
+      "longitud": -84.2497253,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2734559987",
+      "nombre": "El Ocote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8025481,
+      "longitud": -84.677971,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2734559993",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7798266,
+      "longitud": -84.6991733,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2747805184",
+      "nombre": "Andris Tara",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7805286,
+      "longitud": -84.9194813,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2747805187",
+      "nombre": "Kitaski",
+      "tipo_localidad": "village",
+      "latitud": 14.6570247,
+      "longitud": -84.603359,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2747810445",
+      "nombre": "San Carlos de Río Coco",
+      "tipo_localidad": "village",
+      "latitud": 14.6631848,
+      "longitud": -84.7013884,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2747810448",
+      "nombre": "Sang Sang",
+      "tipo_localidad": "village",
+      "latitud": 14.6647663,
+      "longitud": -84.6337671,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2747810453",
+      "nombre": "Kumbra Sumal",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.6474306,
+      "longitud": -84.7010414,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2748905019",
+      "nombre": "Bilwaskarma",
+      "tipo_localidad": "village",
+      "latitud": 14.7583818,
+      "longitud": -83.8831236,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2748905021",
+      "nombre": "Miguel Bikan",
+      "tipo_localidad": "village",
+      "latitud": 14.5610454,
+      "longitud": -84.1058231,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2748905022",
+      "nombre": "Nasma Almuk",
+      "tipo_localidad": "village",
+      "latitud": 14.629115,
+      "longitud": -84.5244842,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2748905023",
+      "nombre": "Palo Yumpa",
+      "tipo_localidad": "village",
+      "latitud": 14.6610357,
+      "longitud": -84.402294,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2748905024",
+      "nombre": "Pilpilia",
+      "tipo_localidad": "village",
+      "latitud": 14.6326575,
+      "longitud": -84.5400059,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2748910165",
+      "nombre": "Ulwás",
+      "tipo_localidad": "village",
+      "latitud": 14.7411096,
+      "longitud": -83.9421696,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2748910182",
+      "nombre": "Sáupuka",
+      "tipo_localidad": "village",
+      "latitud": 14.7481404,
+      "longitud": -83.9097844,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2748910183",
+      "nombre": "Tulimbila",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.6488124,
+      "longitud": -84.5622593,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2748910184",
+      "nombre": "Waspán",
+      "tipo_localidad": "town",
+      "latitud": 14.7407239,
+      "longitud": -83.9726195,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2779751694",
+      "nombre": "Dákura",
+      "tipo_localidad": "village",
+      "latitud": 14.3934068,
+      "longitud": -83.2260717,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2779751695",
+      "nombre": "Li-Dákura",
+      "tipo_localidad": "village",
+      "latitud": 14.4628762,
+      "longitud": -83.267794,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2825419787",
+      "nombre": "Susún",
+      "tipo_localidad": "village",
+      "latitud": 13.9635903,
+      "longitud": -84.3476405,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2887933319",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.99304,
+      "longitud": -83.2100705,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304627",
+      "nombre": "Auastara",
+      "tipo_localidad": "village",
+      "latitud": 14.3089671,
+      "longitud": -83.228214,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304630",
+      "nombre": "Batil",
+      "tipo_localidad": "village",
+      "latitud": 13.432521,
+      "longitud": -83.932115,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304634",
+      "nombre": "Carrizal",
+      "tipo_localidad": "village",
+      "latitud": 14.8043765,
+      "longitud": -84.7903451,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304635",
+      "nombre": "Casulí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4390321,
+      "longitud": -85.281596,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304637",
+      "nombre": "El Cocal",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.6113421,
+      "longitud": -84.4320605,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304639",
+      "nombre": "Kukalaya",
+      "tipo_localidad": "village",
+      "latitud": 13.7071747,
+      "longitud": -83.6992973,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304651",
+      "nombre": "El Empalme de Alamikamba",
+      "tipo_localidad": "village",
+      "latitud": 13.668746,
+      "longitud": -84.4417033,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304667",
+      "nombre": "Iyás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5044623,
+      "longitud": -85.2328229,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304668",
+      "nombre": "Klark",
+      "tipo_localidad": "village",
+      "latitud": 14.7663425,
+      "longitud": -83.8553009,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304669",
+      "nombre": "Klinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.5818478,
+      "longitud": -84.4340181,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304677",
+      "nombre": "La Rosa Grande",
+      "tipo_localidad": "village",
+      "latitud": 13.6431847,
+      "longitud": -85.0157123,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304680",
+      "nombre": "Lakun Tara",
+      "tipo_localidad": "village",
+      "latitud": 14.7529072,
+      "longitud": -84.0882143,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304687",
+      "nombre": "Layasiksa",
+      "tipo_localidad": "village",
+      "latitud": 13.6677498,
+      "longitud": -83.692455,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304688",
+      "nombre": "Leimus",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.730558,
+      "longitud": -84.0945124,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304699",
+      "nombre": "Puerto Viejo",
+      "tipo_localidad": "village",
+      "latitud": 13.5179956,
+      "longitud": -85.2451989,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305002",
+      "nombre": "Saklín",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7691634,
+      "longitud": -83.8431566,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305004",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.316667,
+      "longitud": -84.45,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305005",
+      "nombre": "Esquipulas",
+      "tipo_localidad": "village",
+      "latitud": 14.6700347,
+      "longitud": -84.64926,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305012",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7669566,
+      "longitud": -84.1114984,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305013",
+      "nombre": "Santa Inés",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7188436,
+      "longitud": -84.0924807,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305018",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7093379,
+      "longitud": -84.7416471,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305028",
+      "nombre": "Tungla",
+      "tipo_localidad": "village",
+      "latitud": 13.3146572,
+      "longitud": -84.4318541,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305029",
+      "nombre": "Uhri",
+      "tipo_localidad": "village",
+      "latitud": 14.770436,
+      "longitud": -83.836858,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305033",
+      "nombre": "Yablis",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1667624,
+      "longitud": -83.816667,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2936479075",
+      "nombre": "El Socorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1542219,
+      "longitud": -85.2386557,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2936479294",
+      "nombre": "San Antonio de Yaró",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1979807,
+      "longitud": -85.2207758,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2936479629",
+      "nombre": "Villa Nazaret",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2111858,
+      "longitud": -85.2610392,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2936479948",
+      "nombre": "Los Limones",
+      "tipo_localidad": "village",
+      "latitud": 13.240366,
+      "longitud": -85.3075595,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2936480117",
+      "nombre": "La Fortuna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2485623,
+      "longitud": -85.346637,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/2936480183",
+      "nombre": "Ceiba Dudú",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2695923,
+      "longitud": -85.2435762,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3163194735",
+      "nombre": "Colonia del Verbo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 14.0427301,
+      "longitud": -83.4108026,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3163833060",
+      "nombre": "Colonia Militar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 14.0405662,
+      "longitud": -83.3818377,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3190509401",
+      "nombre": "Tuapí",
+      "tipo_localidad": "village",
+      "latitud": 14.1082075,
+      "longitud": -83.3312158,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3194271026",
+      "nombre": "Lam Laya",
+      "tipo_localidad": "village",
+      "latitud": 14.0237994,
+      "longitud": -83.4188797,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3194778661",
+      "nombre": "Krukira",
+      "tipo_localidad": "village",
+      "latitud": 14.1683804,
+      "longitud": -83.3077012,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3211065994",
+      "nombre": "Haulover",
+      "tipo_localidad": "village",
+      "latitud": 13.6910741,
+      "longitud": -83.5122435,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3211065995",
+      "nombre": "Wawa",
+      "tipo_localidad": "village",
+      "latitud": 13.8747573,
+      "longitud": -83.460968,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3213074707",
+      "nombre": "Páhara",
+      "tipo_localidad": "village",
+      "latitud": 14.3849074,
+      "longitud": -83.2948798,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3213074708",
+      "nombre": "Wounta",
+      "tipo_localidad": "village",
+      "latitud": 13.5556499,
+      "longitud": -83.5341178,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3505853234",
+      "nombre": "Las Breñas",
+      "tipo_localidad": "village",
+      "latitud": 14.0152171,
+      "longitud": -84.1386038,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3505853235",
+      "nombre": "Kukalaya",
+      "tipo_localidad": "village",
+      "latitud": 14.0368092,
+      "longitud": -84.0778223,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3505853236",
+      "nombre": "Leimus",
+      "tipo_localidad": "village",
+      "latitud": 14.0531229,
+      "longitud": -84.0569969,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3873175325",
+      "nombre": "Kiuras",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.6272635,
+      "longitud": -85.0246547,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3873188066",
+      "nombre": "Yahbra Tang",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7660063,
+      "longitud": -84.9209677,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3915203720",
+      "nombre": "Ariswatla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3974981,
+      "longitud": -83.5740732,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3915203721",
+      "nombre": "Saw Mill",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3928887,
+      "longitud": -83.5716056,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3915203722",
+      "nombre": "Walpasiksa",
+      "tipo_localidad": "village",
+      "latitud": 13.4697636,
+      "longitud": -83.558198,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3915678732",
+      "nombre": "Bum Sirpi",
+      "tipo_localidad": "village",
+      "latitud": 14.1522136,
+      "longitud": -83.4593906,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3915678733",
+      "nombre": "Kambla",
+      "tipo_localidad": "village",
+      "latitud": 14.0873706,
+      "longitud": -83.4098575,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3915678734",
+      "nombre": "Yulú Tingni",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1234916,
+      "longitud": -83.4470047,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3917580529",
+      "nombre": "Tawasakia",
+      "tipo_localidad": "village",
+      "latitud": 14.4618062,
+      "longitud": -83.2783527,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3917600165",
+      "nombre": "Greystown",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 14.4588579,
+      "longitud": -83.2851397,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3917600166",
+      "nombre": "Kaska",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4742793,
+      "longitud": -83.2765429,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3917600167",
+      "nombre": "Kibra",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.449271,
+      "longitud": -83.3250876,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3917600168",
+      "nombre": "Kingstown",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4625505,
+      "longitud": -83.3145333,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3917600169",
+      "nombre": "Waingka Laya",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4533897,
+      "longitud": -83.3196799,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3917600170",
+      "nombre": "Rahunta",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4691346,
+      "longitud": -83.3135946,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3917600171",
+      "nombre": "Ululaya",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4686634,
+      "longitud": -83.2767804,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3918864069",
+      "nombre": "Cabo Viejo",
+      "tipo_localidad": "village",
+      "latitud": 14.9387669,
+      "longitud": -83.249527,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3920936913",
+      "nombre": "Living Creek",
+      "tipo_localidad": "village",
+      "latitud": 14.9632695,
+      "longitud": -83.5372891,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3920936917",
+      "nombre": "Plankira",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.983447,
+      "longitud": -83.4494135,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3920936921",
+      "nombre": "Sih",
+      "tipo_localidad": "village",
+      "latitud": 14.951195,
+      "longitud": -83.5278503,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3920936922",
+      "nombre": "Utlamasta",
+      "tipo_localidad": "village",
+      "latitud": 14.9799699,
+      "longitud": -83.5376679,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3920936923",
+      "nombre": "Uram",
+      "tipo_localidad": "village",
+      "latitud": 14.9469631,
+      "longitud": -83.5311783,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921101517",
+      "nombre": "Anris",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.8791157,
+      "longitud": -83.6377486,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921101518",
+      "nombre": "Boom",
+      "tipo_localidad": "village",
+      "latitud": 14.9149891,
+      "longitud": -83.5972696,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921101519",
+      "nombre": "Karamata",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.8648128,
+      "longitud": -83.62543,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921101520",
+      "nombre": "Kiwás Tara",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.8779313,
+      "longitud": -83.692396,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921101521",
+      "nombre": "Klam",
+      "tipo_localidad": "village",
+      "latitud": 14.8994175,
+      "longitud": -83.6067266,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921101522",
+      "nombre": "Rayapura",
+      "tipo_localidad": "village",
+      "latitud": 14.8688072,
+      "longitud": -83.6902261,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921101523",
+      "nombre": "Sagua",
+      "tipo_localidad": "village",
+      "latitud": 14.9267746,
+      "longitud": -83.5597515,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921138437",
+      "nombre": "Bachilaya",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7722366,
+      "longitud": -83.8066242,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921138438",
+      "nombre": "Bull Camp",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7155511,
+      "longitud": -84.0946664,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921138439",
+      "nombre": "Boom Sirpi",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7171847,
+      "longitud": -84.1508916,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921138440",
+      "nombre": "Corinto",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7897327,
+      "longitud": -84.1072828,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921138441",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7501886,
+      "longitud": -84.2484621,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921138443",
+      "nombre": "Kisalaya",
+      "tipo_localidad": "village",
+      "latitud": 14.7409082,
+      "longitud": -84.0227254,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921138444",
+      "nombre": "Kum",
+      "tipo_localidad": "village",
+      "latitud": 14.8101908,
+      "longitud": -83.7150746,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921138447",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "village",
+      "latitud": 14.7130842,
+      "longitud": -84.187348,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921138449",
+      "nombre": "Wasla",
+      "tipo_localidad": "village",
+      "latitud": 14.7998678,
+      "longitud": -83.7469914,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921197121",
+      "nombre": "Asang",
+      "tipo_localidad": "village",
+      "latitud": 14.724939,
+      "longitud": -84.7510917,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921197124",
+      "nombre": "Krasa",
+      "tipo_localidad": "village",
+      "latitud": 14.7030415,
+      "longitud": -84.7331641,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921197125",
+      "nombre": "Krinkrin",
+      "tipo_localidad": "village",
+      "latitud": 14.6233422,
+      "longitud": -84.5040367,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921197126",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.738107,
+      "longitud": -84.2668093,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921197128",
+      "nombre": "San Alberto",
+      "tipo_localidad": "village",
+      "latitud": 14.693625,
+      "longitud": -84.2623126,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921197129",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "village",
+      "latitud": 14.6613944,
+      "longitud": -84.2909059,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921197130",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "village",
+      "latitud": 14.7833583,
+      "longitud": -84.7811546,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921197131",
+      "nombre": "Siksayali",
+      "tipo_localidad": "village",
+      "latitud": 14.7278341,
+      "longitud": -84.9905685,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/3921197134",
+      "nombre": "Wiwinak",
+      "tipo_localidad": "village",
+      "latitud": 14.6163801,
+      "longitud": -84.465058,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/4285674840",
+      "nombre": "Suniwás",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0915573,
+      "longitud": -84.6829688,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/4690564790",
+      "nombre": "Los Jilgueros",
+      "tipo_localidad": "village",
+      "latitud": 13.7394542,
+      "longitud": -84.8990471,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/4725242206",
+      "nombre": "Kaskita",
+      "tipo_localidad": "village",
+      "latitud": 13.4717247,
+      "longitud": -85.0007151,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/4725244694",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "village",
+      "latitud": 13.5784921,
+      "longitud": -85.1979217,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/4725245990",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6084664,
+      "longitud": -85.0804179,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/5101132388",
+      "nombre": "Barrio La Esperanza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.3385279,
+      "longitud": -85.3706677,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/5546783022",
+      "nombre": "San Pablo",
+      "tipo_localidad": "village",
+      "latitud": 14.0736173,
+      "longitud": -83.935594,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497626856",
+      "nombre": "Sukat Pin",
+      "tipo_localidad": "village",
+      "latitud": 13.9880285,
+      "longitud": -83.7053124,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497626857",
+      "nombre": "Kligna",
+      "tipo_localidad": "village",
+      "latitud": 13.9618686,
+      "longitud": -83.634603,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497626858",
+      "nombre": "Yulú",
+      "tipo_localidad": "village",
+      "latitud": 14.066151,
+      "longitud": -83.5951638,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497626859",
+      "nombre": "Dakban",
+      "tipo_localidad": "village",
+      "latitud": 14.0606013,
+      "longitud": -83.5166282,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497626860",
+      "nombre": "Ukunni",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1469898,
+      "longitud": -83.6258483,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497626862",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1099713,
+      "longitud": -83.7318599,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497626864",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1059861,
+      "longitud": -83.6778108,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497626865",
+      "nombre": "Cuarenta y Tres",
+      "tipo_localidad": "village",
+      "latitud": 14.1122708,
+      "longitud": -83.6467052,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497626866",
+      "nombre": "Mani Wátla",
+      "tipo_localidad": "village",
+      "latitud": 14.0984317,
+      "longitud": -83.6453963,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497627043",
+      "nombre": "Sahsa",
+      "tipo_localidad": "village",
+      "latitud": 14.0688256,
+      "longitud": -83.9879036,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497627044",
+      "nombre": "Sumubila",
+      "tipo_localidad": "village",
+      "latitud": 14.0769742,
+      "longitud": -83.8942623,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6497627046",
+      "nombre": "Akawasito",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0686539,
+      "longitud": -83.7699795,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6978727173",
+      "nombre": "San Juan",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7791562,
+      "longitud": -84.8302933,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/6978727175",
+      "nombre": "El Carao",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7729004,
+      "longitud": -84.8243153,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/7550001756",
+      "nombre": "Kuiwi Tingni",
+      "tipo_localidad": "village",
+      "latitud": 14.4871907,
+      "longitud": -83.9207991,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/7550049978",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4703275,
+      "longitud": -83.9333336,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/7876893944",
+      "nombre": "Awastingni",
+      "tipo_localidad": "village",
+      "latitud": 14.3825194,
+      "longitud": -83.9487658,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/7876926563",
+      "nombre": "Francis Sirpi",
+      "tipo_localidad": "village",
+      "latitud": 14.4617217,
+      "longitud": -84.0993756,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/8681434151",
+      "nombre": "Kiawás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.470383,
+      "longitud": -85.2071798,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/8701838751",
+      "nombre": "El Plátano",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4410223,
+      "longitud": -85.0931605,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/8701871603",
+      "nombre": "El Pijibaye",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5135188,
+      "longitud": -85.2127752,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/8701872197",
+      "nombre": "Bocana El Puyús",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4060898,
+      "longitud": -85.1627777,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/8701884532",
+      "nombre": "Paraská",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3054079,
+      "longitud": -85.1111954,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/8701898047",
+      "nombre": "Waslalita",
+      "tipo_localidad": "village",
+      "latitud": 13.5920748,
+      "longitud": -85.1866411,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/8701902426",
+      "nombre": "Valle Kuikuinita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3973561,
+      "longitud": -84.8550155,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/8701913124",
+      "nombre": "Aguas Calientes",
+      "tipo_localidad": "village",
+      "latitud": 13.5917259,
+      "longitud": -85.1707391,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/8701927165",
+      "nombre": "La Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2996707,
+      "longitud": -85.0858702,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/8703568766",
+      "nombre": "El Naranjal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.410711,
+      "longitud": -85.1603785,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9049906026",
+      "nombre": "Palmera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5904022,
+      "longitud": -84.3418406,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9689669358",
+      "nombre": "San Juan Bodega",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.6219303,
+      "longitud": -84.7343356,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9689669979",
+      "nombre": "Florida",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.6611943,
+      "longitud": -84.6809435,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9692927857",
+      "nombre": "Los Milagros",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7155413,
+      "longitud": -85.1499197,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9692927859",
+      "nombre": "San Juan",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6694337,
+      "longitud": -85.1418919,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9692927861",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7018843,
+      "longitud": -85.1468217,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9692927862",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6948588,
+      "longitud": -85.1414895,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9692927863",
+      "nombre": "El Consuelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6912208,
+      "longitud": -85.1525509,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9692927864",
+      "nombre": "La Angostura",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.685425,
+      "longitud": -85.1587093,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9696427253",
+      "nombre": "Alal Tani",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1575646,
+      "longitud": -84.750815,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194456",
+      "nombre": "Barrio Raidell",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 14.0366345,
+      "longitud": -84.5990181,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194457",
+      "nombre": "Barrio La Guarera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 14.0261841,
+      "longitud": -84.6048975,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194493",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0275477,
+      "longitud": -84.5447839,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194494",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0011752,
+      "longitud": -84.5129997,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194495",
+      "nombre": "Miranda",
+      "tipo_localidad": "village",
+      "latitud": 14.0091128,
+      "longitud": -84.5194154,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194497",
+      "nombre": "Plan Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0253357,
+      "longitud": -84.5303857,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194498",
+      "nombre": "Kitrihni",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0330279,
+      "longitud": -84.5238894,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194501",
+      "nombre": "Biltignia",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0914832,
+      "longitud": -84.5740521,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194502",
+      "nombre": "Colombina",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1122344,
+      "longitud": -84.5849312,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194503",
+      "nombre": "Cola Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1239918,
+      "longitud": -84.5719493,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194507",
+      "nombre": "Kuru Rau",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1061994,
+      "longitud": -84.6378941,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194509",
+      "nombre": "Nazareth",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1317066,
+      "longitud": -84.6426255,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194511",
+      "nombre": "Tululuk Tuna",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1591303,
+      "longitud": -84.741025,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194512",
+      "nombre": "Tuyban Kane",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1612108,
+      "longitud": -84.7210372,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699194514",
+      "nombre": "Anibusna",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1526544,
+      "longitud": -84.7179553,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699206917",
+      "nombre": "Musawás",
+      "tipo_localidad": "village",
+      "latitud": 14.1514112,
+      "longitud": -84.7071755,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699237391",
+      "nombre": "El Cerro",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0476151,
+      "longitud": -84.6662557,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699455148",
+      "nombre": "Los Cocos",
+      "tipo_localidad": "village",
+      "latitud": 14.0232383,
+      "longitud": -84.6275032,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699455151",
+      "nombre": "Bambana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9261792,
+      "longitud": -84.594335,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699455152",
+      "nombre": "La Bodega",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.935348,
+      "longitud": -84.5984495,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9699455159",
+      "nombre": "Omar Mercado",
+      "tipo_localidad": "village",
+      "latitud": 14.0498008,
+      "longitud": -84.6197677,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9700759031",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0349795,
+      "longitud": -84.5148396,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9703049567",
+      "nombre": "Sukli",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1707448,
+      "longitud": -84.6612293,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9703049570",
+      "nombre": "Pansama",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1811261,
+      "longitud": -84.7254575,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9703049571",
+      "nombre": "Españolita",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.2885781,
+      "longitud": -84.7276676,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9703049572",
+      "nombre": "Zipulazan",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.2501165,
+      "longitud": -84.5318502,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9704178513",
+      "nombre": "Lawas I",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9254658,
+      "longitud": -84.6235228,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9704190317",
+      "nombre": "Salto Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9782797,
+      "longitud": -84.7008991,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9704190318",
+      "nombre": "Vesubio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.972072,
+      "longitud": -84.6691525,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9704190319",
+      "nombre": "Murciélago",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9852785,
+      "longitud": -84.5782309,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9704190321",
+      "nombre": "Pionner",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0052195,
+      "longitud": -84.642148,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9704190322",
+      "nombre": "El Ojojal",
+      "tipo_localidad": "village",
+      "latitud": 13.9968966,
+      "longitud": -84.6513748,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9704190323",
+      "nombre": "El Piñal",
+      "tipo_localidad": "village",
+      "latitud": 13.993279,
+      "longitud": -84.6572113,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9704190488",
+      "nombre": "Kibusna",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1690076,
+      "longitud": -84.7293145,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9704190489",
+      "nombre": "Sabawás",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1702559,
+      "longitud": -84.6692759,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9704190490",
+      "nombre": "Padrewás",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1305725,
+      "longitud": -84.652335,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9712779839",
+      "nombre": "Bana Cruz",
+      "tipo_localidad": "village",
+      "latitud": 13.8146812,
+      "longitud": -84.4206888,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714420136",
+      "nombre": "Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6783365,
+      "longitud": -84.5401972,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714420140",
+      "nombre": "Santa Emilia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6982986,
+      "longitud": -84.727099,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714420141",
+      "nombre": "El Guapinol",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.697961,
+      "longitud": -84.7161057,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714420142",
+      "nombre": "Yaoya Central",
+      "tipo_localidad": "village",
+      "latitud": 13.698038,
+      "longitud": -84.7032917,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714420143",
+      "nombre": "El Arenaloso",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.681985,
+      "longitud": -84.6408016,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714420144",
+      "nombre": "El Coperna",
+      "tipo_localidad": "village",
+      "latitud": 13.683643,
+      "longitud": -84.568433,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714607653",
+      "nombre": "Caño de Oro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7174982,
+      "longitud": -84.5855427,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714607664",
+      "nombre": "Negro Wás",
+      "tipo_localidad": "village",
+      "latitud": 13.6863761,
+      "longitud": -84.6133992,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714607684",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7288015,
+      "longitud": -84.6743882,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714607689",
+      "nombre": "Mongallo",
+      "tipo_localidad": "village",
+      "latitud": 13.6810648,
+      "longitud": -84.6508441,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714607696",
+      "nombre": "Yaoya",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6924862,
+      "longitud": -84.6809548,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714607701",
+      "nombre": "El Refugio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7241896,
+      "longitud": -84.7428382,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714607710",
+      "nombre": "La Laguna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7633073,
+      "longitud": -84.7378707,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714607711",
+      "nombre": "El Rosario",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7638908,
+      "longitud": -84.7318572,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714607716",
+      "nombre": "El Edén",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7861432,
+      "longitud": -84.74765,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714644618",
+      "nombre": "El Dos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8255683,
+      "longitud": -84.64041,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714644620",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8292875,
+      "longitud": -84.6526838,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714644621",
+      "nombre": "Altamira",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.79699,
+      "longitud": -84.6974445,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714644628",
+      "nombre": "Madriguera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7869039,
+      "longitud": -84.731884,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714644630",
+      "nombre": "El Venado",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8073153,
+      "longitud": -84.7368783,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714645751",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6748025,
+      "longitud": -84.5116371,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714664803",
+      "nombre": "La Bocana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7986987,
+      "longitud": -84.5844698,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9714668420",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7150176,
+      "longitud": -84.506042,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719251565",
+      "nombre": "Marcos Antonio Somarriba",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.74556,
+      "longitud": -84.7802711,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719251567",
+      "nombre": "Barrio Campo Viejo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.7228555,
+      "longitud": -84.7723103,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719251586",
+      "nombre": "La Gloria",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6655243,
+      "longitud": -84.9410105,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719251589",
+      "nombre": "El Menchón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6929408,
+      "longitud": -84.9326849,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719251591",
+      "nombre": "Los Limones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6780341,
+      "longitud": -84.9059487,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719251605",
+      "nombre": "El Consuelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7351121,
+      "longitud": -84.9285865,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439531",
+      "nombre": "El Paradíso",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7775051,
+      "longitud": -84.8195386,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439532",
+      "nombre": "El Jardín",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.776213,
+      "longitud": -84.8106981,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439535",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7677933,
+      "longitud": -84.818058,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439538",
+      "nombre": "Ulí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.756518,
+      "longitud": -84.8404813,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439549",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7238456,
+      "longitud": -84.8257721,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439557",
+      "nombre": "Santa Marta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7270557,
+      "longitud": -84.8185945,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439558",
+      "nombre": "El Rosario",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7303336,
+      "longitud": -84.8143512,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439560",
+      "nombre": "La Junta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7355081,
+      "longitud": -84.8394728,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439561",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7344503,
+      "longitud": -84.8078066,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439566",
+      "nombre": "Matis",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7506404,
+      "longitud": -84.8022223,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439567",
+      "nombre": "Santa Josefina",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.770857,
+      "longitud": -84.8015142,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439569",
+      "nombre": "La Bomba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.757435,
+      "longitud": -84.7877813,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439570",
+      "nombre": "Celosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7931348,
+      "longitud": -84.7695208,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439571",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7885085,
+      "longitud": -84.7722244,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439572",
+      "nombre": "Casa Blanco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7724409,
+      "longitud": -84.7648859,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439573",
+      "nombre": "Toro Blanco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7807145,
+      "longitud": -84.7634483,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439574",
+      "nombre": "San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7777969,
+      "longitud": -84.7974801,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439575",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7889878,
+      "longitud": -84.7982955,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439576",
+      "nombre": "La Virgen",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7858202,
+      "longitud": -84.7949481,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439577",
+      "nombre": "Mina Victoria",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7962502,
+      "longitud": -84.7831303,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439578",
+      "nombre": "El Naranjál",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8206822,
+      "longitud": -84.7539211,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439579",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8010326,
+      "longitud": -84.7915364,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439580",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8063671,
+      "longitud": -84.7901631,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439581",
+      "nombre": "Ermita de Azá",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8115765,
+      "longitud": -84.7883821,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439582",
+      "nombre": "El Escondido",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8060337,
+      "longitud": -84.7793699,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439583",
+      "nombre": "El Bosque",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8236618,
+      "longitud": -84.7704005,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439584",
+      "nombre": "El Bálsamo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8172858,
+      "longitud": -84.7832751,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439585",
+      "nombre": "Lourdes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8165774,
+      "longitud": -84.8086596,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439586",
+      "nombre": "El Bambá",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8179005,
+      "longitud": -84.799422,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439587",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8262142,
+      "longitud": -84.7955812,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439588",
+      "nombre": "Dos Montes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8218907,
+      "longitud": -84.8097325,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439589",
+      "nombre": "La Estrella",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8178276,
+      "longitud": -84.8134232,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439590",
+      "nombre": "El Salvador",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8138686,
+      "longitud": -84.8148394,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439591",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8152647,
+      "longitud": -84.8220277,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439592",
+      "nombre": "Los Limones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.822422,
+      "longitud": -84.8276228,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439593",
+      "nombre": "San Juan",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8134935,
+      "longitud": -84.8262549,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439594",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7881647,
+      "longitud": -84.8290551,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439595",
+      "nombre": "El Bosque",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7878833,
+      "longitud": -84.8461461,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439597",
+      "nombre": "El Mango",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7966357,
+      "longitud": -84.8291517,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439598",
+      "nombre": "Veracruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7995062,
+      "longitud": -84.8186749,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439599",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8077007,
+      "longitud": -84.8368335,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439604",
+      "nombre": "El Palomar",
+      "tipo_localidad": "village",
+      "latitud": 13.8335796,
+      "longitud": -84.8627115,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439613",
+      "nombre": "El Bálsamo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7671056,
+      "longitud": -84.9168706,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439614",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7714822,
+      "longitud": -84.9142528,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439615",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7781928,
+      "longitud": -84.9026871,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439617",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.789738,
+      "longitud": -84.8943401,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439618",
+      "nombre": "El Golfo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7971983,
+      "longitud": -84.9206472,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439619",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8055961,
+      "longitud": -84.9296594,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439620",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7812355,
+      "longitud": -84.8378742,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439621",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7796933,
+      "longitud": -84.8558772,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439622",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7561637,
+      "longitud": -84.8534632,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439624",
+      "nombre": "Los Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7529956,
+      "longitud": -84.8508668,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439626",
+      "nombre": "El Carretón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7454089,
+      "longitud": -84.8544932,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439629",
+      "nombre": "El Almendro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7710445,
+      "longitud": -84.8962283,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439633",
+      "nombre": "El Carretón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7654643,
+      "longitud": -84.857508,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439634",
+      "nombre": "El Delirio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.762213,
+      "longitud": -84.8630226,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439635",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7542045,
+      "longitud": -84.8717237,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439636",
+      "nombre": "La Tronca",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7513908,
+      "longitud": -84.8692775,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439637",
+      "nombre": "El Torno",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7428243,
+      "longitud": -84.8701787,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439638",
+      "nombre": "El Pervontr",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7489522,
+      "longitud": -84.8707795,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439640",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7587794,
+      "longitud": -84.8745561,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439641",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7484207,
+      "longitud": -84.8877525,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439643",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7301824,
+      "longitud": -84.8853278,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439646",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7388327,
+      "longitud": -84.8935461,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439647",
+      "nombre": "Dos Bocas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.7434704,
+      "longitud": -84.898653,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439648",
+      "nombre": "La Isla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7570078,
+      "longitud": -84.8942757,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439651",
+      "nombre": "El Hormiguero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.756458,
+      "longitud": -84.9446556,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439652",
+      "nombre": "San José del Hormiguero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7434809,
+      "longitud": -84.9296433,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439653",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7413965,
+      "longitud": -84.9398571,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439654",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7524537,
+      "longitud": -84.9586702,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439656",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7696325,
+      "longitud": -84.9492878,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439657",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7894828,
+      "longitud": -84.9340528,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439658",
+      "nombre": "Monte Cristo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.774775,
+      "longitud": -84.9430275,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439659",
+      "nombre": "El Coco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7830433,
+      "longitud": -84.9325884,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439660",
+      "nombre": "El Consuelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7909259,
+      "longitud": -84.9372339,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439662",
+      "nombre": "Buenavista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8079456,
+      "longitud": -84.9426306,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439663",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7997927,
+      "longitud": -84.9456454,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439664",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7959585,
+      "longitud": -84.946053,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439665",
+      "nombre": "El Naranjal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.811889,
+      "longitud": -84.9532414,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719439669",
+      "nombre": "El Macho",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8123162,
+      "longitud": -84.9718237,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719469376",
+      "nombre": "Río Pía",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6705127,
+      "longitud": -84.4669354,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9719524082",
+      "nombre": "Monte de Oro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8250109,
+      "longitud": -84.7566193,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843671",
+      "nombre": "La Luz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8520597,
+      "longitud": -84.8213732,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843672",
+      "nombre": "San Miguelito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.847893,
+      "longitud": -84.7758293,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843673",
+      "nombre": "El Naranjal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8384133,
+      "longitud": -84.7922445,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843674",
+      "nombre": "El Indian",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8515128,
+      "longitud": -84.8015785,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843675",
+      "nombre": "El Guayabal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8428928,
+      "longitud": -84.8138094,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843676",
+      "nombre": "El Guayabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8586847,
+      "longitud": -84.8054516,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843677",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8550389,
+      "longitud": -84.7953665,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843678",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8653929,
+      "longitud": -84.7769236,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843680",
+      "nombre": "Gusma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8710957,
+      "longitud": -84.8083753,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843681",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8775899,
+      "longitud": -84.8047543,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843682",
+      "nombre": "Roskilete",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.874309,
+      "longitud": -84.7913218,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9721843685",
+      "nombre": "San Pablo",
+      "tipo_localidad": "village",
+      "latitud": 13.89226,
+      "longitud": -84.7902703,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9723285768",
+      "nombre": "El Bosque",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.9749715,
+      "longitud": -84.6875632,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9723285771",
+      "nombre": "La Curva",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.975971,
+      "longitud": -84.6708638,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9723285772",
+      "nombre": "El Bosque",
+      "tipo_localidad": "village",
+      "latitud": 13.9745395,
+      "longitud": -84.6771455,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9725761667",
+      "nombre": "Kalmata 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9053148,
+      "longitud": -84.490539,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9725761668",
+      "nombre": "Muskuwás",
+      "tipo_localidad": "village",
+      "latitud": 13.9960039,
+      "longitud": -84.4945407,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9725761669",
+      "nombre": "Mukuwasito",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.020022,
+      "longitud": -84.5059347,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9725761681",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8820218,
+      "longitud": -84.6494275,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9725761682",
+      "nombre": "La Luz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8447887,
+      "longitud": -84.7491682,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9725761708",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9331613,
+      "longitud": -84.5723248,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9725761710",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9274652,
+      "longitud": -84.6181798,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9725761711",
+      "nombre": "El Gonse",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9079184,
+      "longitud": -84.616254,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9725761713",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9524144,
+      "longitud": -84.601121,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9725806630",
+      "nombre": "Wihiwás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9272777,
+      "longitud": -84.4822025,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9727923772",
+      "nombre": "Bambanita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9304174,
+      "longitud": -84.3744367,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9727923773",
+      "nombre": "Bambana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.9113967,
+      "longitud": -84.3908894,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9727923774",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.919556,
+      "longitud": -84.4067735,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9727923775",
+      "nombre": "Las Vegas de Montecarmelo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.915177,
+      "longitud": -84.4102228,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9727923776",
+      "nombre": "Dibahil",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9140367,
+      "longitud": -84.4389814,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9727923777",
+      "nombre": "Fruta de Pan",
+      "tipo_localidad": "village",
+      "latitud": 13.9181918,
+      "longitud": -84.4328821,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9727923820",
+      "nombre": "Santa María",
+      "tipo_localidad": "village",
+      "latitud": 13.9487648,
+      "longitud": -84.4933391,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9727923822",
+      "nombre": "El Zopilote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9551007,
+      "longitud": -84.4471836,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9727923823",
+      "nombre": "El Arenaloso",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9570374,
+      "longitud": -84.4713663,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9727923834",
+      "nombre": "Ispayulilna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9777773,
+      "longitud": -84.4852442,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737696162",
+      "nombre": "Taytay Buea",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9865121,
+      "longitud": -84.4807327,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737696176",
+      "nombre": "Wasminona",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9912645,
+      "longitud": -84.2772174,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737696177",
+      "nombre": "Okonwás Central",
+      "tipo_localidad": "village",
+      "latitud": 13.9627953,
+      "longitud": -84.2598689,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737696178",
+      "nombre": "El Corozo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9423038,
+      "longitud": -84.3640351,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737700136",
+      "nombre": "Susún de las Flores",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9954444,
+      "longitud": -84.3905997,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737700137",
+      "nombre": "Minesota",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9961107,
+      "longitud": -84.4326461,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737700138",
+      "nombre": "Buhbu Wás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9731235,
+      "longitud": -84.4408,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737700141",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9850755,
+      "longitud": -84.3997139,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737700143",
+      "nombre": "Nalpatara",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8488305,
+      "longitud": -84.3088889,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737700144",
+      "nombre": "Banacruz 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8360486,
+      "longitud": -84.4882858,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737700149",
+      "nombre": "Sulivan",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8578514,
+      "longitud": -84.4071222,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737700150",
+      "nombre": "Omizuwás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8802355,
+      "longitud": -84.4009209,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737700152",
+      "nombre": "Wasa King",
+      "tipo_localidad": "village",
+      "latitud": 13.855966,
+      "longitud": -84.3376744,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9737700153",
+      "nombre": "Betania",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.879746,
+      "longitud": -84.5078874,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9757539401",
+      "nombre": "Kukalaya",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.089389,
+      "longitud": -84.4582236,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9757539402",
+      "nombre": "Risco de Oro",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0363743,
+      "longitud": -84.2573048,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9761903557",
+      "nombre": "Wakambay",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.2809102,
+      "longitud": -84.199326,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9788525930",
+      "nombre": "El Naranjal",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.5936575,
+      "longitud": -84.4315517,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9788525931",
+      "nombre": "Tulankira",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.6152187,
+      "longitud": -84.480443,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9788642609",
+      "nombre": "Waspuk",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.6323167,
+      "longitud": -84.4408536,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9788914739",
+      "nombre": "Mina Santa Rosa",
+      "tipo_localidad": "village",
+      "latitud": 14.3860022,
+      "longitud": -84.4861159,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9789371750",
+      "nombre": "Kisubila",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7089348,
+      "longitud": -84.2594706,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9791337526",
+      "nombre": "La Concepción",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.7715317,
+      "longitud": -84.1133022,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9791337528",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.713563,
+      "longitud": -84.1766882,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9793871663",
+      "nombre": "La Tronquera",
+      "tipo_localidad": "village",
+      "latitud": 14.5520112,
+      "longitud": -84.0025806,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9810225220",
+      "nombre": "Kalila Kangban",
+      "tipo_localidad": "village",
+      "latitud": 14.5271593,
+      "longitud": -84.1128302,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9810225233",
+      "nombre": "Kururia",
+      "tipo_localidad": "village",
+      "latitud": 14.657385,
+      "longitud": -84.0728116,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9810276854",
+      "nombre": "Dos Bocas",
+      "tipo_localidad": "village",
+      "latitud": 14.4691625,
+      "longitud": -84.1543508,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9823134678",
+      "nombre": "La Curva",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7142098,
+      "longitud": -84.4494689,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9823134679",
+      "nombre": "El Trinufo",
+      "tipo_localidad": "village",
+      "latitud": 13.6330791,
+      "longitud": -84.3761855,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9836306047",
+      "nombre": "San Antonio de Banaruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8183902,
+      "longitud": -84.501096,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9836306048",
+      "nombre": "Liwatakan",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9264655,
+      "longitud": -84.1174221,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9836306052",
+      "nombre": "Kuliwás",
+      "tipo_localidad": "village",
+      "latitud": 13.9844924,
+      "longitud": -84.1872883,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9836306053",
+      "nombre": "Empalme de Wasminona",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9636464,
+      "longitud": -84.282268,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9838694561",
+      "nombre": "Tignitara",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5786905,
+      "longitud": -84.5752591,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9838694563",
+      "nombre": "Boca Isnawás",
+      "tipo_localidad": "village",
+      "latitud": 13.7307765,
+      "longitud": -84.159168,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9839082349",
+      "nombre": "Pauta Bran",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7719563,
+      "longitud": -84.2942655,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9839249502",
+      "nombre": "La Palma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8043875,
+      "longitud": -84.3822098,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9839249511",
+      "nombre": "Dolores",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6736141,
+      "longitud": -84.4960065,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9839273317",
+      "nombre": "Margarita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7342992,
+      "longitud": -84.4745743,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9839273322",
+      "nombre": "El Campamento",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.774155,
+      "longitud": -84.4708729,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9839273331",
+      "nombre": "Sangsangwás El Pantanal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7561784,
+      "longitud": -84.4318029,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9839273333",
+      "nombre": "El Sombrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7880605,
+      "longitud": -84.4282043,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9839273334",
+      "nombre": "Sang Sang Wás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7458049,
+      "longitud": -84.4771707,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9842617928",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4772343,
+      "longitud": -84.1915799,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9842617929",
+      "nombre": "Wisconsin",
+      "tipo_localidad": "village",
+      "latitud": 14.5143169,
+      "longitud": -84.1855449,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9842619699",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.5472212,
+      "longitud": -83.9789128,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9862731052",
+      "nombre": "Auyatara",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.3005239,
+      "longitud": -83.6509216,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9862731057",
+      "nombre": "Panua",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.3033309,
+      "longitud": -83.6737848,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9862731425",
+      "nombre": "Seven Benk",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1996303,
+      "longitud": -83.6468017,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9862936053",
+      "nombre": "Auhytara",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.3034348,
+      "longitud": -83.6992013,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9866577113",
+      "nombre": "Betania",
+      "tipo_localidad": "village",
+      "latitud": 14.1593227,
+      "longitud": -83.5268104,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9866577114",
+      "nombre": "Prata",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1790926,
+      "longitud": -83.5815704,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9866577115",
+      "nombre": "Kuakuil",
+      "tipo_localidad": "village",
+      "latitud": 14.2106031,
+      "longitud": -83.5180932,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9868372756",
+      "nombre": "Tee Kiamp",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.480039,
+      "longitud": -83.9905215,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9870562179",
+      "nombre": "Empalme de Sukat Pin",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1074324,
+      "longitud": -83.557291,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9870562180",
+      "nombre": "El Lanchón",
+      "tipo_localidad": "village",
+      "latitud": 14.1140917,
+      "longitud": -83.5433704,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883952310",
+      "nombre": "Dikuatara",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4551712,
+      "longitud": -83.7275443,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883964182",
+      "nombre": "Skruwarban",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.3382258,
+      "longitud": -83.8061786,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883964347",
+      "nombre": "Lapan",
+      "tipo_localidad": "village",
+      "latitud": 13.8747673,
+      "longitud": -83.7767816,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883964348",
+      "nombre": "Grey Town Abajo",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0861735,
+      "longitud": -84.0972734,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883964349",
+      "nombre": "Mina Columbus",
+      "tipo_localidad": "village",
+      "latitud": 14.1241933,
+      "longitud": -83.936322,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883964350",
+      "nombre": "San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1000601,
+      "longitud": -83.8207671,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883964351",
+      "nombre": "La Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1015169,
+      "longitud": -83.865155,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883964352",
+      "nombre": "El Naranjal",
+      "tipo_localidad": "village",
+      "latitud": 14.0850496,
+      "longitud": -83.8510519,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883964354",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "village",
+      "latitud": 14.0962465,
+      "longitud": -83.7833262,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883964357",
+      "nombre": "Kambla 2",
+      "tipo_localidad": "village",
+      "latitud": 14.0779875,
+      "longitud": -83.4028159,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883964358",
+      "nombre": "Poza Azul",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 14.0441996,
+      "longitud": -83.4190841,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9885752032",
+      "nombre": "Isinki Tá",
+      "tipo_localidad": "village",
+      "latitud": 14.373214,
+      "longitud": -83.2986295,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9886080022",
+      "nombre": "Klu Kum Unta",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.5027565,
+      "longitud": -83.2840678,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9886080024",
+      "nombre": "Papta",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.489388,
+      "longitud": -83.2774937,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9886080025",
+      "nombre": "Uskira",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4814829,
+      "longitud": -83.2888126,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9886080026",
+      "nombre": "Auas Yari",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4776082,
+      "longitud": -83.2963067,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9886080027",
+      "nombre": "Raiti",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 14.4663264,
+      "longitud": -83.291291,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9886080170",
+      "nombre": "Biwatla",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.3362768,
+      "longitud": -83.3999768,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9886080275",
+      "nombre": "Campamento Alabar",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.3602535,
+      "longitud": -83.3713871,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9888606530",
+      "nombre": "Bip Kawan",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.5247784,
+      "longitud": -83.4632635,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9895987729",
+      "nombre": "San Jacinto",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.8785519,
+      "longitud": -83.6600867,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9895987781",
+      "nombre": "Yilina",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 14.9764608,
+      "longitud": -83.5396743,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9902095486",
+      "nombre": "Campamento Suáhura",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.5585106,
+      "longitud": -83.5589393,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9902097391",
+      "nombre": "Kuri",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.5658068,
+      "longitud": -83.5021462,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9902097392",
+      "nombre": "Campamento Kuri Dákura",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.5493994,
+      "longitud": -83.5011416,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9902097393",
+      "nombre": "Campamento Taslawan",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.5719618,
+      "longitud": -83.5134597,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9902097397",
+      "nombre": "Maruta",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.6443231,
+      "longitud": -83.6204799,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9902097457",
+      "nombre": "King Iwan",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.6615264,
+      "longitud": -83.6626831,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9912892208",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4050715,
+      "longitud": -83.8296506,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9920344541",
+      "nombre": "Nasa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8589239,
+      "longitud": -83.8724319,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9925128765",
+      "nombre": "Yabal Tara",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5998044,
+      "longitud": -83.9124324,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9925128795",
+      "nombre": "Yakal Warban",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5796116,
+      "longitud": -83.9458589,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9925991815",
+      "nombre": "Kakaubila",
+      "tipo_localidad": "village",
+      "latitud": 13.6163366,
+      "longitud": -84.0066835,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9927148813",
+      "nombre": "Campamento Pihtu",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7431161,
+      "longitud": -84.1830021,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9929907046",
+      "nombre": "Kuanwatla",
+      "tipo_localidad": "village",
+      "latitud": 13.3182081,
+      "longitud": -83.6037523,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9930180762",
+      "nombre": "Dipawala",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4279732,
+      "longitud": -83.8622529,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9934220011",
+      "nombre": "Limbaika",
+      "tipo_localidad": "village",
+      "latitud": 13.4849758,
+      "longitud": -84.0897846,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9934257921",
+      "nombre": "Ladricola",
+      "tipo_localidad": "village",
+      "latitud": 13.4733609,
+      "longitud": -84.12512,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9934257922",
+      "nombre": "Klarin Dam",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.46558,
+      "longitud": -84.1697386,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9936426552",
+      "nombre": "La Garnacha",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3401057,
+      "longitud": -84.3051124,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9942490143",
+      "nombre": "Waní",
+      "tipo_localidad": "village",
+      "latitud": 13.6951063,
+      "longitud": -84.8530367,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9982802116",
+      "nombre": "Silibilia",
+      "tipo_localidad": "village",
+      "latitud": 13.3002814,
+      "longitud": -84.4795525,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9983423906",
+      "nombre": "Yaoya Abajo",
+      "tipo_localidad": "village",
+      "latitud": 13.6337516,
+      "longitud": -84.6749139,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9983922762",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "village",
+      "latitud": 13.3753828,
+      "longitud": -84.863677,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984141801",
+      "nombre": "Chico Smith",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4569823,
+      "longitud": -84.9558807,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984141812",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4963998,
+      "longitud": -84.9971545,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984166566",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "village",
+      "latitud": 13.4798114,
+      "longitud": -84.8437965,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984174254",
+      "nombre": "La Bodega",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4311248,
+      "longitud": -84.8523366,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984192104",
+      "nombre": "Fàtima",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3654406,
+      "longitud": -84.8798132,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984232722",
+      "nombre": "Lisawé",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3695637,
+      "longitud": -84.9697209,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984232730",
+      "nombre": "Monte Cristo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3904964,
+      "longitud": -84.9889899,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984232733",
+      "nombre": "Bocana de Wiwa",
+      "tipo_localidad": "village",
+      "latitud": 13.4062768,
+      "longitud": -84.9755788,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984232785",
+      "nombre": "Primavera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4840525,
+      "longitud": -84.7880924,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984232805",
+      "nombre": "El Delirio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4697848,
+      "longitud": -84.8944366,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9984232818",
+      "nombre": "Las Tablas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4610204,
+      "longitud": -84.9181044,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9986669116",
+      "nombre": "San Juan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.3811183,
+      "longitud": -84.8608902,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9988736488",
+      "nombre": "El Piñal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6639293,
+      "longitud": -84.9348897,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989074887",
+      "nombre": "La Palmera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.582286,
+      "longitud": -84.9561704,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989074888",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5908061,
+      "longitud": -84.9932814,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989074889",
+      "nombre": "La Buhni",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5905871,
+      "longitud": -84.9688411,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989074891",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6212134,
+      "longitud": -84.9474907,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989074892",
+      "nombre": "La Estrella",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6157913,
+      "longitud": -84.95852,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989074894",
+      "nombre": "Labú",
+      "tipo_localidad": "village",
+      "latitud": 13.5622722,
+      "longitud": -84.912343,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989074913",
+      "nombre": "Tadasna",
+      "tipo_localidad": "village",
+      "latitud": 13.5908556,
+      "longitud": -84.8122282,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989074914",
+      "nombre": "San José de Tadasna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6014324,
+      "longitud": -84.7992182,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989074919",
+      "nombre": "Las Brisas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6195659,
+      "longitud": -84.7948569,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989075187",
+      "nombre": "El Corozo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6360351,
+      "longitud": -84.8976982,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9989075190",
+      "nombre": "La Nueva",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6513666,
+      "longitud": -84.9987317,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9990924844",
+      "nombre": "Sarawás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3189233,
+      "longitud": -84.9013943,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9990924845",
+      "nombre": "Santa Juana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3286299,
+      "longitud": -84.8924947,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9990924855",
+      "nombre": "Lisawé",
+      "tipo_localidad": "village",
+      "latitud": 13.2748849,
+      "longitud": -84.9205962,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9991397296",
+      "nombre": "Capilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3489529,
+      "longitud": -84.6848488,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9991397298",
+      "nombre": "Corozo Vega",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.384234,
+      "longitud": -84.6421051,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9991397299",
+      "nombre": "El Corozo",
+      "tipo_localidad": "village",
+      "latitud": 13.3484727,
+      "longitud": -84.6584344,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9994056871",
+      "nombre": "Los Chavarría",
+      "tipo_localidad": "village",
+      "latitud": 13.1227892,
+      "longitud": -85.0554389,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995443599",
+      "nombre": "Lukú",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.368285,
+      "longitud": -85.0373179,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995602271",
+      "nombre": "Los Ramales",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5227614,
+      "longitud": -85.2015496,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801181",
+      "nombre": "Aló",
+      "tipo_localidad": "village",
+      "latitud": 13.6215418,
+      "longitud": -84.9129385,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801183",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6585498,
+      "longitud": -84.9779821,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801184",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6649613,
+      "longitud": -84.9574685,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801185",
+      "nombre": "Pijibay",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5357168,
+      "longitud": -85.1891363,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801187",
+      "nombre": "Kum",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5607365,
+      "longitud": -85.266384,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801190",
+      "nombre": "Las Torres",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5570366,
+      "longitud": -85.2177286,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801191",
+      "nombre": "Arnoldo Quant",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5232673,
+      "longitud": -85.242228,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801196",
+      "nombre": "El Ocote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5649943,
+      "longitud": -85.2061362,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801198",
+      "nombre": "Pueblo Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6282307,
+      "longitud": -85.1018679,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801201",
+      "nombre": "El Peñasco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6383757,
+      "longitud": -85.0826526,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801202",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.639335,
+      "longitud": -85.0759578,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801203",
+      "nombre": "Las Peñas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6443604,
+      "longitud": -85.0704646,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801204",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6630014,
+      "longitud": -85.0257039,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801244",
+      "nombre": "Guayabo Resbalón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5835374,
+      "longitud": -85.1168937,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801245",
+      "nombre": "El Guayabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5930065,
+      "longitud": -85.1049149,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801290",
+      "nombre": "Los Mangos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5493495,
+      "longitud": -85.2444595,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801291",
+      "nombre": "El Jocote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5900865,
+      "longitud": -85.2362734,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801296",
+      "nombre": "La Angostura",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6633559,
+      "longitud": -85.1768303,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801297",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6550364,
+      "longitud": -85.1743412,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801298",
+      "nombre": "Salto El Tramojo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6495316,
+      "longitud": -85.1808858,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801299",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6394679,
+      "longitud": -85.1857514,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9995801300",
+      "nombre": "El Amparo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6462162,
+      "longitud": -85.200702,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9996024537",
+      "nombre": "Talolinga",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5500692,
+      "longitud": -85.0692093,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9998770879",
+      "nombre": "Las Flores",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5459232,
+      "longitud": -85.0606102,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9998773537",
+      "nombre": "Waslita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6256866,
+      "longitud": -85.189324,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/9998773541",
+      "nombre": "Piedra Colorada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6173606,
+      "longitud": -85.1965445,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000624552",
+      "nombre": "Quatro Esquinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6059685,
+      "longitud": -85.3247595,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000624553",
+      "nombre": "Cristo Rey",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.597767,
+      "longitud": -85.338943,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000624567",
+      "nombre": "Las Torres",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6470816,
+      "longitud": -85.404228,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000624582",
+      "nombre": "Las Torres",
+      "tipo_localidad": "village",
+      "latitud": 13.6230303,
+      "longitud": -85.4285905,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000631042",
+      "nombre": "Los Sallones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5194337,
+      "longitud": -85.2998793,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000632492",
+      "nombre": "El Tigre",
+      "tipo_localidad": "village",
+      "latitud": 13.5936278,
+      "longitud": -85.3034715,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000632493",
+      "nombre": "San Esteban",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.59017,
+      "longitud": -85.3548754,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000632494",
+      "nombre": "San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5734943,
+      "longitud": -85.349983,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000632512",
+      "nombre": "El Bambucito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5728112,
+      "longitud": -85.3815687,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000632738",
+      "nombre": "La Bocana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5075832,
+      "longitud": -85.3252905,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000632739",
+      "nombre": "Los Tres Ases",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5180203,
+      "longitud": -85.33198,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000632742",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5458032,
+      "longitud": -85.3189874,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000632758",
+      "nombre": "San Andrés",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6017661,
+      "longitud": -85.3095246,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000633276",
+      "nombre": "Kubalí Arriba",
+      "tipo_localidad": "village",
+      "latitud": 13.4966501,
+      "longitud": -85.3619403,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000633277",
+      "nombre": "Linda Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5080944,
+      "longitud": -85.3739834,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000633278",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5143222,
+      "longitud": -85.3834784,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000633281",
+      "nombre": "Santa Cruz",
+      "tipo_localidad": "village",
+      "latitud": 13.5021193,
+      "longitud": -85.3920507,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000633347",
+      "nombre": "Plaza del Tigre",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6076891,
+      "longitud": -85.4031229,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000633348",
+      "nombre": "El Cañón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.613466,
+      "longitud": -85.3978444,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000633448",
+      "nombre": "Las Pelas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5338862,
+      "longitud": -85.3737635,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000633449",
+      "nombre": "El Guayabito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.545167,
+      "longitud": -85.3641129,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10000633450",
+      "nombre": "El Guayabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5638784,
+      "longitud": -85.3755928,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10003420545",
+      "nombre": "Demetrio Laguna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6346379,
+      "longitud": -85.2397925,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10004349196",
+      "nombre": "Diamante",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7000628,
+      "longitud": -85.2701122,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10023161796",
+      "nombre": "La Florida",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3524446,
+      "longitud": -85.5047894,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10024520749",
+      "nombre": "Tuburús",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4334049,
+      "longitud": -83.981123,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10024606372",
+      "nombre": "Shellsing",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3238712,
+      "longitud": -84.3704538,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258376",
+      "nombre": "El Encanto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.346364,
+      "longitud": -85.477345,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258386",
+      "nombre": "La Virgen",
+      "tipo_localidad": "village",
+      "latitud": 13.3407372,
+      "longitud": -85.4619706,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258387",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3500385,
+      "longitud": -85.4508662,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258389",
+      "nombre": "La Belleza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3426894,
+      "longitud": -85.4493857,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258390",
+      "nombre": "Vallas Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3551744,
+      "longitud": -85.449965,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258392",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3650805,
+      "longitud": -85.4489565,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258393",
+      "nombre": "Loma Linda",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3621995,
+      "longitud": -85.4430449,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258394",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4526312,
+      "longitud": -85.4361355,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258395",
+      "nombre": "El Encanto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4403495,
+      "longitud": -85.4191733,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258405",
+      "nombre": "Arena Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3369373,
+      "longitud": -85.2507306,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258406",
+      "nombre": "La Pacaya",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3342335,
+      "longitud": -85.2769304,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258407",
+      "nombre": "El Banco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3528361,
+      "longitud": -85.2663517,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258408",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3739372,
+      "longitud": -85.2674675,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258411",
+      "nombre": "San Pablo (Silvio Mayorga)",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4824615,
+      "longitud": -85.2730895,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258415",
+      "nombre": "Linda Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4494852,
+      "longitud": -85.3027815,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048258416",
+      "nombre": "Amaka",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4761285,
+      "longitud": -85.3380418,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272517",
+      "nombre": "Buenavista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4684806,
+      "longitud": -85.321439,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272523",
+      "nombre": "Pijibaye",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4048053,
+      "longitud": -85.4109335,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272524",
+      "nombre": "Dulce Nombre",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3863475,
+      "longitud": -85.3947437,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272526",
+      "nombre": "El Achiote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4072474,
+      "longitud": -85.366205,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272528",
+      "nombre": "Dolores",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4402295,
+      "longitud": -85.3835428,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272529",
+      "nombre": "El Ocote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4662165,
+      "longitud": -85.3696275,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272530",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4836404,
+      "longitud": -85.360508,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272555",
+      "nombre": "Kasquita",
+      "tipo_localidad": "village",
+      "latitud": 13.41999,
+      "longitud": -85.4404378,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272556",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4053897,
+      "longitud": -85.4455769,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272558",
+      "nombre": "San Simón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3939406,
+      "longitud": -85.4587198,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272559",
+      "nombre": "San Enrique",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3968629,
+      "longitud": -85.4736972,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10048272591",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4060263,
+      "longitud": -85.4903698,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10050916367",
+      "nombre": "La Pozalera",
+      "tipo_localidad": "village",
+      "latitud": 13.2870105,
+      "longitud": -85.3994858,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10050917001",
+      "nombre": "Las Vallas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3340873,
+      "longitud": -85.4270589,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10050917013",
+      "nombre": "El Diamante",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3288204,
+      "longitud": -85.484882,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10050917014",
+      "nombre": "Soledad",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3298971,
+      "longitud": -85.4641328,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10050991745",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2701989,
+      "longitud": -85.4159868,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052279825",
+      "nombre": "El Ciprés",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2942934,
+      "longitud": -85.3894865,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052279826",
+      "nombre": "Los Robles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.306191,
+      "longitud": -85.3814989,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052279827",
+      "nombre": "El Progreso",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.3214655,
+      "longitud": -85.3809464,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052279828",
+      "nombre": "Vaca Muerta",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.3163758,
+      "longitud": -85.3850234,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052382245",
+      "nombre": "La Hierababuena",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3160365,
+      "longitud": -85.3651938,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052382247",
+      "nombre": "Las Flores",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3270247,
+      "longitud": -85.3481806,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052389121",
+      "nombre": "El Castillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2591298,
+      "longitud": -85.2666038,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052389126",
+      "nombre": "La Lana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3001144,
+      "longitud": -85.2592599,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052389133",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2909026,
+      "longitud": -85.3108603,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052389136",
+      "nombre": "Los Ranchos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.298898,
+      "longitud": -85.3035057,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052389138",
+      "nombre": "Dudú",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3089004,
+      "longitud": -85.2969826,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052389139",
+      "nombre": "Cristo Rey",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3218544,
+      "longitud": -85.2860499,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10052389162",
+      "nombre": "Barrial Colorado",
+      "tipo_localidad": "village",
+      "latitud": 13.3311015,
+      "longitud": -85.3135479,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053674995",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2614975,
+      "longitud": -85.2816176,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053674997",
+      "nombre": "La Perla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2516212,
+      "longitud": -85.2888876,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053674998",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2568297,
+      "longitud": -85.2851996,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053674999",
+      "nombre": "Las Flores",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2489373,
+      "longitud": -85.285728,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053675171",
+      "nombre": "Los Sánchez",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2092497,
+      "longitud": -85.346421,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053675177",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2178562,
+      "longitud": -85.3821641,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053675181",
+      "nombre": "Pueblo Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2308489,
+      "longitud": -85.3533733,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053675197",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2398933,
+      "longitud": -85.330773,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053675201",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2492298,
+      "longitud": -85.3362715,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053675202",
+      "nombre": "El Diamante",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2585189,
+      "longitud": -85.3342223,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053675203",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2579549,
+      "longitud": -85.3406516,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053675214",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2414311,
+      "longitud": -85.3796268,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053675215",
+      "nombre": "El Parque",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2385565,
+      "longitud": -85.3941322,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053925291",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.403198,
+      "longitud": -85.4347515,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053925294",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3575335,
+      "longitud": -85.4413444,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053925295",
+      "nombre": "Las Brisas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3400534,
+      "longitud": -85.4265654,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053925305",
+      "nombre": "Zinica",
+      "tipo_localidad": "village",
+      "latitud": 13.4412052,
+      "longitud": -85.3048253,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053925337",
+      "nombre": "Kusuly Central",
+      "tipo_localidad": "village",
+      "latitud": 13.4080823,
+      "longitud": -85.3202373,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053925351",
+      "nombre": "San Martín",
+      "tipo_localidad": "village",
+      "latitud": 13.397176,
+      "longitud": -85.3245556,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053925352",
+      "nombre": "El Guabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3865302,
+      "longitud": -85.3285146,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053925927",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3803773,
+      "longitud": -85.3358102,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10053925929",
+      "nombre": "El Achiote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3934292,
+      "longitud": -85.3513563,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10056219388",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3940867,
+      "longitud": -85.2060825,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10056219389",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3961637,
+      "longitud": -85.2081692,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10056219394",
+      "nombre": "El Peñón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4277868,
+      "longitud": -85.2097903,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10056219503",
+      "nombre": "San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4281194,
+      "longitud": -85.2308768,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10056219516",
+      "nombre": "Comarca Sofana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4155912,
+      "longitud": -85.1844264,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10056219519",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4358833,
+      "longitud": -85.247823,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10056219532",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4758855,
+      "longitud": -85.2145277,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10056219536",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4875423,
+      "longitud": -85.2187586,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10057462676",
+      "nombre": "Guayabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5821712,
+      "longitud": -85.1459259,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10064945222",
+      "nombre": "Los Aguacates",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4931552,
+      "longitud": -85.0705719,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10064945270",
+      "nombre": "Santo Tomás de Corrozal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4770257,
+      "longitud": -85.1078868,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10138434036",
+      "nombre": "Suba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1792369,
+      "longitud": -85.0819437,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10138575014",
+      "nombre": "Dipina",
+      "tipo_localidad": "village",
+      "latitud": 13.3105135,
+      "longitud": -85.2022362,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10237846109",
+      "nombre": "Bethlehem",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1414134,
+      "longitud": -84.6349597,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10247646237",
+      "nombre": "Moss (Tunglita)",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.3563975,
+      "longitud": -83.8768923,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/10262980851",
+      "nombre": "El Corozo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.3587235,
+      "longitud": -84.6202478,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11260304573",
+      "nombre": "San Antonio de Okonwás",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0380292,
+      "longitud": -84.3372131,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11260304592",
+      "nombre": "Sangsangwás",
+      "tipo_localidad": "village",
+      "latitud": 13.7462529,
+      "longitud": -84.4385886,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11260304594",
+      "nombre": "La Colonia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9400442,
+      "longitud": -84.6765339,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11260304598",
+      "nombre": "El Panamá",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0391845,
+      "longitud": -84.5705169,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11261111500",
+      "nombre": "Belén",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.2960118,
+      "longitud": -83.6820889,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11261111529",
+      "nombre": "Kuakuíl",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0598234,
+      "longitud": -83.8882327,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11287252342",
+      "nombre": "Truskutara",
+      "tipo_localidad": "village",
+      "latitud": 14.7850748,
+      "longitud": -83.7793672,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11390247982",
+      "nombre": "Yaró Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2309012,
+      "longitud": -85.2710885,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11390248085",
+      "nombre": "Papayo",
+      "tipo_localidad": "village",
+      "latitud": 13.3357654,
+      "longitud": -85.3576487,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11390248086",
+      "nombre": "San Pablo de Iyás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7380094,
+      "longitud": -85.1414921,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11390248097",
+      "nombre": "El Naranjo Alto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5719638,
+      "longitud": -85.1688266,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11390248128",
+      "nombre": "Los Mangos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5422047,
+      "longitud": -85.2286425,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11445371264",
+      "nombre": "Wastari",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6341652,
+      "longitud": -85.3355315,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11445371265",
+      "nombre": "La Esperanza Cubalí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4703342,
+      "longitud": -85.2841402,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11445371266",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4645795,
+      "longitud": -85.2909485,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11458214200",
+      "nombre": "Sector Banacruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8125141,
+      "longitud": -84.5562476,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11458214211",
+      "nombre": "El Pinchal",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0000041,
+      "longitud": -84.6460641,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11479290017",
+      "nombre": "Black",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0488433,
+      "longitud": -84.2082095,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11479308113",
+      "nombre": "Carpato",
+      "tipo_localidad": "village",
+      "latitud": 14.166589,
+      "longitud": -84.1868699,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11481259504",
+      "nombre": "Sunklinting",
+      "tipo_localidad": "village",
+      "latitud": 14.2194784,
+      "longitud": -84.1696407,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11545362339",
+      "nombre": "El Guabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3464527,
+      "longitud": -85.3515869,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11545362340",
+      "nombre": "Los Martínez",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.363259,
+      "longitud": -85.3957683,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11545365317",
+      "nombre": "El Corozal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3851577,
+      "longitud": -85.3583837,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11545365335",
+      "nombre": "Santa Marta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4124029,
+      "longitud": -85.3980911,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11547085373",
+      "nombre": "Santa María de Cubalí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5000198,
+      "longitud": -85.3875554,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11547258544",
+      "nombre": "Sector Comarca Sofana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4183932,
+      "longitud": -85.1765621,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11548073537",
+      "nombre": "El Plátano",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4577962,
+      "longitud": -85.0816333,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11548073538",
+      "nombre": "Sofana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3485979,
+      "longitud": -85.1248115,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11548142154",
+      "nombre": "El Ocote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6251861,
+      "longitud": -85.0650358,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11548197509",
+      "nombre": "Las Quebradas",
+      "tipo_localidad": "village",
+      "latitud": 13.6305976,
+      "longitud": -85.0486851,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11829029440",
+      "nombre": "El Susto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5285012,
+      "longitud": -84.568803,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11933120550",
+      "nombre": "Columbus Guapinol",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1182536,
+      "longitud": -83.9113534,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11933120559",
+      "nombre": "Sumubila",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1115658,
+      "longitud": -83.9087516,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11933181136",
+      "nombre": "Lomas El Tanque",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0787173,
+      "longitud": -83.961972,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11933225798",
+      "nombre": "Grey Town",
+      "tipo_localidad": "village",
+      "latitud": 14.1272744,
+      "longitud": -84.0612567,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11933262130",
+      "nombre": "Risco de Oro",
+      "tipo_localidad": "village",
+      "latitud": 14.0456272,
+      "longitud": -84.2269421,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11937509778",
+      "nombre": "La Pontranca",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9565636,
+      "longitud": -84.1460896,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/11938504494",
+      "nombre": "Salto Verde",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.62174,
+      "longitud": -84.6108788,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/12477161968",
+      "nombre": "Las Mañanitas",
+      "tipo_localidad": "village",
+      "latitud": 13.7134828,
+      "longitud": -84.7802871,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/12482185564",
+      "nombre": "Piñera",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.4038869,
+      "longitud": -83.9231229,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/12490370413",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "village",
+      "latitud": 13.4832804,
+      "longitud": -84.1247767,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/12490436057",
+      "nombre": "Auka Mango",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3967898,
+      "longitud": -83.9454013,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/12490436058",
+      "nombre": "Dos Amigos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4609786,
+      "longitud": -84.0533817,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/12492785986",
+      "nombre": "Nazareth",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.1014207,
+      "longitud": -83.8027266,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/12492796733",
+      "nombre": "Yakalwás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9348794,
+      "longitud": -84.0713793,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/12997939404",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5066454,
+      "longitud": -84.712333,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/13432764319",
+      "nombre": "La Estrechura",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2292823,
+      "longitud": -84.8090753,
+      "departamento": "North Carribean Coast Autonomous Region"
+    },
+    {
+      "osm_id": "node/13588421622",
+      "nombre": "Santa Juana",
+      "tipo_localidad": "village",
+      "latitud": 13.5776451,
+      "longitud": -84.526459,
+      "departamento": "North Carribean Coast Autonomous Region"
+    }
+  ]
+}

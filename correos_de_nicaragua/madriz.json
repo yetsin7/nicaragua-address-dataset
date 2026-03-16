@@ -1,0 +1,77 @@
+{
+    "total": 9,
+    "data": [
+        {
+            "NomDepto": "Madriz",
+            "NomMunicipio": "Somoto",
+            "CodPostal": 34000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 39,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Madriz",
+            "NomMunicipio": "Yalaguina",
+            "CodPostal": 35100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 40,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Madriz",
+            "NomMunicipio": "Palacaguina",
+            "CodPostal": 35200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 41,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Madriz",
+            "NomMunicipio": "Totogalpa",
+            "CodPostal": 35300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 42,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Madriz",
+            "NomMunicipio": "San Lucas",
+            "CodPostal": 35400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 43,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Madriz",
+            "NomMunicipio": "Las Sabanas",
+            "CodPostal": 35500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 44,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Madriz",
+            "NomMunicipio": "San Jos\u00e9 de Cusmapa",
+            "CodPostal": 35600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 45,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Madriz",
+            "NomMunicipio": "Telpaneca",
+            "CodPostal": 35700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 46,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Madriz",
+            "NomMunicipio": "San Juan de Rio Coco",
+            "CodPostal": 35800,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 47,
+            "CodBarrio": null
+        }
+    ]
+}

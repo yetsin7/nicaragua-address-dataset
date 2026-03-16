@@ -1,0 +1,2342 @@
+{
+  "departamento": "Granada",
+  "total_registros": 292,
+  "lugares": [
+    {
+      "osm_id": "node/175683474",
+      "nombre": "Granada",
+      "tipo_localidad": "city",
+      "latitud": 11.930367,
+      "longitud": -85.9535387,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/302563026",
+      "nombre": "Nandaime",
+      "tipo_localidad": "town",
+      "latitud": 11.7562345,
+      "longitud": -86.0534435,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/643805963",
+      "nombre": "Reparto Bartolomé Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9435293,
+      "longitud": -85.9546112,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/643805990",
+      "nombre": "Valle de Granada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9311772,
+      "longitud": -85.9694285,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/643805996",
+      "nombre": "La Otra Banda",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9315551,
+      "longitud": -85.9594078,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/643806036",
+      "nombre": "Barrio Xalteva",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.927261,
+      "longitud": -85.9622341,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/643806040",
+      "nombre": "Boca Negra",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9220131,
+      "longitud": -85.9546442,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/643806079",
+      "nombre": "San Carlos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9189899,
+      "longitud": -85.956629,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/643806086",
+      "nombre": "Las Camelias",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.924396,
+      "longitud": -85.9674544,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/643806113",
+      "nombre": "El Escudo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9199526,
+      "longitud": -85.9653498,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/784312195",
+      "nombre": "Trillo Santa Rosa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9257076,
+      "longitud": -85.9581785,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/963701225",
+      "nombre": "Villa Sandino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9469184,
+      "longitud": -85.9496636,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1120100106",
+      "nombre": "Barrio San Juan del Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9276191,
+      "longitud": -85.9436668,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1120100111",
+      "nombre": "Víctor M. G. Taleno",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9275771,
+      "longitud": -85.9470142,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1122261687",
+      "nombre": "Reparto Santa Julia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9205758,
+      "longitud": -85.966648,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123511201",
+      "nombre": "Villa Progreso",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9336044,
+      "longitud": -85.9478803,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123511206",
+      "nombre": "Brisa del Lago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9322374,
+      "longitud": -85.9475954,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123511207",
+      "nombre": "Sector La Carrilera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9347171,
+      "longitud": -85.9445115,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123511309",
+      "nombre": "Reparto Santa Rosa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9371815,
+      "longitud": -85.945353,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123511310",
+      "nombre": "Reparto Silvio Ruiz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9347672,
+      "longitud": -85.9458573,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123555499",
+      "nombre": "Reparto Germán Pomares",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9290697,
+      "longitud": -85.9465499,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123555501",
+      "nombre": "Barrio Cuiscoma",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9268023,
+      "longitud": -85.9499617,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123555503",
+      "nombre": "Caritas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9227504,
+      "longitud": -85.9522362,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123555505",
+      "nombre": "Eddy Ruiz I, II, III",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9237372,
+      "longitud": -85.9504124,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123555656",
+      "nombre": "Carlos M. Marenco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9289228,
+      "longitud": -85.9433313,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123555657",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9292587,
+      "longitud": -85.9457346,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573608",
+      "nombre": "Julián Quintana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9438493,
+      "longitud": -85.9516569,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573610",
+      "nombre": "Carlos Núñez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9457807,
+      "longitud": -85.9462281,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573612",
+      "nombre": "Claudia Chamorro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9469143,
+      "longitud": -85.9464212,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573614",
+      "nombre": "Villa Walter Ferretí",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.947901,
+      "longitud": -85.9467216,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573615",
+      "nombre": "Emer Gómez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9434776,
+      "longitud": -85.949654,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573627",
+      "nombre": "Reparto Juna de Dios Pilarte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9357119,
+      "longitud": -85.949033,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573628",
+      "nombre": "Colonia Campanero",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9365016,
+      "longitud": -85.9530516,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573629",
+      "nombre": "Barrio José Antonio Urbina",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9338144,
+      "longitud": -85.9508629,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573630",
+      "nombre": "Calle Corral",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9324918,
+      "longitud": -85.9494897,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573631",
+      "nombre": "Reparto Bartolomé Nº 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9452559,
+      "longitud": -85.9534379,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1123573648",
+      "nombre": "San Ignacio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9138274,
+      "longitud": -85.9566565,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441546",
+      "nombre": "Calle Cementerio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9239053,
+      "longitud": -85.9631964,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441547",
+      "nombre": "Barrio La Ceiba",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.924627,
+      "longitud": -85.9607811,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441548",
+      "nombre": "Calle Tamarindo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9254248,
+      "longitud": -85.9625621,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441549",
+      "nombre": "Manuel A. Montiel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9257607,
+      "longitud": -85.9634848,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441550",
+      "nombre": "Sector Laguna",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9232623,
+      "longitud": -85.96945,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441551",
+      "nombre": "Calle Almendro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9336755,
+      "longitud": -85.9562321,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441552",
+      "nombre": "Calle Atravezada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9331301,
+      "longitud": -85.954726,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441554",
+      "nombre": "Calle Estrada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9276936,
+      "longitud": -85.9567897,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441557",
+      "nombre": "Granizo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9310722,
+      "longitud": -85.9670682,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441558",
+      "nombre": "Blanca Aráuz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9297076,
+      "longitud": -85.9683771,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441559",
+      "nombre": "Calle Loquera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9293087,
+      "longitud": -85.9650941,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441560",
+      "nombre": "Calle Consulado",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9297286,
+      "longitud": -85.961618,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441561",
+      "nombre": "Barrio La Pólvora",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.928385,
+      "longitud": -85.9656305,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441575",
+      "nombre": "Calle Inmaculada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9362368,
+      "longitud": -85.9568973,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441577",
+      "nombre": "Sector Guapinol",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9357688,
+      "longitud": -85.9615018,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441578",
+      "nombre": "La Otra Bandita",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.935544,
+      "longitud": -85.9589357,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441604",
+      "nombre": "Calle Carazo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9384201,
+      "longitud": -85.9497519,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441607",
+      "nombre": "Barrio 17 de Julio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9356069,
+      "longitud": -85.9524126,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441610",
+      "nombre": "Sector Hielera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9368246,
+      "longitud": -85.9478636,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441614",
+      "nombre": "Calle Santa Lucía",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9343683,
+      "longitud": -85.9531636,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441616",
+      "nombre": "Reparto Guzmán",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.935271,
+      "longitud": -85.9537859,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441644",
+      "nombre": "Barrio 22 de Agosto",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9379372,
+      "longitud": -85.9526916,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441645",
+      "nombre": "Santa Emilia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9396377,
+      "longitud": -85.9513826,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441646",
+      "nombre": "Villa Cocibolca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9399042,
+      "longitud": -85.9493372,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441647",
+      "nombre": "Sector Miralago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9401206,
+      "longitud": -85.9458466,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441649",
+      "nombre": "Nuevo Amanecer",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9415616,
+      "longitud": -85.9514698,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441650",
+      "nombre": "Reparto Bartolomé Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9411702,
+      "longitud": -85.9539576,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441651",
+      "nombre": "La Estación",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9383781,
+      "longitud": -85.9561677,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441652",
+      "nombre": "Ermita El Socorro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9427867,
+      "longitud": -85.9576483,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441653",
+      "nombre": "Cent. Destilatorio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.941842,
+      "longitud": -85.9562106,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441654",
+      "nombre": "Marginé",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9477621,
+      "longitud": -85.9538074,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441655",
+      "nombre": "Villa Tepetate",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.941947,
+      "longitud": -85.9498591,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441656",
+      "nombre": "Pancasán",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9452009,
+      "longitud": -85.9640856,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441657",
+      "nombre": "María Elena Sunsín",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9477831,
+      "longitud": -85.9588499,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132441658",
+      "nombre": "Leonora",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9455788,
+      "longitud": -85.9570046,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460546",
+      "nombre": "Santa Julia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9181606,
+      "longitud": -85.9656949,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460553",
+      "nombre": "Calle Palmira",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9213728,
+      "longitud": -85.9556527,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460558",
+      "nombre": "Sector C. Asese",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9198297,
+      "longitud": -85.9542365,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460560",
+      "nombre": "Reparto Adelita I, II",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.915998,
+      "longitud": -85.9556527,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460578",
+      "nombre": "Sector El Parque",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9309463,
+      "longitud": -85.9542043,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460589",
+      "nombre": "Calle Arsenal",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9307888,
+      "longitud": -85.9487648,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460590",
+      "nombre": "Sector Cruz Roja",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9309253,
+      "longitud": -85.9476383,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460595",
+      "nombre": "Calle Nueva",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9238742,
+      "longitud": -85.9561489,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460622",
+      "nombre": "Sector Palmira",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9254322,
+      "longitud": -85.955773,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460628",
+      "nombre": "La Bolsa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9257435,
+      "longitud": -85.9548159,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460630",
+      "nombre": "Rampa Majulia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9258027,
+      "longitud": -85.9566827,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460631",
+      "nombre": "Sector El Mercado",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9269364,
+      "longitud": -85.9545584,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460635",
+      "nombre": "Calle Morazán",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9279441,
+      "longitud": -85.9526916,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460668",
+      "nombre": "Co. La Merced",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9292667,
+      "longitud": -85.9572674,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460672",
+      "nombre": "Sector Comercio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9291198,
+      "longitud": -85.9546228,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132460682",
+      "nombre": "Calle Concepción",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9269317,
+      "longitud": -85.9557294,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1132490499",
+      "nombre": "El Barillal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9116863,
+      "longitud": -85.9766102,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1658387005",
+      "nombre": "El Paso de Panaloya",
+      "tipo_localidad": "village",
+      "latitud": 12.1137413,
+      "longitud": -85.8862158,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1658387008",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "village",
+      "latitud": 12.1352071,
+      "longitud": -85.8374509,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1658387020",
+      "nombre": "Malacatoya",
+      "tipo_localidad": "village",
+      "latitud": 12.1470975,
+      "longitud": -85.8394976,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1658387021",
+      "nombre": "Tepalón",
+      "tipo_localidad": "village",
+      "latitud": 12.1357918,
+      "longitud": -85.808403,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1658399621",
+      "nombre": "Los Cocos",
+      "tipo_localidad": "village",
+      "latitud": 12.0877759,
+      "longitud": -85.8954514,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1720544483",
+      "nombre": "Diriá",
+      "tipo_localidad": "town",
+      "latitud": 11.8863902,
+      "longitud": -86.0559548,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1721621699",
+      "nombre": "Diriomo",
+      "tipo_localidad": "town",
+      "latitud": 11.8746151,
+      "longitud": -86.0509984,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/1818348491",
+      "nombre": "Puerto de Asese",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8986478,
+      "longitud": -85.9298747,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2810197459",
+      "nombre": "El Guayabo",
+      "tipo_localidad": "village",
+      "latitud": 12.0425209,
+      "longitud": -85.9199654,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2810197460",
+      "nombre": "El Hatillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0571443,
+      "longitud": -85.9128251,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2810197473",
+      "nombre": "Osagay",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0837881,
+      "longitud": -85.9016935,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2894568291",
+      "nombre": "El Agua Agria",
+      "tipo_localidad": "village",
+      "latitud": 11.7791948,
+      "longitud": -85.9813328,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2894568292",
+      "nombre": "Charco Muerto",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.794628,
+      "longitud": -85.8934214,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2894568293",
+      "nombre": "El Guacual",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7985299,
+      "longitud": -85.9246972,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2894568297",
+      "nombre": "San José de Mombacho",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7863516,
+      "longitud": -85.8970808,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2894568298",
+      "nombre": "San Juan de Mombacho",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7854165,
+      "longitud": -85.9373828,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2896352845",
+      "nombre": "El Coyolar",
+      "tipo_localidad": "village",
+      "latitud": 11.8336095,
+      "longitud": -86.0563455,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2896352846",
+      "nombre": "El Encanto",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8137702,
+      "longitud": -86.077068,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2896352847",
+      "nombre": "La Barranca",
+      "tipo_localidad": "village",
+      "latitud": 11.7983079,
+      "longitud": -86.0405259,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/2896352848",
+      "nombre": "La Granadilla",
+      "tipo_localidad": "village",
+      "latitud": 11.8076123,
+      "longitud": -86.0256854,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/3108656594",
+      "nombre": "Barrio San Caralimpio",
+      "tipo_localidad": "village",
+      "latitud": 11.8111375,
+      "longitud": -86.0425537,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/3554867020",
+      "nombre": "Cebadilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6443087,
+      "longitud": -86.0293453,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/3554867396",
+      "nombre": "El Tamagàs",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6316293,
+      "longitud": -86.1170974,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/3554867399",
+      "nombre": "El Descanso",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6083869,
+      "longitud": -86.0694922,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/3554867470",
+      "nombre": "El Jabillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6581504,
+      "longitud": -86.1250045,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/3554867472",
+      "nombre": "La Jabalina",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.633059,
+      "longitud": -86.0432995,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/3554867484",
+      "nombre": "San Jacinto",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6559852,
+      "longitud": -86.0702214,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4008538211",
+      "nombre": "Puerto El Rayo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8827371,
+      "longitud": -85.8964284,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4082283096",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.211525,
+      "longitud": -85.889892,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4082283098",
+      "nombre": "La Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2063395,
+      "longitud": -85.8725382,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4082283100",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1683293,
+      "longitud": -85.8530975,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4082283101",
+      "nombre": "La Trinidad Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1900119,
+      "longitud": -85.84813,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4082283105",
+      "nombre": "Santa María",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2139001,
+      "longitud": -85.9001487,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4086564744",
+      "nombre": "Santa Ana-Los Malacos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.008222,
+      "longitud": -85.9620189,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4087166148",
+      "nombre": "Punta de Agua",
+      "tipo_localidad": "village",
+      "latitud": 12.1315069,
+      "longitud": -85.853542,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4088588915",
+      "nombre": "Aguas Viva",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1174416,
+      "longitud": -85.8835151,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4088588919",
+      "nombre": "Las Tapias",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1328136,
+      "longitud": -85.8664431,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4088588920",
+      "nombre": "Los Puentes de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1346256,
+      "longitud": -85.8570983,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4089096620",
+      "nombre": "Cauloa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9924695,
+      "longitud": -85.9380099,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4089096623",
+      "nombre": "Fortín I",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9661581,
+      "longitud": -85.969212,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4089096624",
+      "nombre": "Fortín II",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9749874,
+      "longitud": -85.9660979,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4089096626",
+      "nombre": "La Calzada",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9795411,
+      "longitud": -85.9413948,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4089096629",
+      "nombre": "Obregón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9565648,
+      "longitud": -85.9635713,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4089242051",
+      "nombre": "Los Capulines",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.111536,
+      "longitud": -85.8498311,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4166521840",
+      "nombre": "Las Cañas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7118983,
+      "longitud": -85.8165974,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4166521846",
+      "nombre": "El Terrón Colorado",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7055818,
+      "longitud": -85.8760513,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4166521847",
+      "nombre": "La Guinea",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7148556,
+      "longitud": -85.8256633,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4166521848",
+      "nombre": "La Perra",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.764502,
+      "longitud": -85.8442363,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4166521853",
+      "nombre": "San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7133874,
+      "longitud": -85.8753352,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4166521854",
+      "nombre": "San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.770783,
+      "longitud": -85.8619871,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4177314327",
+      "nombre": "Tercera Entrada Diria",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8801899,
+      "longitud": -86.0512972,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4177318198",
+      "nombre": "Segunda Entrada Diria",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8809591,
+      "longitud": -86.0535518,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/4177319174",
+      "nombre": "Empalme Diriomo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8808727,
+      "longitud": -86.0534719,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/5029634521",
+      "nombre": "El Esfuerzo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9384579,
+      "longitud": -85.9596289,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/5283209329",
+      "nombre": "Betania",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6201597,
+      "longitud": -86.0264257,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/5286253692",
+      "nombre": "Mata de Caña",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7035247,
+      "longitud": -86.1178241,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/5342932240",
+      "nombre": "El Pilón",
+      "tipo_localidad": "village",
+      "latitud": 11.6473566,
+      "longitud": -85.9963762,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/5927140016",
+      "nombre": "San Blás",
+      "tipo_localidad": "village",
+      "latitud": 11.9860734,
+      "longitud": -85.9844246,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/9581572817",
+      "nombre": "El Pochote",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9405763,
+      "longitud": -85.9601458,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/10236000972",
+      "nombre": "Las Enramadas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6704694,
+      "longitud": -85.9841645,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/10236034412",
+      "nombre": "Dolores",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7321047,
+      "longitud": -85.9349943,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11063869011",
+      "nombre": "Escalante",
+      "tipo_localidad": "village",
+      "latitud": 11.6083779,
+      "longitud": -86.0437171,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11112926489",
+      "nombre": "Escalantillo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.6088676,
+      "longitud": -86.0474861,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11112926490",
+      "nombre": "Miravalle",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6128555,
+      "longitud": -86.0329869,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11208532003",
+      "nombre": "San Antonio de Tepeyac",
+      "tipo_localidad": "village",
+      "latitud": 11.8682434,
+      "longitud": -86.0034228,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11208532794",
+      "nombre": "Valle La Laguna",
+      "tipo_localidad": "village",
+      "latitud": 11.9420448,
+      "longitud": -85.9924203,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11208532795",
+      "nombre": "El Capulín",
+      "tipo_localidad": "village",
+      "latitud": 11.972562,
+      "longitud": -86.0051742,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11208532796",
+      "nombre": "Santa María",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9581146,
+      "longitud": -85.988794,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11208532803",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9598701,
+      "longitud": -85.9944588,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11208532809",
+      "nombre": "Santa Cecilia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9699644,
+      "longitud": -85.9722179,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11208532819",
+      "nombre": "Buenavista",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9782663,
+      "longitud": -85.9779579,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11209083566",
+      "nombre": "Aseses",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9036454,
+      "longitud": -85.9357479,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11209083606",
+      "nombre": "La Fuente",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8795563,
+      "longitud": -85.9982032,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11209083609",
+      "nombre": "San Antonio de Tepeyac Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8648468,
+      "longitud": -85.9832901,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11211112159",
+      "nombre": "Barrio Posintepe",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9081123,
+      "longitud": -85.9480941,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11211112182",
+      "nombre": "El Diamante",
+      "tipo_localidad": "village",
+      "latitud": 11.9061019,
+      "longitud": -85.9064984,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11211112183",
+      "nombre": "El Gorrión",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8981128,
+      "longitud": -85.9086764,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11211112184",
+      "nombre": "Costa El Mangal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8983752,
+      "longitud": -85.9135097,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11222707267",
+      "nombre": "Barrio La Orilla",
+      "tipo_localidad": "village",
+      "latitud": 11.7846232,
+      "longitud": -86.0402334,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11222707329",
+      "nombre": "Héroes de Pancasán",
+      "tipo_localidad": "village",
+      "latitud": 11.7885774,
+      "longitud": -86.0144305,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11222721570",
+      "nombre": "Cuatro Esquinas",
+      "tipo_localidad": "village",
+      "latitud": 11.7653415,
+      "longitud": -86.0221058,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11222930853",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.824331,
+      "longitud": -86.0864211,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11222930863",
+      "nombre": "Playas Verdes",
+      "tipo_localidad": "village",
+      "latitud": 11.8238059,
+      "longitud": -86.0676509,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11222930950",
+      "nombre": "La Ilusión",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7908407,
+      "longitud": -86.0431677,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11222930953",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "village",
+      "latitud": 11.7767014,
+      "longitud": -86.0540199,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669846",
+      "nombre": "El Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6702251,
+      "longitud": -86.1102015,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669847",
+      "nombre": "La Camaroncita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6690328,
+      "longitud": -86.0872559,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669851",
+      "nombre": "Los Castillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6669626,
+      "longitud": -86.0437578,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669880",
+      "nombre": "Nandarola",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6752474,
+      "longitud": -86.0392249,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669882",
+      "nombre": "El Contadero",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6784048,
+      "longitud": -86.0036669,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669888",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6983248,
+      "longitud": -86.0376477,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669895",
+      "nombre": "El Manchón",
+      "tipo_localidad": "village",
+      "latitud": 11.7319524,
+      "longitud": -86.0157502,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669905",
+      "nombre": "Candelaria",
+      "tipo_localidad": "village",
+      "latitud": 11.7410782,
+      "longitud": -86.047462,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669907",
+      "nombre": "La Gran China",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.76368,
+      "longitud": -86.0544384,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669908",
+      "nombre": "Santa Juana de Praga",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7805376,
+      "longitud": -86.0626459,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669909",
+      "nombre": "Santa Julia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7885669,
+      "longitud": -86.0696948,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669910",
+      "nombre": "La Concepción",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.774677,
+      "longitud": -86.0736537,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223669912",
+      "nombre": "San Francisco",
+      "tipo_localidad": "village",
+      "latitud": 11.7781534,
+      "longitud": -86.0404372,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674837",
+      "nombre": "Santa Inés",
+      "tipo_localidad": "village",
+      "latitud": 11.7685851,
+      "longitud": -86.0423201,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674838",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.7747294,
+      "longitud": -86.0508388,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674839",
+      "nombre": "La Breña",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.780254,
+      "longitud": -86.0509998,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674840",
+      "nombre": "San Gregorio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7845497,
+      "longitud": -86.0556829,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674841",
+      "nombre": "Salinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.789029,
+      "longitud": -86.0619432,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674842",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7913028,
+      "longitud": -86.0678387,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674843",
+      "nombre": "La Chanchera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7932773,
+      "longitud": -86.0770011,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674844",
+      "nombre": "Comarca Monte Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7982291,
+      "longitud": -86.0791737,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674845",
+      "nombre": "Los Aburtos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.801511,
+      "longitud": -86.0750914,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674847",
+      "nombre": "San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.796617,
+      "longitud": -86.0902351,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674848",
+      "nombre": "Javier Guerra",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.7611171,
+      "longitud": -86.060071,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674857",
+      "nombre": "Río Chiquito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7480924,
+      "longitud": -86.0763949,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674858",
+      "nombre": "El Peludo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7341558,
+      "longitud": -86.0735338,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674859",
+      "nombre": "Valle Menier",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7157923,
+      "longitud": -86.082094,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674874",
+      "nombre": "Ricardo Morales Avilés",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7268155,
+      "longitud": -86.0822904,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674900",
+      "nombre": "Bernardino Díaz Ochoa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7149001,
+      "longitud": -86.0656983,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674902",
+      "nombre": "La Zorra",
+      "tipo_localidad": "village",
+      "latitud": 11.6908336,
+      "longitud": -86.0679103,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674903",
+      "nombre": "Valle El Guaramo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6965965,
+      "longitud": -86.1050034,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674904",
+      "nombre": "Las Campanas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6953039,
+      "longitud": -86.1190025,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674907",
+      "nombre": "La Pintada (Antonio Vega)",
+      "tipo_localidad": "village",
+      "latitud": 11.7144314,
+      "longitud": -86.0922801,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674932",
+      "nombre": "Río Medina",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7195992,
+      "longitud": -86.0909141,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11223674969",
+      "nombre": "Los Jirones",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7132218,
+      "longitud": -86.110636,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11226918872",
+      "nombre": "José Benito Escobar",
+      "tipo_localidad": "village",
+      "latitud": 11.8333619,
+      "longitud": -86.0337479,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11226918874",
+      "nombre": "Pedro Aráuz Palacios",
+      "tipo_localidad": "village",
+      "latitud": 11.8213224,
+      "longitud": -86.0152996,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11226918876",
+      "nombre": "Casa de Tejas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8283477,
+      "longitud": -86.0095275,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11226918879",
+      "nombre": "Los Mollejones",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7737991,
+      "longitud": -86.0305968,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11228188101",
+      "nombre": "San Nicolàs",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6902035,
+      "longitud": -86.0152781,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11444828880",
+      "nombre": "Las Conchitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7515451,
+      "longitud": -86.035415,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11444828917",
+      "nombre": "El Arroyo",
+      "tipo_localidad": "village",
+      "latitud": 11.8042478,
+      "longitud": -86.0513741,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11444828958",
+      "nombre": "La Velatino",
+      "tipo_localidad": "village",
+      "latitud": 11.7979321,
+      "longitud": -86.0349544,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11445071977",
+      "nombre": "Praderas del Mombacho",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9018796,
+      "longitud": -85.9560584,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11445071978",
+      "nombre": "Punta El Paraíso",
+      "tipo_localidad": "village",
+      "latitud": 11.8926193,
+      "longitud": -85.9298579,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11471924824",
+      "nombre": "El Iguanero",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6828069,
+      "longitud": -85.9883112,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11471993961",
+      "nombre": "Mancarrón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6337895,
+      "longitud": -86.0126871,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11689054997",
+      "nombre": "Santa Teresa del Rempujón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2009089,
+      "longitud": -85.8635241,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11690938363",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "village",
+      "latitud": 12.1410714,
+      "longitud": -85.8376408,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11690963100",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1076623,
+      "longitud": -85.8482301,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11885141045",
+      "nombre": "Tepalón Sector 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1279347,
+      "longitud": -85.7990361,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11885141046",
+      "nombre": "Tepalón Sector 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1411307,
+      "longitud": -85.8103222,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11887127944",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0086856,
+      "longitud": -85.9603954,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11887127945",
+      "nombre": "Los Malacos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0074519,
+      "longitud": -85.9670976,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11887467304",
+      "nombre": "Ana Virgen Noble",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1317099,
+      "longitud": -85.850746,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11887467306",
+      "nombre": "Nuevo Amanecer",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1300067,
+      "longitud": -85.8513536,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11887860214",
+      "nombre": "La Jugera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.13836,
+      "longitud": -85.8489651,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11888019993",
+      "nombre": "El Tabacal",
+      "tipo_localidad": "village",
+      "latitud": 12.1490848,
+      "longitud": -85.8374262,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11889453528",
+      "nombre": "La Tila",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0729061,
+      "longitud": -85.901252,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11889453530",
+      "nombre": "Camino Real",
+      "tipo_localidad": "village",
+      "latitud": 12.0796573,
+      "longitud": -85.8985417,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11891363201",
+      "nombre": "Las Flores",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0291003,
+      "longitud": -85.9256601,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11897085008",
+      "nombre": "Reparto San Juan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9536748,
+      "longitud": -85.9865892,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11897112503",
+      "nombre": "Los Ángeles (Capulín Nº 2)",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9612529,
+      "longitud": -86.0071617,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/11953871673",
+      "nombre": "El Limonal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.757819,
+      "longitud": -85.9910041,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/12770631260",
+      "nombre": "Las Colinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8011959,
+      "longitud": -85.9757692,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/12770631265",
+      "nombre": "Poste Rojo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8549507,
+      "longitud": -86.0133254,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/12772125593",
+      "nombre": "Rolando Espinoza",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8571977,
+      "longitud": -86.0372829,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13015926482",
+      "nombre": "La Laguna Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9451884,
+      "longitud": -86.0151601,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13282343645",
+      "nombre": "Mira Valle",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.844671,
+      "longitud": -86.0161579,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13282343697",
+      "nombre": "San Antonio de Tepeyac Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8689049,
+      "longitud": -85.9977794,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13282343698",
+      "nombre": "San Antonio de Tepeyac Nº 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8603004,
+      "longitud": -86.0013789,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13282350730",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8777033,
+      "longitud": -86.0125423,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13282350742",
+      "nombre": "El Guapinol",
+      "tipo_localidad": "village",
+      "latitud": 11.8758659,
+      "longitud": -86.0198057,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13282350793",
+      "nombre": "Veracruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8860027,
+      "longitud": -86.0257977,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13287567951",
+      "nombre": "San Diego",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8450385,
+      "longitud": -86.0340428,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13289330345",
+      "nombre": "El Capulín Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9686892,
+      "longitud": -86.016646,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13289330364",
+      "nombre": "El Capulín Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9610168,
+      "longitud": -85.9921414,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13306932595",
+      "nombre": "Comarca La Laguna",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9552177,
+      "longitud": -86.0219193,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13306932596",
+      "nombre": "Santa Emilia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9691772,
+      "longitud": -86.0007191,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13307206050",
+      "nombre": "La Galera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8939239,
+      "longitud": -85.9621918,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13307240936",
+      "nombre": "Las Prusias",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9177387,
+      "longitud": -85.980514,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13307240937",
+      "nombre": "El Esfuerzo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9151773,
+      "longitud": -85.9876084,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13307241004",
+      "nombre": "Valle Escondido",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9134294,
+      "longitud": -85.9819275,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13307241031",
+      "nombre": "Valle Escondido",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9045429,
+      "longitud": -85.9840143,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13307241082",
+      "nombre": "El Hormigón",
+      "tipo_localidad": "village",
+      "latitud": 11.8996088,
+      "longitud": -85.9873456,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13307241159",
+      "nombre": "Santa Cruz de Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8958294,
+      "longitud": -85.9914655,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13427866883",
+      "nombre": "Santa María",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.865692,
+      "longitud": -86.0259318,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13427866884",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "village",
+      "latitud": 11.8595287,
+      "longitud": -86.0298157,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13427908013",
+      "nombre": "El Puentecito",
+      "tipo_localidad": "village",
+      "latitud": 11.8682749,
+      "longitud": -86.0357273,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13427908093",
+      "nombre": "Palo Quemado",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8678706,
+      "longitud": -86.0667819,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13427908139",
+      "nombre": "San Jorge",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8649308,
+      "longitud": -86.0548246,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13427908250",
+      "nombre": "La Rayuela",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8674979,
+      "longitud": -86.0444927,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13427908255",
+      "nombre": "Caña de Castilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8706425,
+      "longitud": -86.0264254,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13427908328",
+      "nombre": "Ricardo Rivera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8742306,
+      "longitud": -86.0338739,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13427942171",
+      "nombre": "La Concepción",
+      "tipo_localidad": "village",
+      "latitud": 11.8639701,
+      "longitud": -86.0182393,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13429913649",
+      "nombre": "Pochotillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8394155,
+      "longitud": -86.0615489,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13429913802",
+      "nombre": "Pila Volteada",
+      "tipo_localidad": "village",
+      "latitud": 11.8407648,
+      "longitud": -86.029821,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13429913843",
+      "nombre": "Santa Lastenia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8352572,
+      "longitud": -86.0246792,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13429913846",
+      "nombre": "San Diego",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8462986,
+      "longitud": -86.043452,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13429913847",
+      "nombre": "El Socorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8512022,
+      "longitud": -86.0476417,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13429913857",
+      "nombre": "Santa Julia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8465663,
+      "longitud": -86.0253686,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13429913858",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8499002,
+      "longitud": -86.0235125,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13429913877",
+      "nombre": "Los Castellón",
+      "tipo_localidad": "village",
+      "latitud": 11.8369321,
+      "longitud": -86.0417783,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13429913983",
+      "nombre": "El Guanacaste",
+      "tipo_localidad": "village",
+      "latitud": 11.8526932,
+      "longitud": -86.0227776,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13430701026",
+      "nombre": "Guacamol",
+      "tipo_localidad": "village",
+      "latitud": 11.8238374,
+      "longitud": -86.0226274,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13430701117",
+      "nombre": "La Escoba",
+      "tipo_localidad": "village",
+      "latitud": 11.8277124,
+      "longitud": -86.0157395,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13430701181",
+      "nombre": "Guillermo Roncales Chamorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8224145,
+      "longitud": -86.0318917,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13431185585",
+      "nombre": "San Pedro",
+      "tipo_localidad": "village",
+      "latitud": 11.8619174,
+      "longitud": -86.0725433,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13431201352",
+      "nombre": "La Zopilota",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8737398,
+      "longitud": -86.0803995,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13431299206",
+      "nombre": "Los Jirones Nº 1",
+      "tipo_localidad": "village",
+      "latitud": 11.8519897,
+      "longitud": -86.079694,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13431299269",
+      "nombre": "El Arroyo",
+      "tipo_localidad": "village",
+      "latitud": 11.8384442,
+      "longitud": -86.0868287,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13431299275",
+      "nombre": "Los Jirones",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8486539,
+      "longitud": -86.0742753,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13431299404",
+      "nombre": "Palo Quemado Nº 1",
+      "tipo_localidad": "village",
+      "latitud": 11.8568984,
+      "longitud": -86.0632736,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13567575116",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6570121,
+      "longitud": -86.1158127,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13567896894",
+      "nombre": "Periamo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6902508,
+      "longitud": -86.0367063,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13568196576",
+      "nombre": "San Carlos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7665973,
+      "longitud": -86.068579,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13568196580",
+      "nombre": "Los Acevedo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7615005,
+      "longitud": -86.0686219,
+      "departamento": "Granada"
+    },
+    {
+      "osm_id": "node/13568414724",
+      "nombre": "Los Ranchones",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.784098,
+      "longitud": -86.0063088,
+      "departamento": "Granada"
+    }
+  ]
+}

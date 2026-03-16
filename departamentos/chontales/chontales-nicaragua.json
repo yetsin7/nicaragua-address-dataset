@@ -1,0 +1,1662 @@
+{
+  "departamento": "Chontales",
+  "total_registros": 207,
+  "lugares": [
+    {
+      "osm_id": "node/302367892",
+      "nombre": "Acoyapa",
+      "tipo_localidad": "town",
+      "latitud": 11.9704211,
+      "longitud": -85.1719031,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/304202993",
+      "nombre": "La Palma",
+      "tipo_localidad": "village",
+      "latitud": 12.0304955,
+      "longitud": -85.2628874,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/304247222",
+      "nombre": "La Libertad",
+      "tipo_localidad": "town",
+      "latitud": 12.2162259,
+      "longitud": -85.1658282,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/304247329",
+      "nombre": "Santo Domingo",
+      "tipo_localidad": "town",
+      "latitud": 12.2632524,
+      "longitud": -85.0827554,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/304326330",
+      "nombre": "Santo Tomás",
+      "tipo_localidad": "town",
+      "latitud": 12.0684356,
+      "longitud": -85.0899623,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/304327799",
+      "nombre": "Villa Sandino",
+      "tipo_localidad": "town",
+      "latitud": 12.0500287,
+      "longitud": -84.9929383,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/304334945",
+      "nombre": "La Gateada",
+      "tipo_localidad": "village",
+      "latitud": 11.9990398,
+      "longitud": -84.7786624,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/304335835",
+      "nombre": "El Coral",
+      "tipo_localidad": "town",
+      "latitud": 11.9207668,
+      "longitud": -84.649159,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/304338485",
+      "nombre": "San Pedro de Lóvago",
+      "tipo_localidad": "town",
+      "latitud": 12.1298843,
+      "longitud": -85.1147636,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/308747680",
+      "nombre": "El Cebollin",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3234042,
+      "longitud": -85.6070401,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2712610385",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2741396,
+      "longitud": -85.3884559,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2712610386",
+      "nombre": "Cuapa",
+      "tipo_localidad": "town",
+      "latitud": 12.2688057,
+      "longitud": -85.3824821,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2712610387",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2173824,
+      "longitud": -85.4337248,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2712610388",
+      "nombre": "Llano Grande",
+      "tipo_localidad": "village",
+      "latitud": 12.2237742,
+      "longitud": -85.422407,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2712610389",
+      "nombre": "Palo Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2482107,
+      "longitud": -85.3984943,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2713069724",
+      "nombre": "El Hatillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9542098,
+      "longitud": -85.3658361,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2713069728",
+      "nombre": "Hato Grande",
+      "tipo_localidad": "village",
+      "latitud": 11.9891818,
+      "longitud": -85.4316846,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2713069739",
+      "nombre": "Puerto Díaz",
+      "tipo_localidad": "village",
+      "latitud": 11.9646143,
+      "longitud": -85.5122358,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2713069743",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0656708,
+      "longitud": -85.3041625,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2713083698",
+      "nombre": "El Quebrachito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0761602,
+      "longitud": -85.4569047,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2713083703",
+      "nombre": "El Cóbano Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0659606,
+      "longitud": -85.4034638,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2714401404",
+      "nombre": "Colonia Río Rama",
+      "tipo_localidad": "village",
+      "latitud": 11.8812405,
+      "longitud": -84.6882505,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2714753601",
+      "nombre": "El Cedral",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2210727,
+      "longitud": -85.6384175,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2714753614",
+      "nombre": "San Patricio",
+      "tipo_localidad": "village",
+      "latitud": 12.1915359,
+      "longitud": -85.606513,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2714753616",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1751139,
+      "longitud": -85.5556644,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2722361096",
+      "nombre": "Apompuà",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0474058,
+      "longitud": -85.2866234,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2722361097",
+      "nombre": "Cuisalà",
+      "tipo_localidad": "village",
+      "latitud": 12.1530149,
+      "longitud": -85.5132587,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2722361099",
+      "nombre": "El Lajero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0754111,
+      "longitud": -85.3157843,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2722361100",
+      "nombre": "El Naranjito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1338549,
+      "longitud": -85.4182374,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2722361101",
+      "nombre": "Las Laijtas",
+      "tipo_localidad": "village",
+      "latitud": 12.1292063,
+      "longitud": -85.408055,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2722361102",
+      "nombre": "Puertas de París",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.136752,
+      "longitud": -85.1685679,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2722361103",
+      "nombre": "San Esteban",
+      "tipo_localidad": "village",
+      "latitud": 12.1327168,
+      "longitud": -85.4605799,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2722361104",
+      "nombre": "San Juan",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0692957,
+      "longitud": -85.2374929,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2729177297",
+      "nombre": "Matayagual",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3159371,
+      "longitud": -85.3469743,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2729183135",
+      "nombre": "San Marcos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3206125,
+      "longitud": -85.3575641,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2732299177",
+      "nombre": "El Chilamate",
+      "tipo_localidad": "village",
+      "latitud": 11.9991602,
+      "longitud": -84.740907,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2734099419",
+      "nombre": "San Francisco del Camalote",
+      "tipo_localidad": "village",
+      "latitud": 12.236371,
+      "longitud": -85.2596901,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2735267238",
+      "nombre": "Aguas Calientes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1528444,
+      "longitud": -85.3736028,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2737009945",
+      "nombre": "Agüehüito",
+      "tipo_localidad": "village",
+      "latitud": 12.1836474,
+      "longitud": -85.5922861,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2737009953",
+      "nombre": "El Pochote",
+      "tipo_localidad": "village",
+      "latitud": 12.3199662,
+      "longitud": -85.5898687,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2737009955",
+      "nombre": "Espíritu Santo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2764373,
+      "longitud": -85.6100327,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2737009957",
+      "nombre": "Los Brasiles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2690636,
+      "longitud": -85.6258704,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2773636390",
+      "nombre": "Juigalpa",
+      "tipo_localidad": "city",
+      "latitud": 12.1085987,
+      "longitud": -85.3689381,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2810197440",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0527825,
+      "longitud": -85.6176764,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2810205731",
+      "nombre": "Francisco Rugama (Santa Isabel)",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0932318,
+      "longitud": -85.6685369,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2843163351",
+      "nombre": "Fertimar",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9791961,
+      "longitud": -85.4585149,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889304631",
+      "nombre": "Betulia",
+      "tipo_localidad": "village",
+      "latitud": 12.3222431,
+      "longitud": -85.2232872,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889304633",
+      "nombre": "Bulún",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.214122,
+      "longitud": -84.908866,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889304663",
+      "nombre": "El Escándalo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2720801,
+      "longitud": -85.1096668,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889304676",
+      "nombre": "La Montañita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.25,
+      "longitud": -85.066667,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889304689",
+      "nombre": "Los Morenos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.168932,
+      "longitud": -84.980572,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889304690",
+      "nombre": "El Potrerillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3297721,
+      "longitud": -85.5496111,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889304694",
+      "nombre": "Palmira",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.403767,
+      "longitud": -85.023525,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889305006",
+      "nombre": "San Gregorio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2832408,
+      "longitud": -85.085914,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889305011",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.285406,
+      "longitud": -85.015471,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889305017",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.242975,
+      "longitud": -85.112272,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2889305024",
+      "nombre": "Tapalwás",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3875311,
+      "longitud": -84.8854075,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2971682157",
+      "nombre": "Medio Mundo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9956036,
+      "longitud": -84.7183653,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2971682158",
+      "nombre": "El Chilamate",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9965728,
+      "longitud": -84.7353281,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2971682170",
+      "nombre": "La Curva",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9928486,
+      "longitud": -84.7608481,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2971682178",
+      "nombre": "Caño Sucio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9395448,
+      "longitud": -84.681812,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/2971682182",
+      "nombre": "Comarca El Trago",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9613913,
+      "longitud": -84.6711912,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/4196260635",
+      "nombre": "La Cuesta",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9122872,
+      "longitud": -84.7376357,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/4841814821",
+      "nombre": "La Horqueta",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7377305,
+      "longitud": -85.1851746,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/4886139865",
+      "nombre": "Comalapa",
+      "tipo_localidad": "town",
+      "latitud": 12.2842665,
+      "longitud": -85.5108866,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/5120115777",
+      "nombre": "Los Chinamos",
+      "tipo_localidad": "village",
+      "latitud": 12.3955158,
+      "longitud": -84.9784588,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/5173574990",
+      "nombre": "Los Santos",
+      "tipo_localidad": "village",
+      "latitud": 11.8585738,
+      "longitud": -84.6325938,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/6340790642",
+      "nombre": "Paso de Lajas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9126655,
+      "longitud": -84.671329,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/6347980990",
+      "nombre": "El Conejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9022322,
+      "longitud": -84.75446,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/6348434778",
+      "nombre": "Salto Grande",
+      "tipo_localidad": "village",
+      "latitud": 11.8923299,
+      "longitud": -84.6482119,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/10958583059",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.885783,
+      "longitud": -84.5521524,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/10958583061",
+      "nombre": "El Granadino",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8932001,
+      "longitud": -84.5820829,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/10958583073",
+      "nombre": "El Fósforo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.90097,
+      "longitud": -84.5888451,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/10958583075",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8910736,
+      "longitud": -84.6088243,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/10958583082",
+      "nombre": "Mokorón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.844361,
+      "longitud": -84.6222591,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11005925899",
+      "nombre": "Muhan",
+      "tipo_localidad": "village",
+      "latitud": 11.9942028,
+      "longitud": -84.8693151,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11005925902",
+      "nombre": "Dolores",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9973774,
+      "longitud": -84.845835,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11005925903",
+      "nombre": "Rancho Alegre",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.999088,
+      "longitud": -84.8315335,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11005925904",
+      "nombre": "Los Millones",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9899052,
+      "longitud": -84.8247314,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11005925906",
+      "nombre": "La Fortuna",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.994738,
+      "longitud": -84.7951413,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11005925912",
+      "nombre": "Quinamita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9954359,
+      "longitud": -84.9057985,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11005925913",
+      "nombre": "Quinama",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.996707,
+      "longitud": -84.9358899,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11051888856",
+      "nombre": "Los Cedros",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8492386,
+      "longitud": -85.3181613,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11061560665",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7859727,
+      "longitud": -84.9593085,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11308479134",
+      "nombre": "Monte Negro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.757987,
+      "longitud": -84.9916881,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11345661545",
+      "nombre": "San Cayetano",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2542221,
+      "longitud": -85.0879527,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11345703177",
+      "nombre": "Santa Marta",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2350979,
+      "longitud": -85.0160212,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11345703198",
+      "nombre": "El Tamagàs",
+      "tipo_localidad": "village",
+      "latitud": 12.2720187,
+      "longitud": -85.0845838,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11345703203",
+      "nombre": "La Estrella",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2714264,
+      "longitud": -85.0737047,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11345703240",
+      "nombre": "La Chispa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2722927,
+      "longitud": -85.1025573,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11345703252",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3332048,
+      "longitud": -85.1535649,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11345787264",
+      "nombre": "Kinuma",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1773814,
+      "longitud": -85.1729116,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11345787269",
+      "nombre": "El Copelito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1740726,
+      "longitud": -85.2221865,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11345787394",
+      "nombre": "San Antonio del Coco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1987224,
+      "longitud": -85.1383782,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11360441257",
+      "nombre": "El Divisadero",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2650942,
+      "longitud": -85.0741634,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11360875378",
+      "nombre": "Aserradera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2520256,
+      "longitud": -85.1024526,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11360875379",
+      "nombre": "Grupera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2582009,
+      "longitud": -85.0845811,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11360952486",
+      "nombre": "La Bola",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2122472,
+      "longitud": -85.1599431,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11367878696",
+      "nombre": "La Vainilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0091152,
+      "longitud": -85.2381725,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11367878697",
+      "nombre": "Monte Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0168335,
+      "longitud": -85.2485848,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11367878772",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0241265,
+      "longitud": -85.1647711,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11367878991",
+      "nombre": "San Bartolo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1041638,
+      "longitud": -85.216527,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11367878992",
+      "nombre": "Los Limones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1043736,
+      "longitud": -85.2016139,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11368506012",
+      "nombre": "Tierra Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0183026,
+      "longitud": -85.1251281,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11368506078",
+      "nombre": "Lóvago",
+      "tipo_localidad": "village",
+      "latitud": 12.0060981,
+      "longitud": -85.162915,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11369749656",
+      "nombre": "Mollejones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.090332,
+      "longitud": -85.027104,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11369860125",
+      "nombre": "San Vicente",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0221117,
+      "longitud": -85.0696653,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11373128249",
+      "nombre": "El Desprecio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1991629,
+      "longitud": -85.2010453,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11373129506",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.053134,
+      "longitud": -85.1191628,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11373129514",
+      "nombre": "Los Bajos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.001764,
+      "longitud": -85.2026439,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11373129612",
+      "nombre": "El Empalme",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1241418,
+      "longitud": -85.1349369,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11373185426",
+      "nombre": "La Cusuca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1599717,
+      "longitud": -85.0672782,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11384746335",
+      "nombre": "Las Caobas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.161655,
+      "longitud": -84.9029285,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11384785967",
+      "nombre": "Las Peñitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0720773,
+      "longitud": -84.9237478,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11405273077",
+      "nombre": "Hamacas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0228883,
+      "longitud": -84.9549365,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11405273797",
+      "nombre": "Aguaguito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0464661,
+      "longitud": -84.983486,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11405273810",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0247089,
+      "longitud": -84.759484,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11405273812",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0432659,
+      "longitud": -84.7577781,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11405274179",
+      "nombre": "El Eslabón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1233761,
+      "longitud": -84.889555,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11405711738",
+      "nombre": "El Guabo",
+      "tipo_localidad": "village",
+      "latitud": 12.224796,
+      "longitud": -84.8168671,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11408833662",
+      "nombre": "Waterloo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9793886,
+      "longitud": -85.4753757,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11408833663",
+      "nombre": "Guapinolapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9837626,
+      "longitud": -85.4823792,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11408839475",
+      "nombre": "Quintana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9652414,
+      "longitud": -85.322367,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11408839501",
+      "nombre": "La Altura Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9731942,
+      "longitud": -85.3614962,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11410896927",
+      "nombre": "El Guásimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8338847,
+      "longitud": -85.2488976,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11410925959",
+      "nombre": "Las Tejas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8868321,
+      "longitud": -85.3776393,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11410925994",
+      "nombre": "San José de Los Gómez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.885137,
+      "longitud": -85.2967663,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11421784679",
+      "nombre": "Cañas Gordas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.890092,
+      "longitud": -85.4025864,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11421784790",
+      "nombre": "Pikín Guerrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9179911,
+      "longitud": -85.356569,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11421784793",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9815813,
+      "longitud": -85.3501534,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11421852879",
+      "nombre": "Las Canoas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9082583,
+      "longitud": -85.3235118,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11421852938",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9133559,
+      "longitud": -85.4284001,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11422975867",
+      "nombre": "Playa Polanco",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8387172,
+      "longitud": -85.3087869,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11423114767",
+      "nombre": "El Torno",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9733754,
+      "longitud": -85.1819989,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11425825885",
+      "nombre": "El Madroñal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9959003,
+      "longitud": -85.0319347,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11425826098",
+      "nombre": "El Jicarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9821022,
+      "longitud": -85.0622732,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11426979430",
+      "nombre": "San Felipe",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8530943,
+      "longitud": -85.1738699,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11427311491",
+      "nombre": "El Talpetate",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9640238,
+      "longitud": -85.1697815,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11427322014",
+      "nombre": "Agua Buena",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8628991,
+      "longitud": -85.127306,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11432799713",
+      "nombre": "Puertas Rojas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0016538,
+      "longitud": -84.838298,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11432828736",
+      "nombre": "Hojachigual",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0720143,
+      "longitud": -84.9865329,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11448929673",
+      "nombre": "El Areno Bulún",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2637601,
+      "longitud": -84.9128265,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11759453707",
+      "nombre": "Talpetate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2899174,
+      "longitud": -85.5885523,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11762580210",
+      "nombre": "El Socorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1718492,
+      "longitud": -85.5473721,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11762633034",
+      "nombre": "San Lorenzo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1829921,
+      "longitud": -85.5822301,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11762633051",
+      "nombre": "Espinas Blancas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2095889,
+      "longitud": -85.5665901,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11762633060",
+      "nombre": "Santa Efigenia",
+      "tipo_localidad": "village",
+      "latitud": 12.1931802,
+      "longitud": -85.6175011,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11763851321",
+      "nombre": "La Concepción",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2450602,
+      "longitud": -85.5305959,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11830424496",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3364525,
+      "longitud": -84.8567506,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11863342239",
+      "nombre": "El Camastro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3290018,
+      "longitud": -85.05067,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11931198924",
+      "nombre": "Tapalwás Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3788466,
+      "longitud": -84.9279615,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11931626482",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4527448,
+      "longitud": -84.8903231,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11950810823",
+      "nombre": "Güegüestepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.134348,
+      "longitud": -85.387786,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11950810824",
+      "nombre": "Las Lajitas Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1373059,
+      "longitud": -85.407806,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11965056650",
+      "nombre": "El Arrayán",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0263003,
+      "longitud": -85.5279954,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11965056667",
+      "nombre": "Ahmed Campos Corea (Santa Clara)",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0719618,
+      "longitud": -85.5465138,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11965077289",
+      "nombre": "La Eremita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1551471,
+      "longitud": -85.6287289,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11967608212",
+      "nombre": "El Llanito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1677642,
+      "longitud": -85.5021179,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11967608225",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.138048,
+      "longitud": -85.4794988,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11967608245",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1384597,
+      "longitud": -85.4963136,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11967608266",
+      "nombre": "San Nicolás",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1434943,
+      "longitud": -85.490638,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11967682489",
+      "nombre": "Santa Lidia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1489825,
+      "longitud": -85.4999641,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11968094063",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1019346,
+      "longitud": -85.4139429,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11968099072",
+      "nombre": "Santa María",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0961543,
+      "longitud": -85.4016101,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11968099098",
+      "nombre": "Belén",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0945702,
+      "longitud": -85.4137176,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11968099190",
+      "nombre": "San Miguelito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0688301,
+      "longitud": -85.4543477,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11969234129",
+      "nombre": "El Quebrantadero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1497508,
+      "longitud": -85.3290457,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11969234140",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1399753,
+      "longitud": -85.336985,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11969234161",
+      "nombre": "Paso de Lajas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1303096,
+      "longitud": -85.3530031,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11969239599",
+      "nombre": "San Diego",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1603237,
+      "longitud": -85.4219583,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11969948067",
+      "nombre": "Argelia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1274816,
+      "longitud": -85.3322494,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11970021363",
+      "nombre": "Piedras Grandes Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1623787,
+      "longitud": -85.2980654,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11970619108",
+      "nombre": "Poza Larga",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0979692,
+      "longitud": -85.2905613,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11970619217",
+      "nombre": "El Jicarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1201296,
+      "longitud": -85.3300166,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11970619232",
+      "nombre": "Piedras Grandes Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1232345,
+      "longitud": -85.3249553,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11971005038",
+      "nombre": "El Quebrachito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0017378,
+      "longitud": -85.4237384,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11971005076",
+      "nombre": "El Cóbano Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0329936,
+      "longitud": -85.3621809,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/11971005212",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0716576,
+      "longitud": -85.3094548,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12442795901",
+      "nombre": "Cusuca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5414938,
+      "longitud": -84.9319768,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12500785068",
+      "nombre": "El Granadino Sur",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8772465,
+      "longitud": -84.6007529,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12500817391",
+      "nombre": "Puente Río Rama",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8863879,
+      "longitud": -84.6429233,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12502901069",
+      "nombre": "San Pablo Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7506753,
+      "longitud": -85.0308093,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12503109430",
+      "nombre": "La Mina",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9975882,
+      "longitud": -85.4259693,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12505372227",
+      "nombre": "El Esquirín",
+      "tipo_localidad": "village",
+      "latitud": 12.2647403,
+      "longitud": -85.3749785,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12507866103",
+      "nombre": "El Tule",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2378922,
+      "longitud": -85.4453033,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12507866143",
+      "nombre": "El Coyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.225745,
+      "longitud": -85.4862177,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12507866154",
+      "nombre": "El Avispero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2310768,
+      "longitud": -85.4753816,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12507866177",
+      "nombre": "Los Horcones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2351713,
+      "longitud": -85.4695398,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12507874202",
+      "nombre": "Paso Real",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2498501,
+      "longitud": -85.4844475,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12507874237",
+      "nombre": "El Jicote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2573307,
+      "longitud": -85.4482269,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12508331186",
+      "nombre": "Santa Juana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.204684,
+      "longitud": -85.4198867,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12508334715",
+      "nombre": "El Tamarindo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1989426,
+      "longitud": -85.4116416,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12508334740",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.220109,
+      "longitud": -85.3951621,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12508508771",
+      "nombre": "Los Canales",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2022249,
+      "longitud": -85.3415018,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12508508796",
+      "nombre": "El Despoblado",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2080186,
+      "longitud": -85.3770465,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12509544983",
+      "nombre": "San Francisco del Coyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2622478,
+      "longitud": -85.2616793,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12509545013",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2157652,
+      "longitud": -85.2736661,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12509545029",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.190742,
+      "longitud": -85.2577445,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12509545050",
+      "nombre": "El Juste",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2012287,
+      "longitud": -85.3084517,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12509545082",
+      "nombre": "Los Copeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2086897,
+      "longitud": -85.3124052,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12509545109",
+      "nombre": "Chavarría",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2082152,
+      "longitud": -85.327144,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12512588712",
+      "nombre": "Barrio Sandino",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2497138,
+      "longitud": -85.3867239,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12512588746",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2346051,
+      "longitud": -85.4881731,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12530517101",
+      "nombre": "El Guasimal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1936102,
+      "longitud": -85.3953633,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12862920125",
+      "nombre": "El Silencio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3386066,
+      "longitud": -85.3173003,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/12893779571",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2399315,
+      "longitud": -85.3754479,
+      "departamento": "Chontales"
+    },
+    {
+      "osm_id": "node/13409829453",
+      "nombre": "El Salto",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1205911,
+      "longitud": -85.3864342,
+      "departamento": "Chontales"
+    }
+  ]
+}
