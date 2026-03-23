@@ -1,0 +1,6422 @@
+{
+  "departamento": "Managua",
+  "total_registros": 802,
+  "lugares": [
+    {
+      "osm_id": "node/175857107",
+      "nombre": "Los Pochotillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5808185,
+      "longitud": -86.1701399,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/175857110",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5658617,
+      "longitud": -86.1774058,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/287179524",
+      "nombre": "San Benito",
+      "tipo_localidad": "village",
+      "latitud": 12.3099099,
+      "longitud": -86.0545548,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/287253963",
+      "nombre": "El Crucero",
+      "tipo_localidad": "town",
+      "latitud": 11.9888853,
+      "longitud": -86.3103503,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/291471414",
+      "nombre": "Tipitapa",
+      "tipo_localidad": "town",
+      "latitud": 12.1962432,
+      "longitud": -86.096372,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/302360985",
+      "nombre": "Las Maderas",
+      "tipo_localidad": "village",
+      "latitud": 12.446358,
+      "longitud": -86.0401758,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/306563067",
+      "nombre": "Los Brasiles",
+      "tipo_localidad": "village",
+      "latitud": 12.1865186,
+      "longitud": -86.3623571,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/306564586",
+      "nombre": "Masachapa",
+      "tipo_localidad": "village",
+      "latitud": 11.7846731,
+      "longitud": -86.5159356,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/889573390",
+      "nombre": "Estancia de Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0788562,
+      "longitud": -86.2408032,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/889581042",
+      "nombre": "Estancia de Santo Domingo 2° etapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0744078,
+      "longitud": -86.2379815,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/914186962",
+      "nombre": "Las Brisas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1553331,
+      "longitud": -86.3139094,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/914189657",
+      "nombre": "Pantanal",
+      "tipo_localidad": "village",
+      "latitud": 12.1595024,
+      "longitud": -86.3149108,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/1707833548",
+      "nombre": "Pochomil",
+      "tipo_localidad": "village",
+      "latitud": 11.7724405,
+      "longitud": -86.5043526,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/1710205402",
+      "nombre": "San Francisco Libre",
+      "tipo_localidad": "town",
+      "latitud": 12.505667,
+      "longitud": -86.300328,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/1820964690",
+      "nombre": "Colonia Becklin",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0700998,
+      "longitud": -86.3259103,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/1929000539",
+      "nombre": "Satelite de Asososca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1436413,
+      "longitud": -86.3391603,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2043148560",
+      "nombre": "El Edén",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0059933,
+      "longitud": -86.2319896,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2092937537",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0356534,
+      "longitud": -86.2108001,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2092941808",
+      "nombre": "Reparto Leonel Reynosa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0381657,
+      "longitud": -86.2145653,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2117609599",
+      "nombre": "San Rafael del Sur",
+      "tipo_localidad": "town",
+      "latitud": 11.846482,
+      "longitud": -86.4388639,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2117609785",
+      "nombre": "San Pablo",
+      "tipo_localidad": "village",
+      "latitud": 11.8408006,
+      "longitud": -86.4115886,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2379493229",
+      "nombre": "Ciudad Jardín",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1438958,
+      "longitud": -86.255283,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2379625544",
+      "nombre": "Linda Vista Norte",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1552762,
+      "longitud": -86.3059544,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2388786967",
+      "nombre": "Colonia Xolotlán",
+      "tipo_localidad": "suburb",
+      "latitud": 12.144845,
+      "longitud": -86.2197797,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2410534745",
+      "nombre": "Los Altos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0950963,
+      "longitud": -86.2641514,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2459398770",
+      "nombre": "California",
+      "tipo_localidad": "village",
+      "latitud": 11.9174751,
+      "longitud": -86.5147748,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2459398771",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9028338,
+      "longitud": -86.502875,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2459398772",
+      "nombre": "Los Rugama",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9155379,
+      "longitud": -86.4990414,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2459398773",
+      "nombre": "Samaria",
+      "tipo_localidad": "village",
+      "latitud": 11.9883648,
+      "longitud": -86.5447712,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2459398774",
+      "nombre": "San Bartolo",
+      "tipo_localidad": "village",
+      "latitud": 11.9170102,
+      "longitud": -86.5498075,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2459398775",
+      "nombre": "San Cayetano",
+      "tipo_localidad": "village",
+      "latitud": 11.8989646,
+      "longitud": -86.515559,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2459398776",
+      "nombre": "San Diego",
+      "tipo_localidad": "village",
+      "latitud": 11.9214194,
+      "longitud": -86.5464672,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2459398778",
+      "nombre": "Villa El Carmen",
+      "tipo_localidad": "town",
+      "latitud": 11.9797539,
+      "longitud": -86.5070418,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2462477469",
+      "nombre": "San Diego",
+      "tipo_localidad": "village",
+      "latitud": 11.9046726,
+      "longitud": -86.6135974,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2463606086",
+      "nombre": "Villa del Mirador",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0918715,
+      "longitud": -86.2463005,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2465725219",
+      "nombre": "Ciudad Sandino",
+      "tipo_localidad": "town",
+      "latitud": 12.1649227,
+      "longitud": -86.3557377,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2465731798",
+      "nombre": "Reparto Schick",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1112965,
+      "longitud": -86.2335155,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2474762611",
+      "nombre": "Reparto San Juan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1219,
+      "longitud": -86.2697106,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2478516775",
+      "nombre": "Bolonia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1398941,
+      "longitud": -86.2815427,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2478527289",
+      "nombre": "Residencial Rubenia",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1312579,
+      "longitud": -86.2251837,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2478527291",
+      "nombre": "Barrio Altagracia",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1371431,
+      "longitud": -86.2920126,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2478527292",
+      "nombre": "Las Colinas",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0970557,
+      "longitud": -86.2308307,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2482595488",
+      "nombre": "Barrio Grenada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1182495,
+      "longitud": -86.2439884,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2490089126",
+      "nombre": "Altos de Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0860219,
+      "longitud": -86.2461316,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2490089134",
+      "nombre": "Reparto de Santa Mónica",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0869812,
+      "longitud": -86.2396944,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2491343410",
+      "nombre": "Las Colinas Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.090322,
+      "longitud": -86.2298077,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2491343412",
+      "nombre": "Santa María",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0920392,
+      "longitud": -86.2222405,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2499010508",
+      "nombre": "Balcones de Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0565626,
+      "longitud": -86.2496565,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2499010510",
+      "nombre": "Jardines de Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.059717,
+      "longitud": -86.2484921,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2517590283",
+      "nombre": "Villa Fontana Este",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1067515,
+      "longitud": -86.2613615,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2520166193",
+      "nombre": "Bosques De Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0713163,
+      "longitud": -86.2376631,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2524474374",
+      "nombre": "Comarca Cedro Galán",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0908297,
+      "longitud": -86.344422,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2524474375",
+      "nombre": "Comarca Chiquilistagua",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0852762,
+      "longitud": -86.3677345,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2524474376",
+      "nombre": "Comarca Jinotepe",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0852298,
+      "longitud": -86.3216702,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2524474377",
+      "nombre": "Comarca La Canada",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0732082,
+      "longitud": -86.3452388,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2524474378",
+      "nombre": "Comarca Nejapa",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1094105,
+      "longitud": -86.3316301,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2524474382",
+      "nombre": "Reparto Samarkan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0762746,
+      "longitud": -86.3214956,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2530810239",
+      "nombre": "El Boquete (Sector Norte Santo Domingo)",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.090358,
+      "longitud": -86.2402672,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2612971790",
+      "nombre": "Esquipulas",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0745878,
+      "longitud": -86.2158151,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2644784856",
+      "nombre": "Lomas de Guadalupe",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1097192,
+      "longitud": -86.1935486,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2644784858",
+      "nombre": "Villa Canadá",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1203614,
+      "longitud": -86.2164863,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2644784860",
+      "nombre": "Villa Venezuela",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1224949,
+      "longitud": -86.2137336,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2653323266",
+      "nombre": "Colonia 14 de Septiembre",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1275471,
+      "longitud": -86.2315185,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2653323267",
+      "nombre": "Colonia Nicarao",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1294226,
+      "longitud": -86.2356545,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2653323269",
+      "nombre": "Grenada",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1192425,
+      "longitud": -86.2453463,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216897",
+      "nombre": "Acahualinca",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1630669,
+      "longitud": -86.2932036,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216899",
+      "nombre": "Alemania Democrática",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1604093,
+      "longitud": -86.2980586,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216901",
+      "nombre": "Barrio 18 de Mayo",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1142521,
+      "longitud": -86.2399276,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216902",
+      "nombre": "Barrio 22 de Enero",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1084436,
+      "longitud": -86.2496554,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216905",
+      "nombre": "Andrés Castro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1296515,
+      "longitud": -86.2927406,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216906",
+      "nombre": "Barrio Colombia",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1308604,
+      "longitud": -86.246359,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216908",
+      "nombre": "Barrio Ducualí",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1363183,
+      "longitud": -86.2398071,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216910",
+      "nombre": "Barrio María Auxiliadora",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1390967,
+      "longitud": -86.2442711,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216911",
+      "nombre": "Barrio México",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1266375,
+      "longitud": -86.2535869,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216913",
+      "nombre": "Barrio René Cisneros",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1272186,
+      "longitud": -86.2861111,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216915",
+      "nombre": "Barrio Unión Soviética",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1327975,
+      "longitud": -86.2338988,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216917",
+      "nombre": "Barrio Walter Ferreti",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1130778,
+      "longitud": -86.2375663,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216918",
+      "nombre": "El Riguero",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1328824,
+      "longitud": -86.2521444,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216920",
+      "nombre": "Barrio Venezuela",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1366483,
+      "longitud": -86.236089,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216922",
+      "nombre": "Batahola Norte",
+      "tipo_localidad": "suburb",
+      "latitud": 12.14107,
+      "longitud": -86.3038781,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216923",
+      "nombre": "Batahola Sur",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1352833,
+      "longitud": -86.3046385,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216927",
+      "nombre": "Colonia 10 de Junio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1345737,
+      "longitud": -86.243744,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216928",
+      "nombre": "Máximo Jerez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1288978,
+      "longitud": -86.2553333,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216930",
+      "nombre": "Colonia del Periodista",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1244055,
+      "longitud": -86.285636,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216932",
+      "nombre": "Barrio Recreo",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1310104,
+      "longitud": -86.288349,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216934",
+      "nombre": "Colonia Morazán",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1563009,
+      "longitud": -86.3031619,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216939",
+      "nombre": "Rafael Ríos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1589344,
+      "longitud": -86.3026432,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216941",
+      "nombre": "Reparto Belmonte",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1261486,
+      "longitud": -86.3081384,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216943",
+      "nombre": "Motastepe",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1309239,
+      "longitud": -86.3156784,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216945",
+      "nombre": "El Dorado",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1345816,
+      "longitud": -86.247873,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216946",
+      "nombre": "Los Pescadores",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1551299,
+      "longitud": -86.2626719,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216951",
+      "nombre": "Santa Ana Norte",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1583314,
+      "longitud": -86.2902612,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2655216953",
+      "nombre": "Barrio Tierra Prometida",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1217544,
+      "longitud": -86.3030712,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2657146868",
+      "nombre": "El Edén",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1424686,
+      "longitud": -86.2399223,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2657146869",
+      "nombre": "Campo Bruce",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1394036,
+      "longitud": -86.2568145,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2657146870",
+      "nombre": "Tenderí",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1450969,
+      "longitud": -86.2486683,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2657146871",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1402875,
+      "longitud": -86.2529523,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2657146873",
+      "nombre": "Larreynaga",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1439954,
+      "longitud": -86.2452133,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206907",
+      "nombre": "Américas No. 1",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1353867,
+      "longitud": -86.2201102,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206910",
+      "nombre": "Américas No. 3",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1304581,
+      "longitud": -86.2139342,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206913",
+      "nombre": "Américas No. 4",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1264152,
+      "longitud": -86.2132777,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206917",
+      "nombre": "Anexo Barrio Enrique Smith",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1199954,
+      "longitud": -86.2266462,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206921",
+      "nombre": "Barrio 11 de Mayo",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1213745,
+      "longitud": -86.2314775,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206923",
+      "nombre": "Barrio La Primavera",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1546947,
+      "longitud": -86.2190124,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206926",
+      "nombre": "Barrio 380",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1263804,
+      "longitud": -86.2805923,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206927",
+      "nombre": "Barrio Adolfo Reyes",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1160093,
+      "longitud": -86.2376375,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206928",
+      "nombre": "Barrio Ariel Darce",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1215949,
+      "longitud": -86.2401413,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206930",
+      "nombre": "Barrio Bertha Díaz",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1506611,
+      "longitud": -86.1952438,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206931",
+      "nombre": "El Bóer",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1482509,
+      "longitud": -86.2789408,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206932",
+      "nombre": "Villa Argentina",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1298491,
+      "longitud": -86.2753323,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206933",
+      "nombre": "Lomas de Chico Pelón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1518089,
+      "longitud": -86.250608,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206934",
+      "nombre": "Barrio Cuba Libre",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1019406,
+      "longitud": -86.22211,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206935",
+      "nombre": "Barrio Cuba",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1515575,
+      "longitud": -86.1998635,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206936",
+      "nombre": "Barrio Georgino Andrade",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1351762,
+      "longitud": -86.2264312,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206937",
+      "nombre": "Lomas de Monserrat",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1150315,
+      "longitud": -86.2781156,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206938",
+      "nombre": "Barrio Hugo Chávez",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1548326,
+      "longitud": -86.2031079,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206939",
+      "nombre": "Barrio Jonathan González",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1334601,
+      "longitud": -86.2763972,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206940",
+      "nombre": "Barrio Jorge Cassaly",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1573007,
+      "longitud": -86.2048719,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206941",
+      "nombre": "Barrio José Dolores Estrada",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1544534,
+      "longitud": -86.211642,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206942",
+      "nombre": "Barrio La Fuente",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1193326,
+      "longitud": -86.2198867,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206943",
+      "nombre": "Las Torres",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1580286,
+      "longitud": -86.2458234,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206946",
+      "nombre": "Barrio Mombacho",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1488002,
+      "longitud": -86.2163771,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206947",
+      "nombre": "Barrio Waspán Norte",
+      "tipo_localidad": "suburb",
+      "latitud": 12.151431,
+      "longitud": -86.2079888,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206950",
+      "nombre": "Barrio Óscar Paz",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1570734,
+      "longitud": -86.2002867,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206951",
+      "nombre": "Barrio Pablo Úbeda",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1237536,
+      "longitud": -86.2333466,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206953",
+      "nombre": "San Luis Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.154287,
+      "longitud": -86.24391,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206954",
+      "nombre": "Benedicto Valverde",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1545734,
+      "longitud": -86.251004,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206956",
+      "nombre": "Barrio René Polanco",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1145214,
+      "longitud": -86.2235065,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206958",
+      "nombre": "San Luis Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1497338,
+      "longitud": -86.2450295,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206962",
+      "nombre": "Pedro Joaquín Chamorro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1570541,
+      "longitud": -86.2377964,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206978",
+      "nombre": "Barrio Selim Shible",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1556159,
+      "longitud": -86.2266731,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206980",
+      "nombre": "Barrio Waspán Sur",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1483168,
+      "longitud": -86.210972,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206984",
+      "nombre": "Bosques de Santa María",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.085473,
+      "longitud": -86.2269602,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206993",
+      "nombre": "Colonia Primero de Mayo",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1258662,
+      "longitud": -86.223854,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206997",
+      "nombre": "Edgard Lang",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1418624,
+      "longitud": -86.2973964,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658206999",
+      "nombre": "Colinas del Memorial Sandino",
+      "tipo_localidad": "suburb",
+      "latitud": 12.107468,
+      "longitud": -86.2844593,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207001",
+      "nombre": "El Cortijo",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1513999,
+      "longitud": -86.3035777,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207002",
+      "nombre": "El Recreo Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1329323,
+      "longitud": -86.2875408,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207004",
+      "nombre": "El Recreo Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1290864,
+      "longitud": -86.2892906,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207006",
+      "nombre": "Héroes y Mártires del Bocay",
+      "tipo_localidad": "suburb",
+      "latitud": 12.117912,
+      "longitud": -86.3049195,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207008",
+      "nombre": "Miraflores 2",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1439684,
+      "longitud": -86.3035086,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207010",
+      "nombre": "Santa Ana Sur",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1542419,
+      "longitud": -86.2890063,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207012",
+      "nombre": "Américas No. 2",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1594308,
+      "longitud": -86.190177,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207014",
+      "nombre": "Julio Buitrago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1538323,
+      "longitud": -86.2839148,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207015",
+      "nombre": "La Cabrera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1202655,
+      "longitud": -86.1908211,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207017",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1247956,
+      "longitud": -86.2907147,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207019",
+      "nombre": "La Subasta",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1471371,
+      "longitud": -86.1941827,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207021",
+      "nombre": "Las Cuaremas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0899414,
+      "longitud": -86.2199319,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207022",
+      "nombre": "Las Palmas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1452645,
+      "longitud": -86.2919574,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207024",
+      "nombre": "Loma Verde",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1489946,
+      "longitud": -86.3059221,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207026",
+      "nombre": "Lomas del Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1031361,
+      "longitud": -86.3083212,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207028",
+      "nombre": "Los Méndez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1333542,
+      "longitud": -86.2034253,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207030",
+      "nombre": "Memorial Sandino",
+      "tipo_localidad": "suburb",
+      "latitud": 12.108683,
+      "longitud": -86.2870055,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207032",
+      "nombre": "Praderas del Doral",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1297308,
+      "longitud": -86.1891038,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207033",
+      "nombre": "Hialeah 1 y 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1204674,
+      "longitud": -86.2777551,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207035",
+      "nombre": "Reparto Che Guevara",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1065519,
+      "longitud": -86.2221186,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207037",
+      "nombre": "Jardines de Santa Clara",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1582034,
+      "longitud": -86.2293673,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207039",
+      "nombre": "Reparto Santa María del Lago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0800299,
+      "longitud": -86.2220975,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207042",
+      "nombre": "Reparto Sócrates Sandino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1120345,
+      "longitud": -86.2261996,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207046",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1470309,
+      "longitud": -86.2652704,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207048",
+      "nombre": "Residencial Jardines de Veracruz",
+      "tipo_localidad": "suburb",
+      "latitud": 12.125374,
+      "longitud": -86.2279158,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207050",
+      "nombre": "Largaespada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.142247,
+      "longitud": -86.2652529,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207052",
+      "nombre": "Residencial Las Mercedes",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1502087,
+      "longitud": -86.1910906,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207054",
+      "nombre": "Residencial Los Ángeles",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1514595,
+      "longitud": -86.2563453,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207057",
+      "nombre": "Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1516383,
+      "longitud": -86.2663177,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207059",
+      "nombre": "Sabana Grande",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1214337,
+      "longitud": -86.1668099,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207061",
+      "nombre": "San José (El Bóer)",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1522609,
+      "longitud": -86.2797017,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207063",
+      "nombre": "San Patricio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1139469,
+      "longitud": -86.3133125,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207064",
+      "nombre": "San Sebastián",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1574005,
+      "longitud": -86.2777983,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207068",
+      "nombre": "Unidad de Propósito",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1539018,
+      "longitud": -86.1843117,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207070",
+      "nombre": "Urbanización Madrid",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0874901,
+      "longitud": -86.2344801,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207074",
+      "nombre": "Villa 9 de Junio",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1341412,
+      "longitud": -86.2139931,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207075",
+      "nombre": "Villa Bulgaria",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1322444,
+      "longitud": -86.217845,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207077",
+      "nombre": "Urbanización Valencia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1264868,
+      "longitud": -86.2197457,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207079",
+      "nombre": "Villa Flor Sur",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1172371,
+      "longitud": -86.2242482,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207082",
+      "nombre": "Villa Miguel Gutiérrez",
+      "tipo_localidad": "suburb",
+      "latitud": 12.142387,
+      "longitud": -86.2126647,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207084",
+      "nombre": "Villa Reconciliación",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1385257,
+      "longitud": -86.1989819,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207086",
+      "nombre": "Villa Revolución",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1322176,
+      "longitud": -86.2112711,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2658207089",
+      "nombre": "Villa Santa Fé",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1176158,
+      "longitud": -86.2718252,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2666366757",
+      "nombre": "San Antonio Sur",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0657481,
+      "longitud": -86.230217,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2666526445",
+      "nombre": "Planes de Altamira 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1194407,
+      "longitud": -86.2624946,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2685684314",
+      "nombre": "Olof Palme",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1185729,
+      "longitud": -86.2409471,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2685852097",
+      "nombre": "Los Arcos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.149875,
+      "longitud": -86.3089397,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2685913509",
+      "nombre": "La Salvadorita",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1454687,
+      "longitud": -86.2396326,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2685952131",
+      "nombre": "Juan Emilio Menocal",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1452603,
+      "longitud": -86.3077194,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2690449679",
+      "nombre": "Residencial Colinas de Verona",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1578145,
+      "longitud": -86.1860697,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2701952849",
+      "nombre": "Reparto Simón Bolívar",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1326033,
+      "longitud": -86.1955711,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2706291176",
+      "nombre": "Las Brisas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.153426,
+      "longitud": -86.3094128,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2711114378",
+      "nombre": "La Empanada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.38891,
+      "longitud": -85.9183602,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2711114381",
+      "nombre": "Las Banderas",
+      "tipo_localidad": "village",
+      "latitud": 12.3304416,
+      "longitud": -85.9543432,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2714916650",
+      "nombre": "Urbanización Xochitlán",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.067287,
+      "longitud": -86.226159,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2715045527",
+      "nombre": "Campo Bello",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0651794,
+      "longitud": -86.2150416,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2732946561",
+      "nombre": "Colama",
+      "tipo_localidad": "village",
+      "latitud": 12.2937054,
+      "longitud": -85.8623595,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2732946562",
+      "nombre": "Los Brasiles",
+      "tipo_localidad": "village",
+      "latitud": 12.268187,
+      "longitud": -85.9319688,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2742933229",
+      "nombre": "Los Cedros",
+      "tipo_localidad": "village",
+      "latitud": 12.0682405,
+      "longitud": -86.475934,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2742933241",
+      "nombre": "Los Romeros",
+      "tipo_localidad": "village",
+      "latitud": 12.080071,
+      "longitud": -86.4859418,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2742935498",
+      "nombre": "Valle Los Aburtos",
+      "tipo_localidad": "village",
+      "latitud": 12.1137613,
+      "longitud": -86.5052384,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2751226628",
+      "nombre": "Urbanization Jacarandas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0532907,
+      "longitud": -86.2120726,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2766517802",
+      "nombre": "El Socorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9600114,
+      "longitud": -86.4350762,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2766517807",
+      "nombre": "Las Pilas Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9786869,
+      "longitud": -86.4008378,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2766517812",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9846312,
+      "longitud": -86.3840474,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2766517815",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "village",
+      "latitud": 11.9750013,
+      "longitud": -86.4078915,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2768650976",
+      "nombre": "El Salto",
+      "tipo_localidad": "village",
+      "latitud": 11.8735939,
+      "longitud": -86.4137338,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2771745235",
+      "nombre": "Las Nubes",
+      "tipo_localidad": "village",
+      "latitud": 12.0088001,
+      "longitud": -86.2862655,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2774495467",
+      "nombre": "Los Gutiérrez Sur",
+      "tipo_localidad": "village",
+      "latitud": 11.8220484,
+      "longitud": -86.4077903,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2774497030",
+      "nombre": "Reparto Chorotega",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.8411479,
+      "longitud": -86.4188008,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2774509525",
+      "nombre": "El Zapote",
+      "tipo_localidad": "village",
+      "latitud": 11.8920395,
+      "longitud": -86.5800263,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2777241166",
+      "nombre": "El Caimito",
+      "tipo_localidad": "village",
+      "latitud": 12.1362264,
+      "longitud": -86.5124213,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2777241168",
+      "nombre": "La Cueva",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.15911,
+      "longitud": -86.4917262,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2777241170",
+      "nombre": "Nandayosi",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1127435,
+      "longitud": -86.5181463,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2778783150",
+      "nombre": "Las Conchitas",
+      "tipo_localidad": "village",
+      "latitud": 11.9718351,
+      "longitud": -86.3104697,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073089",
+      "nombre": "El Chirimollo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4784726,
+      "longitud": -86.0246744,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073104",
+      "nombre": "Laurel Galán",
+      "tipo_localidad": "village",
+      "latitud": 12.5742133,
+      "longitud": -86.3179403,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073114",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5638716,
+      "longitud": -86.3357391,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073133",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4680447,
+      "longitud": -86.0387594,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073144",
+      "nombre": "Los Novios",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3113559,
+      "longitud": -86.0576479,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073145",
+      "nombre": "La Uva",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4709909,
+      "longitud": -86.0311084,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073147",
+      "nombre": "El Tule",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4260191,
+      "longitud": -85.9467985,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073157",
+      "nombre": "El Terrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5309711,
+      "longitud": -86.0218644,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073160",
+      "nombre": "Cacalote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5032575,
+      "longitud": -85.9934493,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073170",
+      "nombre": "San Blas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4802877,
+      "longitud": -86.0480639,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073171",
+      "nombre": "15 de Septiembre",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2911105,
+      "longitud": -86.0535809,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073177",
+      "nombre": "El Guanacaste",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3250407,
+      "longitud": -85.9665988,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073178",
+      "nombre": "Los Positos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4695618,
+      "longitud": -85.9755932,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073184",
+      "nombre": "Las Lomas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5406181,
+      "longitud": -86.2049245,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073190",
+      "nombre": "San José de Oluminapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5381538,
+      "longitud": -86.0363525,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073191",
+      "nombre": "Ciudad de Dios (La Unión)",
+      "tipo_localidad": "village",
+      "latitud": 12.3097077,
+      "longitud": -86.0235293,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2780073193",
+      "nombre": "La Conquista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5403757,
+      "longitud": -86.2261575,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2827048273",
+      "nombre": "Intermezzo del Bosque",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0478171,
+      "longitud": -86.2661607,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722743",
+      "nombre": "Citalapa",
+      "tipo_localidad": "village",
+      "latitud": 11.9152241,
+      "longitud": -86.4746619,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722744",
+      "nombre": "El Vanegueño",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8756555,
+      "longitud": -86.4390713,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722745",
+      "nombre": "Los Sánchez Norte",
+      "tipo_localidad": "village",
+      "latitud": 11.8695249,
+      "longitud": -86.4410057,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722746",
+      "nombre": "Los Gutiérrez Norte",
+      "tipo_localidad": "village",
+      "latitud": 11.8727245,
+      "longitud": -86.4614622,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722747",
+      "nombre": "La Gloria",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8878534,
+      "longitud": -86.4807636,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722749",
+      "nombre": "Chilamatillo",
+      "tipo_localidad": "village",
+      "latitud": 11.8934065,
+      "longitud": -86.4024201,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722750",
+      "nombre": "Los Chocoyos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9533163,
+      "longitud": -86.3671613,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722751",
+      "nombre": "Los Larios",
+      "tipo_localidad": "village",
+      "latitud": 11.8887707,
+      "longitud": -86.4348515,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722752",
+      "nombre": "Los Rizos",
+      "tipo_localidad": "village",
+      "latitud": 11.9037155,
+      "longitud": -86.3988477,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722753",
+      "nombre": "Los Solís",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.89602,
+      "longitud": -86.5000065,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722754",
+      "nombre": "Los Torres",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8962075,
+      "longitud": -86.4857862,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830722755",
+      "nombre": "Olimpo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9419961,
+      "longitud": -86.3947274,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830728470",
+      "nombre": "San Augustín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8832734,
+      "longitud": -86.4681248,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2830728471",
+      "nombre": "Casa de Tejas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9232683,
+      "longitud": -86.4204976,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2844771385",
+      "nombre": "El Portillo",
+      "tipo_localidad": "village",
+      "latitud": 11.8260251,
+      "longitud": -86.4746238,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2844771386",
+      "nombre": "Los Navarrete",
+      "tipo_localidad": "village",
+      "latitud": 11.7971846,
+      "longitud": -86.467882,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2844771397",
+      "nombre": "San José",
+      "tipo_localidad": "village",
+      "latitud": 11.8132112,
+      "longitud": -86.4866601,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2905099224",
+      "nombre": "Mateare",
+      "tipo_localidad": "town",
+      "latitud": 12.2353133,
+      "longitud": -86.4294417,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/2914812941",
+      "nombre": "La Toscana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0869475,
+      "longitud": -86.1885988,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3114052566",
+      "nombre": "Santa Juana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0342866,
+      "longitud": -86.237774,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3150790894",
+      "nombre": "Las Jinotepes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0730058,
+      "longitud": -86.3225297,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3404290748",
+      "nombre": "Los Trejos",
+      "tipo_localidad": "village",
+      "latitud": 12.1437312,
+      "longitud": -86.0914854,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3405309480",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1494273,
+      "longitud": -86.0917567,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3405636304",
+      "nombre": "Barrio Mitch",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2046755,
+      "longitud": -86.0952178,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3512707645",
+      "nombre": "Barrio San Cristóbal",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.137189,
+      "longitud": -86.2497072,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3512893364",
+      "nombre": "Villa Fraternidad",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1380524,
+      "longitud": -86.209288,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3512893369",
+      "nombre": "Laureano Mairena",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1372972,
+      "longitud": -86.2137888,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3516508198",
+      "nombre": "Ayapal",
+      "tipo_localidad": "suburb",
+      "latitud": 12.139685,
+      "longitud": -86.2165905,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3518262412",
+      "nombre": "La Merced",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2335713,
+      "longitud": -86.4347204,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747630",
+      "nombre": "Bella Vista",
+      "tipo_localidad": "suburb",
+      "latitud": 12.142643,
+      "longitud": -86.3480832,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747631",
+      "nombre": "Bello Amanecer",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1501995,
+      "longitud": -86.3439777,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747633",
+      "nombre": "Motastepe (Ciudad Sandino)",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1363869,
+      "longitud": -86.3378766,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747634",
+      "nombre": "Nueva Vida",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1586365,
+      "longitud": -86.3665954,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747635",
+      "nombre": "Oro Verde",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1676375,
+      "longitud": -86.3392109,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747636",
+      "nombre": "Praderas de Sandino",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1547961,
+      "longitud": -86.3482209,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747637",
+      "nombre": "Quilombo",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1727011,
+      "longitud": -86.3668047,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747638",
+      "nombre": "Tangará",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1737887,
+      "longitud": -86.341676,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747639",
+      "nombre": "Valle Sandino",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1747281,
+      "longitud": -86.3643175,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747640",
+      "nombre": "Vía Soberana",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1567244,
+      "longitud": -86.353198,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747641",
+      "nombre": "Zona 11",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1741375,
+      "longitud": -86.3587377,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747642",
+      "nombre": "Zona 2",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1684143,
+      "longitud": -86.3444818,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747643",
+      "nombre": "Zona 4",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1689006,
+      "longitud": -86.3558452,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747644",
+      "nombre": "Zona 5",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1671935,
+      "longitud": -86.3619652,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747645",
+      "nombre": "Zona 6",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1632637,
+      "longitud": -86.362037,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747646",
+      "nombre": "Zona 8",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1616129,
+      "longitud": -86.3514395,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3873747647",
+      "nombre": "4 de Abril",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1695303,
+      "longitud": -86.3663993,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3886921740",
+      "nombre": "Minvah",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9770258,
+      "longitud": -86.4999829,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3886923557",
+      "nombre": "Zona Central",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9797271,
+      "longitud": -86.5061211,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3886923562",
+      "nombre": "El Pantanal",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9782103,
+      "longitud": -86.5035394,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3886923568",
+      "nombre": "La Isla",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9826823,
+      "longitud": -86.5054622,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3888626059",
+      "nombre": "Bosques de Xiloá",
+      "tipo_localidad": "village",
+      "latitud": 12.2123915,
+      "longitud": -86.3131523,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3892841107",
+      "nombre": "Residencial Santa María de las Victorias",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1588079,
+      "longitud": -86.2056035,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3893616097",
+      "nombre": "Javier Cuadra",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1508938,
+      "longitud": -86.2883841,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3895827555",
+      "nombre": "Barrio El Bosque",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1265871,
+      "longitud": -86.2170932,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3895839118",
+      "nombre": "Villa Vallarta",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1602938,
+      "longitud": -86.2122219,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3913517343",
+      "nombre": "San Enrique",
+      "tipo_localidad": "village",
+      "latitud": 12.1863682,
+      "longitud": -86.3449089,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3913530352",
+      "nombre": "Miraflores",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1856144,
+      "longitud": -86.3392134,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3913556081",
+      "nombre": "Los Castros (Alfonso Gonzalez)",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2042782,
+      "longitud": -86.3380694,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3932896648",
+      "nombre": "Ticuantepe",
+      "tipo_localidad": "town",
+      "latitud": 12.0217671,
+      "longitud": -86.2053144,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934587201",
+      "nombre": "Anexo Las Brisas (Los Martínez)",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1573576,
+      "longitud": -86.3102232,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934587202",
+      "nombre": "Anexo Linda Vista Norte",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1587776,
+      "longitud": -86.3080021,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934587203",
+      "nombre": "Pantanal 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.158242,
+      "longitud": -86.3092122,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934663694",
+      "nombre": "Área Comunal Rafael Ríos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1589589,
+      "longitud": -86.3047286,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934815016",
+      "nombre": "Alfredo Silva",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1618884,
+      "longitud": -86.2954365,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934815017",
+      "nombre": "Area Comunal Alfredo Silva",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1629897,
+      "longitud": -86.2962019,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934815018",
+      "nombre": "Cerro Uno (Sector)",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1604195,
+      "longitud": -86.2958598,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934815019",
+      "nombre": "Este de Alfredo Silva",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1626401,
+      "longitud": -86.2950364,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934815020",
+      "nombre": "Los Martínez Sector Oeste",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1567617,
+      "longitud": -86.3160545,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934815021",
+      "nombre": "Urbanización Xolotlán",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1597216,
+      "longitud": -86.3031801,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934887193",
+      "nombre": "Asserio Acahuanlinca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1610237,
+      "longitud": -86.2954758,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934887194",
+      "nombre": "Francisco y Ramón Sánchez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1574843,
+      "longitud": -86.298351,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934887195",
+      "nombre": "Rubén Darío",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1557297,
+      "longitud": -86.2994728,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934928734",
+      "nombre": "Barrio Cuba",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1557458,
+      "longitud": -86.295757,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934928735",
+      "nombre": "Enabin",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.158702,
+      "longitud": -86.2966561,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934928736",
+      "nombre": "Gadala María",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1585121,
+      "longitud": -86.2940448,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3934928737",
+      "nombre": "Manzana Cienfuego",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1562663,
+      "longitud": -86.2950136,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935053507",
+      "nombre": "Manuel Olivares",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1460745,
+      "longitud": -86.2936328,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935053508",
+      "nombre": "Miraflores 1",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1468399,
+      "longitud": -86.3034516,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935053509",
+      "nombre": "Monseñor Lezcano Este",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1500638,
+      "longitud": -86.2934912,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935053510",
+      "nombre": "Monseñor Lezcano Oeste",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1497547,
+      "longitud": -86.2987362,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935053511",
+      "nombre": "Reparto España",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1471655,
+      "longitud": -86.3008645,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935120458",
+      "nombre": "Colonia Mántica",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1472436,
+      "longitud": -86.288794,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935120459",
+      "nombre": "Las Palmas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1436882,
+      "longitud": -86.2947992,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935166628",
+      "nombre": "Dinamarca",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1391454,
+      "longitud": -86.3046094,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935166629",
+      "nombre": "Jardines de Managua",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1407705,
+      "longitud": -86.2996996,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935230991",
+      "nombre": "Anexo Batahola Sur",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1370581,
+      "longitud": -86.3037555,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935230992",
+      "nombre": "Embusa 1 y 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1356401,
+      "longitud": -86.3002636,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935230993",
+      "nombre": "Llamas de Bosque",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.137199,
+      "longitud": -86.3054359,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935242262",
+      "nombre": "David Tejada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1270712,
+      "longitud": -86.3093561,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935255244",
+      "nombre": "Daniel Chavarría",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.131396,
+      "longitud": -86.3011227,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3935255245",
+      "nombre": "Sector Cerro Tabuya",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1299558,
+      "longitud": -86.3081847,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936345613",
+      "nombre": "Bella Vista Anexo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1450487,
+      "longitud": -86.3091836,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936345614",
+      "nombre": "El Seminario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1471829,
+      "longitud": -86.3063531,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936345615",
+      "nombre": "Linda Vista Sur",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1513387,
+      "longitud": -86.3061766,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936345616",
+      "nombre": "Oscar Robelo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1453374,
+      "longitud": -86.3054918,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936345618",
+      "nombre": "Sector El Seminario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1438731,
+      "longitud": -86.3078161,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936345619",
+      "nombre": "Sector Este Laguna de Asososca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1395656,
+      "longitud": -86.3086289,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936365351",
+      "nombre": "Sector Industrial Sur (La Refinería)",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1469793,
+      "longitud": -86.3196451,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936365352",
+      "nombre": "Sector Paseo Las Brisas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1493513,
+      "longitud": -86.3113818,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936365353",
+      "nombre": "Ulsa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1485858,
+      "longitud": -86.3162288,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936487013",
+      "nombre": "La Chureca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1652706,
+      "longitud": -86.3057696,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936487014",
+      "nombre": "Sector Cerro Los Martínez",
+      "tipo_localidad": "suburb",
+      "latitud": 12.154617,
+      "longitud": -86.3179326,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936487015",
+      "nombre": "Sector Norte Las Brisas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1615627,
+      "longitud": -86.3116423,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936487016",
+      "nombre": "Sector Occidental Lago Xolotlán",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1646871,
+      "longitud": -86.3144265,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936521438",
+      "nombre": "Sector Parque Las Piedrecitas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1318995,
+      "longitud": -86.3113356,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3936930009",
+      "nombre": "El Rastro",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1612932,
+      "longitud": -86.2909109,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3937053895",
+      "nombre": "La Reforma",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.150857,
+      "longitud": -86.2850676,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3937053897",
+      "nombre": "San Antonio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1532225,
+      "longitud": -86.2772398,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3937102229",
+      "nombre": "Cristo del Rosario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1590416,
+      "longitud": -86.279752,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3937102230",
+      "nombre": "Manchester",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1617735,
+      "longitud": -86.279488,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3937130153",
+      "nombre": "Candelaria (Rubén Darío)",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.155864,
+      "longitud": -86.2674563,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938012111",
+      "nombre": "Blas Real Espinales",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1458166,
+      "longitud": -86.2719574,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938012113",
+      "nombre": "Colonia Edgard Lang",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1418841,
+      "longitud": -86.274829,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938012114",
+      "nombre": "Explanada Loma de Tiscapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.14396,
+      "longitud": -86.2722407,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938012116",
+      "nombre": "Sajonia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1483823,
+      "longitud": -86.2694262,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938191971",
+      "nombre": "Francisco Meza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1395885,
+      "longitud": -86.2606992,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938191972",
+      "nombre": "Hogar Propio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.14294,
+      "longitud": -86.2609225,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938790568",
+      "nombre": "Catedral de Managua",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1321661,
+      "longitud": -86.2657696,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938790569",
+      "nombre": "Serrano",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1357099,
+      "longitud": -86.2670377,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938819616",
+      "nombre": "Jorge Dimitrov",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1352373,
+      "longitud": -86.2617107,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938848251",
+      "nombre": "Bosques de Bologna",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1341084,
+      "longitud": -86.285019,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938903126",
+      "nombre": "Leonardo García Jara",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1312833,
+      "longitud": -86.2863807,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938903127",
+      "nombre": "Plaza España Costado Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1321828,
+      "longitud": -86.2827712,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938903128",
+      "nombre": "Sector Oeste Naciones Unidas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1299556,
+      "longitud": -86.2844687,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938903129",
+      "nombre": "Sector Plaza España",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1338723,
+      "longitud": -86.2827563,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938932901",
+      "nombre": "El Carmen",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1438972,
+      "longitud": -86.2862301,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938932902",
+      "nombre": "Habitacional Ernesto \"Che\" Guevara",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1446525,
+      "longitud": -86.276344,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938932903",
+      "nombre": "Martha Quezada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1442003,
+      "longitud": -86.2787058,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3938932904",
+      "nombre": "William Díaz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1446126,
+      "longitud": -86.2832666,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3939000619",
+      "nombre": "La Florida",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.133852,
+      "longitud": -86.273865,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3939000620",
+      "nombre": "La Piñata",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.128491,
+      "longitud": -86.2735256,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3939000622",
+      "nombre": "Sur Laguna Tiscapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.136519,
+      "longitud": -86.2702508,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3939000623",
+      "nombre": "Villa Tiscapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1291916,
+      "longitud": -86.2737537,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3939972909",
+      "nombre": "El Retiro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.134096,
+      "longitud": -86.2792699,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940910159",
+      "nombre": "Carlos Núñez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1277256,
+      "longitud": -86.2803952,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940910160",
+      "nombre": "Golfo Pérsico",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1285198,
+      "longitud": -86.277514,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940910161",
+      "nombre": "Norte de ENEL",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1273304,
+      "longitud": -86.275686,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940910162",
+      "nombre": "Sector Oeste Avenida Bolívar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1258484,
+      "longitud": -86.2763623,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940962731",
+      "nombre": "Academia Militar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1220213,
+      "longitud": -86.2876039,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940962732",
+      "nombre": "Bosques de Nejapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.11577,
+      "longitud": -86.2872614,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940962733",
+      "nombre": "Carolina 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1203801,
+      "longitud": -86.2889509,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940962734",
+      "nombre": "Los Altos de Nejapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1185588,
+      "longitud": -86.2855804,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940962735",
+      "nombre": "Memorial Sandino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1129034,
+      "longitud": -86.2885812,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940962736",
+      "nombre": "San Francisco de Asís",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1150861,
+      "longitud": -86.2902711,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3940962737",
+      "nombre": "Sector Ofiplaza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1224416,
+      "longitud": -86.2843253,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828586",
+      "nombre": "Acropolis 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1137836,
+      "longitud": -86.2756228,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828587",
+      "nombre": "Casimiro Sotelo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1200546,
+      "longitud": -86.2742073,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828588",
+      "nombre": "Urbanización Santa Catalina",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1143113,
+      "longitud": -86.2757756,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828589",
+      "nombre": "El Bosque",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1233528,
+      "longitud": -86.2781981,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828590",
+      "nombre": "Hialeah 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1181497,
+      "longitud": -86.2828193,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828591",
+      "nombre": "Hialeah 4",
+      "tipo_localidad": "village",
+      "latitud": 12.111436,
+      "longitud": -86.2848034,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828592",
+      "nombre": "Instituto Salomón de la Selva",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1218689,
+      "longitud": -86.2755035,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828593",
+      "nombre": "Lomas De San Ángel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1137458,
+      "longitud": -86.2794201,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828594",
+      "nombre": "Lomas del Consuelo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1109356,
+      "longitud": -86.2799464,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828595",
+      "nombre": "Sector Oeste Lomas de San Ángel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1134182,
+      "longitud": -86.281524,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828596",
+      "nombre": "Sector Sur Pista Juan Pablo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1228118,
+      "longitud": -86.2817051,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942828597",
+      "nombre": "Villa San Ángel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1179642,
+      "longitud": -86.2806212,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942842013",
+      "nombre": "Sector Colegio Americano",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1122553,
+      "longitud": -86.2778601,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3942842014",
+      "nombre": "Sector Universitaria NO",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1128137,
+      "longitud": -86.2757689,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945131096",
+      "nombre": "Anexo San Juan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1195053,
+      "longitud": -86.2701666,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945131097",
+      "nombre": "Edgard Munguía",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.120692,
+      "longitud": -86.2729596,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945131098",
+      "nombre": "Lomas de San Juan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.117615,
+      "longitud": -86.2690072,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945180364",
+      "nombre": "Lomas de Guadalupe",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1255037,
+      "longitud": -86.2670747,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945180365",
+      "nombre": "Tiscapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1278863,
+      "longitud": -86.2675244,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945217449",
+      "nombre": "Bell Air",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1148084,
+      "longitud": -86.2577602,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945217450",
+      "nombre": "Las Acacias 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1198537,
+      "longitud": -86.2646349,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945217451",
+      "nombre": "Las Acacias 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1186314,
+      "longitud": -86.264171,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945217452",
+      "nombre": "Las Flores",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1136243,
+      "longitud": -86.2593815,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945217453",
+      "nombre": "Los Robles",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1212007,
+      "longitud": -86.2653351,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945217454",
+      "nombre": "Noroeste Rotonda Centroamérica",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1133832,
+      "longitud": -86.2571589,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945217455",
+      "nombre": "Planes de Altamira 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.115056,
+      "longitud": -86.2640062,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945217456",
+      "nombre": "Sector Este Planes de Altamira 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.11563,
+      "longitud": -86.2608853,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945239729",
+      "nombre": "Sector Sur San Juan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1136064,
+      "longitud": -86.270942,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945239730",
+      "nombre": "Sector Sureste San Juan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1151291,
+      "longitud": -86.266714,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945268484",
+      "nombre": "Barrio La Luz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1298974,
+      "longitud": -86.2589036,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945268485",
+      "nombre": "Colonial Los Robles 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1274466,
+      "longitud": -86.2627351,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945268486",
+      "nombre": "Colonial Los Robles 4",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1236765,
+      "longitud": -86.2596236,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945268487",
+      "nombre": "Colonial Los Robles 5",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1286197,
+      "longitud": -86.2605107,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945268488",
+      "nombre": "Colonial Los Robles 6",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1239963,
+      "longitud": -86.2564531,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945268489",
+      "nombre": "Los Robles 8",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1270606,
+      "longitud": -86.2581865,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945268490",
+      "nombre": "Metrocentro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.127596,
+      "longitud": -86.2646516,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945272889",
+      "nombre": "Villa Amor",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1266298,
+      "longitud": -86.2569863,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945283769",
+      "nombre": "Los Chilamates",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1218073,
+      "longitud": -86.2555742,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945283770",
+      "nombre": "Colonial Los Robles 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1213916,
+      "longitud": -86.2605864,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3945283771",
+      "nombre": "Colonial Los Robles 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1216444,
+      "longitud": -86.2583522,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946309024",
+      "nombre": "Planes de Altamira 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1198664,
+      "longitud": -86.2599906,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946309025",
+      "nombre": "Planes de Altamira 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1186346,
+      "longitud": -86.2571528,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946309026",
+      "nombre": "Sector Central Los Robles",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1226835,
+      "longitud": -86.2619007,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946367765",
+      "nombre": "Habana 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.132513,
+      "longitud": -86.2557969,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946451857",
+      "nombre": "Aldo Chavarría",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1300101,
+      "longitud": -86.2551171,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946451858",
+      "nombre": "Pista El Dorado",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1355961,
+      "longitud": -86.2508764,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946451859",
+      "nombre": "Sector Este Radial Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.130814,
+      "longitud": -86.2555246,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946451860",
+      "nombre": "Sector Sureste Rotonda Cristo Rey",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1336665,
+      "longitud": -86.2551987,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946487996",
+      "nombre": "Revolución",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1293775,
+      "longitud": -86.2490949,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946563358",
+      "nombre": "Barrio Santos López",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1201335,
+      "longitud": -86.2478277,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946563359",
+      "nombre": "Hospital Manolo Morales",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1226393,
+      "longitud": -86.2462798,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946563360",
+      "nombre": "Isaías Gómez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1249245,
+      "longitud": -86.2487787,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3946563361",
+      "nombre": "Liberia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1268773,
+      "longitud": -86.2493984,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948193640",
+      "nombre": "Comarca Las Viudas Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0863396,
+      "longitud": -86.2788699,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948193641",
+      "nombre": "Comarca Las Viudas Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0587087,
+      "longitud": -86.2755425,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948193642",
+      "nombre": "El Progreso",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0987709,
+      "longitud": -86.275119,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948193643",
+      "nombre": "Las Veraneras",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1028997,
+      "longitud": -86.2716418,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948193644",
+      "nombre": "Los Ladinos Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1086919,
+      "longitud": -86.2811261,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948193645",
+      "nombre": "Los Ladinos Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0981069,
+      "longitud": -86.281107,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948193646",
+      "nombre": "Miguel Bonilla",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.102267,
+      "longitud": -86.2742496,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948193647",
+      "nombre": "Mokorón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1060164,
+      "longitud": -86.2770545,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948193648",
+      "nombre": "Sector Universitaria SE",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1107473,
+      "longitud": -86.2747077,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948193649",
+      "nombre": "UNAN Managua",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1086193,
+      "longitud": -86.2698154,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948281880",
+      "nombre": "Gloria",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0857996,
+      "longitud": -86.2724837,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948281881",
+      "nombre": "Sector Comarca Jocote Dulce",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0897315,
+      "longitud": -86.2734569,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948281882",
+      "nombre": "Miralagos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0833917,
+      "longitud": -86.2653775,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948325106",
+      "nombre": "Bosques del Recreo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0956834,
+      "longitud": -86.2658944,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948325107",
+      "nombre": "Vincent Poujardeu",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0850881,
+      "longitud": -86.2664917,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948653104",
+      "nombre": "Combatiente Desconocido",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0898827,
+      "longitud": -86.2680292,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948653105",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0680203,
+      "longitud": -86.2680018,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948653106",
+      "nombre": "Portal del Bosque",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0563432,
+      "longitud": -86.2693522,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948653107",
+      "nombre": "Sector Colegio Centroamérica",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0985086,
+      "longitud": -86.26702,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3948653108",
+      "nombre": "Sector Sur Comarca Jocote Dulce",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0804361,
+      "longitud": -86.2676435,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949333957",
+      "nombre": "Los Ángeles 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0661007,
+      "longitud": -86.2719947,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949333958",
+      "nombre": "Sector Oeste San Isidro de la Cruz Verde",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0796324,
+      "longitud": -86.2646176,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949333959",
+      "nombre": "Sector Sur Jocote Dulce",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0612595,
+      "longitud": -86.2670037,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949375321",
+      "nombre": "Altomonte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0767579,
+      "longitud": -86.247506,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949375322",
+      "nombre": "El Obelisco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0836506,
+      "longitud": -86.2458885,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949375323",
+      "nombre": "La Qunita",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0814465,
+      "longitud": -86.2495132,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949375324",
+      "nombre": "Los Altos de Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0832267,
+      "longitud": -86.2465055,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949375325",
+      "nombre": "Sector Este Altomonte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0776477,
+      "longitud": -86.2448176,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949375326",
+      "nombre": "Sector SE Altomonte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0748686,
+      "longitud": -86.2463781,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949375327",
+      "nombre": "Sector SO Altomonte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0754254,
+      "longitud": -86.2510853,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949375328",
+      "nombre": "Sector Sur Altos De Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0791571,
+      "longitud": -86.2486429,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949382544",
+      "nombre": "San Isidro de la Cruz Verde",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0837637,
+      "longitud": -86.2613725,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949382545",
+      "nombre": "Sector Sur San Isidro de la Cruz Verde",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0720753,
+      "longitud": -86.260651,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949399660",
+      "nombre": "Jacarandas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0843936,
+      "longitud": -86.2507561,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949399661",
+      "nombre": "Los Andes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0841566,
+      "longitud": -86.2530112,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949399662",
+      "nombre": "Sector Norte San Isidro de la Cruz Verde",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0919489,
+      "longitud": -86.2605513,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949410760",
+      "nombre": "Altos de Las Cumbres",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0972888,
+      "longitud": -86.2565489,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949410761",
+      "nombre": "Bosques del Terraza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0967307,
+      "longitud": -86.2600398,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949410762",
+      "nombre": "Las Cumbres",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1000177,
+      "longitud": -86.2575393,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949410763",
+      "nombre": "Mirador de Las Cumbres",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0978482,
+      "longitud": -86.2567193,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949410764",
+      "nombre": "Portal del Carmen",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0985656,
+      "longitud": -86.2552814,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949410765",
+      "nombre": "Sector Este Bosques del Terraza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0970288,
+      "longitud": -86.257969,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949410766",
+      "nombre": "Vargas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.097559,
+      "longitud": -86.2581382,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949424665",
+      "nombre": "Anexo Cruz Del Paraíso",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1000156,
+      "longitud": -86.2520794,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949424666",
+      "nombre": "Santa Clara 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1022002,
+      "longitud": -86.2529252,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949424667",
+      "nombre": "Santa Mónica",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.101303,
+      "longitud": -86.2531951,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949424668",
+      "nombre": "Sector Norte Cruz Del Paraíso",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0989305,
+      "longitud": -86.2506078,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949424669",
+      "nombre": "Sector Sur Pista Jean Paul Genie",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1022575,
+      "longitud": -86.2542905,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949424670",
+      "nombre": "Villa Bellini",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0948671,
+      "longitud": -86.250254,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949439016",
+      "nombre": "Magnolias",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0995532,
+      "longitud": -86.2460787,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949439017",
+      "nombre": "Sector Norte El Mirador",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0979797,
+      "longitud": -86.2430508,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949439018",
+      "nombre": "Sector Sur Cruz Del Paraíso",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0939835,
+      "longitud": -86.250341,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3949439019",
+      "nombre": "Sector Sur Rotonda Jean Paul Genie",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1022603,
+      "longitud": -86.247444,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3952993689",
+      "nombre": "Sector La Salle",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1104724,
+      "longitud": -86.2667824,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953002122",
+      "nombre": "Casa Fontana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1075368,
+      "longitud": -86.2652272,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953002123",
+      "nombre": "Roma",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1077563,
+      "longitud": -86.2638071,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953030105",
+      "nombre": "Inmaculada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1058328,
+      "longitud": -86.2611697,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953030106",
+      "nombre": "Madroños 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1051942,
+      "longitud": -86.2612124,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953030107",
+      "nombre": "Mirasol",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1036641,
+      "longitud": -86.2594265,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953030108",
+      "nombre": "Sector Norte Villa Fontana Este",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1046141,
+      "longitud": -86.2604208,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953030109",
+      "nombre": "Villa Fontana Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1108711,
+      "longitud": -86.2638259,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953030110",
+      "nombre": "Villa Fontana Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1033874,
+      "longitud": -86.2671277,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953070236",
+      "nombre": "Planes De Puntaldía",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1064354,
+      "longitud": -86.2561156,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953070237",
+      "nombre": "Sector Camino De Oriente",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1107865,
+      "longitud": -86.2548348,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953070238",
+      "nombre": "Sector Este Villas Italianas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1046697,
+      "longitud": -86.2568669,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953070239",
+      "nombre": "Sector Noroeste Rotonda Jean Paul Genie",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1062321,
+      "longitud": -86.2520068,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953070240",
+      "nombre": "Sector Suroeste Camino De Oriente",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1099146,
+      "longitud": -86.2583763,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3953070241",
+      "nombre": "Villas Italianas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1045556,
+      "longitud": -86.2581378,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3954397653",
+      "nombre": "La Rioja",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0982507,
+      "longitud": -86.2539342,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3954397654",
+      "nombre": "Sector Sur Club Terraza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0991312,
+      "longitud": -86.2608922,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3955873009",
+      "nombre": "Alameda 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0969934,
+      "longitud": -86.2444532,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3955873010",
+      "nombre": "Las Lomas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0958914,
+      "longitud": -86.2447113,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3955873011",
+      "nombre": "Notre Dame",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0944246,
+      "longitud": -86.2448518,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3955873012",
+      "nombre": "Viejo Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0961703,
+      "longitud": -86.2471857,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3955932783",
+      "nombre": "Mirador Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0928923,
+      "longitud": -86.2430854,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3955932784",
+      "nombre": "Mirador Sur Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0887587,
+      "longitud": -86.2474048,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3955932785",
+      "nombre": "Mirador Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0883192,
+      "longitud": -86.2454605,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3955932786",
+      "nombre": "Mision El Mirador",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0875002,
+      "longitud": -86.2486628,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3955979983",
+      "nombre": "Los Membreños",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0890497,
+      "longitud": -86.2514543,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3955979984",
+      "nombre": "Sector Norte Los Andes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0857314,
+      "longitud": -86.253264,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3956120400",
+      "nombre": "Hilario Sánchez 4",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1543701,
+      "longitud": -86.2472779,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3956120401",
+      "nombre": "Planta Eléctrica de Managua",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1545599,
+      "longitud": -86.2575347,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958576734",
+      "nombre": "Barricada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1573195,
+      "longitud": -86.2423739,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958576735",
+      "nombre": "Riguero Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1535369,
+      "longitud": -86.2395124,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958934745",
+      "nombre": "Barrio Santa Rosa",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1485235,
+      "longitud": -86.2278019,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958934746",
+      "nombre": "Domitila Lugo",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1552091,
+      "longitud": -86.2314308,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958934747",
+      "nombre": "Santa Clara 2 (Costa del Lago)",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1597673,
+      "longitud": -86.233236,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958934748",
+      "nombre": "Sector Este Portezuelo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1534182,
+      "longitud": -86.223309,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958961156",
+      "nombre": "Bello Horizonte 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1475978,
+      "longitud": -86.2328555,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958967157",
+      "nombre": "Barrio Costa Rica",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1478578,
+      "longitud": -86.2387148,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958967158",
+      "nombre": "Maestro Gabriel",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1452451,
+      "longitud": -86.2370094,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958967159",
+      "nombre": "Pedro Arauz Palacios",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1454083,
+      "longitud": -86.2276399,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3958969942",
+      "nombre": "Leonel Rugama",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1519465,
+      "longitud": -86.2486259,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3959961173",
+      "nombre": "Anexo Jardines De Santa Clara",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1594291,
+      "longitud": -86.2312818,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3959961174",
+      "nombre": "Sector Oeste Portezuelo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1611418,
+      "longitud": -86.227122,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3960189925",
+      "nombre": "Nueva Libia 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1408319,
+      "longitud": -86.226259,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3960189926",
+      "nombre": "Nueva Libia 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1422804,
+      "longitud": -86.2252846,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3960428557",
+      "nombre": "Bello Horizonte 4",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1440975,
+      "longitud": -86.2320357,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3960428558",
+      "nombre": "Bello Horizonte 6",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1438123,
+      "longitud": -86.2282942,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3960643957",
+      "nombre": "Bello Horizonte 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1417779,
+      "longitud": -86.2343574,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3960643958",
+      "nombre": "Bello Horizonte 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1405807,
+      "longitud": -86.2322972,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3960643959",
+      "nombre": "Bello Horizonte 5",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1405576,
+      "longitud": -86.2284891,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3960743857",
+      "nombre": "Christian Pérez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1414245,
+      "longitud": -86.2365426,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3964724408",
+      "nombre": "Loma Alegre",
+      "tipo_localidad": "village",
+      "latitud": 11.7511353,
+      "longitud": -86.4491071,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3964724409",
+      "nombre": "Los Espinocitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8101676,
+      "longitud": -86.4126648,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3964724410",
+      "nombre": "Los Gaijtos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8129325,
+      "longitud": -86.4389749,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3964724411",
+      "nombre": "Paso Carretera",
+      "tipo_localidad": "village",
+      "latitud": 11.7576261,
+      "longitud": -86.4407511,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/3964724412",
+      "nombre": "San Lorenzo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8071389,
+      "longitud": -86.4532559,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4008689723",
+      "nombre": "Ciudad El Doral",
+      "tipo_localidad": "village",
+      "latitud": 12.1991305,
+      "longitud": -86.3868106,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4010498213",
+      "nombre": "El Malniche",
+      "tipo_localidad": "village",
+      "latitud": 12.1923851,
+      "longitud": -86.3664993,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4010498216",
+      "nombre": "Las Colinas",
+      "tipo_localidad": "village",
+      "latitud": 12.1964007,
+      "longitud": -86.3692092,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4010498218",
+      "nombre": "San Francisco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1921688,
+      "longitud": -86.4127686,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4010498219",
+      "nombre": "San Gertrudis",
+      "tipo_localidad": "village",
+      "latitud": 12.199876,
+      "longitud": -86.367489,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4014623394",
+      "nombre": "San Andrés de La Palanca",
+      "tipo_localidad": "village",
+      "latitud": 12.1688568,
+      "longitud": -86.4067674,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4014623395",
+      "nombre": "Vistas del Momotombo",
+      "tipo_localidad": "village",
+      "latitud": 12.2185285,
+      "longitud": -86.3989038,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4076822796",
+      "nombre": "San Ramón",
+      "tipo_localidad": "village",
+      "latitud": 12.3357086,
+      "longitud": -86.2127262,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4079455593",
+      "nombre": "El Madroñito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4470991,
+      "longitud": -86.2142961,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4079455595",
+      "nombre": "San Roque",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4423741,
+      "longitud": -86.2103157,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4079455596",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4544536,
+      "longitud": -86.2109809,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4079455597",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3882503,
+      "longitud": -86.1542093,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4079460843",
+      "nombre": "1ro del Mayo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4183758,
+      "longitud": -86.1529996,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4080493253",
+      "nombre": "Quebrada Honda",
+      "tipo_localidad": "village",
+      "latitud": 12.3598139,
+      "longitud": -86.050499,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4080870104",
+      "nombre": "Ulises Tapia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2791234,
+      "longitud": -86.0627185,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4080870105",
+      "nombre": "San Benito",
+      "tipo_localidad": "village",
+      "latitud": 12.313942,
+      "longitud": -86.0667565,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4080870106",
+      "nombre": "Colonia Roque",
+      "tipo_localidad": "village",
+      "latitud": 12.2858875,
+      "longitud": -86.0591166,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4080870107",
+      "nombre": "La Florida",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2883839,
+      "longitud": -86.0589012,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4081978939",
+      "nombre": "Las Canoas",
+      "tipo_localidad": "village",
+      "latitud": 12.3175851,
+      "longitud": -86.0014085,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4081978941",
+      "nombre": "San Emilio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3147078,
+      "longitud": -86.0178612,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4082283091",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "village",
+      "latitud": 12.2692622,
+      "longitud": -86.0062087,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4082283094",
+      "nombre": "El Triunfo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2415272,
+      "longitud": -85.9828794,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4082283104",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2140941,
+      "longitud": -85.8786107,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4082283106",
+      "nombre": "Victoria de Julio",
+      "tipo_localidad": "village",
+      "latitud": 12.2472466,
+      "longitud": -86.0012955,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4091603806",
+      "nombre": "Ciudadela San Martín",
+      "tipo_localidad": "village",
+      "latitud": 12.2254344,
+      "longitud": -86.0881046,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4091603808",
+      "nombre": "La Carbonera",
+      "tipo_localidad": "village",
+      "latitud": 12.183707,
+      "longitud": -86.042197,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4091603809",
+      "nombre": "Pinar del Río",
+      "tipo_localidad": "village",
+      "latitud": 12.2074793,
+      "longitud": -86.0837745,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4091603810",
+      "nombre": "San Juan",
+      "tipo_localidad": "village",
+      "latitud": 12.1653538,
+      "longitud": -86.034204,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4091603811",
+      "nombre": "San Judas",
+      "tipo_localidad": "village",
+      "latitud": 12.2188232,
+      "longitud": -86.0619691,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4093016713",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2392423,
+      "longitud": -86.0866053,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4093016714",
+      "nombre": "San Rafael",
+      "tipo_localidad": "village",
+      "latitud": 12.1643815,
+      "longitud": -86.1098755,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4093617795",
+      "nombre": "Zambrano",
+      "tipo_localidad": "village",
+      "latitud": 12.1456852,
+      "longitud": -86.0781651,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4101066886",
+      "nombre": "El Jocotal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.538002,
+      "longitud": -86.2242655,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4101066888",
+      "nombre": "La Uva",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5761509,
+      "longitud": -86.210603,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4101067092",
+      "nombre": "Valle Tepochapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5513357,
+      "longitud": -86.2168623,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4102771238",
+      "nombre": "La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5430756,
+      "longitud": -86.0181748,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4102771246",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "village",
+      "latitud": 12.5399351,
+      "longitud": -86.0498209,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4102771247",
+      "nombre": "San Agustín",
+      "tipo_localidad": "village",
+      "latitud": 12.5622974,
+      "longitud": -86.0504826,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4103133611",
+      "nombre": "San José del Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6011381,
+      "longitud": -86.2371193,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4103983752",
+      "nombre": "El Riego",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5844347,
+      "longitud": -86.1495063,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4106721035",
+      "nombre": "El Nancital",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5305979,
+      "longitud": -86.1108252,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4106721049",
+      "nombre": "La Avellana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4481278,
+      "longitud": -85.9732789,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4106721050",
+      "nombre": "La Cuchilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4822304,
+      "longitud": -85.9803599,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4106721059",
+      "nombre": "Las Lajas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5060527,
+      "longitud": -86.1212912,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4106721061",
+      "nombre": "Las Mesas de Acicaya",
+      "tipo_localidad": "village",
+      "latitud": 12.4678213,
+      "longitud": -86.0015011,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4108829317",
+      "nombre": "Las Cruces",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6356354,
+      "longitud": -86.2741655,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4108829320",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6258049,
+      "longitud": -86.2788271,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4110790448",
+      "nombre": "El Bijagua",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6210647,
+      "longitud": -86.285052,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4717667889",
+      "nombre": "San José de La Montaña",
+      "tipo_localidad": "village",
+      "latitud": 11.9028701,
+      "longitud": -86.3589048,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/4832005833",
+      "nombre": "Condominios Madroño",
+      "tipo_localidad": "village",
+      "latitud": 12.0749598,
+      "longitud": -86.2533331,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5002021777",
+      "nombre": "Ciudad Belén",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1314734,
+      "longitud": -86.159162,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5108357604",
+      "nombre": "Quizala",
+      "tipo_localidad": "village",
+      "latitud": 11.8359638,
+      "longitud": -86.5415425,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5176760321",
+      "nombre": "Urbanización San Miguel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1571205,
+      "longitud": -86.3738467,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5446122796",
+      "nombre": "Urbanización 15 de Mayo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1491018,
+      "longitud": -86.1735884,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5446122797",
+      "nombre": "Urbanización Acrópolis",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1136188,
+      "longitud": -86.2756856,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5446163375",
+      "nombre": "Urbanización Ríos de Agua Viva",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1172762,
+      "longitud": -86.1698598,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5446163376",
+      "nombre": "Urbanización Villa Sol",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1017214,
+      "longitud": -86.159851,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5446421769",
+      "nombre": "Cortijo La Sabana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1250472,
+      "longitud": -86.1837334,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5446421771",
+      "nombre": "El mirador Santo Domingo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0904886,
+      "longitud": -86.2466929,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5446650684",
+      "nombre": "Fraccionamiento Metrópolis",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0851401,
+      "longitud": -86.2318943,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5482924812",
+      "nombre": "Altos de las Brisas",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1503601,
+      "longitud": -86.3325887,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5483992896",
+      "nombre": "La Jaguitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0404341,
+      "longitud": -86.3906231,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5485757006",
+      "nombre": "El Milagro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4631869,
+      "longitud": -86.0395311,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5485757010",
+      "nombre": "Las Palmas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4640613,
+      "longitud": -85.9736309,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5489182594",
+      "nombre": "El Anzuelo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1469802,
+      "longitud": -86.2618251,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5489182596",
+      "nombre": "San Rafael",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1488143,
+      "longitud": -86.2639396,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5569772689",
+      "nombre": "Lotificación Guardabarranco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1260365,
+      "longitud": -86.1686755,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5571948407",
+      "nombre": "El sosiego",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0877315,
+      "longitud": -86.3213315,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5572079905",
+      "nombre": "Barrio Marvin Marín",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1073993,
+      "longitud": -86.2925544,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5572079911",
+      "nombre": "Colonia Argüello",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1282379,
+      "longitud": -86.3161876,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5572079912",
+      "nombre": "Colonia Molina",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1253461,
+      "longitud": -86.3156454,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5672998462",
+      "nombre": "José Benito Escobar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2351935,
+      "longitud": -86.4341892,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5686164722",
+      "nombre": "Villa Dignidad",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1336149,
+      "longitud": -86.1789517,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5897420224",
+      "nombre": "Las Carpas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9803389,
+      "longitud": -86.2373166,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5897481671",
+      "nombre": "La Soledad",
+      "tipo_localidad": "village",
+      "latitud": 12.004165,
+      "longitud": -86.2159123,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5900336355",
+      "nombre": "Callejón de La Cebadilla",
+      "tipo_localidad": "village",
+      "latitud": 12.0122049,
+      "longitud": -86.1962957,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5900336356",
+      "nombre": "Los Arias",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0157823,
+      "longitud": -86.1968742,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5900336357",
+      "nombre": "Santa Emilia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0071707,
+      "longitud": -86.2008526,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5900336358",
+      "nombre": "Los Ortices",
+      "tipo_localidad": "village",
+      "latitud": 12.0011773,
+      "longitud": -86.1995703,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5909026332",
+      "nombre": "Leonel Reynosa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0499148,
+      "longitud": -86.2168688,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/5973277766",
+      "nombre": "Barrio Benjamín Zeledón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.017615,
+      "longitud": -86.2035114,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/6069729885",
+      "nombre": "La Estrella",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9990256,
+      "longitud": -86.2994848,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/6253771376",
+      "nombre": "Barrio Oswaldo Manzanares",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1464794,
+      "longitud": -86.2158232,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/6276843389",
+      "nombre": "Comarca Cuajachillo # 2",
+      "tipo_localidad": "suburb",
+      "latitud": 12.118513,
+      "longitud": -86.3755379,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/6772181999",
+      "nombre": "Barrio Pantasma",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1350363,
+      "longitud": -86.2464195,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/6848155147",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0080396,
+      "longitud": -86.5370723,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/6848155150",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0050947,
+      "longitud": -86.5329257,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/6848155151",
+      "nombre": "La Garnacha",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0141497,
+      "longitud": -86.5367089,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/6848155152",
+      "nombre": "Buenos Aires Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0025484,
+      "longitud": -86.5332113,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/8615044112",
+      "nombre": "Monte Fresco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1553421,
+      "longitud": -86.1494125,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/8750724688",
+      "nombre": "Villa Austria",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1316004,
+      "longitud": -86.2220514,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/9264557096",
+      "nombre": "Anexo Barrio La Primavera",
+      "tipo_localidad": "suburb",
+      "latitud": 12.1583287,
+      "longitud": -86.2188961,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/9882411074",
+      "nombre": "Etapa II",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1570953,
+      "longitud": -86.3682568,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10060941590",
+      "nombre": "Abraham Sequeira",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0493763,
+      "longitud": -86.5085297,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10060947047",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0405047,
+      "longitud": -86.5110016,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10060947073",
+      "nombre": "La Ponderosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0389492,
+      "longitud": -86.5034673,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10060947087",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0195625,
+      "longitud": -86.5165397,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10060947313",
+      "nombre": "Waterloo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9947659,
+      "longitud": -86.5162007,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10063892601",
+      "nombre": "El Apante",
+      "tipo_localidad": "village",
+      "latitud": 11.9649566,
+      "longitud": -86.4905548,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10067789521",
+      "nombre": "La Gallina",
+      "tipo_localidad": "village",
+      "latitud": 11.8297893,
+      "longitud": -86.5060113,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10067789569",
+      "nombre": "Empalme Trasmayo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8093725,
+      "longitud": -86.4927794,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068483458",
+      "nombre": "San Cristóbal (Tastoloya)",
+      "tipo_localidad": "village",
+      "latitud": 11.8706435,
+      "longitud": -86.3902209,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068483485",
+      "nombre": "San Cristóbal (Tastoloya)",
+      "tipo_localidad": "village",
+      "latitud": 11.8967494,
+      "longitud": -86.3685104,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068483487",
+      "nombre": "El Trapiche",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9110944,
+      "longitud": -86.3381378,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068493336",
+      "nombre": "El Manzano",
+      "tipo_localidad": "village",
+      "latitud": 11.8876199,
+      "longitud": -86.350613,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068493344",
+      "nombre": "Los Córdobas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8546564,
+      "longitud": -86.3886862,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068493363",
+      "nombre": "Santa Rita del Este",
+      "tipo_localidad": "village",
+      "latitud": 11.8453516,
+      "longitud": -86.3842416,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068493380",
+      "nombre": "La Junta",
+      "tipo_localidad": "village",
+      "latitud": 11.7907159,
+      "longitud": -86.4159429,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068584638",
+      "nombre": "Barba del Tigre",
+      "tipo_localidad": "village",
+      "latitud": 11.9269967,
+      "longitud": -86.3603485,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068604285",
+      "nombre": "La Montaña",
+      "tipo_localidad": "village",
+      "latitud": 12.0884634,
+      "longitud": -86.3862312,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068604305",
+      "nombre": "Bélgica",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1050684,
+      "longitud": -86.3923103,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10068604309",
+      "nombre": "El Anzuelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1241543,
+      "longitud": -86.397841,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/10069120414",
+      "nombre": "Residencial Las Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0446971,
+      "longitud": -86.3449357,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11090704984",
+      "nombre": "Los Narvaez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.807119,
+      "longitud": -86.4106465,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106074086",
+      "nombre": "El Hato",
+      "tipo_localidad": "village",
+      "latitud": 11.8863754,
+      "longitud": -86.4575636,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106074087",
+      "nombre": "Quebrada de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.905325,
+      "longitud": -86.455949,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106074089",
+      "nombre": "Los Leonardos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9200849,
+      "longitud": -86.4435411,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106074093",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.929669,
+      "longitud": -86.4138919,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106084671",
+      "nombre": "Los Hurtados",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.839279,
+      "longitud": -86.4306987,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106084673",
+      "nombre": "El Tamarindo",
+      "tipo_localidad": "village",
+      "latitud": 11.8415392,
+      "longitud": -86.4855552,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106084674",
+      "nombre": "Turbina",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8443613,
+      "longitud": -86.4858878,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106084676",
+      "nombre": "San Miguelito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8345852,
+      "longitud": -86.4660931,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106084677",
+      "nombre": "Los Jaras",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8476164,
+      "longitud": -86.4625043,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106084684",
+      "nombre": "Las Cañas",
+      "tipo_localidad": "village",
+      "latitud": 11.938308,
+      "longitud": -86.4935267,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11106084685",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.940591,
+      "longitud": -86.4776802,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11108635202",
+      "nombre": "Pochomil Viejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7556027,
+      "longitud": -86.4875185,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11108635203",
+      "nombre": "El Madroñal",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.7710008,
+      "longitud": -86.4987195,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11108635220",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7745509,
+      "longitud": -86.4716828,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11108635221",
+      "nombre": "El Pozo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7773027,
+      "longitud": -86.478281,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11108635222",
+      "nombre": "San Pedro",
+      "tipo_localidad": "village",
+      "latitud": 11.7834364,
+      "longitud": -86.4718974,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11108635224",
+      "nombre": "El Bongo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7986492,
+      "longitud": -86.4937735,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11108635257",
+      "nombre": "Los Velázquez",
+      "tipo_localidad": "village",
+      "latitud": 11.8110624,
+      "longitud": -86.3883466,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11108635260",
+      "nombre": "La Campagna",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8073081,
+      "longitud": -86.3865495,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11108635268",
+      "nombre": "La Cualición",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7856472,
+      "longitud": -86.4162415,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11109949123",
+      "nombre": "Sánchez Sur",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8230393,
+      "longitud": -86.3878799,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11109949129",
+      "nombre": "Los Gateros",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8274525,
+      "longitud": -86.4180628,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11443740211",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4038938,
+      "longitud": -86.1658734,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11472216773",
+      "nombre": "La Virgen",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8007758,
+      "longitud": -86.4757383,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11501452122",
+      "nombre": "San Jorge",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.52492,
+      "longitud": -86.1848152,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11501626881",
+      "nombre": "San Juan",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.53023,
+      "longitud": -86.1793971,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11630855017",
+      "nombre": "Los Tiesos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5420174,
+      "longitud": -86.3051552,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11632889841",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5998208,
+      "longitud": -86.351257,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11632889852",
+      "nombre": "Las Mojarras Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5962373,
+      "longitud": -86.3530782,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11632961446",
+      "nombre": "Los Piches",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5915386,
+      "longitud": -86.3377225,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11632961463",
+      "nombre": "La Uva",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5923972,
+      "longitud": -86.3121557,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11632961486",
+      "nombre": "El Obraje",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5918003,
+      "longitud": -86.3000965,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11632961537",
+      "nombre": "San Blas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5766801,
+      "longitud": -86.2847865,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11632961555",
+      "nombre": "San Benito Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5698369,
+      "longitud": -86.2813425,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11632961578",
+      "nombre": "San Benito",
+      "tipo_localidad": "village",
+      "latitud": 12.5696484,
+      "longitud": -86.2695193,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11633597331",
+      "nombre": "Las Huertas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.604433,
+      "longitud": -86.3452113,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11639218608",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3055277,
+      "longitud": -86.0453618,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11641393680",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5493195,
+      "longitud": -86.3571257,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11642031164",
+      "nombre": "Santa María",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5586791,
+      "longitud": -86.3437951,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11645679034",
+      "nombre": "El Caracol",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5106599,
+      "longitud": -86.1508799,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11645682703",
+      "nombre": "Cerro Bonito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5007381,
+      "longitud": -86.1326623,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11645682704",
+      "nombre": "El Terrerito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5157031,
+      "longitud": -86.1222339,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/11649341997",
+      "nombre": "Valle San Juan",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5394385,
+      "longitud": -85.9984365,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760891",
+      "nombre": "Cortijo de La Sierra",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0621102,
+      "longitud": -86.2159516,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760902",
+      "nombre": "Monte Clara",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0543808,
+      "longitud": -86.2167325,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760903",
+      "nombre": "Valle Santa María",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0477759,
+      "longitud": -86.2121138,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760904",
+      "nombre": "Villa Valeska I",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0481116,
+      "longitud": -86.2152412,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760905",
+      "nombre": "Villa Valeska II",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0469889,
+      "longitud": -86.2155041,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760906",
+      "nombre": "Villa Carolina",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.049035,
+      "longitud": -86.2151983,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760907",
+      "nombre": "Versalles",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.047587,
+      "longitud": -86.2173387,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760908",
+      "nombre": "Villas Kelly",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0448303,
+      "longitud": -86.2134655,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760909",
+      "nombre": "Las Rosaledas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0454751,
+      "longitud": -86.2111855,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760918",
+      "nombre": "Villa San Martin",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0432122,
+      "longitud": -86.2222275,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760919",
+      "nombre": "Villas del Prado",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0673007,
+      "longitud": -86.2176376,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760920",
+      "nombre": "Puertas del Sol",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0694492,
+      "longitud": -86.2176721,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760921",
+      "nombre": "Sacuanjoche",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0681778,
+      "longitud": -86.217629,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12066760923",
+      "nombre": "Lomas de Monte Verde",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0483954,
+      "longitud": -86.2242318,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12278730282",
+      "nombre": "Los Fanores",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7607075,
+      "longitud": -86.4931941,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12322043082",
+      "nombre": "El Chalet",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9750337,
+      "longitud": -86.4704302,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12322043137",
+      "nombre": "Samaria Nº 4",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9874389,
+      "longitud": -86.5628216,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12322043138",
+      "nombre": "Samaria Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9885723,
+      "longitud": -86.5558612,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12322043202",
+      "nombre": "San Carlos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9926286,
+      "longitud": -86.5353102,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12322043221",
+      "nombre": "Samaria Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9941555,
+      "longitud": -86.5253913,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12322043222",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9873025,
+      "longitud": -86.5149468,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12322043259",
+      "nombre": "Maderas Negras",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9367413,
+      "longitud": -86.5102717,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12322043260",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "village",
+      "latitud": 11.9446217,
+      "longitud": -86.5072436,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12322043261",
+      "nombre": "El Llano",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9572645,
+      "longitud": -86.5109557,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324405120",
+      "nombre": "El Retiro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0981685,
+      "longitud": -86.5268505,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324418371",
+      "nombre": "El Quebracho",
+      "tipo_localidad": "village",
+      "latitud": 12.0854117,
+      "longitud": -86.5281969,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324418377",
+      "nombre": "El Conejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0790121,
+      "longitud": -86.50962,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324418539",
+      "nombre": "Los Mangos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1103426,
+      "longitud": -86.5194744,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324418609",
+      "nombre": "Los Garcia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1336242,
+      "longitud": -86.5306753,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324843006",
+      "nombre": "El Chapernal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0527826,
+      "longitud": -86.5005487,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324843035",
+      "nombre": "Valencia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0414663,
+      "longitud": -86.5024048,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324843203",
+      "nombre": "Los Reyes Norte Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0446587,
+      "longitud": -86.5166903,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324843217",
+      "nombre": "Los Reyes Sur",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0369492,
+      "longitud": -86.5304339,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324843252",
+      "nombre": "Santa Bárbara",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0521924,
+      "longitud": -86.5532461,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12324845829",
+      "nombre": "Los Pérez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0757283,
+      "longitud": -86.5491772,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460373",
+      "nombre": "Roberto Alvarado",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2339786,
+      "longitud": -86.4201254,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460374",
+      "nombre": "Marvin Ortega",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2354072,
+      "longitud": -86.4216489,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460375",
+      "nombre": "Anexos Pilar",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2344216,
+      "longitud": -86.4245242,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460376",
+      "nombre": "La Colonia San José",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2327178,
+      "longitud": -86.4227271,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460377",
+      "nombre": "Javier Saballos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2330952,
+      "longitud": -86.425707,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460384",
+      "nombre": "Casimiro Sotelo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.231837,
+      "longitud": -86.4290464,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460385",
+      "nombre": "Zona Central Casco Urbano",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2366104,
+      "longitud": -86.4292127,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460388",
+      "nombre": "La Santa Fé",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2327387,
+      "longitud": -86.4366102,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460400",
+      "nombre": "Reparto Isaac Andino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.236246,
+      "longitud": -86.4354998,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460401",
+      "nombre": "Alvaro José Alemán",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2381648,
+      "longitud": -86.4336115,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460421",
+      "nombre": "Sector Lago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2268922,
+      "longitud": -86.4149893,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460422",
+      "nombre": "Sector Lago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2395645,
+      "longitud": -86.430468,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460423",
+      "nombre": "Divino Pastor",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.238613,
+      "longitud": -86.4372942,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12374460424",
+      "nombre": "Faustino Mínguez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.2396956,
+      "longitud": -86.4361757,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12377340185",
+      "nombre": "El Triángulo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2203187,
+      "longitud": -86.3674334,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12377431446",
+      "nombre": "Iván López",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1103923,
+      "longitud": -86.5255898,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12535149079",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1309836,
+      "longitud": -86.5227253,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12535149081",
+      "nombre": "El Pavón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0940877,
+      "longitud": -86.4872342,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12594326400",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0633429,
+      "longitud": -86.5005273,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12597551052",
+      "nombre": "Azacualpa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0239586,
+      "longitud": -86.5165132,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12597551097",
+      "nombre": "San Jerónimo Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0225157,
+      "longitud": -86.5120179,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12597551276",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0034483,
+      "longitud": -86.5064738,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12597551277",
+      "nombre": "San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0042328,
+      "longitud": -86.5091854,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12598873512",
+      "nombre": "Borodino",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0037553,
+      "longitud": -86.5143084,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12599724315",
+      "nombre": "St. Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8888347,
+      "longitud": -86.5839145,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12599724317",
+      "nombre": "Miraflores",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8797138,
+      "longitud": -86.5760234,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12599724319",
+      "nombre": "El Conchital",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9066452,
+      "longitud": -86.5598041,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12610752696",
+      "nombre": "Carlos Pérez",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9213236,
+      "longitud": -86.5154135,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12610752709",
+      "nombre": "Barrio Los Dávila",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9164947,
+      "longitud": -86.5239269,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12610752836",
+      "nombre": "Silvio Mayorga",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.923885,
+      "longitud": -86.5145874,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12610753117",
+      "nombre": "La Aduana Nº 1",
+      "tipo_localidad": "village",
+      "latitud": 12.0005152,
+      "longitud": -86.4880014,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12613399387",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9652151,
+      "longitud": -86.3691312,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12613399428",
+      "nombre": "San José de Acoto",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9602991,
+      "longitud": -86.355541,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12613399429",
+      "nombre": "Nueva York",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9777782,
+      "longitud": -86.3419122,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12613399436",
+      "nombre": "Juan Dávila",
+      "tipo_localidad": "village",
+      "latitud": 11.958587,
+      "longitud": -86.3038141,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12613399515",
+      "nombre": "La Pacaya",
+      "tipo_localidad": "village",
+      "latitud": 11.9487212,
+      "longitud": -86.2997184,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12617061730",
+      "nombre": "Los Chocoyos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9517933,
+      "longitud": -86.373015,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12617062057",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9631317,
+      "longitud": -86.3740772,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12617062180",
+      "nombre": "Chichihualtepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9954464,
+      "longitud": -86.4070872,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12617062181",
+      "nombre": "Veracruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9869063,
+      "longitud": -86.3991679,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12619502224",
+      "nombre": "California",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9327761,
+      "longitud": -86.4918745,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12619502248",
+      "nombre": "Palestina",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9291808,
+      "longitud": -86.4929742,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621911405",
+      "nombre": "Bomba de Los Mangos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0725389,
+      "longitud": -86.5010047,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621935811",
+      "nombre": "Calle Nueva Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0931304,
+      "longitud": -86.4837286,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621935826",
+      "nombre": "Calle Nueva Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0878456,
+      "longitud": -86.4827979,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621935857",
+      "nombre": "Santa Martha",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0831771,
+      "longitud": -86.4722943,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621935885",
+      "nombre": "Monte Fresco Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0618268,
+      "longitud": -86.4485353,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621935908",
+      "nombre": "Monte Fresco Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0596943,
+      "longitud": -86.4601842,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621935918",
+      "nombre": "Carlos Fonseca Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0484282,
+      "longitud": -86.4703739,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621935996",
+      "nombre": "El Arca de Noé",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0421064,
+      "longitud": -86.4707708,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621936043",
+      "nombre": "San Martín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0373614,
+      "longitud": -86.4685106,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621936044",
+      "nombre": "El Brasil",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0141182,
+      "longitud": -86.448479,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12621936075",
+      "nombre": "Bella Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0204265,
+      "longitud": -86.4400145,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12626528647",
+      "nombre": "Los López",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9180064,
+      "longitud": -86.4741451,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12626528648",
+      "nombre": "Los Muñoz",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9454352,
+      "longitud": -86.498698,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12630672110",
+      "nombre": "El Refugio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9074076,
+      "longitud": -86.3839934,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12630672111",
+      "nombre": "Los Fierros",
+      "tipo_localidad": "village",
+      "latitud": 11.924751,
+      "longitud": -86.3278306,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12693333246",
+      "nombre": "El Cambio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2593084,
+      "longitud": -86.3920032,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12694307854",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5243288,
+      "longitud": -86.2282706,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12694307955",
+      "nombre": "El Movimiento",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.572204,
+      "longitud": -86.3604815,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12750821966",
+      "nombre": "La Borgoña",
+      "tipo_localidad": "village",
+      "latitud": 12.0133915,
+      "longitud": -86.2152636,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12750822014",
+      "nombre": "La Francia Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9946698,
+      "longitud": -86.2240183,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12750822057",
+      "nombre": "La Francia Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9871293,
+      "longitud": -86.2177259,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12750822131",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9955461,
+      "longitud": -86.2272424,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/12750822137",
+      "nombre": "Los Ríos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9852586,
+      "longitud": -86.2302142,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/13021867660",
+      "nombre": "Mesa de La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5113774,
+      "longitud": -86.0312131,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/13021892351",
+      "nombre": "El Madroño",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5390222,
+      "longitud": -86.0460591,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/13025674725",
+      "nombre": "Los Pocitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4407464,
+      "longitud": -85.9686559,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/13026925152",
+      "nombre": "Punta de Plancha",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2672224,
+      "longitud": -86.0755742,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/13134843995",
+      "nombre": "Urbanización La Paz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1243373,
+      "longitud": -86.2878463,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/13230029220",
+      "nombre": "Managua",
+      "tipo_localidad": "city",
+      "latitud": 12.1547116,
+      "longitud": -86.273725,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/13336396116",
+      "nombre": "Villa Progreso",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1400933,
+      "longitud": -86.2234604,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/13382509508",
+      "nombre": "Villa Flor Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.1234994,
+      "longitud": -86.2190951,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/13571494042",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "village",
+      "latitud": 12.1346941,
+      "longitud": -86.382274,
+      "departamento": "Managua"
+    },
+    {
+      "osm_id": "node/13571519821",
+      "nombre": "Las Pilas Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9731025,
+      "longitud": -86.4125669,
+      "departamento": "Managua"
+    }
+  ]
+}

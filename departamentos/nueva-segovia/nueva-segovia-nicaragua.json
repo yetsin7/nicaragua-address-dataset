@@ -1,0 +1,2958 @@
+{
+  "departamento": "Nueva Segovia",
+  "total_registros": 369,
+  "lugares": [
+    {
+      "osm_id": "node/302260821",
+      "nombre": "Ocotal",
+      "tipo_localidad": "city",
+      "latitud": 13.631951,
+      "longitud": -86.4744069,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/302524775",
+      "nombre": "Ciudad Antigua",
+      "tipo_localidad": "town",
+      "latitud": 13.6406794,
+      "longitud": -86.3081399,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/302524794",
+      "nombre": "San Fernando",
+      "tipo_localidad": "town",
+      "latitud": 13.675926,
+      "longitud": -86.3137149,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/302549038",
+      "nombre": "Mozonte",
+      "tipo_localidad": "town",
+      "latitud": 13.6601446,
+      "longitud": -86.4387195,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/303919077",
+      "nombre": "Wiwilí de Nueva Segovia",
+      "tipo_localidad": "town",
+      "latitud": 13.6271552,
+      "longitud": -85.8258438,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/303919120",
+      "nombre": "Quilalí",
+      "tipo_localidad": "town",
+      "latitud": 13.5675967,
+      "longitud": -86.0266729,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/303933173",
+      "nombre": "Santa Clara",
+      "tipo_localidad": "village",
+      "latitud": 13.706627,
+      "longitud": -86.2579883,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/303953079",
+      "nombre": "El Jícaro",
+      "tipo_localidad": "town",
+      "latitud": 13.7220754,
+      "longitud": -86.1368771,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/303953837",
+      "nombre": "Susucayán",
+      "tipo_localidad": "village",
+      "latitud": 13.6744873,
+      "longitud": -86.1708513,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/306620988",
+      "nombre": "Murra",
+      "tipo_localidad": "town",
+      "latitud": 13.7585611,
+      "longitud": -86.0188797,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/306948215",
+      "nombre": "San Bartolo",
+      "tipo_localidad": "village",
+      "latitud": 13.5337539,
+      "longitud": -85.9261882,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/460387450",
+      "nombre": "Dipilto",
+      "tipo_localidad": "town",
+      "latitud": 13.7203815,
+      "longitud": -86.5059797,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/460388421",
+      "nombre": "Macuelizo",
+      "tipo_localidad": "town",
+      "latitud": 13.6522138,
+      "longitud": -86.6129619,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/460388755",
+      "nombre": "Santa María",
+      "tipo_localidad": "town",
+      "latitud": 13.746359,
+      "longitud": -86.7082608,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/503206157",
+      "nombre": "Las Manos",
+      "tipo_localidad": "village",
+      "latitud": 13.7920768,
+      "longitud": -86.5695582,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1730424820",
+      "nombre": "La Estancia",
+      "tipo_localidad": "village",
+      "latitud": 13.8805181,
+      "longitud": -86.1676676,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1736265551",
+      "nombre": "El Amarillo",
+      "tipo_localidad": "village",
+      "latitud": 13.6379524,
+      "longitud": -86.6250151,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1736265571",
+      "nombre": "Los Calpules",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6555017,
+      "longitud": -86.6277922,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1736276625",
+      "nombre": "Ococona",
+      "tipo_localidad": "village",
+      "latitud": 13.7330112,
+      "longitud": -86.6226939,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1736532505",
+      "nombre": "Las Cruces II",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.6572614,
+      "longitud": -86.3986337,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1736532508",
+      "nombre": "San Antonio",
+      "tipo_localidad": "village",
+      "latitud": 13.6189925,
+      "longitud": -86.3891869,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1736532509",
+      "nombre": "El Yaraje",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6126216,
+      "longitud": -86.4486784,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1737146549",
+      "nombre": "Poza Galana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6796849,
+      "longitud": -86.6207837,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1737173396",
+      "nombre": "Dipilto Viejo",
+      "tipo_localidad": "village",
+      "latitud": 13.7411934,
+      "longitud": -86.5125576,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1738283049",
+      "nombre": "Las Cañas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6322876,
+      "longitud": -86.56948,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/1739083567",
+      "nombre": "Las Playas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7128527,
+      "longitud": -86.6163604,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2201382148",
+      "nombre": "La Selva",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.820315,
+      "longitud": -85.8773555,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2523876253",
+      "nombre": "La Laguna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7543658,
+      "longitud": -86.5313735,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2578758509",
+      "nombre": "Valle El Limón",
+      "tipo_localidad": "village",
+      "latitud": 13.8436402,
+      "longitud": -86.1950411,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2578758512",
+      "nombre": "Los Puntalitos",
+      "tipo_localidad": "village",
+      "latitud": 13.8241046,
+      "longitud": -86.1830462,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2578758513",
+      "nombre": "Santa Cruz",
+      "tipo_localidad": "village",
+      "latitud": 13.8384029,
+      "longitud": -86.1368747,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2740444502",
+      "nombre": "La Chinampa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7640609,
+      "longitud": -86.6684849,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2740444580",
+      "nombre": "El Zurzular",
+      "tipo_localidad": "village",
+      "latitud": 13.765656,
+      "longitud": -86.6368691,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2740450678",
+      "nombre": "Suyatal",
+      "tipo_localidad": "village",
+      "latitud": 13.7816326,
+      "longitud": -86.580099,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2744081667",
+      "nombre": "Jalapa",
+      "tipo_localidad": "town",
+      "latitud": 13.9220301,
+      "longitud": -86.1253458,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2744083841",
+      "nombre": "Las Cruces",
+      "tipo_localidad": "village",
+      "latitud": 13.6620293,
+      "longitud": -86.4009083,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2750666367",
+      "nombre": "Quisulí",
+      "tipo_localidad": "village",
+      "latitud": 13.6662529,
+      "longitud": -86.4256242,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2823816301",
+      "nombre": "Panalí",
+      "tipo_localidad": "village",
+      "latitud": 13.5213087,
+      "longitud": -85.9850202,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2824856116",
+      "nombre": "La Lagerta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6075306,
+      "longitud": -85.8327387,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2859337717",
+      "nombre": "Caulatú",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5954642,
+      "longitud": -86.0209571,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2859368918",
+      "nombre": "El Barro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.53551,
+      "longitud": -85.9778086,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2859368919",
+      "nombre": "El Progreso de Tasajera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5518825,
+      "longitud": -85.9409647,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2859368920",
+      "nombre": "Guaná",
+      "tipo_localidad": "village",
+      "latitud": 13.5054092,
+      "longitud": -85.9670129,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2859368921",
+      "nombre": "La Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5004871,
+      "longitud": -85.9567215,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2859368922",
+      "nombre": "La Reforma",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.5328532,
+      "longitud": -85.9333739,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2860150727",
+      "nombre": "Casa Vieja",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5307808,
+      "longitud": -85.8647935,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2860150729",
+      "nombre": "El Jobo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5435348,
+      "longitud": -85.8801204,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2860150730",
+      "nombre": "El Dorado",
+      "tipo_localidad": "village",
+      "latitud": 13.8467109,
+      "longitud": -85.8620334,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2860152041",
+      "nombre": "Quebrada de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5978551,
+      "longitud": -85.8576352,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2860349114",
+      "nombre": "El Guanacastillo",
+      "tipo_localidad": "village",
+      "latitud": 13.6079833,
+      "longitud": -86.1663223,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2860349116",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6561575,
+      "longitud": -86.2086991,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2860349117",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6712057,
+      "longitud": -86.1986905,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2860349118",
+      "nombre": "La Jumuyca",
+      "tipo_localidad": "village",
+      "latitud": 13.6569251,
+      "longitud": -86.1828827,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2860356291",
+      "nombre": "San Gregorio",
+      "tipo_localidad": "village",
+      "latitud": 13.7318702,
+      "longitud": -86.0424301,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/2860435092",
+      "nombre": "Campo Hermoso",
+      "tipo_localidad": "village",
+      "latitud": 13.8012956,
+      "longitud": -86.2054677,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3813823945",
+      "nombre": "Empalme de Santa Clara",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.7134971,
+      "longitud": -86.2513336,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3873015229",
+      "nombre": "Bana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7869858,
+      "longitud": -85.797094,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3885628366",
+      "nombre": "Chuslí",
+      "tipo_localidad": "village",
+      "latitud": 13.9527509,
+      "longitud": -86.1112501,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3885628367",
+      "nombre": "El Caño",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.6238984,
+      "longitud": -85.8327301,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3885628368",
+      "nombre": "Germán Pomares",
+      "tipo_localidad": "village",
+      "latitud": 13.7678841,
+      "longitud": -86.2145105,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3885628369",
+      "nombre": "La Paz",
+      "tipo_localidad": "village",
+      "latitud": 13.9433347,
+      "longitud": -86.1164421,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3885628370",
+      "nombre": "Tauquil",
+      "tipo_localidad": "village",
+      "latitud": 13.9983019,
+      "longitud": -86.089618,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3885628371",
+      "nombre": "Teotecacinte",
+      "tipo_localidad": "village",
+      "latitud": 14.0447262,
+      "longitud": -86.0640302,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3921560401",
+      "nombre": "La Mía",
+      "tipo_localidad": "village",
+      "latitud": 13.8441607,
+      "longitud": -86.1566461,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3921560402",
+      "nombre": "Pasmata",
+      "tipo_localidad": "village",
+      "latitud": 13.98633,
+      "longitud": -86.0913247,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3921560403",
+      "nombre": "Tastaslí",
+      "tipo_localidad": "village",
+      "latitud": 13.8916766,
+      "longitud": -86.1408366,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/3922707877",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "village",
+      "latitud": 13.6468772,
+      "longitud": -86.360909,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/5695258421",
+      "nombre": "Barrio Venencio Blandón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.564271,
+      "longitud": -86.0195148,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/6898551585",
+      "nombre": "Los Mezcales",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.8396411,
+      "longitud": -86.1990055,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/7095875185",
+      "nombre": "Saquinlí",
+      "tipo_localidad": "village",
+      "latitud": 14.0699787,
+      "longitud": -86.0256614,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/8191598795",
+      "nombre": "Parrazal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5069195,
+      "longitud": -85.9456687,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/8191649215",
+      "nombre": "La Vigía Sur",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4696074,
+      "longitud": -85.9130437,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/8191836391",
+      "nombre": "Banacito",
+      "tipo_localidad": "village",
+      "latitud": 13.7711257,
+      "longitud": -85.7868981,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/8456203665",
+      "nombre": "Las Piedras",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8138145,
+      "longitud": -85.7701594,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9511793227",
+      "nombre": "Apamiguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5903003,
+      "longitud": -86.3715559,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9520095813",
+      "nombre": "El Quebracho",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6156661,
+      "longitud": -86.4331126,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9520097198",
+      "nombre": "El Cuyal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5869893,
+      "longitud": -86.3983834,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9535868618",
+      "nombre": "Santa Anita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6228165,
+      "longitud": -86.4443511,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9535868784",
+      "nombre": "Santa Marta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6645157,
+      "longitud": -86.4802793,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9537455469",
+      "nombre": "Rancho Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6488128,
+      "longitud": -86.313595,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9537456459",
+      "nombre": "Las Jaguas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6467739,
+      "longitud": -86.2781239,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9538672119",
+      "nombre": "El Dantillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6178559,
+      "longitud": -86.3750884,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9538825707",
+      "nombre": "El Varillal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6211508,
+      "longitud": -86.1814142,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9538846293",
+      "nombre": "Las Cañas",
+      "tipo_localidad": "village",
+      "latitud": 13.5901908,
+      "longitud": -86.1247659,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9538875881",
+      "nombre": "Los Encuentros",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5227666,
+      "longitud": -86.0094094,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9538875882",
+      "nombre": "Las Trincheras",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5582411,
+      "longitud": -86.013709,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9538875883",
+      "nombre": "Panalí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5458032,
+      "longitud": -86.0096669,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9538875886",
+      "nombre": "Plan Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6026368,
+      "longitud": -86.0874671,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9538875893",
+      "nombre": "San Pablo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5972872,
+      "longitud": -86.1728579,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9538875910",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6303239,
+      "longitud": -86.0059601,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9543389651",
+      "nombre": "Argentinia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6526333,
+      "longitud": -86.233111,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9543798731",
+      "nombre": "Empalme de Caulatú",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6034867,
+      "longitud": -86.0112602,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9543814256",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.514549,
+      "longitud": -86.0239657,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9545193000",
+      "nombre": "La Piementa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6538739,
+      "longitud": -86.1451346,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9546227287",
+      "nombre": "San José de Los Lirios",
+      "tipo_localidad": "village",
+      "latitud": 13.8232868,
+      "longitud": -86.166324,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9546227289",
+      "nombre": "Santa Bárbara",
+      "tipo_localidad": "village",
+      "latitud": 13.8137566,
+      "longitud": -86.2028101,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9546227300",
+      "nombre": "Musulí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7915042,
+      "longitud": -86.2090087,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9548382855",
+      "nombre": "La Montañita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7159243,
+      "longitud": -86.04828,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550330459",
+      "nombre": "San Pablo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6804109,
+      "longitud": -86.0913027,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550330461",
+      "nombre": "San Albino",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6951611,
+      "longitud": -86.097166,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550330507",
+      "nombre": "El Arenal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7201352,
+      "longitud": -86.1567915,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550340610",
+      "nombre": "Valle San Juan de Sabana Grande",
+      "tipo_localidad": "village",
+      "latitud": 13.6999038,
+      "longitud": -86.1603749,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550340865",
+      "nombre": "El Arado",
+      "tipo_localidad": "village",
+      "latitud": 13.6707628,
+      "longitud": -86.1585992,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341032",
+      "nombre": "Apalí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.693488,
+      "longitud": -86.2390924,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341033",
+      "nombre": "Apalí Viejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6842887,
+      "longitud": -86.2482762,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341037",
+      "nombre": "El Manguito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6815367,
+      "longitud": -86.2194452,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341055",
+      "nombre": "Villanueva",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7459091,
+      "longitud": -86.071465,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341058",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7382804,
+      "longitud": -86.1038447,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341059",
+      "nombre": "Pié de Cuesta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7586127,
+      "longitud": -86.0876977,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341063",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7752335,
+      "longitud": -86.1037589,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341064",
+      "nombre": "La Podria",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7858619,
+      "longitud": -86.1153889,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341065",
+      "nombre": "San Bento",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7686791,
+      "longitud": -86.1148847,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341066",
+      "nombre": "El Mojón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7758223,
+      "longitud": -86.1158503,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341070",
+      "nombre": "El Coyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7430197,
+      "longitud": -86.1660558,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341071",
+      "nombre": "La Máquina",
+      "tipo_localidad": "village",
+      "latitud": 13.7581958,
+      "longitud": -86.1184359,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341074",
+      "nombre": "Valle Sabana Larga",
+      "tipo_localidad": "village",
+      "latitud": 13.7428556,
+      "longitud": -86.1209679,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341076",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.749072,
+      "longitud": -86.1261177,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341077",
+      "nombre": "Los Limones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7506978,
+      "longitud": -86.1380589,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341078",
+      "nombre": "Ell Carrizal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.759066,
+      "longitud": -86.1496621,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341080",
+      "nombre": "Valle Muyuca",
+      "tipo_localidad": "village",
+      "latitud": 13.7695961,
+      "longitud": -86.1669409,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341084",
+      "nombre": "La Puerta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7338562,
+      "longitud": -86.2465543,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341088",
+      "nombre": "El Bijao",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7462426,
+      "longitud": -86.2043363,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341091",
+      "nombre": "San Nicolás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.751297,
+      "longitud": -86.240278,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341098",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7354456,
+      "longitud": -86.0073602,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341104",
+      "nombre": "Las Pozas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7367536,
+      "longitud": -86.0397452,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341105",
+      "nombre": "Las Ánimas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.738864,
+      "longitud": -86.0541165,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341109",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7552987,
+      "longitud": -86.0416925,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341111",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7666835,
+      "longitud": -86.0436505,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341121",
+      "nombre": "La Paz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8011056,
+      "longitud": -86.0166192,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341122",
+      "nombre": "Las Dantas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7881959,
+      "longitud": -86.0507209,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341125",
+      "nombre": "El Amparo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8024757,
+      "longitud": -86.0431302,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341128",
+      "nombre": "Los Encinos",
+      "tipo_localidad": "village",
+      "latitud": 13.8361475,
+      "longitud": -86.0464964,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341130",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "village",
+      "latitud": 13.8093781,
+      "longitud": -86.1479831,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341131",
+      "nombre": "Valle San Diego",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7987899,
+      "longitud": -86.1535782,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341132",
+      "nombre": "San Diego",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7916656,
+      "longitud": -86.1643016,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341137",
+      "nombre": "Valle Siapalí",
+      "tipo_localidad": "village",
+      "latitud": 13.7863777,
+      "longitud": -86.0853454,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341138",
+      "nombre": "Renacuajo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7900819,
+      "longitud": -86.101892,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341139",
+      "nombre": "Los Potrerillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7951666,
+      "longitud": -86.0976327,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341141",
+      "nombre": "San José de Los Araditos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.8299646,
+      "longitud": -86.135264,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341142",
+      "nombre": "Las Lomitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8230836,
+      "longitud": -86.1386866,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550341143",
+      "nombre": "Las Uvas",
+      "tipo_localidad": "village",
+      "latitud": 13.8164107,
+      "longitud": -86.1401403,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550851764",
+      "nombre": "Pasmus",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6879477,
+      "longitud": -86.4465773,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550851765",
+      "nombre": "El Terrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6760691,
+      "longitud": -86.4475643,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550851770",
+      "nombre": "Las Huertas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6713362,
+      "longitud": -86.4416313,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550851772",
+      "nombre": "Achuapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6736558,
+      "longitud": -86.3679672,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550851774",
+      "nombre": "Salamají",
+      "tipo_localidad": "village",
+      "latitud": 13.6718836,
+      "longitud": -86.3401097,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550851776",
+      "nombre": "El Arrayán",
+      "tipo_localidad": "village",
+      "latitud": 13.6770073,
+      "longitud": -86.3222516,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550851777",
+      "nombre": "Orosí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6813856,
+      "longitud": -86.2857896,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550851790",
+      "nombre": "Las Cabezas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7702343,
+      "longitud": -86.2649971,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550851791",
+      "nombre": "El Prado",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7672307,
+      "longitud": -86.259166,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9550851796",
+      "nombre": "Las Camelias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7659593,
+      "longitud": -86.2969905,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9552871525",
+      "nombre": "San José del Guineo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6810781,
+      "longitud": -86.2658018,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9558745862",
+      "nombre": "El Pataste",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9247577,
+      "longitud": -86.1340142,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9558745863",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9209151,
+      "longitud": -86.1511749,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9558745868",
+      "nombre": "La Providencia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9326562,
+      "longitud": -86.1777423,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9558745872",
+      "nombre": "El Coyolito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9001909,
+      "longitud": -86.1983872,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9558745873",
+      "nombre": "Casas Viejas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8881043,
+      "longitud": -86.1779326,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9558745877",
+      "nombre": "Las Palmas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8775821,
+      "longitud": -86.2070587,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9558745879",
+      "nombre": "San Francisco de Jalapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8966915,
+      "longitud": -86.210956,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9558745885",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8583618,
+      "longitud": -86.2715525,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559118456",
+      "nombre": "Los Puntales",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.8436949,
+      "longitud": -86.1451721,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559118461",
+      "nombre": "Aguas Calientes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8599216,
+      "longitud": -86.1895869,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495268",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.9583702,
+      "longitud": -86.1050731,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495270",
+      "nombre": "El Trapiche",
+      "tipo_localidad": "village",
+      "latitud": 13.971843,
+      "longitud": -86.105808,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495276",
+      "nombre": "Brasilia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9447977,
+      "longitud": -86.1686039,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495277",
+      "nombre": "Betania",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9448029,
+      "longitud": -86.1538142,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495280",
+      "nombre": "Santa Eduvigis",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9622226,
+      "longitud": -86.1492062,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495283",
+      "nombre": "El Escambray",
+      "tipo_localidad": "village",
+      "latitud": 13.9537368,
+      "longitud": -86.1545196,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495293",
+      "nombre": "Monte Frío",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9583754,
+      "longitud": -86.057598,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495298",
+      "nombre": "Portillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9317763,
+      "longitud": -86.0803593,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495299",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9142762,
+      "longitud": -86.0939366,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495300",
+      "nombre": "El Carbón",
+      "tipo_localidad": "village",
+      "latitud": 13.8949069,
+      "longitud": -86.108026,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495303",
+      "nombre": "Las Pampas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9569124,
+      "longitud": -85.9987235,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495304",
+      "nombre": "La Fila",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9434701,
+      "longitud": -86.0089535,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495310",
+      "nombre": "La Luz (Florecida)",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9213785,
+      "longitud": -86.0093022,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495311",
+      "nombre": "Macaralí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9361706,
+      "longitud": -86.0388547,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495312",
+      "nombre": "La Lagunilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9205558,
+      "longitud": -86.0351265,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495318",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8926661,
+      "longitud": -86.0128963,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495319",
+      "nombre": "El Terrerío",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8836206,
+      "longitud": -86.0393805,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495322",
+      "nombre": "La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8488097,
+      "longitud": -85.9932948,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495326",
+      "nombre": "Las Ánimas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.850538,
+      "longitud": -86.0333945,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495330",
+      "nombre": "Paclí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.866372,
+      "longitud": -86.051429,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495332",
+      "nombre": "Portrerillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8739028,
+      "longitud": -86.1176527,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495333",
+      "nombre": "El Jicarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8812458,
+      "longitud": -86.1148202,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9559495335",
+      "nombre": "El Junco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8674954,
+      "longitud": -86.1215224,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9561661280",
+      "nombre": "Las Brisas",
+      "tipo_localidad": "village",
+      "latitud": 13.945084,
+      "longitud": -86.1289877,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353393",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9214826,
+      "longitud": -85.9658344,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353401",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8717831,
+      "longitud": -86.0123116,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353402",
+      "nombre": "La Sidra",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9191135,
+      "longitud": -86.1077071,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353403",
+      "nombre": "Río Abajo",
+      "tipo_localidad": "village",
+      "latitud": 13.9300165,
+      "longitud": -86.1043972,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353405",
+      "nombre": "Champigny",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.9575268,
+      "longitud": -86.1068407,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353406",
+      "nombre": "Nuevo Amanecer",
+      "tipo_localidad": "village",
+      "latitud": 13.9435169,
+      "longitud": -86.0716152,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353409",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0043243,
+      "longitud": -86.1205173,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353410",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0124127,
+      "longitud": -86.128757,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353411",
+      "nombre": "La Nebina",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0224916,
+      "longitud": -86.1098164,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353413",
+      "nombre": "El Siuce",
+      "tipo_localidad": "village",
+      "latitud": 14.0399341,
+      "longitud": -86.121597,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353414",
+      "nombre": "El Límón",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0565138,
+      "longitud": -86.1048854,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353415",
+      "nombre": "Río Los Jilgueros",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0654017,
+      "longitud": -86.0723555,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353417",
+      "nombre": "El Palmar",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0568573,
+      "longitud": -86.0464239,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353419",
+      "nombre": "Gualacatu",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0589075,
+      "longitud": -86.0241723,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563353420",
+      "nombre": "El Guineo",
+      "tipo_localidad": "hamlet",
+      "latitud": 14.0350211,
+      "longitud": -86.0266023,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563354387",
+      "nombre": "Namaslí",
+      "tipo_localidad": "village",
+      "latitud": 14.0159102,
+      "longitud": -86.037873,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563354388",
+      "nombre": "Santa Marta",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 14.0083557,
+      "longitud": -86.0687732,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563354389",
+      "nombre": "El Corozo",
+      "tipo_localidad": "village",
+      "latitud": 14.0132688,
+      "longitud": -86.079597,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563354390",
+      "nombre": "Linda Vista",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 14.0169997,
+      "longitud": -86.0769149,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563639406",
+      "nombre": "La Luz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8797252,
+      "longitud": -86.030556,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563639408",
+      "nombre": "El Arenal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8308314,
+      "longitud": -86.0778143,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563639409",
+      "nombre": "Intelí Joya",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8508827,
+      "longitud": -86.1542166,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563639410",
+      "nombre": "Apasulu",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8444479,
+      "longitud": -86.1826669,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9563639411",
+      "nombre": "El Silencio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9094024,
+      "longitud": -85.9894807,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9567178812",
+      "nombre": "El Paraisito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8823081,
+      "longitud": -85.9239542,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9567178813",
+      "nombre": "La Gloria",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8458513,
+      "longitud": -85.9683395,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9567223419",
+      "nombre": "La Pulgosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8856203,
+      "longitud": -85.8507085,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9567223420",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8864223,
+      "longitud": -85.8569741,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9567223422",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.888974,
+      "longitud": -85.8924436,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9567223425",
+      "nombre": "Los Planes de Wanito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8996362,
+      "longitud": -85.8624722,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9567223427",
+      "nombre": "El Guapinol",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8565598,
+      "longitud": -85.8301092,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9567223428",
+      "nombre": "El Rosario",
+      "tipo_localidad": "village",
+      "latitud": 13.836059,
+      "longitud": -85.8689261,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9569817284",
+      "nombre": "Quebrada Negra",
+      "tipo_localidad": "village",
+      "latitud": 13.8631846,
+      "longitud": -85.9136331,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9571290738",
+      "nombre": "Caño de Palma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6810259,
+      "longitud": -85.8530313,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9571290809",
+      "nombre": "Valle Paredes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7304326,
+      "longitud": -85.9892285,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9571290811",
+      "nombre": "Valle Congojas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8059855,
+      "longitud": -85.8725444,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9571290812",
+      "nombre": "Arenales",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7885997,
+      "longitud": -85.928345,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9571290813",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7435538,
+      "longitud": -85.9577823,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9571367606",
+      "nombre": "Valle Bana Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7298073,
+      "longitud": -85.8754385,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9573997875",
+      "nombre": "Santa Emilia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6102961,
+      "longitud": -85.9399296,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024222",
+      "nombre": "El Guanacaste",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.556442,
+      "longitud": -85.819289,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024224",
+      "nombre": "La Rica",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5573494,
+      "longitud": -85.8417928,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024248",
+      "nombre": "El Coco",
+      "tipo_localidad": "village",
+      "latitud": 13.5144735,
+      "longitud": -85.8889515,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024257",
+      "nombre": "La Pita",
+      "tipo_localidad": "village",
+      "latitud": 13.5701309,
+      "longitud": -85.8965421,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024259",
+      "nombre": "Buena Vista de Ventilla",
+      "tipo_localidad": "village",
+      "latitud": 13.6039143,
+      "longitud": -85.8945466,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024261",
+      "nombre": "El Diamante de Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5985595,
+      "longitud": -85.8922827,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024263",
+      "nombre": "La Polvosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6111719,
+      "longitud": -85.8419002,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024266",
+      "nombre": "El Refugio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6115369,
+      "longitud": -85.9133113,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024267",
+      "nombre": "El Ojo de Agua Del Refugio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6168705,
+      "longitud": -85.9202421,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024271",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6216722,
+      "longitud": -85.8667911,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024272",
+      "nombre": "Caño de los Bravos 1 y 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6297582,
+      "longitud": -85.8618987,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024274",
+      "nombre": "Palosmas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6408781,
+      "longitud": -85.8165479,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024276",
+      "nombre": "San Jacinto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6365408,
+      "longitud": -85.8474148,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024279",
+      "nombre": "La Morena",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6528731,
+      "longitud": -85.8858616,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574024280",
+      "nombre": "Morado Los Herrera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7093735,
+      "longitud": -85.7992531,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9574105108",
+      "nombre": "Los Planes del Sungano",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6511112,
+      "longitud": -85.9900761,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9576049348",
+      "nombre": "El Consuelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5518423,
+      "longitud": -85.9778827,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9576049349",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5742869,
+      "longitud": -85.9569025,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9576049351",
+      "nombre": "Los Arenales",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5311064,
+      "longitud": -85.9590483,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9581434949",
+      "nombre": "Okonwás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6247272,
+      "longitud": -85.914706,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9603630762",
+      "nombre": "El Paraisito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6219016,
+      "longitud": -86.5838528,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9603630767",
+      "nombre": "San Diego",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5763571,
+      "longitud": -86.5644658,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9603630769",
+      "nombre": "Aguas Calientes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6335796,
+      "longitud": -86.5647286,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9603630770",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6133799,
+      "longitud": -86.6332108,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9603630771",
+      "nombre": "Ocote Seco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6175013,
+      "longitud": -86.6128743,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9603630772",
+      "nombre": "Mesas de Alcayán",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6045973,
+      "longitud": -86.6122198,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9603630775",
+      "nombre": "El Recuerdo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6387016,
+      "longitud": -86.6009318,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9603630779",
+      "nombre": "El Jicarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6585707,
+      "longitud": -86.6758741,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9609342714",
+      "nombre": "Los Arrayanes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6476498,
+      "longitud": -86.6570503,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9609342716",
+      "nombre": "Las Cabullas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6447618,
+      "longitud": -86.6796023,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9623943131",
+      "nombre": "Chagüite Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6744272,
+      "longitud": -86.415689,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9623943137",
+      "nombre": "El Ural",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8082112,
+      "longitud": -86.2778664,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9623943183",
+      "nombre": "El Guayabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7578076,
+      "longitud": -86.3400427,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9623943184",
+      "nombre": "La Chamuscada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7491919,
+      "longitud": -86.3592017,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624006743",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5706993,
+      "longitud": -86.3851118,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624006760",
+      "nombre": "El Horno",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.618127,
+      "longitud": -86.2785531,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624006761",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6064482,
+      "longitud": -86.3587511,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624006762",
+      "nombre": "El Varillal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6214259,
+      "longitud": -86.3563224,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624272408",
+      "nombre": "El Laberinto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5218851,
+      "longitud": -86.0639763,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624272409",
+      "nombre": "Buenavista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5266001,
+      "longitud": -86.0635257,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624272410",
+      "nombre": "La Providencia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.536593,
+      "longitud": -86.0696948,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624272414",
+      "nombre": "La Gloria",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.538773,
+      "longitud": -86.031822,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624272423",
+      "nombre": "El Jicarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6570329,
+      "longitud": -86.0920805,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624272436",
+      "nombre": "El Mojón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6365198,
+      "longitud": -86.2275267,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624272437",
+      "nombre": "Los Araditos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.646873,
+      "longitud": -86.2175167,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624272438",
+      "nombre": "El Carrizal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6525447,
+      "longitud": -86.2468601,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624512492",
+      "nombre": "Las Quemadas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7422302,
+      "longitud": -86.3095057,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624512493",
+      "nombre": "Retiro Viejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7240802,
+      "longitud": -86.3008959,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624512495",
+      "nombre": "El Caracol",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5970631,
+      "longitud": -86.3605214,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624512516",
+      "nombre": "Hermogenes Pastrana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.6481554,
+      "longitud": -86.3592017,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624523119",
+      "nombre": "Ducona",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6327247,
+      "longitud": -86.421091,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624636413",
+      "nombre": "La Tablazón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7512032,
+      "longitud": -86.511637,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624646821",
+      "nombre": "Las Colinas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.7437544,
+      "longitud": -86.5150085,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624646822",
+      "nombre": "El Manteado",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7332883,
+      "longitud": -86.5190721,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624646823",
+      "nombre": "Nopata",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7309328,
+      "longitud": -86.5115297,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624646825",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7885086,
+      "longitud": -86.5578327,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624646829",
+      "nombre": "Los Planes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7790473,
+      "longitud": -86.5523637,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624646830",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7868153,
+      "longitud": -86.5700984,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624646831",
+      "nombre": "Los Placeres",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.787628,
+      "longitud": -86.5610058,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624707616",
+      "nombre": "Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7683456,
+      "longitud": -86.554901,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624712717",
+      "nombre": "El Horno",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7743738,
+      "longitud": -86.5614295,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624712719",
+      "nombre": "El Encino",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7698201,
+      "longitud": -86.5749747,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624712721",
+      "nombre": "El Cordoncillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.757112,
+      "longitud": -86.6311991,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624712722",
+      "nombre": "El Cantón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7431213,
+      "longitud": -86.6264999,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624712723",
+      "nombre": "El Tizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.729974,
+      "longitud": -86.6720653,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624712724",
+      "nombre": "El Hato",
+      "tipo_localidad": "village",
+      "latitud": 13.7317093,
+      "longitud": -86.6818929,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624712725",
+      "nombre": "La Quemazón",
+      "tipo_localidad": "village",
+      "latitud": 13.7377385,
+      "longitud": -86.6708744,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624712727",
+      "nombre": "Caliguate",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7689552,
+      "longitud": -86.6479469,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624712728",
+      "nombre": "Mata de Plátano",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7816835,
+      "longitud": -86.6159964,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9624712731",
+      "nombre": "Brujil",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.779102,
+      "longitud": -86.6035456,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625165681",
+      "nombre": "Loma Fria",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7608948,
+      "longitud": -86.5486247,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625165683",
+      "nombre": "El Zapotillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7535011,
+      "longitud": -86.5619981,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625165685",
+      "nombre": "El Zapotal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6975742,
+      "longitud": -86.7601947,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625165686",
+      "nombre": "Valle Las Congojas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6866707,
+      "longitud": -86.7698264,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625165691",
+      "nombre": "Sipilde",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7140378,
+      "longitud": -86.7503536,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625174701",
+      "nombre": "La Calera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7542878,
+      "longitud": -86.6616851,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625174702",
+      "nombre": "El Guásimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7303805,
+      "longitud": -86.7409229,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625174703",
+      "nombre": "Las Pozas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6826313,
+      "longitud": -86.6898001,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625174707",
+      "nombre": "Las Palmas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6802807,
+      "longitud": -86.7100775,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625174713",
+      "nombre": "Las Vueltas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6889901,
+      "longitud": -86.7392707,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625174715",
+      "nombre": "Las Canoas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7004094,
+      "longitud": -86.7354727,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625174716",
+      "nombre": "Loma Fría",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7493899,
+      "longitud": -86.5349937,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196524",
+      "nombre": "San Martín",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.7217298,
+      "longitud": -86.5126348,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196525",
+      "nombre": "Lugar Roble Solo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7155075,
+      "longitud": -86.5232671,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196527",
+      "nombre": "Rodeo Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7313654,
+      "longitud": -86.5574438,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196528",
+      "nombre": "El Horno",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6888129,
+      "longitud": -86.5514088,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196529",
+      "nombre": "El Guanacaste",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6768249,
+      "longitud": -86.5706563,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196530",
+      "nombre": "El Zompopero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6707108,
+      "longitud": -86.5547187,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196532",
+      "nombre": "Las Cañas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6926959,
+      "longitud": -86.6722047,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196533",
+      "nombre": "Tapacales",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7446377,
+      "longitud": -86.573639,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196534",
+      "nombre": "Las Peraltas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.718749,
+      "longitud": -86.5885306,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196539",
+      "nombre": "Los Robles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6927792,
+      "longitud": -86.6932816,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196543",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7149968,
+      "longitud": -86.6749084,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196544",
+      "nombre": "El Coyolar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7372851,
+      "longitud": -86.6972459,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196548",
+      "nombre": "Palo Verde",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7124691,
+      "longitud": -86.7010975,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196550",
+      "nombre": "Aguas Calientes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7143114,
+      "longitud": -86.7370284,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196557",
+      "nombre": "El Tule",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7795631,
+      "longitud": -86.7189128,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196563",
+      "nombre": "La Joya",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7716229,
+      "longitud": -86.7207206,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196567",
+      "nombre": "El Llano",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7442417,
+      "longitud": -86.6896177,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196568",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7530582,
+      "longitud": -86.6948748,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/9625196569",
+      "nombre": "La Calabacera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.752057,
+      "longitud": -86.684382,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/10013936492",
+      "nombre": "Río Mozonte",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6439433,
+      "longitud": -86.4569306,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/10013945721",
+      "nombre": "Las Cruces I",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.6636478,
+      "longitud": -86.4015859,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/10015782702",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8386368,
+      "longitud": -86.0395438,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11296649785",
+      "nombre": "Yumpalí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9103865,
+      "longitud": -86.1625314,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11296650058",
+      "nombre": "Buena Vista Chiquita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.969011,
+      "longitud": -86.1771387,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11296653522",
+      "nombre": "Aguas Calientes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7733969,
+      "longitud": -86.1738127,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11299029705",
+      "nombre": "Juzgado",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.6642003,
+      "longitud": -86.4401615,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11299029706",
+      "nombre": "Rancho Grande",
+      "tipo_localidad": "village",
+      "latitud": 13.6478947,
+      "longitud": -86.4452415,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11299038306",
+      "nombre": "Apalí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6843591,
+      "longitud": -86.299206,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11299038809",
+      "nombre": "Apatiqui",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6045008,
+      "longitud": -86.3005552,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11445384024",
+      "nombre": "La Ceibita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7491724,
+      "longitud": -85.7880294,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11445437880",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "village",
+      "latitud": 13.9025651,
+      "longitud": -86.1344605,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11445437961",
+      "nombre": "Casas Rojas",
+      "tipo_localidad": "village",
+      "latitud": 13.8276328,
+      "longitud": -86.1577994,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11445437995",
+      "nombre": "El Chongo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.783261,
+      "longitud": -85.9637013,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11455015040",
+      "nombre": "Quebrada Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8028872,
+      "longitud": -86.0746998,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11455016168",
+      "nombre": "Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.9323907,
+      "longitud": -86.0316342,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11455016456",
+      "nombre": "San Antonio",
+      "tipo_localidad": "village",
+      "latitud": 13.9625974,
+      "longitud": -86.1065483,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11459732689",
+      "nombre": "Bordo de Panalí",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.5266731,
+      "longitud": -85.9927368,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11459934755",
+      "nombre": "Gualacara",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5720003,
+      "longitud": -85.8285025,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11472395901",
+      "nombre": "Los Plancitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7442573,
+      "longitud": -86.6620874,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11483028580",
+      "nombre": "Gualacaría",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5646398,
+      "longitud": -85.8302701,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11483028727",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5891792,
+      "longitud": -85.9230209,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11483055302",
+      "nombre": "Nuevo Amanecer",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5187765,
+      "longitud": -85.9218621,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11483055303",
+      "nombre": "La Vigía Norte",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4846524,
+      "longitud": -85.9326983,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11483055356",
+      "nombre": "Proyecto Habitacional Antonio Isaí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5100034,
+      "longitud": -85.8952975,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11483152125",
+      "nombre": "Barrio 13 de Mayo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.5327518,
+      "longitud": -85.9282967,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11484332129",
+      "nombre": "La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.8308397,
+      "longitud": -86.008637,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11484383031",
+      "nombre": "San Juan de Murra",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7497025,
+      "longitud": -86.0328519,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11487024589",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.7268212,
+      "longitud": -86.0443935,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11491823543",
+      "nombre": "El Coyote",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.6767623,
+      "longitud": -86.1795527,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11491827232",
+      "nombre": "Arado N°1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.6695015,
+      "longitud": -86.1571133,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11491827233",
+      "nombre": "Arado N°2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.6726758,
+      "longitud": -86.1602569,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11492541240",
+      "nombre": "La Montañita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6690167,
+      "longitud": -86.1844611,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11493150107",
+      "nombre": "El Níspero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.645158,
+      "longitud": -86.3982064,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/11494494216",
+      "nombre": "Arado N°3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.6721337,
+      "longitud": -86.1556435,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/12879806103",
+      "nombre": "El Bosque",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5335628,
+      "longitud": -85.9925115,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/12879943637",
+      "nombre": "El Bosque",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5421525,
+      "longitud": -86.0042381,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/13037298888",
+      "nombre": "El Zapotillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6590552,
+      "longitud": -86.6479702,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/13037357702",
+      "nombre": "El Batidero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6895478,
+      "longitud": -86.6282111,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/13375171907",
+      "nombre": "Los Capules",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6566915,
+      "longitud": -86.7758855,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/13389821351",
+      "nombre": "La Vigía",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4812199,
+      "longitud": -85.9143412,
+      "departamento": "Nueva Segovia"
+    },
+    {
+      "osm_id": "node/13574003305",
+      "nombre": "San Albino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.7181332,
+      "longitud": -86.1367,
+      "departamento": "Nueva Segovia"
+    }
+  ]
+}

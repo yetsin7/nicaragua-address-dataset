@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS nicaragua_municipios_info (
+  id             bigserial PRIMARY KEY,
+  departamento   text NOT NULL,
+  municipio      text NOT NULL,
+  cod_municipio  integer,
+  cod_postal     integer,
+  superficie_km2 numeric,
+  coordenadas    text,
+  gentilicio     text,
+  fundacion      text,
+  poblacion      text,
+  idiomas        text,
+  economia       text,
+  fiestas        text,
+  zonas          text,
+  turismo        text,
+  notas          text,
+  created_at     timestamptz DEFAULT now(),
+  UNIQUE (departamento, municipio)
+);

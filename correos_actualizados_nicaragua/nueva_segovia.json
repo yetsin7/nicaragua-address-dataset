@@ -1,0 +1,101 @@
+{
+    "total": 12,
+    "data": [
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "Ocotal",
+            "CodPostal": 37000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 48,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "Mozonte",
+            "CodPostal": 38100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 49,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "Dipilto",
+            "CodPostal": 38200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 50,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "Macuelizo",
+            "CodPostal": 38300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 51,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "Ciudad Antigua",
+            "CodPostal": 38400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 52,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "San Fernando",
+            "CodPostal": 38500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 53,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "Santa Mar\u00eda",
+            "CodPostal": 38600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 54,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "Quilal\u00ed",
+            "CodPostal": 38700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 55,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "El J\u00edcaro",
+            "CodPostal": 38800,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 56,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "Murra",
+            "CodPostal": 38900,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 57,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "Wiwil\u00ed de Nueva Segovia",
+            "CodPostal": 39100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 58,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Nueva Segovia",
+            "NomMunicipio": "Jalapa",
+            "CodPostal": 39200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 59,
+            "CodBarrio": null
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "total": 10,
+    "data": [
+        {
+            "NomDepto": "Chontales",
+            "NomMunicipio": "Juigalpa",
+            "CodPostal": 55000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 97,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chontales",
+            "NomMunicipio": "Acoyapa",
+            "CodPostal": 56100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 98,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chontales",
+            "NomMunicipio": "Santo Tom\u00e1s",
+            "CodPostal": 56200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 99,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chontales",
+            "NomMunicipio": "La Libertad",
+            "CodPostal": 56300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 100,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chontales",
+            "NomMunicipio": "San Francisco de Cuapa",
+            "CodPostal": 56400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 101,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chontales",
+            "NomMunicipio": "Comalapa",
+            "CodPostal": 56500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 102,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chontales",
+            "NomMunicipio": "Villa Sandino",
+            "CodPostal": 56600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 103,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chontales",
+            "NomMunicipio": "San Pedro de L\u00f3vago",
+            "CodPostal": 56700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 104,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chontales",
+            "NomMunicipio": "Santo Domingo",
+            "CodPostal": 56800,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 105,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Chontales",
+            "NomMunicipio": "El Coral",
+            "CodPostal": 56900,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 106,
+            "CodBarrio": null
+        }
+    ]
+}

@@ -1,0 +1,2822 @@
+{
+  "departamento": "South Atlantic Autonomous Region",
+  "total_registros": 352,
+  "lugares": [
+    {
+      "osm_id": "node/304247439",
+      "nombre": "El Ayote",
+      "tipo_localidad": "town",
+      "latitud": 12.4973135,
+      "longitud": -84.8190616,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/304252600",
+      "nombre": "El Tortuguero",
+      "tipo_localidad": "town",
+      "latitud": 12.8200981,
+      "longitud": -84.200023,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/306573975",
+      "nombre": "Nueva Guinea",
+      "tipo_localidad": "town",
+      "latitud": 11.6871482,
+      "longitud": -84.4563593,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/307996939",
+      "nombre": "Sandy Bay Sirpi",
+      "tipo_localidad": "village",
+      "latitud": 12.9631296,
+      "longitud": -83.528918,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/980288178",
+      "nombre": "Punta Gorda",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5143392,
+      "longitud": -83.7864577,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2714401403",
+      "nombre": "Colonia Jerusalén",
+      "tipo_localidad": "village",
+      "latitud": 11.7601527,
+      "longitud": -84.5028326,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2714401407",
+      "nombre": "El Níspero",
+      "tipo_localidad": "village",
+      "latitud": 11.7382847,
+      "longitud": -84.5517364,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2714401413",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "village",
+      "latitud": 11.8299496,
+      "longitud": -84.5683443,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2714401418",
+      "nombre": "Río Plata",
+      "tipo_localidad": "village",
+      "latitud": 11.7110872,
+      "longitud": -84.4388807,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2714623037",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "village",
+      "latitud": 12.1986317,
+      "longitud": -84.2885516,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2714623048",
+      "nombre": "Monte Cristo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5736663,
+      "longitud": -83.8299874,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2715824415",
+      "nombre": "Karawala",
+      "tipo_localidad": "town",
+      "latitud": 12.931235,
+      "longitud": -83.5767647,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2715908267",
+      "nombre": "La Trinidad de Nauawás",
+      "tipo_localidad": "village",
+      "latitud": 12.5669869,
+      "longitud": -84.7351161,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2716421255",
+      "nombre": "Bocana de Paiwas",
+      "tipo_localidad": "town",
+      "latitud": 12.7876651,
+      "longitud": -85.1232712,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2718031875",
+      "nombre": "Muelle Real de Siquia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.251459,
+      "longitud": -84.3013184,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2718031876",
+      "nombre": "Presillitas",
+      "tipo_localidad": "village",
+      "latitud": 12.1494828,
+      "longitud": -84.4071359,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2718031877",
+      "nombre": "Cara de Mono",
+      "tipo_localidad": "village",
+      "latitud": 12.1237337,
+      "longitud": -84.4557564,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2723686892",
+      "nombre": "La Estella",
+      "tipo_localidad": "village",
+      "latitud": 13.0463577,
+      "longitud": -84.7233482,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2723686894",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0294234,
+      "longitud": -84.5377805,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2723717765",
+      "nombre": "El Cañal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0439946,
+      "longitud": -84.3091146,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2723717774",
+      "nombre": "El Gallo",
+      "tipo_localidad": "village",
+      "latitud": 13.1042468,
+      "longitud": -84.2290616,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2723717781",
+      "nombre": "Muelle Real",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0930188,
+      "longitud": -84.2486825,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2723813116",
+      "nombre": "La Corona",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8432776,
+      "longitud": -84.7915517,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2724188854",
+      "nombre": "La Cruz de Río Grande",
+      "tipo_localidad": "town",
+      "latitud": 13.111057,
+      "longitud": -84.1876362,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2730287221",
+      "nombre": "Los Manchones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9833754,
+      "longitud": -85.1178425,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2732299176",
+      "nombre": "El Cacao",
+      "tipo_localidad": "village",
+      "latitud": 12.0002902,
+      "longitud": -84.7021718,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2732299178",
+      "nombre": "El Espavel",
+      "tipo_localidad": "village",
+      "latitud": 12.010429,
+      "longitud": -84.6668303,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2732299179",
+      "nombre": "La Batea",
+      "tipo_localidad": "village",
+      "latitud": 12.0474731,
+      "longitud": -84.6195622,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2732299180",
+      "nombre": "La Gorra",
+      "tipo_localidad": "village",
+      "latitud": 12.0215324,
+      "longitud": -84.6449214,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2735499318",
+      "nombre": "Flor de Pino",
+      "tipo_localidad": "village",
+      "latitud": 12.2767865,
+      "longitud": -83.846057,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2735620715",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "suburb",
+      "latitud": 12.0005527,
+      "longitud": -83.7655098,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2773628551",
+      "nombre": "Bluefields",
+      "tipo_localidad": "city",
+      "latitud": 12.0131543,
+      "longitud": -83.764907,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415704",
+      "nombre": "Awás",
+      "tipo_localidad": "village",
+      "latitud": 12.337832,
+      "longitud": -83.69085,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415706",
+      "nombre": "Brown Bank",
+      "tipo_localidad": "village",
+      "latitud": 12.453695,
+      "longitud": -83.731493,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415707",
+      "nombre": "Kahkabila",
+      "tipo_localidad": "village",
+      "latitud": 12.3970673,
+      "longitud": -83.7256108,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415708",
+      "nombre": "Marshall Point",
+      "tipo_localidad": "village",
+      "latitud": 12.5602445,
+      "longitud": -83.6928588,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415710",
+      "nombre": "Orinoco",
+      "tipo_localidad": "village",
+      "latitud": 12.5554237,
+      "longitud": -83.7123758,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415711",
+      "nombre": "Pearl City",
+      "tipo_localidad": "town",
+      "latitud": 12.3379518,
+      "longitud": -83.6728626,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415712",
+      "nombre": "Raitipura",
+      "tipo_localidad": "village",
+      "latitud": 12.340082,
+      "longitud": -83.6858199,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415713",
+      "nombre": "San Vicente",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5171657,
+      "longitud": -83.7786542,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415715",
+      "nombre": "La Fé",
+      "tipo_localidad": "village",
+      "latitud": 12.4803485,
+      "longitud": -83.7532406,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415716",
+      "nombre": "Set Net",
+      "tipo_localidad": "village",
+      "latitud": 12.4581273,
+      "longitud": -83.4868537,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774415717",
+      "nombre": "Tasbapauni",
+      "tipo_localidad": "village",
+      "latitud": 12.6712049,
+      "longitud": -83.5453355,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774417125",
+      "nombre": "Haulover",
+      "tipo_localidad": "village",
+      "latitud": 12.3213045,
+      "longitud": -83.6746036,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774418343",
+      "nombre": "Kukra Hill",
+      "tipo_localidad": "town",
+      "latitud": 12.2425216,
+      "longitud": -83.7483781,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2774424631",
+      "nombre": "El Bluff",
+      "tipo_localidad": "village",
+      "latitud": 11.994705,
+      "longitud": -83.6903795,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2826632575",
+      "nombre": "Muelle de los Bueyes",
+      "tipo_localidad": "town",
+      "latitud": 12.0662634,
+      "longitud": -84.5428289,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2826634415",
+      "nombre": "San Rafael",
+      "tipo_localidad": "village",
+      "latitud": 12.1870386,
+      "longitud": -84.2448964,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2841807873",
+      "nombre": "El Recreo",
+      "tipo_localidad": "village",
+      "latitud": 12.1739273,
+      "longitud": -84.3159813,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2842194110",
+      "nombre": "Curinwás",
+      "tipo_localidad": "village",
+      "latitud": 11.8889567,
+      "longitud": -84.3986605,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2842194111",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "village",
+      "latitud": 11.7078534,
+      "longitud": -84.3759583,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2842207544",
+      "nombre": "Belardy",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0523743,
+      "longitud": -84.5729676,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2842445282",
+      "nombre": "Quebrada Alegre",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0064446,
+      "longitud": -84.6761511,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304626",
+      "nombre": "Atlanta",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5784546,
+      "longitud": -84.0140319,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304629",
+      "nombre": "Bella Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.878676,
+      "longitud": -84.184279,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304636",
+      "nombre": "El Chile",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9583058,
+      "longitud": -84.6159087,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304640",
+      "nombre": "Cuyamel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.33819,
+      "longitud": -84.466473,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304660",
+      "nombre": "El Venado",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.95,
+      "longitud": -85.166667,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304674",
+      "nombre": "La Cándida",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.197887,
+      "longitud": -84.16878,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304679",
+      "nombre": "La Virgen",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.26725,
+      "longitud": -84.452623,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304683",
+      "nombre": "Las Nubes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.125672,
+      "longitud": -84.4408372,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889304692",
+      "nombre": "Monkey Point",
+      "tipo_localidad": "village",
+      "latitud": 11.5964095,
+      "longitud": -83.6584076,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305008",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "village",
+      "latitud": 11.9450797,
+      "longitud": -84.2528559,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305009",
+      "nombre": "San Juan",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.166268,
+      "longitud": -84.181785,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305016",
+      "nombre": "Santa Marta",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.155824,
+      "longitud": -83.975803,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305022",
+      "nombre": "San Pablo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8600972,
+      "longitud": -84.5139809,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2889305023",
+      "nombre": "Tapales",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.916667,
+      "longitud": -84.883333,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682154",
+      "nombre": "San Miguel",
+      "tipo_localidad": "village",
+      "latitud": 11.7678069,
+      "longitud": -84.3622924,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682160",
+      "nombre": "La Corona",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1791577,
+      "longitud": -84.3287913,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682161",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1741537,
+      "longitud": -84.3382337,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682162",
+      "nombre": "El Diamante Rojo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1643053,
+      "longitud": -84.3806583,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682164",
+      "nombre": "Cedro Macho 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1269356,
+      "longitud": -84.4876688,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682166",
+      "nombre": "Cedro Macho 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1090848,
+      "longitud": -84.4970067,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682167",
+      "nombre": "Comarca Piedra Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0958876,
+      "longitud": -84.5185297,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682168",
+      "nombre": "Comarca Zanjón Honda",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0537465,
+      "longitud": -84.5698637,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682169",
+      "nombre": "Comarca Aguas Calientes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0912154,
+      "longitud": -84.4902853,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682171",
+      "nombre": "Santa Julia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1558779,
+      "longitud": -84.2271424,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682172",
+      "nombre": "La Pintada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0544931,
+      "longitud": -84.4740117,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682175",
+      "nombre": "Los Indios",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9695886,
+      "longitud": -84.4764632,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682176",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1436412,
+      "longitud": -84.2528621,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682177",
+      "nombre": "Dos Bocas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8646136,
+      "longitud": -84.25389,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682183",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1899911,
+      "longitud": -84.2068012,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682186",
+      "nombre": "Providencia",
+      "tipo_localidad": "village",
+      "latitud": 11.6773836,
+      "longitud": -84.2905841,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682188",
+      "nombre": "El Chasmolar",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8078708,
+      "longitud": -84.4881973,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682189",
+      "nombre": "Colonia Jacinto Baca",
+      "tipo_localidad": "village",
+      "latitud": 11.8715371,
+      "longitud": -84.5006248,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682190",
+      "nombre": "San José",
+      "tipo_localidad": "village",
+      "latitud": 11.8991492,
+      "longitud": -84.3362831,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682191",
+      "nombre": "Talolinga",
+      "tipo_localidad": "village",
+      "latitud": 11.8709899,
+      "longitud": -84.4363546,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682192",
+      "nombre": "San Antonio",
+      "tipo_localidad": "village",
+      "latitud": 11.787031,
+      "longitud": -84.4013139,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682199",
+      "nombre": "Colonia Rubén Darío",
+      "tipo_localidad": "village",
+      "latitud": 11.6553766,
+      "longitud": -84.3315068,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682200",
+      "nombre": "Colonia 19 de Julio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6869351,
+      "longitud": -84.2341934,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682201",
+      "nombre": "La Estrellita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0852536,
+      "longitud": -84.5801035,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682204",
+      "nombre": "San Martín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8406,
+      "longitud": -84.4292638,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682205",
+      "nombre": "Colonia Germán Pomares",
+      "tipo_localidad": "village",
+      "latitud": 11.7880015,
+      "longitud": -84.2231532,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971682208",
+      "nombre": "Nuevo León",
+      "tipo_localidad": "village",
+      "latitud": 11.7103791,
+      "longitud": -84.3475188,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689875",
+      "nombre": "Mataka",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3043582,
+      "longitud": -84.2970654,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689876",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3830523,
+      "longitud": -84.3865295,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689877",
+      "nombre": "Wapí",
+      "tipo_localidad": "village",
+      "latitud": 12.3849173,
+      "longitud": -84.3181874,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689878",
+      "nombre": "El Bambú",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3976814,
+      "longitud": -84.3010306,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689879",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.306972,
+      "longitud": -84.5786702,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689880",
+      "nombre": "Los Abandonos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.311357,
+      "longitud": -84.6169842,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689881",
+      "nombre": "19 de Julio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1405525,
+      "longitud": -84.2006772,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689882",
+      "nombre": "La Mosquitia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1323892,
+      "longitud": -84.1406399,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689884",
+      "nombre": "Pablo Ubeda",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1372708,
+      "longitud": -84.211163,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689887",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3347905,
+      "longitud": -84.6412376,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689888",
+      "nombre": "La Tigra",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4554732,
+      "longitud": -84.7026722,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689889",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.237222,
+      "longitud": -84.3578607,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689890",
+      "nombre": "Comarca Kisilala",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.260259,
+      "longitud": -84.3737641,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689891",
+      "nombre": "Centro Calderón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2982368,
+      "longitud": -84.2520659,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689893",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3024022,
+      "longitud": -84.3923509,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/2971689895",
+      "nombre": "Monte Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3299518,
+      "longitud": -84.2907226,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/3140667733",
+      "nombre": "Trinkulang (Pueblo Nuevo)",
+      "tipo_localidad": "village",
+      "latitud": 12.6575261,
+      "longitud": -83.7427406,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/3146585031",
+      "nombre": "Rocky Point",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3072853,
+      "longitud": -83.7321333,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/3764381801",
+      "nombre": "La Tortuga",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6817369,
+      "longitud": -84.6668506,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4053900431",
+      "nombre": "Sector 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9929979,
+      "longitud": -83.6912661,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4053900508",
+      "nombre": "Sector 3",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9959957,
+      "longitud": -83.6895138,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4053900825",
+      "nombre": "Sector 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9967096,
+      "longitud": -83.6927405,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4053900826",
+      "nombre": "Sector 4",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.9951699,
+      "longitud": -83.6864332,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4117410136",
+      "nombre": "Comarca Parasal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5818501,
+      "longitud": -84.2842533,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4468441604",
+      "nombre": "Esperancita",
+      "tipo_localidad": "village",
+      "latitud": 11.6950595,
+      "longitud": -84.4907982,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4475796760",
+      "nombre": "Colonia Verdún",
+      "tipo_localidad": "village",
+      "latitud": 11.64436,
+      "longitud": -84.4390852,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4477997031",
+      "nombre": "Colonia Los Ángeles",
+      "tipo_localidad": "village",
+      "latitud": 11.6542004,
+      "longitud": -84.4978561,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4480985598",
+      "nombre": "San Juan",
+      "tipo_localidad": "village",
+      "latitud": 11.7262981,
+      "longitud": -84.4917739,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4487925154",
+      "nombre": "Colonia Agrícola Yolaina",
+      "tipo_localidad": "village",
+      "latitud": 11.6633005,
+      "longitud": -84.3902628,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4489522068",
+      "nombre": "El Serrano",
+      "tipo_localidad": "village",
+      "latitud": 11.5858701,
+      "longitud": -84.3367467,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4489534805",
+      "nombre": "La Fonseca",
+      "tipo_localidad": "village",
+      "latitud": 11.5527402,
+      "longitud": -84.3686529,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4489554924",
+      "nombre": "El Escobín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.631374,
+      "longitud": -84.3522523,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4514083490",
+      "nombre": "Naciones Unidas",
+      "tipo_localidad": "village",
+      "latitud": 11.7273059,
+      "longitud": -84.2800009,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4514129057",
+      "nombre": "Nuevo Horizonte",
+      "tipo_localidad": "village",
+      "latitud": 11.7434539,
+      "longitud": -84.2175658,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4514129058",
+      "nombre": "Flor de Cana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7302423,
+      "longitud": -84.2319784,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4604355808",
+      "nombre": "Bangkukuk",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5677431,
+      "longitud": -83.7223588,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/4640623482",
+      "nombre": "Guinea Vieja",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6809107,
+      "longitud": -84.5383915,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5108655969",
+      "nombre": "El Torro Negro",
+      "tipo_localidad": "village",
+      "latitud": 12.8801281,
+      "longitud": -84.04055,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5108659972",
+      "nombre": "Wawalating",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9016473,
+      "longitud": -84.0454057,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5122756281",
+      "nombre": "Black Wood o Punta Ranchería",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.83029,
+      "longitud": -83.9477239,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5122781300",
+      "nombre": "El Mango",
+      "tipo_localidad": "village",
+      "latitud": 12.8125943,
+      "longitud": -83.9644804,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5122932379",
+      "nombre": "El Tamarindo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8569156,
+      "longitud": -84.008819,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5122932543",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8348032,
+      "longitud": -83.9852081,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5134004123",
+      "nombre": "San Francisco",
+      "tipo_localidad": "village",
+      "latitud": 11.8531316,
+      "longitud": -84.0404213,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5149931640",
+      "nombre": "Kara",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8939257,
+      "longitud": -83.5838791,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5186875122",
+      "nombre": "El Destino",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6170245,
+      "longitud": -84.8133643,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5200195961",
+      "nombre": "San Marcos",
+      "tipo_localidad": "village",
+      "latitud": 12.4312851,
+      "longitud": -84.6837873,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5479194627",
+      "nombre": "El Limón",
+      "tipo_localidad": "village",
+      "latitud": 11.7911072,
+      "longitud": -84.1589092,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5563118482",
+      "nombre": "Haulover",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0971113,
+      "longitud": -83.8223342,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5563118726",
+      "nombre": "Karaslaya",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2282074,
+      "longitud": -83.8619881,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5563118747",
+      "nombre": "Amérisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2018385,
+      "longitud": -83.8553081,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5563118748",
+      "nombre": "Barra del Río Maíz",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2916911,
+      "longitud": -83.8753089,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5563134966",
+      "nombre": "Punta Roca",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.397791,
+      "longitud": -83.8667305,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5563135427",
+      "nombre": "Pijibaye",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4709253,
+      "longitud": -83.8788538,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5644343723",
+      "nombre": "Brig Bay",
+      "tipo_localidad": "town",
+      "latitud": 12.1746802,
+      "longitud": -83.0603709,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5644358548",
+      "nombre": "Proyecto Nuevo Amanecer",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4928994,
+      "longitud": -84.8213794,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5644449985",
+      "nombre": "Barrio Rubén Darío",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.064788,
+      "longitud": -84.5466112,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5644449987",
+      "nombre": "Barrio San Francisco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0706305,
+      "longitud": -84.539385,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5644479222",
+      "nombre": "Zona 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.6851993,
+      "longitud": -84.4529157,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5644479227",
+      "nombre": "Zona 7",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.6962843,
+      "longitud": -84.446664,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/5644909656",
+      "nombre": "Carib Town",
+      "tipo_localidad": "village",
+      "latitud": 12.2881152,
+      "longitud": -82.9814483,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/6368910485",
+      "nombre": "Salvadorita",
+      "tipo_localidad": "village",
+      "latitud": 11.6939426,
+      "longitud": -84.1454023,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/6381826486",
+      "nombre": "Villa Nueva",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8114117,
+      "longitud": -84.1007981,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/6601221824",
+      "nombre": "La Luz o Three Brothers",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0540317,
+      "longitud": -83.9861221,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/6756961485",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4612786,
+      "longitud": -84.316065,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/6819587648",
+      "nombre": "Carlos Fonseca",
+      "tipo_localidad": "village",
+      "latitud": 12.2592703,
+      "longitud": -83.990559,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/6901896351",
+      "nombre": "Granada",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.895114,
+      "longitud": -83.9344259,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/6901896352",
+      "nombre": "Santa Elisa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8716686,
+      "longitud": -83.9530976,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/6904264957",
+      "nombre": "Walpa",
+      "tipo_localidad": "village",
+      "latitud": 12.9400645,
+      "longitud": -83.5353118,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/7364739285",
+      "nombre": "Paraíso",
+      "tipo_localidad": "village",
+      "latitud": 11.4388762,
+      "longitud": -84.2333749,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/7835332730",
+      "nombre": "Granja",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.5085264,
+      "longitud": -84.3084192,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/8794042505",
+      "nombre": "Villa Siquia",
+      "tipo_localidad": "village",
+      "latitud": 12.7383982,
+      "longitud": -85.0117128,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/8832617010",
+      "nombre": "Iván Dixon",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3444092,
+      "longitud": -83.671822,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9354720110",
+      "nombre": "San Nicolás",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3551405,
+      "longitud": -84.5634493,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9597588323",
+      "nombre": "Nueva York",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0159582,
+      "longitud": -83.7683546,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9597588326",
+      "nombre": "Beholden",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0177369,
+      "longitud": -83.762899,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9604319049",
+      "nombre": "Punto Hansack",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0148078,
+      "longitud": -83.7586531,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9604322998",
+      "nombre": "Cotton Tree",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0087894,
+      "longitud": -83.761056,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883790434",
+      "nombre": "Punta Fría",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0090668,
+      "longitud": -83.7603173,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883790435",
+      "nombre": "Fátima",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0055862,
+      "longitud": -83.7650593,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9883790436",
+      "nombre": "Canal",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.0089668,
+      "longitud": -83.7626946,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9933975535",
+      "nombre": "Siawás",
+      "tipo_localidad": "village",
+      "latitud": 13.1744341,
+      "longitud": -84.1380322,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9933975536",
+      "nombre": "El Tronquero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1675916,
+      "longitud": -84.1247338,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9933975541",
+      "nombre": "Makantakita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2260722,
+      "longitud": -84.0681264,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9934049440",
+      "nombre": "Angloamérica",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2178901,
+      "longitud": -84.0172121,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9934049453",
+      "nombre": "Vuelta El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1975614,
+      "longitud": -84.077146,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9934049458",
+      "nombre": "El Royal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1972951,
+      "longitud": -84.1293311,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9938316383",
+      "nombre": "Zumawala",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1090305,
+      "longitud": -83.8822889,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9939392707",
+      "nombre": "El Coco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1658574,
+      "longitud": -84.1040969,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9939402284",
+      "nombre": "El Guayabo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1204983,
+      "longitud": -84.1632128,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9939402286",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1153993,
+      "longitud": -84.2017293,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9939402287",
+      "nombre": "El Cocal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.114997,
+      "longitud": -84.2159987,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9940943753",
+      "nombre": "Punta de Buena Vida",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8640261,
+      "longitud": -84.0913993,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9940943754",
+      "nombre": "El Lanchón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8516757,
+      "longitud": -84.1365999,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9941070862",
+      "nombre": "El Castillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0011133,
+      "longitud": -84.4771922,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9941070864",
+      "nombre": "San Miguel",
+      "tipo_localidad": "village",
+      "latitud": 13.0514694,
+      "longitud": -84.4777769,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9941070866",
+      "nombre": "Monte Carlos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0150112,
+      "longitud": -84.4320775,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9941070867",
+      "nombre": "Palpunta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0234259,
+      "longitud": -84.4132161,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9941071600",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0603532,
+      "longitud": -84.3008477,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9941071602",
+      "nombre": "Siksikwás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0791857,
+      "longitud": -84.2919213,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9942975127",
+      "nombre": "Tumarín",
+      "tipo_localidad": "village",
+      "latitud": 12.9851551,
+      "longitud": -84.3998535,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9950334685",
+      "nombre": "Banco Brown Abajo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4476925,
+      "longitud": -83.7311089,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9953499005",
+      "nombre": "Punta Ebo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5759837,
+      "longitud": -83.6325967,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9953594353",
+      "nombre": "INATEC -Centro agro forestal de Wawashang",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6473235,
+      "longitud": -83.7482429,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9957302108",
+      "nombre": "Barra de Río Grande",
+      "tipo_localidad": "village",
+      "latitud": 12.9073876,
+      "longitud": -83.5231841,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9958180416",
+      "nombre": "Fruta Dorada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2144099,
+      "longitud": -83.6980105,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9958180418",
+      "nombre": "La Estación",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2583635,
+      "longitud": -83.7410009,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9964806320",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.092577,
+      "longitud": -83.9599014,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9964806354",
+      "nombre": "Italia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0642399,
+      "longitud": -83.8105506,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9969561982",
+      "nombre": "La Estrella",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5056151,
+      "longitud": -83.9208269,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9969561983",
+      "nombre": "Masaya",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5643149,
+      "longitud": -83.9465064,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9975869265",
+      "nombre": "Punta Newburg (Newburg Point)",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7782913,
+      "longitud": -83.8765352,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9978898021",
+      "nombre": "El Perro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9452575,
+      "longitud": -84.6821238,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9980412318",
+      "nombre": "Ubú Norte",
+      "tipo_localidad": "village",
+      "latitud": 12.9520565,
+      "longitud": -84.9339616,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9980677306",
+      "nombre": "La Estrella",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8519293,
+      "longitud": -84.7635126,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9980677314",
+      "nombre": "La Buena Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8371541,
+      "longitud": -84.9094355,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9980686902",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9297923,
+      "longitud": -84.9790657,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9980686908",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9333398,
+      "longitud": -84.9176189,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9980686946",
+      "nombre": "Santa Martha",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9935603,
+      "longitud": -84.8739124,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9980686966",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9571485,
+      "longitud": -84.9931714,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9982104301",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0336173,
+      "longitud": -84.7350383,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9982104302",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0449004,
+      "longitud": -84.7501981,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9994038221",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0144833,
+      "longitud": -84.8266036,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9994038224",
+      "nombre": "San Juan",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0185391,
+      "longitud": -84.7960586,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/9994038225",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0401186,
+      "longitud": -84.7669995,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10069250980",
+      "nombre": "Simón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.752483,
+      "longitud": -84.4166976,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10069250982",
+      "nombre": "El Mango",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7402975,
+      "longitud": -84.4185893,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10069250983",
+      "nombre": "Poza Redonda",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7270729,
+      "longitud": -84.4197071,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10069250986",
+      "nombre": "El Cruzero",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6944323,
+      "longitud": -84.4009638,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10069250987",
+      "nombre": "La Sardina",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6804692,
+      "longitud": -84.4273245,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10069250988",
+      "nombre": "La Verbana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7270204,
+      "longitud": -84.4631911,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10069250989",
+      "nombre": "Empalme a Jerusalén",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7336961,
+      "longitud": -84.5000231,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10069250990",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7072968,
+      "longitud": -84.514963,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10069251016",
+      "nombre": "Demetrio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7488277,
+      "longitud": -84.3938345,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10069251038",
+      "nombre": "Monte Cristo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8180092,
+      "longitud": -84.4210911,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10083027350",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8526722,
+      "longitud": -84.539752,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10083027351",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8477686,
+      "longitud": -84.5467687,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10083027502",
+      "nombre": "Canelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6666737,
+      "longitud": -84.5291841,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10083027547",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6861901,
+      "longitud": -84.5128495,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10083027551",
+      "nombre": "El Paraisito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7379663,
+      "longitud": -84.506836,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10083027553",
+      "nombre": "La Fortuna",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7401932,
+      "longitud": -84.5292914,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10083027554",
+      "nombre": "El Enchape",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.734463,
+      "longitud": -84.5352245,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10083027559",
+      "nombre": "La Cabanga",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8087678,
+      "longitud": -84.407208,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10087829909",
+      "nombre": "Guadalupe",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9920251,
+      "longitud": -84.2370594,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10095782218",
+      "nombre": "Cerro Negro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.908106,
+      "longitud": -84.1456098,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10095782221",
+      "nombre": "Mobile",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9833537,
+      "longitud": -84.212268,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10096440523",
+      "nombre": "El Almendro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9559961,
+      "longitud": -84.1166974,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10098446246",
+      "nombre": "La Boca de Silva",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8661475,
+      "longitud": -84.0380051,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10110400942",
+      "nombre": "Caño Azul",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9979441,
+      "longitud": -83.9111173,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10159489911",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0314222,
+      "longitud": -85.0950766,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10159489913",
+      "nombre": "Ernesto Cabrera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.009301,
+      "longitud": -85.1235268,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10159603270",
+      "nombre": "El Castillo Norte",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0639379,
+      "longitud": -85.0833098,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10181046297",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9338391,
+      "longitud": -85.1192272,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10181046310",
+      "nombre": "David Tejada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8563383,
+      "longitud": -85.1795125,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10181052333",
+      "nombre": "San Vicente",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8580562,
+      "longitud": -85.0422693,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10181052350",
+      "nombre": "El Toro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9306707,
+      "longitud": -85.0709206,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10181052364",
+      "nombre": "Los Capules",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9100335,
+      "longitud": -85.0061774,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10187288007",
+      "nombre": "El Salto Bosayán",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7662312,
+      "longitud": -84.1964668,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10203970615",
+      "nombre": "La Magnolia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0971588,
+      "longitud": -84.0588614,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10207381595",
+      "nombre": "Las Minitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7625532,
+      "longitud": -84.8920065,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10207381596",
+      "nombre": "Las Cruces",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7568373,
+      "longitud": -84.8182377,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10231179154",
+      "nombre": "Bryan Cay",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9035692,
+      "longitud": -83.8047865,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10232173661",
+      "nombre": "Los Peñones",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8320991,
+      "longitud": -84.1665092,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10269996776",
+      "nombre": "Makantaka",
+      "tipo_localidad": "village",
+      "latitud": 13.2468696,
+      "longitud": -84.0861797,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10290181373",
+      "nombre": "Malakawás",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8573083,
+      "longitud": -85.0862172,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10897279722",
+      "nombre": "Purple Dog",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6478549,
+      "longitud": -83.7570781,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10897585620",
+      "nombre": "Wawashang",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5829838,
+      "longitud": -83.7563753,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10900999792",
+      "nombre": "El Diamante",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5296215,
+      "longitud": -84.0974533,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10916368959",
+      "nombre": "Waspado",
+      "tipo_localidad": "village",
+      "latitud": 12.7407929,
+      "longitud": -84.3055737,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10916370322",
+      "nombre": "El Papel",
+      "tipo_localidad": "village",
+      "latitud": 12.6427775,
+      "longitud": -83.9669126,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10916947073",
+      "nombre": "Karahola",
+      "tipo_localidad": "village",
+      "latitud": 12.8410297,
+      "longitud": -84.3782347,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10920672684",
+      "nombre": "Larga Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4491331,
+      "longitud": -83.8243157,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10925431054",
+      "nombre": "Subterráneo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8095154,
+      "longitud": -84.7652883,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10931920194",
+      "nombre": "Bluff Point",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1537417,
+      "longitud": -83.0654276,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10931920195",
+      "nombre": "Long Beach",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1603807,
+      "longitud": -83.0544198,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10931920196",
+      "nombre": "Queen Hill",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.153899,
+      "longitud": -83.0617046,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10931920197",
+      "nombre": "La Loma",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1642718,
+      "longitud": -83.0576599,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10931920198",
+      "nombre": "South End",
+      "tipo_localidad": "village",
+      "latitud": 12.1668885,
+      "longitud": -83.0465233,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10931920199",
+      "nombre": "North End",
+      "tipo_localidad": "village",
+      "latitud": 12.1843974,
+      "longitud": -83.0501282,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10931920200",
+      "nombre": "Sally Peachie",
+      "tipo_localidad": "village",
+      "latitud": 12.1773709,
+      "longitud": -83.0362129,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10932449174",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.767063,
+      "longitud": -84.9770594,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10932449177",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7964954,
+      "longitud": -84.942711,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10932449180",
+      "nombre": "Los Blancos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7786983,
+      "longitud": -84.9631119,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10932449181",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7848505,
+      "longitud": -84.9459029,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10932734851",
+      "nombre": "El Consuelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6714184,
+      "longitud": -84.822245,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10933027237",
+      "nombre": "El Porvenir",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9329503,
+      "longitud": -85.1350737,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10934175839",
+      "nombre": "Malakawás",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7946645,
+      "longitud": -85.1355189,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10934175840",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7982216,
+      "longitud": -85.1410415,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10955686520",
+      "nombre": "Nueva Atlanta",
+      "tipo_localidad": "village",
+      "latitud": 11.5589227,
+      "longitud": -84.0550232,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10955686523",
+      "nombre": "La Richard",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5378783,
+      "longitud": -84.0898275,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10956469819",
+      "nombre": "Clementón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5642398,
+      "longitud": -84.4994223,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10956469855",
+      "nombre": "La Danita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5593808,
+      "longitud": -84.6617175,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/10958583108",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9212081,
+      "longitud": -84.5263195,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11194913222",
+      "nombre": "Wasayama",
+      "tipo_localidad": "village",
+      "latitud": 13.0626629,
+      "longitud": -85.0077009,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11198476724",
+      "nombre": "Big Lagoon",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2436013,
+      "longitud": -83.7943179,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11198520098",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7069792,
+      "longitud": -84.1489515,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11198520107",
+      "nombre": "El Espavel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.60648,
+      "longitud": -84.1571859,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11244569432",
+      "nombre": "Arranca Bazo",
+      "tipo_localidad": "village",
+      "latitud": 11.4654253,
+      "longitud": -84.5296991,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11246869548",
+      "nombre": "Colonia La Unión",
+      "tipo_localidad": "village",
+      "latitud": 11.4847875,
+      "longitud": -84.4809902,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11246869549",
+      "nombre": "Roconola",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4997907,
+      "longitud": -84.3493688,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11254069055",
+      "nombre": "Las Iguanas",
+      "tipo_localidad": "village",
+      "latitud": 12.0331769,
+      "longitud": -84.2594773,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11254069056",
+      "nombre": "Julio Buitrago",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0658662,
+      "longitud": -84.2308259,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11259945718",
+      "nombre": "Puerto Príncipe",
+      "tipo_localidad": "village",
+      "latitud": 11.6471506,
+      "longitud": -84.1741991,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11260005774",
+      "nombre": "El Chacalín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8053389,
+      "longitud": -84.1193801,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11262675290",
+      "nombre": "Chalmeca Abajol",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.188372,
+      "longitud": -84.0908307,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11262699409",
+      "nombre": "San Antonio de Kukarawala",
+      "tipo_localidad": "village",
+      "latitud": 12.6499904,
+      "longitud": -84.4469047,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11262737073",
+      "nombre": "Monte Rosa Centro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3635305,
+      "longitud": -84.2527503,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11262737074",
+      "nombre": "El Toro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5128385,
+      "longitud": -84.1086245,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11262737075",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3155591,
+      "longitud": -83.8082814,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11262737078",
+      "nombre": "El Capricho",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2776275,
+      "longitud": -83.7958682,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11262737107",
+      "nombre": "El Campeón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2441412,
+      "longitud": -83.8230336,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11262737125",
+      "nombre": "Las Limas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2436589,
+      "longitud": -83.8451081,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11262749569",
+      "nombre": "El Panchón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.317286,
+      "longitud": -83.8681269,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11262749570",
+      "nombre": "El Escobal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2974038,
+      "longitud": -83.8524628,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11269846022",
+      "nombre": "Los Robles",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9363804,
+      "longitud": -83.9364301,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11272413313",
+      "nombre": "La Angostura",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5415792,
+      "longitud": -84.2986491,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11272478902",
+      "nombre": "El Cobín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6257744,
+      "longitud": -84.4577971,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11272478905",
+      "nombre": "El Espavel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5617185,
+      "longitud": -84.4569765,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11272478906",
+      "nombre": "Los Limones",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5114753,
+      "longitud": -84.4275611,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11273220347",
+      "nombre": "Comarca Las Tores",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6103395,
+      "longitud": -84.3473343,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11273295106",
+      "nombre": "Comarca Casa de Tablas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5817878,
+      "longitud": -84.4111479,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11273295107",
+      "nombre": "Comarca El Letero",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.581321,
+      "longitud": -84.5044149,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11276031435",
+      "nombre": "San Mariano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0920366,
+      "longitud": -83.797248,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11289957986",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8556148,
+      "longitud": -84.4722569,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11290010591",
+      "nombre": "Las Milpas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8182219,
+      "longitud": -84.2390603,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11327773243",
+      "nombre": "San Juan",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5369008,
+      "longitud": -84.5072651,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11327773245",
+      "nombre": "Esquipulas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5753512,
+      "longitud": -84.5238519,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11327773248",
+      "nombre": "El Delirio",
+      "tipo_localidad": "village",
+      "latitud": 11.5452104,
+      "longitud": -84.5513284,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11327773265",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5614769,
+      "longitud": -84.5356321,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11405702058",
+      "nombre": "Lajeroso",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1744554,
+      "longitud": -84.7460783,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11443789693",
+      "nombre": "Rápido Boca de Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.504324,
+      "longitud": -84.3059476,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11445322709",
+      "nombre": "Neysi Ríos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1994133,
+      "longitud": -83.9734901,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11445322727",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "village",
+      "latitud": 11.9847223,
+      "longitud": -83.8592776,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11448929701",
+      "nombre": "La Campana",
+      "tipo_localidad": "village",
+      "latitud": 12.2742443,
+      "longitud": -84.7415338,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11448945287",
+      "nombre": "Las Lapas",
+      "tipo_localidad": "village",
+      "latitud": 12.2536083,
+      "longitud": -84.1003168,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11477267956",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "village",
+      "latitud": 12.176836,
+      "longitud": -84.2008495,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11477267957",
+      "nombre": "María Cristina Gaitán",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1017038,
+      "longitud": -84.1832113,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11495390191",
+      "nombre": "Esperancita Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5011784,
+      "longitud": -84.3880731,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11495490723",
+      "nombre": "Comarca El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5421094,
+      "longitud": -84.4404164,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11501149069",
+      "nombre": "Águas Gatas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3793018,
+      "longitud": -84.2930585,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11550556672",
+      "nombre": "Sector Banderitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9723113,
+      "longitud": -84.9481344,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11829009124",
+      "nombre": "La Paila",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4668954,
+      "longitud": -84.351021,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/11829015689",
+      "nombre": "San Francisco Sulatingni",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6449393,
+      "longitud": -84.1385257,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/12184470276",
+      "nombre": "San Pedro del Norte Bocana de Paiwas",
+      "tipo_localidad": "village",
+      "latitud": 13.0526407,
+      "longitud": -84.7386065,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/12408032356",
+      "nombre": "San Agustín",
+      "tipo_localidad": "village",
+      "latitud": 12.154329,
+      "longitud": -84.2140353,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/12802307352",
+      "nombre": "Los Cinco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2862971,
+      "longitud": -83.754141,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/12877366658",
+      "nombre": "Wilikón",
+      "tipo_localidad": "village",
+      "latitud": 13.0735214,
+      "longitud": -85.0619459,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13036293979",
+      "nombre": "San Sebastián",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.9917837,
+      "longitud": -83.8830292,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13036307593",
+      "nombre": "Caño Azul",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.0038786,
+      "longitud": -83.8246134,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13098922114",
+      "nombre": "El Rama",
+      "tipo_localidad": "town",
+      "latitud": 12.1589955,
+      "longitud": -84.2197038,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13315611902",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2549455,
+      "longitud": -83.7939853,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13315611950",
+      "nombre": "Alianza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3658885,
+      "longitud": -83.8891983,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13315611978",
+      "nombre": "Arenitas II",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3711599,
+      "longitud": -83.8307422,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13315611989",
+      "nombre": "La Palma",
+      "tipo_localidad": "village",
+      "latitud": 12.2778004,
+      "longitud": -83.8345617,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13358658373",
+      "nombre": "Colonia Agrícola Jericó",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7251689,
+      "longitud": -84.5555609,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13360118696",
+      "nombre": "El Capricho",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.250162,
+      "longitud": -83.7417224,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13588047629",
+      "nombre": "Kuma Tingni",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8194906,
+      "longitud": -84.0305507,
+      "departamento": "South Atlantic Autonomous Region"
+    },
+    {
+      "osm_id": "node/13625117964",
+      "nombre": "El Gapotal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.8011014,
+      "longitud": -84.2644179,
+      "departamento": "South Atlantic Autonomous Region"
+    }
+  ]
+}

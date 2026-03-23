@@ -1,0 +1,3278 @@
+{
+  "departamento": "Rivas",
+  "total_registros": 409,
+  "lugares": [
+    {
+      "osm_id": "node/175896610",
+      "nombre": "Rivas",
+      "tipo_localidad": "city",
+      "latitud": 11.4389392,
+      "longitud": -85.8287394,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/175896762",
+      "nombre": "Moyogalpa",
+      "tipo_localidad": "town",
+      "latitud": 11.5400817,
+      "longitud": -85.6979365,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/177530724",
+      "nombre": "Altagracia",
+      "tipo_localidad": "town",
+      "latitud": 11.5669637,
+      "longitud": -85.578688,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/181383316",
+      "nombre": "San Juan del Sur",
+      "tipo_localidad": "town",
+      "latitud": 11.2542297,
+      "longitud": -85.8722797,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/183802852",
+      "nombre": "La Virgen",
+      "tipo_localidad": "village",
+      "latitud": 11.3723984,
+      "longitud": -85.7583539,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/183802856",
+      "nombre": "Sapoá",
+      "tipo_localidad": "village",
+      "latitud": 11.2488875,
+      "longitud": -85.6274213,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/588223886",
+      "nombre": "El Ostional",
+      "tipo_localidad": "village",
+      "latitud": 11.1121381,
+      "longitud": -85.7607745,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/588223888",
+      "nombre": "El Pochote",
+      "tipo_localidad": "village",
+      "latitud": 11.0909312,
+      "longitud": -85.7193873,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/598518906",
+      "nombre": "Santa Carlota",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4518658,
+      "longitud": -85.8069192,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/598518909",
+      "nombre": "Jorge Camargo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4524863,
+      "longitud": -85.8034623,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/598518938",
+      "nombre": "El Progreso",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4549311,
+      "longitud": -85.8047088,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/598519001",
+      "nombre": "Nuevo Amanecer",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4506712,
+      "longitud": -85.8022054,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/598519032",
+      "nombre": "Griega",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4564562,
+      "longitud": -85.8023221,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/598519061",
+      "nombre": "Ramón López",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4570825,
+      "longitud": -85.800346,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/598519071",
+      "nombre": "Julio Buitrago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4540197,
+      "longitud": -85.7996609,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/598556157",
+      "nombre": "Nicarao Calli",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4640527,
+      "longitud": -85.8034901,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1192026718",
+      "nombre": "Muelle de Mérida",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4413092,
+      "longitud": -85.5593413,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1675904159",
+      "nombre": "El Gigante",
+      "tipo_localidad": "village",
+      "latitud": 11.3916894,
+      "longitud": -86.0330815,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1717850772",
+      "nombre": "San Jorge",
+      "tipo_localidad": "town",
+      "latitud": 11.4560565,
+      "longitud": -85.8007221,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1728827830",
+      "nombre": "La Concepción",
+      "tipo_localidad": "village",
+      "latitud": 11.5555635,
+      "longitud": -85.673456,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1728827831",
+      "nombre": "La Flor",
+      "tipo_localidad": "village",
+      "latitud": 11.5701618,
+      "longitud": -85.6564702,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1728827832",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "village",
+      "latitud": 11.5129331,
+      "longitud": -85.5882196,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1728827836",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "village",
+      "latitud": 11.4971436,
+      "longitud": -85.6938691,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1728827843",
+      "nombre": "Puerto de Gracias",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5861035,
+      "longitud": -85.5872676,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1728827858",
+      "nombre": "San José del Sur",
+      "tipo_localidad": "village",
+      "latitud": 11.4859886,
+      "longitud": -85.6459584,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1728827862",
+      "nombre": "San Marcos",
+      "tipo_localidad": "village",
+      "latitud": 11.5824377,
+      "longitud": -85.6480598,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1728827870",
+      "nombre": "Urbaite",
+      "tipo_localidad": "village",
+      "latitud": 11.523763,
+      "longitud": -85.5874384,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1793941667",
+      "nombre": "Playa Santo Domingo",
+      "tipo_localidad": "village",
+      "latitud": 11.5119586,
+      "longitud": -85.5542019,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/1829927225",
+      "nombre": "Santa Cruz",
+      "tipo_localidad": "village",
+      "latitud": 11.489237,
+      "longitud": -85.5389641,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2149102656",
+      "nombre": "Veracruz",
+      "tipo_localidad": "village",
+      "latitud": 11.4236637,
+      "longitud": -85.8748274,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2611062905",
+      "nombre": "Camilo Ortega",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2486528,
+      "longitud": -85.8732944,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2611771989",
+      "nombre": "Luis Arroyo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2527705,
+      "longitud": -85.8690779,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2673977680",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "village",
+      "latitud": 11.3924488,
+      "longitud": -85.971588,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2675343764",
+      "nombre": "Las Salinas",
+      "tipo_localidad": "village",
+      "latitud": 11.4724634,
+      "longitud": -86.1040855,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2675425462",
+      "nombre": "La Virgen Morena",
+      "tipo_localidad": "village",
+      "latitud": 11.4836349,
+      "longitud": -86.0971575,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2684028160",
+      "nombre": "El Higueral",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6733678,
+      "longitud": -85.8672721,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2684028164",
+      "nombre": "Las Piedras",
+      "tipo_localidad": "village",
+      "latitud": 11.6387635,
+      "longitud": -85.8639142,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2702197063",
+      "nombre": "San Ramón",
+      "tipo_localidad": "village",
+      "latitud": 11.4093811,
+      "longitud": -85.5369,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2705484710",
+      "nombre": "Esquipulas",
+      "tipo_localidad": "village",
+      "latitud": 11.5068287,
+      "longitud": -85.7066359,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2876739282",
+      "nombre": "La Pepesca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2627535,
+      "longitud": -85.8771101,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2889322286",
+      "nombre": "Las Cuchillas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.476373,
+      "longitud": -85.4913966,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/2889322287",
+      "nombre": "Potrerillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4536466,
+      "longitud": -85.4703039,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3108830263",
+      "nombre": "Belén",
+      "tipo_localidad": "town",
+      "latitud": 11.5016249,
+      "longitud": -85.8867881,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3108830274",
+      "nombre": "Potosí",
+      "tipo_localidad": "town",
+      "latitud": 11.4946557,
+      "longitud": -85.8561234,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3151912255",
+      "nombre": "B° Los Pinos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4493614,
+      "longitud": -85.833654,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3195132443",
+      "nombre": "Colón",
+      "tipo_localidad": "village",
+      "latitud": 11.0947249,
+      "longitud": -85.2289597,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3447152758",
+      "nombre": "Los Collados",
+      "tipo_localidad": "village",
+      "latitud": 11.201519,
+      "longitud": -85.7667662,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554867398",
+      "nombre": "Chacalapa",
+      "tipo_localidad": "village",
+      "latitud": 11.4824623,
+      "longitud": -85.897122,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554867410",
+      "nombre": "La Punta",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6094847,
+      "longitud": -86.0968439,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554867469",
+      "nombre": "El Trapiche",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.611312,
+      "longitud": -86.058066,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554867480",
+      "nombre": "Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5490462,
+      "longitud": -86.092151,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554867556",
+      "nombre": "San Marcos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5965306,
+      "longitud": -86.0085181,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554877526",
+      "nombre": "Berlín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.585714,
+      "longitud": -86.054239,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554877527",
+      "nombre": "El Higueral",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5074813,
+      "longitud": -86.0860757,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554877528",
+      "nombre": "El Jícaro",
+      "tipo_localidad": "village",
+      "latitud": 11.6022756,
+      "longitud": -86.0945925,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554877529",
+      "nombre": "El Remate",
+      "tipo_localidad": "village",
+      "latitud": 11.503431,
+      "longitud": -86.0509212,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554877530",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5332349,
+      "longitud": -86.0202685,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554877533",
+      "nombre": "Las Cañas de García Arriba",
+      "tipo_localidad": "village",
+      "latitud": 11.5408511,
+      "longitud": -86.1121465,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554877534",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5311176,
+      "longitud": -86.0538523,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554877535",
+      "nombre": "Mata de Caña",
+      "tipo_localidad": "village",
+      "latitud": 11.5554943,
+      "longitud": -85.9684697,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554877536",
+      "nombre": "Pansuaca",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5009624,
+      "longitud": -85.9868679,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3554877537",
+      "nombre": "San Ignacio",
+      "tipo_localidad": "village",
+      "latitud": 11.5163513,
+      "longitud": -86.0787943,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3596978087",
+      "nombre": "Pedro Joaquín Chamorro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.256552,
+      "longitud": -85.871631,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3861633991",
+      "nombre": "El Quino",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5354483,
+      "longitud": -85.5758818,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3861634001",
+      "nombre": "San Silvestre",
+      "tipo_localidad": "village",
+      "latitud": 11.5624305,
+      "longitud": -85.5716779,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3861634002",
+      "nombre": "Tagüizapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5651228,
+      "longitud": -85.5640064,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3884003999",
+      "nombre": "Puerta del Sol",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4543334,
+      "longitud": -85.8407973,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3892176308",
+      "nombre": "Cárdenas",
+      "tipo_localidad": "town",
+      "latitud": 11.1971253,
+      "longitud": -85.5094819,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3953958465",
+      "nombre": "Los Sánchez",
+      "tipo_localidad": "village",
+      "latitud": 11.4849668,
+      "longitud": -85.9547238,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3954376957",
+      "nombre": "El Caimito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4688781,
+      "longitud": -85.9748539,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3967405807",
+      "nombre": "El Astillero",
+      "tipo_localidad": "village",
+      "latitud": 11.512191,
+      "longitud": -86.1640697,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3969583528",
+      "nombre": "Las Cañas de García Abajo",
+      "tipo_localidad": "village",
+      "latitud": 11.5289528,
+      "longitud": -86.1491884,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3971412696",
+      "nombre": "La Albina",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4799965,
+      "longitud": -86.123981,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3971789079",
+      "nombre": "Popoyo",
+      "tipo_localidad": "village",
+      "latitud": 11.4696266,
+      "longitud": -86.121868,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3978377316",
+      "nombre": "La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3845722,
+      "longitud": -85.9375278,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3978377317",
+      "nombre": "Las Palomas",
+      "tipo_localidad": "village",
+      "latitud": 11.3774104,
+      "longitud": -85.9358356,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3982145454",
+      "nombre": "La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1402223,
+      "longitud": -85.7843809,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3982145455",
+      "nombre": "La Tortuga",
+      "tipo_localidad": "village",
+      "latitud": 11.15927,
+      "longitud": -85.7588979,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3984555093",
+      "nombre": "Colonia María Auxiliadora",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2147899,
+      "longitud": -85.7905773,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3984555095",
+      "nombre": "Escamequita",
+      "tipo_localidad": "village",
+      "latitud": 11.2028248,
+      "longitud": -85.8035665,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3984555097",
+      "nombre": "Los Reyes",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2082319,
+      "longitud": -85.7041653,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985436936",
+      "nombre": "El Cairo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.438015,
+      "longitud": -85.4583593,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985436937",
+      "nombre": "El Corozal Viejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4799147,
+      "longitud": -85.470617,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985436938",
+      "nombre": "El Corozal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4722002,
+      "longitud": -85.4685737,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985436939",
+      "nombre": "El Guineo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4048598,
+      "longitud": -85.5249028,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985436946",
+      "nombre": "La Florida",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4176163,
+      "longitud": -85.4633799,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985436947",
+      "nombre": "La Fuente",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4309872,
+      "longitud": -85.4655316,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985436948",
+      "nombre": "La Palma",
+      "tipo_localidad": "village",
+      "latitud": 11.4500687,
+      "longitud": -85.4658247,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985436949",
+      "nombre": "La Tierata",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4046255,
+      "longitud": -85.5124825,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985436950",
+      "nombre": "Mérida",
+      "tipo_localidad": "village",
+      "latitud": 11.4461955,
+      "longitud": -85.5622116,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985436954",
+      "nombre": "Punta Gorda",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4897652,
+      "longitud": -85.4813755,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985437060",
+      "nombre": "San Antonio (Mérida)",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4493922,
+      "longitud": -85.5622391,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985437061",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4247344,
+      "longitud": -85.4705063,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3985437063",
+      "nombre": "Tichaná",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4049567,
+      "longitud": -85.4893444,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3986669364",
+      "nombre": "Pulman",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4919741,
+      "longitud": -85.4911734,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3987161611",
+      "nombre": "Barrio Alegre",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.494743,
+      "longitud": -85.6879903,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3987161614",
+      "nombre": "La Primavera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5163287,
+      "longitud": -85.5568013,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3987161624",
+      "nombre": "Sacaramento",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4802547,
+      "longitud": -85.6794092,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3987161625",
+      "nombre": "San Fernando",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5015076,
+      "longitud": -85.549634,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3987161626",
+      "nombre": "San Lázaro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4856126,
+      "longitud": -85.6584514,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3987161627",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4899612,
+      "longitud": -85.5988664,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3987161628",
+      "nombre": "Sinacapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4891057,
+      "longitud": -85.6083185,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3987161629",
+      "nombre": "El Tigrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4866126,
+      "longitud": -85.6852266,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3987161631",
+      "nombre": "Venecia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4813675,
+      "longitud": -85.6398778,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3987193747",
+      "nombre": "Los Ramos",
+      "tipo_localidad": "village",
+      "latitud": 11.5043123,
+      "longitud": -85.6022321,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988061400",
+      "nombre": "Tilgüe",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5262333,
+      "longitud": -85.5720115,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988463398",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5155121,
+      "longitud": -85.599758,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988463399",
+      "nombre": "Las Cruces",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4862644,
+      "longitud": -85.6380578,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988463417",
+      "nombre": "Cuatro Esquinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5288184,
+      "longitud": -85.5742744,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988463419",
+      "nombre": "Sintiope",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5298656,
+      "longitud": -85.581347,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988463420",
+      "nombre": "Tel Aviv",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4797028,
+      "longitud": -85.6661002,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988677001",
+      "nombre": "El Estrecho",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5577444,
+      "longitud": -85.577175,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988677002",
+      "nombre": "El Rincón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5667101,
+      "longitud": -85.5881317,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988677003",
+      "nombre": "La Polonia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5648897,
+      "longitud": -85.5980678,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988677004",
+      "nombre": "La Sabana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5525142,
+      "longitud": -85.5839921,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988677005",
+      "nombre": "Pull",
+      "tipo_localidad": "village",
+      "latitud": 11.5677687,
+      "longitud": -85.596101,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988677006",
+      "nombre": "San José del Norte",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5773872,
+      "longitud": -85.6147218,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988677008",
+      "nombre": "Agregar San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5788155,
+      "longitud": -85.5886083,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988677009",
+      "nombre": "La Sabana",
+      "tipo_localidad": "village",
+      "latitud": 11.5520726,
+      "longitud": -85.5797392,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988918328",
+      "nombre": "El Rosario",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5741556,
+      "longitud": -85.6652185,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988918331",
+      "nombre": "Los Hatillos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.5762394,
+      "longitud": -85.6496778,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3988918333",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.584162,
+      "longitud": -85.6425532,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3991531884",
+      "nombre": "El Manantial",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.5122012,
+      "longitud": -85.7060821,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3991531885",
+      "nombre": "El Resbalón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5524379,
+      "longitud": -85.6830336,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3991531886",
+      "nombre": "La Paloma",
+      "tipo_localidad": "village",
+      "latitud": 11.5280342,
+      "longitud": -85.7034954,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3991531887",
+      "nombre": "Los Hornos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.5473044,
+      "longitud": -85.6953047,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/3992238169",
+      "nombre": "Santa Marta",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4808617,
+      "longitud": -85.6574799,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/4161732879",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4423971,
+      "longitud": -85.8281986,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/4161732880",
+      "nombre": "Barrio Obrero",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4439645,
+      "longitud": -85.8270541,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/4161732881",
+      "nombre": "Barrio El Calvario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4390617,
+      "longitud": -85.8256197,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/4178614252",
+      "nombre": "San Miguel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.5044404,
+      "longitud": -85.8815707,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/4178616558",
+      "nombre": "Empalme de Potosí-Rivas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4917808,
+      "longitud": -85.8737432,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/4444985716",
+      "nombre": "Apompuá",
+      "tipo_localidad": "village",
+      "latitud": 11.5076543,
+      "longitud": -85.8517205,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/4444985717",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "town",
+      "latitud": 11.4683125,
+      "longitud": -85.8162952,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5242075457",
+      "nombre": "San Lorenzo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3042191,
+      "longitud": -85.9101655,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5242081108",
+      "nombre": "San Emilio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1800247,
+      "longitud": -85.4688913,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5242082191",
+      "nombre": "Polocia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.1943328,
+      "longitud": -85.5116969,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5242082196",
+      "nombre": "El Bastón",
+      "tipo_localidad": "village",
+      "latitud": 11.3021976,
+      "longitud": -85.8754092,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283206884",
+      "nombre": "Nicarao Calli",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4475069,
+      "longitud": -85.8172373,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283207195",
+      "nombre": "Hernán Guzmán (Panamá)",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4460896,
+      "longitud": -85.9343028,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283207206",
+      "nombre": "Omar Varela",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4703615,
+      "longitud": -85.8216453,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283207207",
+      "nombre": "San Andrés",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4685557,
+      "longitud": -85.8114767,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283207964",
+      "nombre": "Vivienda",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4480934,
+      "longitud": -85.8153526,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283207965",
+      "nombre": "La Lagarta",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5482537,
+      "longitud": -85.9373739,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283208768",
+      "nombre": "Santa Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5430936,
+      "longitud": -85.9353486,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283208780",
+      "nombre": "El Progreso",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5498859,
+      "longitud": -85.9438514,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283209323",
+      "nombre": "La Estrella",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6278295,
+      "longitud": -86.0091234,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283211323",
+      "nombre": "San Juan Viejo",
+      "tipo_localidad": "village",
+      "latitud": 11.5344517,
+      "longitud": -85.9627268,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283212015",
+      "nombre": "Sacuanjoche",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4593644,
+      "longitud": -85.9389211,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283214062",
+      "nombre": "Los Tanques",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.5474352,
+      "longitud": -85.5815062,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283214063",
+      "nombre": "Flor Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4672547,
+      "longitud": -85.8326507,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283215090",
+      "nombre": "Molino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4634721,
+      "longitud": -85.8162675,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283216342",
+      "nombre": "San Gregorio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4872276,
+      "longitud": -85.8490678,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5283217704",
+      "nombre": "El Jabillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5865239,
+      "longitud": -85.8941721,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285158867",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2036278,
+      "longitud": -85.5169393,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285158870",
+      "nombre": "Barrio Hermanos Mendoza",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2730384,
+      "longitud": -85.8428065,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285158877",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4599431,
+      "longitud": -85.810163,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285158880",
+      "nombre": "Barrio Nuevo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.5210413,
+      "longitud": -86.0714303,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285158910",
+      "nombre": "El Amparo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.63178,
+      "longitud": -85.9574447,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285158911",
+      "nombre": "Paso Real de Ochomogo",
+      "tipo_localidad": "village",
+      "latitud": 11.6570188,
+      "longitud": -85.9708827,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285160739",
+      "nombre": "Barrio Liberación",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2001637,
+      "longitud": -85.5115124,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285161077",
+      "nombre": "Los Playones",
+      "tipo_localidad": "village",
+      "latitud": 11.2219786,
+      "longitud": -85.7876032,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285161426",
+      "nombre": "Asentamiento San Ignacio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.5225916,
+      "longitud": -86.0727287,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285161623",
+      "nombre": "Balgüe",
+      "tipo_localidad": "village",
+      "latitud": 11.490842,
+      "longitud": -85.5162457,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285162121",
+      "nombre": "Mancarrón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6287048,
+      "longitud": -86.021537,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5285162122",
+      "nombre": "El Limonal",
+      "tipo_localidad": "village",
+      "latitud": 11.4835765,
+      "longitud": -85.8342831,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5294213842",
+      "nombre": "La Quijada",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1546171,
+      "longitud": -85.3742194,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5294213942",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "village",
+      "latitud": 11.2524777,
+      "longitud": -85.8562813,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5341605738",
+      "nombre": "Playa Remanso",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2224863,
+      "longitud": -85.8462195,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5342931979",
+      "nombre": "Eddy Monterrey (Río Grande)",
+      "tipo_localidad": "village",
+      "latitud": 11.4636274,
+      "longitud": -85.946659,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5467730058",
+      "nombre": "El Sucio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2329251,
+      "longitud": -85.8408436,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/5467730059",
+      "nombre": "San Isidro",
+      "tipo_localidad": "village",
+      "latitud": 11.6082928,
+      "longitud": -86.0030374,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/6043100415",
+      "nombre": "Santa Teresita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.404725,
+      "longitud": -85.774904,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/7152032685",
+      "nombre": "Las Marías",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2754142,
+      "longitud": -85.8870773,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/8990071621",
+      "nombre": "Brito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3480332,
+      "longitud": -85.9798064,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/10815975137",
+      "nombre": "Las Banderas",
+      "tipo_localidad": "village",
+      "latitud": 11.6013376,
+      "longitud": -85.9207624,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/10822861348",
+      "nombre": "Pozo de Oro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6386671,
+      "longitud": -85.9048721,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/10822905186",
+      "nombre": "El Menco",
+      "tipo_localidad": "village",
+      "latitud": 11.6861551,
+      "longitud": -85.8667689,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11068026263",
+      "nombre": "Popoyo",
+      "tipo_localidad": "village",
+      "latitud": 11.4729718,
+      "longitud": -86.1278523,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11112198832",
+      "nombre": "Santa Emilia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4510096,
+      "longitud": -86.0553565,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11112198833",
+      "nombre": "Santa Juana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4374652,
+      "longitud": -86.0295233,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11112198834",
+      "nombre": "Guacalito de la Isla",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3718997,
+      "longitud": -86.0080039,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11112198837",
+      "nombre": "El Tambor",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4159859,
+      "longitud": -86.0084224,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11112198854",
+      "nombre": "El Ojojal",
+      "tipo_localidad": "village",
+      "latitud": 11.454103,
+      "longitud": -86.0157302,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11112198855",
+      "nombre": "Cuascoto Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4802454,
+      "longitud": -86.0236037,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11112926487",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5960669,
+      "longitud": -86.0445571,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11115164134",
+      "nombre": "Pueblo Nuevo",
+      "tipo_localidad": "village",
+      "latitud": 11.5213529,
+      "longitud": -85.8958233,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11126755919",
+      "nombre": "Las Marías",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4579808,
+      "longitud": -85.8897293,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11126755921",
+      "nombre": "Talolinga",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4641057,
+      "longitud": -85.8931518,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11126755922",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.469116,
+      "longitud": -85.9021425,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11126755925",
+      "nombre": "Jaloste",
+      "tipo_localidad": "village",
+      "latitud": 11.4778535,
+      "longitud": -85.901,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11126756058",
+      "nombre": "Nancimí",
+      "tipo_localidad": "village",
+      "latitud": 11.473306,
+      "longitud": -85.9566826,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128409831",
+      "nombre": "El Coco",
+      "tipo_localidad": "village",
+      "latitud": 11.3864696,
+      "longitud": -85.766353,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128409904",
+      "nombre": "B° Las Piedras",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4401836,
+      "longitud": -85.8364391,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425332",
+      "nombre": "La Piedras",
+      "tipo_localidad": "village",
+      "latitud": 11.4347364,
+      "longitud": -85.846991,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425333",
+      "nombre": "San Jacinto",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4493636,
+      "longitud": -85.8336067,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425334",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.429226,
+      "longitud": -85.8499145,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425336",
+      "nombre": "B° 29 de Mayo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4261764,
+      "longitud": -85.8368791,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425338",
+      "nombre": "San Jacinto",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4188622,
+      "longitud": -85.8566201,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425362",
+      "nombre": "La Chocolata",
+      "tipo_localidad": "village",
+      "latitud": 11.3946996,
+      "longitud": -85.84764,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425498",
+      "nombre": "Mono Negro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3837421,
+      "longitud": -85.8561085,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425506",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.36019,
+      "longitud": -85.8753473,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425599",
+      "nombre": "La Tigrera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3726281,
+      "longitud": -85.9084886,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425690",
+      "nombre": "El Coyol",
+      "tipo_localidad": "village",
+      "latitud": 11.393938,
+      "longitud": -85.9650265,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425693",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3950204,
+      "longitud": -85.9592735,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425696",
+      "nombre": "San Martín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4155443,
+      "longitud": -85.9499824,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425697",
+      "nombre": "San Vicente",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4127889,
+      "longitud": -85.9530401,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425701",
+      "nombre": "La Calera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4389007,
+      "longitud": -85.9442693,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425705",
+      "nombre": "Cruz de España",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4363979,
+      "longitud": -85.9518975,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425948",
+      "nombre": "Guachipilín",
+      "tipo_localidad": "village",
+      "latitud": 11.3969763,
+      "longitud": -85.8794361,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425951",
+      "nombre": "Los Horcones",
+      "tipo_localidad": "village",
+      "latitud": 11.4114782,
+      "longitud": -85.875412,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128425953",
+      "nombre": "Río Grande",
+      "tipo_localidad": "village",
+      "latitud": 11.4011467,
+      "longitud": -85.8976176,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426002",
+      "nombre": "La Junta",
+      "tipo_localidad": "village",
+      "latitud": 11.3910198,
+      "longitud": -85.9276291,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426006",
+      "nombre": "Julieta",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4452994,
+      "longitud": -85.9168625,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426007",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4373365,
+      "longitud": -85.9235117,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426009",
+      "nombre": "Subitava",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4365924,
+      "longitud": -85.9386581,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426010",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4446264,
+      "longitud": -85.9033549,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426011",
+      "nombre": "Palmarcito",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.450352,
+      "longitud": -85.8983928,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426046",
+      "nombre": "El Palmar",
+      "tipo_localidad": "village",
+      "latitud": 11.4479545,
+      "longitud": -85.9034407,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426060",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4658617,
+      "longitud": -85.9089875,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426061",
+      "nombre": "La Providencia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4617846,
+      "longitud": -85.8800653,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426064",
+      "nombre": "El Pradito",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4746939,
+      "longitud": -85.8754063,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426066",
+      "nombre": "La Calle de Enmedio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4825901,
+      "longitud": -85.8487344,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426079",
+      "nombre": "Sabana Grande",
+      "tipo_localidad": "village",
+      "latitud": 11.4777168,
+      "longitud": -85.8564162,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426094",
+      "nombre": "Esquipulas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4778903,
+      "longitud": -85.8462346,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426101",
+      "nombre": "La Riconada",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4744626,
+      "longitud": -85.8465725,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426102",
+      "nombre": "Santa Elena",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4708351,
+      "longitud": -85.8490831,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426103",
+      "nombre": "El Rosario",
+      "tipo_localidad": "village",
+      "latitud": 11.462865,
+      "longitud": -85.8540559,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426104",
+      "nombre": "Candelaria",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.460741,
+      "longitud": -85.8338856,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426114",
+      "nombre": "Los Cocos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4617083,
+      "longitud": -85.8476722,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426115",
+      "nombre": "Belmont",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4584329,
+      "longitud": -85.8431554,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426116",
+      "nombre": "B° El Aragón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4522553,
+      "longitud": -85.839057,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426117",
+      "nombre": "B° Conchagua",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4466243,
+      "longitud": -85.8385313,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426118",
+      "nombre": "Los Ranchos",
+      "tipo_localidad": "village",
+      "latitud": 11.455026,
+      "longitud": -85.8494586,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426133",
+      "nombre": "San Rafael",
+      "tipo_localidad": "village",
+      "latitud": 11.4470712,
+      "longitud": -85.8562446,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426156",
+      "nombre": "La Sabaneta",
+      "tipo_localidad": "village",
+      "latitud": 11.4492059,
+      "longitud": -85.8615661,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426187",
+      "nombre": "Los Cerros",
+      "tipo_localidad": "village",
+      "latitud": 11.4534435,
+      "longitud": -85.8718979,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426382",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.454148,
+      "longitud": -85.9491509,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426437",
+      "nombre": "Juan Dávila",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4182208,
+      "longitud": -85.9486091,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426438",
+      "nombre": "Managüita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.44827,
+      "longitud": -85.9573585,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128426441",
+      "nombre": "El Chorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4605622,
+      "longitud": -85.9783334,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128815344",
+      "nombre": "Las Latas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3835667,
+      "longitud": -85.8172372,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128815345",
+      "nombre": "Tronco Solo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3921807,
+      "longitud": -85.8202815,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128815347",
+      "nombre": "San José de La Montaña",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4891981,
+      "longitud": -85.9250808,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128815349",
+      "nombre": "El Solorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4968048,
+      "longitud": -85.8997983,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128815356",
+      "nombre": "Calla San Blas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4940397,
+      "longitud": -85.8864141,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128815364",
+      "nombre": "Paso de Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5032916,
+      "longitud": -85.8659703,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831819",
+      "nombre": "Elequemia",
+      "tipo_localidad": "village",
+      "latitud": 11.5137312,
+      "longitud": -85.8032012,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831821",
+      "nombre": "Tolesmaida",
+      "tipo_localidad": "village",
+      "latitud": 11.5014361,
+      "longitud": -85.7959646,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831851",
+      "nombre": "Santo Domingo",
+      "tipo_localidad": "village",
+      "latitud": 11.499244,
+      "longitud": -85.826397,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831865",
+      "nombre": "San Alejandro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4716447,
+      "longitud": -85.8309031,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831890",
+      "nombre": "El Cocal",
+      "tipo_localidad": "village",
+      "latitud": 11.4727277,
+      "longitud": -85.8243638,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831893",
+      "nombre": "San Antonio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4557884,
+      "longitud": -85.7941461,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831894",
+      "nombre": "El Chirino",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4534751,
+      "longitud": -85.7910454,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831895",
+      "nombre": "Sacramento",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4505203,
+      "longitud": -85.7908657,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831898",
+      "nombre": "Cangrejal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4331563,
+      "longitud": -85.7790211,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831899",
+      "nombre": "Nagualapita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4419975,
+      "longitud": -85.7832027,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831902",
+      "nombre": "El Vergel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4203003,
+      "longitud": -85.7979575,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831923",
+      "nombre": "Palermo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4415716,
+      "longitud": -85.7962918,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831929",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4391057,
+      "longitud": -85.8118379,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831930",
+      "nombre": "Apataco",
+      "tipo_localidad": "village",
+      "latitud": 11.4430701,
+      "longitud": -85.8034694,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831931",
+      "nombre": "La Puebloa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4279062,
+      "longitud": -85.8193106,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831934",
+      "nombre": "Aposonga",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4099967,
+      "longitud": -85.8237737,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128831935",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4190147,
+      "longitud": -85.8249807,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128894277",
+      "nombre": "San Juan Viejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5050894,
+      "longitud": -85.9607005,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128894278",
+      "nombre": "La Penca",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5198444,
+      "longitud": -85.9748881,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128894279",
+      "nombre": "La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.503155,
+      "longitud": -85.9543705,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128900229",
+      "nombre": "El Genízaro",
+      "tipo_localidad": "village",
+      "latitud": 11.3513647,
+      "longitud": -85.778718,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128900230",
+      "nombre": "Santa María",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3574762,
+      "longitud": -85.7716048,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128900236",
+      "nombre": "La Guardia",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3543521,
+      "longitud": -85.7853592,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128900240",
+      "nombre": "El Capulín",
+      "tipo_localidad": "village",
+      "latitud": 11.3369008,
+      "longitud": -85.799489,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128900245",
+      "nombre": "Nancite Dulce",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3680894,
+      "longitud": -85.8188224,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128900254",
+      "nombre": "El Madroñal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3682893,
+      "longitud": -85.8486271,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128900261",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3377871,
+      "longitud": -85.8526558,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128900265",
+      "nombre": "El Aguilucho",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3426267,
+      "longitud": -85.87182,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11128900282",
+      "nombre": "La Pilas de Chocolata",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3810477,
+      "longitud": -85.8481228,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11146798429",
+      "nombre": "Santa Gertrudis",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.615541,
+      "longitud": -85.9727598,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11146798431",
+      "nombre": "Cantimplora",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6042172,
+      "longitud": -85.979122,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11146809528",
+      "nombre": "El Caimito",
+      "tipo_localidad": "village",
+      "latitud": 11.6531033,
+      "longitud": -85.975324,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147317528",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6337947,
+      "longitud": -85.9541345,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147317529",
+      "nombre": "San Roque",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.63964,
+      "longitud": -85.9591931,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147317555",
+      "nombre": "Santa Bárbara",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6549106,
+      "longitud": -85.8675474,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147317558",
+      "nombre": "Carrera Buena",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6698521,
+      "longitud": -85.8717049,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147346672",
+      "nombre": "Casa Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6073858,
+      "longitud": -85.9383738,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147346674",
+      "nombre": "San Dionisio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6036444,
+      "longitud": -85.9303701,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147347488",
+      "nombre": "Pica Pica",
+      "tipo_localidad": "village",
+      "latitud": 11.6180422,
+      "longitud": -85.9489203,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147347490",
+      "nombre": "La Palma",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6257806,
+      "longitud": -85.9543732,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147347492",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.629192,
+      "longitud": -85.952096,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147347608",
+      "nombre": "San Rafael",
+      "tipo_localidad": "village",
+      "latitud": 11.6646353,
+      "longitud": -85.9525359,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11147905639",
+      "nombre": "Las Mesas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5665616,
+      "longitud": -85.9385214,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11148966139",
+      "nombre": "Tierra Blanca II",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.5524897,
+      "longitud": -85.8985537,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11148966140",
+      "nombre": "La Reforma Vieja",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5486031,
+      "longitud": -85.8956891,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11148966181",
+      "nombre": "Tierra Blanca I",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.5615715,
+      "longitud": -85.8983231,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11148972806",
+      "nombre": "Jocomico",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5392502,
+      "longitud": -85.9172219,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11165384168",
+      "nombre": "El Limonal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4705354,
+      "longitud": -85.5580634,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11165384169",
+      "nombre": "El Perú",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4640111,
+      "longitud": -85.5604184,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11167602503",
+      "nombre": "Río Mena",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1462401,
+      "longitud": -85.4167163,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11167602504",
+      "nombre": "El Zapotillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1555128,
+      "longitud": -85.3891846,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11167602645",
+      "nombre": "Tirurí",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.188361,
+      "longitud": -85.4918197,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11174557245",
+      "nombre": "La Calera",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.23779,
+      "longitud": -85.6417322,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11174557246",
+      "nombre": "Sota Caballos",
+      "tipo_localidad": "village",
+      "latitud": 11.2310762,
+      "longitud": -85.654006,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11179077041",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2201211,
+      "longitud": -85.7084066,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11179077084",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "village",
+      "latitud": 11.2225758,
+      "longitud": -85.7026586,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11179077086",
+      "nombre": "El Nancite",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2336649,
+      "longitud": -85.6606204,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11179077088",
+      "nombre": "La Rejega",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2437145,
+      "longitud": -85.7016635,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11179077093",
+      "nombre": "Tony",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2770465,
+      "longitud": -85.7474515,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11179077128",
+      "nombre": "Los Tigres",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2301238,
+      "longitud": -85.6404877,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11179077149",
+      "nombre": "El Aceituno",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2115757,
+      "longitud": -85.6530833,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11179077152",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1799113,
+      "longitud": -85.664744,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11184028354",
+      "nombre": "El Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1879534,
+      "longitud": -85.8031797,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11184028356",
+      "nombre": "Pueblo Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1511401,
+      "longitud": -85.6683987,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11184028357",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1497533,
+      "longitud": -85.7217184,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11184028358",
+      "nombre": "Monte Cristo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1387031,
+      "longitud": -85.7356498,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11184028361",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0885257,
+      "longitud": -85.7103807,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11184654436",
+      "nombre": "El Carrizal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2280849,
+      "longitud": -85.8239293,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11184691015",
+      "nombre": "El Cambalache",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1673607,
+      "longitud": -85.7542027,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196132197",
+      "nombre": "La Cuesta",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2879862,
+      "longitud": -85.8399153,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196132200",
+      "nombre": "La Boca de Montaña",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3035311,
+      "longitud": -85.8328182,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196138552",
+      "nombre": "Barrio Los Hermanos Mendoza",
+      "tipo_localidad": "village",
+      "latitud": 11.2692658,
+      "longitud": -85.8454144,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139006",
+      "nombre": "Zaragoza",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3191854,
+      "longitud": -85.7753384,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139014",
+      "nombre": "El Coyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2446615,
+      "longitud": -85.8398509,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139015",
+      "nombre": "El Valle",
+      "tipo_localidad": "village",
+      "latitud": 11.247801,
+      "longitud": -85.8483044,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139018",
+      "nombre": "Auxiliadora",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2636021,
+      "longitud": -85.8547774,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139019",
+      "nombre": "La Talanguera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2627708,
+      "longitud": -85.8766267,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139021",
+      "nombre": "Nascolo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2705519,
+      "longitud": -85.8809584,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139022",
+      "nombre": "El Payapal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2828255,
+      "longitud": -85.8725846,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139025",
+      "nombre": "Bosque del Mar",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.286984,
+      "longitud": -85.8899868,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139026",
+      "nombre": "Paquita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.290001,
+      "longitud": -85.8989346,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139028",
+      "nombre": "El Plantel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2971817,
+      "longitud": -85.8893001,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139029",
+      "nombre": "Cuatro Tubos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2987493,
+      "longitud": -85.8657289,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196139276",
+      "nombre": "San Antonio del Bastón",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3192013,
+      "longitud": -85.8551449,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196224174",
+      "nombre": "Las Brisas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2317497,
+      "longitud": -85.7812822,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196224178",
+      "nombre": "Toro Venado",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2637363,
+      "longitud": -85.810993,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196224495",
+      "nombre": "La Lucha",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3016688,
+      "longitud": -85.7922256,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196224497",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3264863,
+      "longitud": -85.7766581,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196224504",
+      "nombre": "La Perla",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3088334,
+      "longitud": -85.7707948,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11196224505",
+      "nombre": "Cebadilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3127891,
+      "longitud": -85.8266759,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11198478901",
+      "nombre": "Nuevo Mundo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1696131,
+      "longitud": -85.6626213,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11216327343",
+      "nombre": "Islote El Meneco",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.7025193,
+      "longitud": -85.8820823,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11341543944",
+      "nombre": "La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2299291,
+      "longitud": -85.6170881,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11341601171",
+      "nombre": "La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1840368,
+      "longitud": -85.4918972,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11341601175",
+      "nombre": "Las Cañitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1585558,
+      "longitud": -85.4443699,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11341601216",
+      "nombre": "El Triunfo",
+      "tipo_localidad": "village",
+      "latitud": 11.1501296,
+      "longitud": -85.4287326,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11341601248",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1355682,
+      "longitud": -85.3995878,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11341601249",
+      "nombre": "Palos Verdes",
+      "tipo_localidad": "village",
+      "latitud": 11.1418073,
+      "longitud": -85.3981651,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11341601312",
+      "nombre": "El Tablón",
+      "tipo_localidad": "village",
+      "latitud": 11.1373574,
+      "longitud": -85.3676905,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11341601366",
+      "nombre": "Colón Viejo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.1003983,
+      "longitud": -85.2226943,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11341971821",
+      "nombre": "Estero El Toro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.0906662,
+      "longitud": -85.1940995,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11432649073",
+      "nombre": "Empalme a Las Mercedes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.1973889,
+      "longitud": -85.5218053,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11432649085",
+      "nombre": "Cuajiniqui",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2346828,
+      "longitud": -85.5529777,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444007202",
+      "nombre": "La Palma",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.197027,
+      "longitud": -85.5380566,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444007203",
+      "nombre": "Orosí",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.1765608,
+      "longitud": -85.4733601,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809311",
+      "nombre": "El Abejonal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5512183,
+      "longitud": -86.149177,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809321",
+      "nombre": "El Cangrejal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5277349,
+      "longitud": -86.1626269,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809333",
+      "nombre": "El Nigueral",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4997625,
+      "longitud": -86.0896675,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809354",
+      "nombre": "Monte Filis",
+      "tipo_localidad": "village",
+      "latitud": 11.466585,
+      "longitud": -86.0954808,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809621",
+      "nombre": "Popoyo",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.449409,
+      "longitud": -86.0953212,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809635",
+      "nombre": "Jiquelite",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4484252,
+      "longitud": -86.0862744,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809639",
+      "nombre": "El Limón",
+      "tipo_localidad": "village",
+      "latitud": 11.4575246,
+      "longitud": -86.0771559,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809718",
+      "nombre": "Cuascoto",
+      "tipo_localidad": "village",
+      "latitud": 11.4486906,
+      "longitud": -86.0473302,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809734",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4161215,
+      "longitud": -85.9991635,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809736",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3990163,
+      "longitud": -85.9937368,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809801",
+      "nombre": "Loma de La Burra",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.3663875,
+      "longitud": -85.84096,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809803",
+      "nombre": "Las Marías",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2935904,
+      "longitud": -85.888976,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809804",
+      "nombre": "Los Miradores",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2726958,
+      "longitud": -85.879556,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809805",
+      "nombre": "El Tendal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2506448,
+      "longitud": -85.8436996,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809822",
+      "nombre": "El Ojojal",
+      "tipo_localidad": "village",
+      "latitud": 11.2429291,
+      "longitud": -85.8184015,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11444809836",
+      "nombre": "Loma de Los Chivos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2362377,
+      "longitud": -85.6705898,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11471994014",
+      "nombre": "San Ramón",
+      "tipo_localidad": "village",
+      "latitud": 11.6745224,
+      "longitud": -85.9262395,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11471994064",
+      "nombre": "San Joaquín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.6711969,
+      "longitud": -85.9353536,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11815624433",
+      "nombre": "Los Jiñotes",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4738896,
+      "longitud": -85.8611798,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11815657371",
+      "nombre": "Popoyuapa",
+      "tipo_localidad": "village",
+      "latitud": 11.4552942,
+      "longitud": -85.825823,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11817030452",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5271637,
+      "longitud": -85.8771792,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11817249844",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5331676,
+      "longitud": -85.9105235,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11817249971",
+      "nombre": "Los Viejitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5527919,
+      "longitud": -85.8977866,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11817250028",
+      "nombre": "13 de Junio",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.543949,
+      "longitud": -85.8990902,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11817439360",
+      "nombre": "Mata de Caña (Continuidad)",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5516724,
+      "longitud": -85.9603277,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11826458074",
+      "nombre": "San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5798497,
+      "longitud": -85.5833995,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11826462081",
+      "nombre": "Ensenada La Palma",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4503205,
+      "longitud": -85.4577005,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/11826462191",
+      "nombre": "San Agustín",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.5530415,
+      "longitud": -85.6907845,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164369938",
+      "nombre": "Cristo Rey",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4501838,
+      "longitud": -85.8176315,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164369939",
+      "nombre": "Noel Selva",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4519714,
+      "longitud": -85.819037,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164369940",
+      "nombre": "Cruz de España",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.453086,
+      "longitud": -85.8113337,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164369941",
+      "nombre": "Calle Mercedes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4571238,
+      "longitud": -85.8054757,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164369942",
+      "nombre": "19 de Julio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4507411,
+      "longitud": -85.796442,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164369943",
+      "nombre": "Arlen Siú",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4580596,
+      "longitud": -85.8002079,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164369945",
+      "nombre": "4 Esquinas de Cortéz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4600259,
+      "longitud": -85.803448,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164369963",
+      "nombre": "Barrio El Lago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.4593845,
+      "longitud": -85.7914558,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164453190",
+      "nombre": "Barrio Chino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2510962,
+      "longitud": -85.8699721,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164453191",
+      "nombre": "Frente Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2508542,
+      "longitud": -85.8681697,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164453192",
+      "nombre": "Zacarías Mora",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2565916,
+      "longitud": -85.8673704,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164453193",
+      "nombre": "Las Pampas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2560997,
+      "longitud": -85.8634436,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164453194",
+      "nombre": "Israel Mora",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2605033,
+      "longitud": -85.861845,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164453195",
+      "nombre": "Barberena",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2634443,
+      "longitud": -85.8592299,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12164453196",
+      "nombre": "Barrio Nuevo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 11.2617239,
+      "longitud": -85.8590984,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12426529842",
+      "nombre": "Tola",
+      "tipo_localidad": "town",
+      "latitud": 11.4390558,
+      "longitud": -85.9385999,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12437207274",
+      "nombre": "Mata de Caña",
+      "tipo_localidad": "village",
+      "latitud": 11.5696265,
+      "longitud": -85.9813274,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12497105657",
+      "nombre": "El Oro",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.2656684,
+      "longitud": -85.8428455,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/12499330089",
+      "nombre": "El Cairo",
+      "tipo_localidad": "village",
+      "latitud": 11.1352021,
+      "longitud": -85.37482,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/13030622733",
+      "nombre": "Cuascoto Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4607147,
+      "longitud": -86.0387743,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/13433594464",
+      "nombre": "Peñas Blancas",
+      "tipo_localidad": "village",
+      "latitud": 11.2190793,
+      "longitud": -85.6137514,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/13436413032",
+      "nombre": "Tierra Blanca",
+      "tipo_localidad": "village",
+      "latitud": 11.5558218,
+      "longitud": -85.8983767,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/13457232637",
+      "nombre": "Santa Martha",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4272069,
+      "longitud": -86.0244566,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/13457232957",
+      "nombre": "Gigante Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 11.4024613,
+      "longitud": -86.0233891,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/13517056634",
+      "nombre": "El Lajal",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4987892,
+      "longitud": -86.0458741,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/13517056647",
+      "nombre": "Guascoto",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.498098,
+      "longitud": -86.0065126,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/13565609185",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4611616,
+      "longitud": -85.9537697,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/13565609200",
+      "nombre": "Asentamiento Pedro Espinoza",
+      "tipo_localidad": "hamlet",
+      "latitud": 11.4615585,
+      "longitud": -85.9422523,
+      "departamento": "Rivas"
+    },
+    {
+      "osm_id": "node/13566872372",
+      "nombre": "El Coco",
+      "tipo_localidad": "village",
+      "latitud": 11.1579663,
+      "longitud": -85.8017582,
+      "departamento": "Rivas"
+    }
+  ]
+}

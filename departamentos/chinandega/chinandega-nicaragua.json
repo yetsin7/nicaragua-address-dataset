@@ -1,0 +1,5582 @@
+{
+  "departamento": "Chinandega",
+  "total_registros": 697,
+  "lugares": [
+    {
+      "osm_id": "node/302364502",
+      "nombre": "El Viejo",
+      "tipo_localidad": "town",
+      "latitud": 12.6632331,
+      "longitud": -87.1702626,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/302364713",
+      "nombre": "Chinandega",
+      "tipo_localidad": "city",
+      "latitud": 12.6310831,
+      "longitud": -87.1347357,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/302364870",
+      "nombre": "Chichigalpa",
+      "tipo_localidad": "town",
+      "latitud": 12.5703948,
+      "longitud": -87.0280247,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/302365015",
+      "nombre": "San Antonio",
+      "tipo_localidad": "village",
+      "latitud": 12.5325535,
+      "longitud": -87.0453067,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/302551466",
+      "nombre": "Somotillo",
+      "tipo_localidad": "town",
+      "latitud": 13.0445947,
+      "longitud": -86.9050544,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/302551979",
+      "nombre": "Villanueva",
+      "tipo_localidad": "town",
+      "latitud": 12.9647378,
+      "longitud": -86.815612,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/304768864",
+      "nombre": "Tonalá",
+      "tipo_localidad": "town",
+      "latitud": 12.766671,
+      "longitud": -87.1322507,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/1720790862",
+      "nombre": "Corinto",
+      "tipo_localidad": "town",
+      "latitud": 12.481719,
+      "longitud": -87.1713035,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2461173982",
+      "nombre": "Villa Quince de Julio",
+      "tipo_localidad": "village",
+      "latitud": 12.7913586,
+      "longitud": -86.9452951,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2461174030",
+      "nombre": "Cerro La Ollada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6891152,
+      "longitud": -86.9572579,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2571516139",
+      "nombre": "Los Zorros",
+      "tipo_localidad": "village",
+      "latitud": 12.7468471,
+      "longitud": -87.4539228,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2573735585",
+      "nombre": "Padre Ramos",
+      "tipo_localidad": "village",
+      "latitud": 12.7604966,
+      "longitud": -87.4727209,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2573781441",
+      "nombre": "Potosí",
+      "tipo_localidad": "village",
+      "latitud": 13.0061342,
+      "longitud": -87.5036999,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2573781442",
+      "nombre": "Santa Julia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0502297,
+      "longitud": -87.5596488,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2708075034",
+      "nombre": "Jirón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6500623,
+      "longitud": -87.1266253,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2708075035",
+      "nombre": "Julio César Tinoco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.640443,
+      "longitud": -87.1324567,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2708075036",
+      "nombre": "Barrio Santa Patricia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6361796,
+      "longitud": -87.1409531,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2750799726",
+      "nombre": "Cinco Pinos",
+      "tipo_localidad": "town",
+      "latitud": 13.2296158,
+      "longitud": -86.8676939,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2750799737",
+      "nombre": "Guayabillo Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.212031,
+      "longitud": -86.7568657,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2750800189",
+      "nombre": "Loma El Jicaral",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2090388,
+      "longitud": -86.7725583,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2751675124",
+      "nombre": "Cayanlipe",
+      "tipo_localidad": "village",
+      "latitud": 12.908092,
+      "longitud": -86.9157136,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2751675127",
+      "nombre": "El Cerro",
+      "tipo_localidad": "village",
+      "latitud": 13.2399672,
+      "longitud": -86.8601446,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2751675128",
+      "nombre": "El Jicote",
+      "tipo_localidad": "village",
+      "latitud": 12.8538343,
+      "longitud": -86.9425162,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2751675130",
+      "nombre": "Palo Grande",
+      "tipo_localidad": "village",
+      "latitud": 12.9729459,
+      "longitud": -87.0244292,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2751678477",
+      "nombre": "San Pedro del Norte",
+      "tipo_localidad": "town",
+      "latitud": 13.2761293,
+      "longitud": -86.8778266,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2751678478",
+      "nombre": "Santo Tomás del Norte",
+      "tipo_localidad": "town",
+      "latitud": 13.1858313,
+      "longitud": -86.9225263,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2752674079",
+      "nombre": "Posoltega",
+      "tipo_localidad": "town",
+      "latitud": 12.5441367,
+      "longitud": -86.9794383,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2754484929",
+      "nombre": "Cosmapa",
+      "tipo_localidad": "village",
+      "latitud": 12.5940653,
+      "longitud": -87.0614511,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2757486864",
+      "nombre": "El Guanacastillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7446377,
+      "longitud": -87.1529973,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2757486865",
+      "nombre": "El Palacio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.834245,
+      "longitud": -87.1990282,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2757486866",
+      "nombre": "Puerto Morazán",
+      "tipo_localidad": "village",
+      "latitud": 12.8507892,
+      "longitud": -87.172001,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072602",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1758332,
+      "longitud": -86.7476669,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072604",
+      "nombre": "El Papaloncito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0971491,
+      "longitud": -86.8043173,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072608",
+      "nombre": "La Fragua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0580277,
+      "longitud": -86.874299,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072609",
+      "nombre": "La Jagua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1135281,
+      "longitud": -86.7441891,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072612",
+      "nombre": "La Palmita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0902656,
+      "longitud": -86.7985883,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072613",
+      "nombre": "La Piementa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0936663,
+      "longitud": -86.7405182,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072614",
+      "nombre": "La Consulta",
+      "tipo_localidad": "village",
+      "latitud": 13.0550314,
+      "longitud": -86.8306903,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072615",
+      "nombre": "Las Lajitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1423562,
+      "longitud": -86.7779975,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072616",
+      "nombre": "El Caimito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0654084,
+      "longitud": -86.827459,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072617",
+      "nombre": "Las Pencas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1194973,
+      "longitud": -86.797953,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072623",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1323161,
+      "longitud": -86.7609951,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780072629",
+      "nombre": "Los Rincones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1281634,
+      "longitud": -86.7686437,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780078480",
+      "nombre": "Rodeo Grande",
+      "tipo_localidad": "village",
+      "latitud": 13.1379787,
+      "longitud": -86.7868966,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780078483",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0603048,
+      "longitud": -86.8774531,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780078487",
+      "nombre": "Empalme Valle El Danto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0707127,
+      "longitud": -86.7871322,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780562234",
+      "nombre": "El Obraje",
+      "tipo_localidad": "village",
+      "latitud": 12.7971067,
+      "longitud": -86.9813046,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780562236",
+      "nombre": "El Portillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9786026,
+      "longitud": -86.8015444,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780562238",
+      "nombre": "Israel",
+      "tipo_localidad": "village",
+      "latitud": 12.8552107,
+      "longitud": -86.8447817,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780562967",
+      "nombre": "San José de Obraje",
+      "tipo_localidad": "village",
+      "latitud": 12.7953389,
+      "longitud": -86.9902971,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780562970",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "village",
+      "latitud": 13.0027203,
+      "longitud": -86.7717127,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780776128",
+      "nombre": "Campuzano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7917283,
+      "longitud": -87.0613224,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780776130",
+      "nombre": "El Guanacaste",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7960313,
+      "longitud": -87.0541877,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780776134",
+      "nombre": "El Realejo",
+      "tipo_localidad": "town",
+      "latitud": 12.5431292,
+      "longitud": -87.165714,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780776144",
+      "nombre": "Mocorón",
+      "tipo_localidad": "village",
+      "latitud": 12.781102,
+      "longitud": -87.0457826,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780776147",
+      "nombre": "Paso Caballos",
+      "tipo_localidad": "village",
+      "latitud": 12.5314104,
+      "longitud": -87.2024968,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780776879",
+      "nombre": "Colonia Santa Cruz",
+      "tipo_localidad": "village",
+      "latitud": 12.7325517,
+      "longitud": -86.9511521,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2780776880",
+      "nombre": "El Chonco",
+      "tipo_localidad": "village",
+      "latitud": 12.7349017,
+      "longitud": -87.0735641,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2808697417",
+      "nombre": "El Bonete",
+      "tipo_localidad": "village",
+      "latitud": 12.8442637,
+      "longitud": -86.7825689,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413764",
+      "nombre": "Apascalí",
+      "tipo_localidad": "village",
+      "latitud": 12.9048881,
+      "longitud": -87.6334442,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413765",
+      "nombre": "Aposentillo",
+      "tipo_localidad": "village",
+      "latitud": 12.6348959,
+      "longitud": -87.3613372,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413768",
+      "nombre": "Cosigüina",
+      "tipo_localidad": "village",
+      "latitud": 12.9128684,
+      "longitud": -87.5000915,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413770",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.9187015,
+      "longitud": -87.5004563,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413771",
+      "nombre": "El Puente",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8611517,
+      "longitud": -87.5638553,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413773",
+      "nombre": "Gaspar García Laviana",
+      "tipo_localidad": "village",
+      "latitud": 12.8798715,
+      "longitud": -87.5007595,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413774",
+      "nombre": "La Dalia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8643057,
+      "longitud": -87.4950344,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413775",
+      "nombre": "La Poza de la Vaca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.875758,
+      "longitud": -87.5498325,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413778",
+      "nombre": "Mechapa",
+      "tipo_localidad": "village",
+      "latitud": 12.8366312,
+      "longitud": -87.5823685,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413787",
+      "nombre": "Los Portillos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.7263224,
+      "longitud": -87.3977224,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413788",
+      "nombre": "Manzanillo",
+      "tipo_localidad": "village",
+      "latitud": 12.6644847,
+      "longitud": -87.3647883,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413789",
+      "nombre": "Mata de Cacao",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8712355,
+      "longitud": -87.4951103,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413791",
+      "nombre": "Aurelio Carrasco",
+      "tipo_localidad": "village",
+      "latitud": 12.727487,
+      "longitud": -87.3907058,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813413793",
+      "nombre": "Puerto Arturo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8486827,
+      "longitud": -87.4935733,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813420390",
+      "nombre": "Punta Ñata",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9327905,
+      "longitud": -87.6768468,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813420391",
+      "nombre": "San Andrés",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6996684,
+      "longitud": -87.3540257,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813420392",
+      "nombre": "San Luis",
+      "tipo_localidad": "village",
+      "latitud": 12.6931674,
+      "longitud": -87.3505488,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813745940",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "village",
+      "latitud": 12.8425167,
+      "longitud": -87.3853361,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813745941",
+      "nombre": "El Congo",
+      "tipo_localidad": "village",
+      "latitud": 12.8153665,
+      "longitud": -87.405348,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813745943",
+      "nombre": "Pueblo Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.88146,
+      "longitud": -87.4828817,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813756267",
+      "nombre": "Quilaca",
+      "tipo_localidad": "village",
+      "latitud": 12.8327558,
+      "longitud": -87.4795661,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813756268",
+      "nombre": "Quilaquita",
+      "tipo_localidad": "village",
+      "latitud": 12.8386285,
+      "longitud": -87.4854873,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813756269",
+      "nombre": "San Remigio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8736649,
+      "longitud": -87.3916171,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2813756270",
+      "nombre": "Santa Anita",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8797643,
+      "longitud": -87.4460839,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2823434064",
+      "nombre": "San Ramón",
+      "tipo_localidad": "village",
+      "latitud": 12.967933,
+      "longitud": -86.7560796,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2826632567",
+      "nombre": "San Lucas",
+      "tipo_localidad": "village",
+      "latitud": 12.699897,
+      "longitud": -86.8776701,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2826632570",
+      "nombre": "Las Grietas",
+      "tipo_localidad": "village",
+      "latitud": 12.7331277,
+      "longitud": -86.8820338,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2826632573",
+      "nombre": "Las Grietas",
+      "tipo_localidad": "village",
+      "latitud": 12.7113448,
+      "longitud": -86.8751239,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2834238250",
+      "nombre": "San Francisco del Norte",
+      "tipo_localidad": "town",
+      "latitud": 13.1989158,
+      "longitud": -86.7706828,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2869547973",
+      "nombre": "Concepción",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.574657,
+      "longitud": -87.0253452,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2869547974",
+      "nombre": "Barrio Mercedes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.575142,
+      "longitud": -87.027812,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2869547976",
+      "nombre": "Barrio La Cruz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5704182,
+      "longitud": -87.0298397,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2869547983",
+      "nombre": "Juan José Brincero",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5732248,
+      "longitud": -87.0310954,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2874806920",
+      "nombre": "Poncé",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1496714,
+      "longitud": -86.7998396,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2874806921",
+      "nombre": "Valle El Jiñocuabo",
+      "tipo_localidad": "village",
+      "latitud": 13.1302909,
+      "longitud": -86.8335908,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/2874806922",
+      "nombre": "Dulce Nombre de Jesús",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1413789,
+      "longitud": -86.8160553,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/3929892311",
+      "nombre": "Jiquilillo",
+      "tipo_localidad": "village",
+      "latitud": 12.7374075,
+      "longitud": -87.4448035,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4057154539",
+      "nombre": "Pancasán",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7866452,
+      "longitud": -87.1109691,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4057154542",
+      "nombre": "Colonia Luis Andino",
+      "tipo_localidad": "village",
+      "latitud": 12.7952511,
+      "longitud": -87.1225398,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4066949406",
+      "nombre": "Caspar García Lavania",
+      "tipo_localidad": "village",
+      "latitud": 12.9571381,
+      "longitud": -86.8326564,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4069234042",
+      "nombre": "El Genízaro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9577328,
+      "longitud": -86.7102202,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4069234043",
+      "nombre": "Los Rincones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9745018,
+      "longitud": -86.6933315,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4069234045",
+      "nombre": "Mina de Agua",
+      "tipo_localidad": "village",
+      "latitud": 12.9339258,
+      "longitud": -86.760634,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4070553535",
+      "nombre": "La Concepción",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8732633,
+      "longitud": -86.7030616,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4070915233",
+      "nombre": "Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6941439,
+      "longitud": -86.8581019,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4070915235",
+      "nombre": "Las Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7861416,
+      "longitud": -86.9382301,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4070915236",
+      "nombre": "Los Tololos",
+      "tipo_localidad": "village",
+      "latitud": 12.9837126,
+      "longitud": -86.7332329,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4070915237",
+      "nombre": "Lourdes",
+      "tipo_localidad": "village",
+      "latitud": 12.7704156,
+      "longitud": -86.9102305,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4120107992",
+      "nombre": "El Rosario",
+      "tipo_localidad": "village",
+      "latitud": 13.0450099,
+      "longitud": -87.5859632,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4120114290",
+      "nombre": "Las Pozas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0330316,
+      "longitud": -87.5381609,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4122188460",
+      "nombre": "El Chapulín",
+      "tipo_localidad": "village",
+      "latitud": 12.9942146,
+      "longitud": -87.4876778,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4122188463",
+      "nombre": "La Picina",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9531973,
+      "longitud": -87.5007234,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4122188464",
+      "nombre": "Los Ulloa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9611206,
+      "longitud": -87.4966124,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4124709997",
+      "nombre": "La Plaza del Rodeito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0765618,
+      "longitud": -86.8049189,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4124710012",
+      "nombre": "Valle El Danto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0834031,
+      "longitud": -86.7961788,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4124710013",
+      "nombre": "La Montaña del Rodeito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0799388,
+      "longitud": -86.81478,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4124710014",
+      "nombre": "El Barrio Nuevo del Rodeito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0691399,
+      "longitud": -86.8024928,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4124710015",
+      "nombre": "San Miguelito",
+      "tipo_localidad": "village",
+      "latitud": 13.0413023,
+      "longitud": -86.8601013,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4124710016",
+      "nombre": "Piedras Morenas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0358084,
+      "longitud": -86.8853757,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4149851881",
+      "nombre": "12 de Septiembre",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.648185,
+      "longitud": -87.1249166,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4272726590",
+      "nombre": "Colonia INVI",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4929983,
+      "longitud": -87.1801194,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/4675366996",
+      "nombre": "El Pastoral",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7001265,
+      "longitud": -87.1557889,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/5305103047",
+      "nombre": "Ranchería",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.7665552,
+      "longitud": -87.0575908,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/5638544576",
+      "nombre": "San Isidro",
+      "tipo_localidad": "village",
+      "latitud": 12.6295489,
+      "longitud": -87.0763024,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/5646601214",
+      "nombre": "Barrio Camilo Ortega",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.494963,
+      "longitud": -87.1809966,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/5646601218",
+      "nombre": "Barrio Omar Torrijo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5035155,
+      "longitud": -87.18686,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/6145195397",
+      "nombre": "Barrio El Limonal",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6171696,
+      "longitud": -87.1456284,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/7346742286",
+      "nombre": "Barrio Quezalia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5655566,
+      "longitud": -87.0246027,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631264241",
+      "nombre": "Montaña de La Hoja",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2899786,
+      "longitud": -86.858342,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592886",
+      "nombre": "Maderas Negras",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.236755,
+      "longitud": -86.8831283,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592894",
+      "nombre": "La Jagüita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.227559,
+      "longitud": -86.8989587,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592896",
+      "nombre": "El Zacatón",
+      "tipo_localidad": "village",
+      "latitud": 13.2248109,
+      "longitud": -86.888754,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592897",
+      "nombre": "El Tamarino",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2238096,
+      "longitud": -86.8946242,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592898",
+      "nombre": "Poza Larga",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2107224,
+      "longitud": -86.9151968,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592899",
+      "nombre": "Nana Dominga",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2045465,
+      "longitud": -86.911692,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592901",
+      "nombre": "El Granadillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2065862,
+      "longitud": -86.8883693,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592902",
+      "nombre": "Los Jobitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.199199,
+      "longitud": -86.9092193,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592904",
+      "nombre": "El Ojo de Agua",
+      "tipo_localidad": "village",
+      "latitud": 13.1912471,
+      "longitud": -86.9046826,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592906",
+      "nombre": "Valle El Rincón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1778605,
+      "longitud": -86.9277924,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592908",
+      "nombre": "Vado Ancho",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1731045,
+      "longitud": -86.9228101,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592909",
+      "nombre": "Quebrada Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.184567,
+      "longitud": -86.9058627,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592910",
+      "nombre": "Las Liras de Rasol Hondo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1675602,
+      "longitud": -86.8794108,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592911",
+      "nombre": "Las Marías",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1729557,
+      "longitud": -86.8880585,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592912",
+      "nombre": "El Copal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1892102,
+      "longitud": -86.881857,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631592915",
+      "nombre": "El Jicaro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1800856,
+      "longitud": -86.8662143,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593117",
+      "nombre": "El Papalón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1825404,
+      "longitud": -86.8497563,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593118",
+      "nombre": "La Cabrera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1849924,
+      "longitud": -86.8445094,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593119",
+      "nombre": "Las Lajitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1902112,
+      "longitud": -86.8322473,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593123",
+      "nombre": "Los Cántaros",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1892666,
+      "longitud": -86.888117,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593124",
+      "nombre": "Villa Camilo Ortega",
+      "tipo_localidad": "village",
+      "latitud": 13.2156088,
+      "longitud": -86.8875359,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593125",
+      "nombre": "La Uva",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1919695,
+      "longitud": -86.8911533,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593126",
+      "nombre": "El Espino",
+      "tipo_localidad": "village",
+      "latitud": 13.198794,
+      "longitud": -86.8825543,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593131",
+      "nombre": "El Polvón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2504726,
+      "longitud": -86.8655277,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593134",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2247018,
+      "longitud": -86.850185,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593136",
+      "nombre": "El Pavón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2165663,
+      "longitud": -86.8368924,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593137",
+      "nombre": "Llano de Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2208434,
+      "longitud": -86.8388129,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593138",
+      "nombre": "El Gallo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2167282,
+      "longitud": -86.8292856,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593139",
+      "nombre": "El Carrízal",
+      "tipo_localidad": "village",
+      "latitud": 13.2072494,
+      "longitud": -86.8803281,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593140",
+      "nombre": "Las Tablas",
+      "tipo_localidad": "village",
+      "latitud": 13.2075367,
+      "longitud": -86.869787,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593141",
+      "nombre": "Las Pozas",
+      "tipo_localidad": "village",
+      "latitud": 13.1999431,
+      "longitud": -86.8607319,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593142",
+      "nombre": "San Francisquito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2154487,
+      "longitud": -86.8581998,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593144",
+      "nombre": "Los Zanjones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2253866,
+      "longitud": -86.8815887,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593145",
+      "nombre": "Maderas Negras",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2319142,
+      "longitud": -86.8812508,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593148",
+      "nombre": "Los Toriles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2402484,
+      "longitud": -86.8817604,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593149",
+      "nombre": "La Honda",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2459453,
+      "longitud": -86.8893162,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593150",
+      "nombre": "Loma de Piedra",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2590854,
+      "longitud": -86.8827019,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593151",
+      "nombre": "Matapalo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2558324,
+      "longitud": -86.8701276,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593152",
+      "nombre": "El Coyolito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.26409,
+      "longitud": -86.8619281,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593153",
+      "nombre": "Plan Grande",
+      "tipo_localidad": "village",
+      "latitud": 13.265633,
+      "longitud": -86.8525297,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593154",
+      "nombre": "La Danta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2549213,
+      "longitud": -86.8581462,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593155",
+      "nombre": "El Cebollal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2613384,
+      "longitud": -86.8568802,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593157",
+      "nombre": "Portillo El Quebracho",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2137462,
+      "longitud": -86.8080211,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593161",
+      "nombre": "Solares",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2415695,
+      "longitud": -86.8049741,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593164",
+      "nombre": "El Chaparral",
+      "tipo_localidad": "village",
+      "latitud": 13.2602237,
+      "longitud": -86.8721441,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593166",
+      "nombre": "La Rastra",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2224021,
+      "longitud": -86.8077315,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593167",
+      "nombre": "Ubuto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.224645,
+      "longitud": -86.786896,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593168",
+      "nombre": "Los Camarones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2212402,
+      "longitud": -86.7847181,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593169",
+      "nombre": "Los Plancitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2214099,
+      "longitud": -86.7972386,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593171",
+      "nombre": "Las Lomitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2111298,
+      "longitud": -86.8025387,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593179",
+      "nombre": "El Alto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1912941,
+      "longitud": -86.8195815,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593180",
+      "nombre": "El Nancital Nº 1 (Las Chachaguas)",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1964204,
+      "longitud": -86.8193346,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593181",
+      "nombre": "El Carbonal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.179605,
+      "longitud": -86.8305946,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593182",
+      "nombre": "La Carreta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1660311,
+      "longitud": -86.8291067,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593184",
+      "nombre": "El Guasimal",
+      "tipo_localidad": "village",
+      "latitud": 13.1783828,
+      "longitud": -86.8099308,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593187",
+      "nombre": "Las Marías",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1807646,
+      "longitud": -86.7897875,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593190",
+      "nombre": "Poza Larga",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1695347,
+      "longitud": -86.7681528,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593192",
+      "nombre": "Terrero Blanco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1791454,
+      "longitud": -86.7780984,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593193",
+      "nombre": "Terrero Prieto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1889107,
+      "longitud": -86.7662118,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593194",
+      "nombre": "El Ojochal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1910953,
+      "longitud": -86.7871471,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593195",
+      "nombre": "El Nancital Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2036197,
+      "longitud": -86.8032467,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593198",
+      "nombre": "Guayabillo Abajo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2059342,
+      "longitud": -86.7501793,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593199",
+      "nombre": "Las Enramadas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.2062311,
+      "longitud": -86.7699874,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593200",
+      "nombre": "La Jagua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2073187,
+      "longitud": -86.7750056,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593207",
+      "nombre": "Las Marías",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2336428,
+      "longitud": -86.7775834,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593212",
+      "nombre": "Jocomico",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2573545,
+      "longitud": -86.7770175,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593213",
+      "nombre": "Los Aguacates",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.263846,
+      "longitud": -86.7672516,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593215",
+      "nombre": "El Puercal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2425564,
+      "longitud": -86.8243289,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593217",
+      "nombre": "El Aradito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2484312,
+      "longitud": -86.8426577,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593218",
+      "nombre": "El Polvazón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2623304,
+      "longitud": -86.8407172,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631593220",
+      "nombre": "El Quebrachito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2438932,
+      "longitud": -86.8382764,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631885985",
+      "nombre": "El Panal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2412405,
+      "longitud": -86.9035077,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631885986",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.25442,
+      "longitud": -86.8915665,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631885988",
+      "nombre": "El Rancho",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2590454,
+      "longitud": -86.9041205,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631885992",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2666589,
+      "longitud": -86.8862236,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631885995",
+      "nombre": "El Larjero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.269964,
+      "longitud": -86.8901236,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9631885996",
+      "nombre": "El Cortezal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2740835,
+      "longitud": -86.8867118,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9633742645",
+      "nombre": "Suncuyal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1952019,
+      "longitud": -86.7357046,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9633742649",
+      "nombre": "El Ojoche",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1902583,
+      "longitud": -86.7371457,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9633742650",
+      "nombre": "El Valle",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1992186,
+      "longitud": -86.7440951,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9633742651",
+      "nombre": "Lagartillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2060875,
+      "longitud": -86.7446652,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9633742685",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2177361,
+      "longitud": -86.745531,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/9633742686",
+      "nombre": "Aparraya",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.212383,
+      "longitud": -86.7307307,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10018579535",
+      "nombre": "El Trianón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5257892,
+      "longitud": -86.9920966,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10018579576",
+      "nombre": "Las Mayorgas",
+      "tipo_localidad": "village",
+      "latitud": 12.5704054,
+      "longitud": -86.9893002,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10018579577",
+      "nombre": "Tololar Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5840944,
+      "longitud": -86.9811062,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10018579645",
+      "nombre": "Villa Dolores",
+      "tipo_localidad": "village",
+      "latitud": 12.5889938,
+      "longitud": -87.0052911,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10018584671",
+      "nombre": "El Socorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5477049,
+      "longitud": -87.0222654,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10023008879",
+      "nombre": "El Ensayo",
+      "tipo_localidad": "village",
+      "latitud": 12.5862193,
+      "longitud": -87.1635032,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10023097572",
+      "nombre": "Alemania Federal",
+      "tipo_localidad": "village",
+      "latitud": 12.5427429,
+      "longitud": -87.2107192,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10023097635",
+      "nombre": "Belén",
+      "tipo_localidad": "village",
+      "latitud": 12.6276029,
+      "longitud": -87.0883244,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10024330614",
+      "nombre": "Hermanos García",
+      "tipo_localidad": "village",
+      "latitud": 12.7722036,
+      "longitud": -87.0538269,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10024330616",
+      "nombre": "Sergio Ocampo Vázquez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.7609111,
+      "longitud": -87.0624775,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10024424491",
+      "nombre": "El Platanal",
+      "tipo_localidad": "village",
+      "latitud": 12.9008425,
+      "longitud": -86.8603709,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10024424503",
+      "nombre": "Nueva Jerusalén",
+      "tipo_localidad": "village",
+      "latitud": 12.9504969,
+      "longitud": -86.8476114,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10024683246",
+      "nombre": "Los Laureles Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9400059,
+      "longitud": -86.8159536,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10024683247",
+      "nombre": "Cañafístola",
+      "tipo_localidad": "village",
+      "latitud": 12.9382158,
+      "longitud": -86.8665225,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10024683391",
+      "nombre": "Las Mesas",
+      "tipo_localidad": "village",
+      "latitud": 12.9832354,
+      "longitud": -86.9631526,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10025855992",
+      "nombre": "Germán Pomares Ordóñez",
+      "tipo_localidad": "village",
+      "latitud": 12.9840795,
+      "longitud": -86.8720062,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10025856022",
+      "nombre": "Santa Pascuala",
+      "tipo_localidad": "village",
+      "latitud": 12.9959174,
+      "longitud": -86.900048,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028323887",
+      "nombre": "El Pacaral",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0039953,
+      "longitud": -86.9342743,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028323911",
+      "nombre": "San Francisco de Asís",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9940842,
+      "longitud": -86.9523496,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028360174",
+      "nombre": "Santa Paula",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9686599,
+      "longitud": -87.0366418,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028360256",
+      "nombre": "El Puma",
+      "tipo_localidad": "village",
+      "latitud": 13.0141917,
+      "longitud": -86.8865433,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028412068",
+      "nombre": "Valle de Torres",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0799194,
+      "longitud": -86.9271094,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028412090",
+      "nombre": "El Guasaule",
+      "tipo_localidad": "village",
+      "latitud": 13.0631398,
+      "longitud": -86.9461515,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028416735",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0624249,
+      "longitud": -86.8591026,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028416847",
+      "nombre": "Casa Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0854839,
+      "longitud": -86.8722607,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028480358",
+      "nombre": "Los Encuentros",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1572903,
+      "longitud": -86.8028066,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028480369",
+      "nombre": "El Espino",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1620972,
+      "longitud": -86.7555667,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028493292",
+      "nombre": "La Pavana",
+      "tipo_localidad": "village",
+      "latitud": 13.0924753,
+      "longitud": -86.8885202,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028493422",
+      "nombre": "Los Balcones",
+      "tipo_localidad": "village",
+      "latitud": 13.106447,
+      "longitud": -86.8873031,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028493529",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0987521,
+      "longitud": -86.8758189,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10028498675",
+      "nombre": "Los Limones",
+      "tipo_localidad": "village",
+      "latitud": 13.1243439,
+      "longitud": -86.8856631,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10029168588",
+      "nombre": "El Obraje",
+      "tipo_localidad": "village",
+      "latitud": 13.1247462,
+      "longitud": -86.8930819,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10029659424",
+      "nombre": "La Ceibita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1316761,
+      "longitud": -86.8784539,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10029659442",
+      "nombre": "La Flor",
+      "tipo_localidad": "village",
+      "latitud": 13.1359629,
+      "longitud": -86.8716014,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10029659443",
+      "nombre": "El Tejar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1475041,
+      "longitud": -86.8639991,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10029659494",
+      "nombre": "Valle La Danta",
+      "tipo_localidad": "village",
+      "latitud": 13.1533892,
+      "longitud": -86.8562428,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10029659495",
+      "nombre": "Los Liras",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1475924,
+      "longitud": -86.8849134,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10029659598",
+      "nombre": "Ceiba Herrada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1498736,
+      "longitud": -86.9034666,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10029659654",
+      "nombre": "Paso de Ponciano",
+      "tipo_localidad": "village",
+      "latitud": 13.1613058,
+      "longitud": -86.9156411,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10030666741",
+      "nombre": "Mauricio Abdalah",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7335337,
+      "longitud": -87.2226019,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10030666742",
+      "nombre": "Santa Teresa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7365556,
+      "longitud": -87.2322985,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10030666766",
+      "nombre": "Hato Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7548875,
+      "longitud": -87.2167476,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10030666850",
+      "nombre": "Germán Pomares",
+      "tipo_localidad": "village",
+      "latitud": 12.8262366,
+      "longitud": -87.1956703,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10030712491",
+      "nombre": "Santa Bárbara",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8387797,
+      "longitud": -87.2146693,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10030721304",
+      "nombre": "Los Planes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7640027,
+      "longitud": -87.2147744,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10030721305",
+      "nombre": "Cuatro Esquinas de Amayo",
+      "tipo_localidad": "village",
+      "latitud": 12.756764,
+      "longitud": -87.1806723,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10030728075",
+      "nombre": "Quebrada Honda",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8480832,
+      "longitud": -87.210547,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10032548192",
+      "nombre": "La Pedrera",
+      "tipo_localidad": "village",
+      "latitud": 12.6853464,
+      "longitud": -87.2318218,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10032548212",
+      "nombre": "Germán Pomares Ordóñez",
+      "tipo_localidad": "village",
+      "latitud": 12.7002529,
+      "longitud": -87.2297737,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10032548213",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6904625,
+      "longitud": -87.2468274,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10032548269",
+      "nombre": "El Chorro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.7106492,
+      "longitud": -87.3106531,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10032548413",
+      "nombre": "Aserradores",
+      "tipo_localidad": "village",
+      "latitud": 12.6270958,
+      "longitud": -87.343339,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10218700305",
+      "nombre": "El Empalme",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1157582,
+      "longitud": -86.7978803,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10218749355",
+      "nombre": "Las Mariítas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1134923,
+      "longitud": -86.8066638,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10605797096",
+      "nombre": "Valle El Tule",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.023682,
+      "longitud": -86.7421728,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10606441542",
+      "nombre": "Calderón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0701824,
+      "longitud": -86.7366421,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10651985360",
+      "nombre": "Los Tablones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.000554,
+      "longitud": -86.9787866,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10651985362",
+      "nombre": "El Laredo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0067425,
+      "longitud": -86.9261885,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10651985365",
+      "nombre": "Los Lirios",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1487762,
+      "longitud": -86.8201742,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10651985366",
+      "nombre": "El Ojoche",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1502807,
+      "longitud": -86.8303907,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10651985382",
+      "nombre": "El Rincón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1432703,
+      "longitud": -86.8734777,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10651985383",
+      "nombre": "Santa Anita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0255478,
+      "longitud": -86.8170011,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10651985390",
+      "nombre": "Los Achiotes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0164433,
+      "longitud": -86.7787636,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10651985391",
+      "nombre": "Rancho Pando",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.052201,
+      "longitud": -86.8189001,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10651985392",
+      "nombre": "La Fragosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0581166,
+      "longitud": -86.7965198,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011266",
+      "nombre": "El Arenal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1379837,
+      "longitud": -86.7675948,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011267",
+      "nombre": "María Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1280422,
+      "longitud": -86.7800993,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011268",
+      "nombre": "El Chaparral",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1292803,
+      "longitud": -86.7944169,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011269",
+      "nombre": "El Espino",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1172696,
+      "longitud": -86.7909301,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011271",
+      "nombre": "Valle Nombre de Jesús",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1328223,
+      "longitud": -86.8103385,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011272",
+      "nombre": "Los Esterillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1379471,
+      "longitud": -86.7974692,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011273",
+      "nombre": "El Taquezal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1435942,
+      "longitud": -86.7891893,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011278",
+      "nombre": "El Cerro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1601482,
+      "longitud": -86.8163949,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011279",
+      "nombre": "El Cacao",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1647918,
+      "longitud": -86.7842567,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011280",
+      "nombre": "El Papalón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.144895,
+      "longitud": -86.8279016,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011281",
+      "nombre": "El Cercado",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1398826,
+      "longitud": -86.8383112,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011282",
+      "nombre": "La Ceibita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1395509,
+      "longitud": -86.843791,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011284",
+      "nombre": "La Juanislama",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1205871,
+      "longitud": -86.8699908,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011289",
+      "nombre": "El Boquerón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0436096,
+      "longitud": -86.8495417,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011296",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0180217,
+      "longitud": -86.8624163,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011299",
+      "nombre": "San Marcos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0222029,
+      "longitud": -86.785909,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011300",
+      "nombre": "El Obraje",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0652757,
+      "longitud": -86.7720312,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011302",
+      "nombre": "El Llano de La Chaperna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1175727,
+      "longitud": -86.7759204,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011305",
+      "nombre": "El Jícaro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0993439,
+      "longitud": -86.7844445,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011307",
+      "nombre": "El Rodeíto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1011765,
+      "longitud": -86.8122254,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011308",
+      "nombre": "El Palo de Rueda",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.096593,
+      "longitud": -86.8225238,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011311",
+      "nombre": "Rama Gacha",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1030326,
+      "longitud": -86.8455452,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011312",
+      "nombre": "Las Mesitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0889776,
+      "longitud": -86.8497884,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011318",
+      "nombre": "La Granja",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0563895,
+      "longitud": -86.8879831,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011322",
+      "nombre": "La Barrera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0379184,
+      "longitud": -86.8991733,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011323",
+      "nombre": "San Antonio",
+      "tipo_localidad": "village",
+      "latitud": 13.0276697,
+      "longitud": -86.8921459,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011327",
+      "nombre": "La Perla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0218371,
+      "longitud": -86.8980575,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011349",
+      "nombre": "Cofradía",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0402231,
+      "longitud": -86.927197,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011351",
+      "nombre": "El Tejar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0331155,
+      "longitud": -86.9124127,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011352",
+      "nombre": "Los Andinos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0247116,
+      "longitud": -86.9155026,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011376",
+      "nombre": "Palo Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.137571,
+      "longitud": -86.8930256,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011377",
+      "nombre": "Las Liras de Paso Hondo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1557342,
+      "longitud": -86.8836165,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10652011378",
+      "nombre": "Los Amates",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1564917,
+      "longitud": -86.912748,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10678407684",
+      "nombre": "El Moto",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8781513,
+      "longitud": -86.7524135,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10678407703",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.946622,
+      "longitud": -86.8491876,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10678407714",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8511135,
+      "longitud": -86.8740356,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10678407765",
+      "nombre": "Apancuca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8758817,
+      "longitud": -86.9620013,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10678407866",
+      "nombre": "Las Jolotas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9864513,
+      "longitud": -86.819222,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10678407872",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9884064,
+      "longitud": -86.8468675,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10678564403",
+      "nombre": "Los Laureles Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9328249,
+      "longitud": -86.7962194,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10678564432",
+      "nombre": "La Entrada del Becerro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9807432,
+      "longitud": -86.8750066,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10678564434",
+      "nombre": "El Jicarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9658239,
+      "longitud": -86.8527496,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10678564435",
+      "nombre": "El Pajuil",
+      "tipo_localidad": "village",
+      "latitud": 12.9985677,
+      "longitud": -86.8529803,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10679663670",
+      "nombre": "Las Salinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8707227,
+      "longitud": -87.2062692,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10679663686",
+      "nombre": "El Jicaro Bonito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9503392,
+      "longitud": -87.0328492,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10713226359",
+      "nombre": "La Palmita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8524262,
+      "longitud": -87.0895618,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10713226361",
+      "nombre": "Los Remolinos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8498164,
+      "longitud": -87.1021414,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10731130678",
+      "nombre": "Los Madroños",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0463471,
+      "longitud": -87.5505006,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10731130680",
+      "nombre": "Playones de Catarina",
+      "tipo_localidad": "village",
+      "latitud": 12.8820274,
+      "longitud": -87.4383081,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10731132343",
+      "nombre": "El Reteo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.8796783,
+      "longitud": -87.4295318,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733611662",
+      "nombre": "La Bocana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0050909,
+      "longitud": -87.5003099,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733819340",
+      "nombre": "La Vaca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8571956,
+      "longitud": -87.5383514,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733819349",
+      "nombre": "El Jicarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9139384,
+      "longitud": -87.5673482,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941475",
+      "nombre": "La Bayona",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8327722,
+      "longitud": -87.5012202,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941476",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.820928,
+      "longitud": -87.4576136,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941477",
+      "nombre": "Huispante",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8177627,
+      "longitud": -87.4401336,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941478",
+      "nombre": "Las Pavas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8221575,
+      "longitud": -87.422498,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941481",
+      "nombre": "Pedro Altamirano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7973998,
+      "longitud": -87.3736106,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941483",
+      "nombre": "Virgen del Hato",
+      "tipo_localidad": "village",
+      "latitud": 12.7955349,
+      "longitud": -87.3910432,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941484",
+      "nombre": "El Porton de la Virgen",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.79728,
+      "longitud": -87.4020982,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941485",
+      "nombre": "Miguel Ángel López",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.7786825,
+      "longitud": -87.3986864,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941486",
+      "nombre": "San Cayetano",
+      "tipo_localidad": "village",
+      "latitud": 12.7822975,
+      "longitud": -87.3990834,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941487",
+      "nombre": "Cañada del Toro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.799408,
+      "longitud": -87.2981484,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941488",
+      "nombre": "Charco del Mono",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7897953,
+      "longitud": -87.2984749,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733941489",
+      "nombre": "Palermo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.779326,
+      "longitud": -87.2988676,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10733965417",
+      "nombre": "El Tintal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7970027,
+      "longitud": -87.4594009,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768213",
+      "nombre": "El Manzano Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6628227,
+      "longitud": -87.3797821,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768218",
+      "nombre": "Altagracia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7613394,
+      "longitud": -87.4162174,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768226",
+      "nombre": "El Guanacaste",
+      "tipo_localidad": "village",
+      "latitud": 12.7554063,
+      "longitud": -87.3963046,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768227",
+      "nombre": "San Carlos",
+      "tipo_localidad": "village",
+      "latitud": 12.7483744,
+      "longitud": -87.3957306,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768228",
+      "nombre": "San Augustín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7387522,
+      "longitud": -87.3952532,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768230",
+      "nombre": "Camilo Ortega",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7151929,
+      "longitud": -87.3417455,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768231",
+      "nombre": "El Guasimito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.691558,
+      "longitud": -87.3909376,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768238",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "village",
+      "latitud": 12.7153846,
+      "longitud": -87.2956395,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768243",
+      "nombre": "Tom Valle",
+      "tipo_localidad": "village",
+      "latitud": 12.709849,
+      "longitud": -87.3192687,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768249",
+      "nombre": "Santa Lastenia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7071028,
+      "longitud": -87.2939373,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768262",
+      "nombre": "Denis José Poveda",
+      "tipo_localidad": "village",
+      "latitud": 12.6891345,
+      "longitud": -87.265503,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768268",
+      "nombre": "La Danta",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6801899,
+      "longitud": -87.2964084,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768272",
+      "nombre": "Santa María del Mar",
+      "tipo_localidad": "village",
+      "latitud": 12.6546649,
+      "longitud": -87.3734667,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768273",
+      "nombre": "Petacaltepe",
+      "tipo_localidad": "village",
+      "latitud": 12.7014897,
+      "longitud": -87.3786557,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737768304",
+      "nombre": "Las Joyas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7429747,
+      "longitud": -87.2718716,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737778227",
+      "nombre": "El Bejuco",
+      "tipo_localidad": "village",
+      "latitud": 12.7300678,
+      "longitud": -87.2970691,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737778233",
+      "nombre": "Chimaltepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7552595,
+      "longitud": -87.3217819,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737778238",
+      "nombre": "Palestina",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7346092,
+      "longitud": -87.3474541,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737778363",
+      "nombre": "Chorrera",
+      "tipo_localidad": "village",
+      "latitud": 12.7513044,
+      "longitud": -87.2857976,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10737778372",
+      "nombre": "Los Limones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8217845,
+      "longitud": -87.285317,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10738187385",
+      "nombre": "Mario Carrion Chevez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.80339,
+      "longitud": -87.4194467,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10741506518",
+      "nombre": "El Manzano Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 12.6827832,
+      "longitud": -87.3788789,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10741506521",
+      "nombre": "El Manzano No 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7072841,
+      "longitud": -87.3917919,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10741506523",
+      "nombre": "Caña Brava",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7165918,
+      "longitud": -87.4075888,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333859",
+      "nombre": "Guasirique",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6568052,
+      "longitud": -87.3448706,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333860",
+      "nombre": "Augusto César Sandino",
+      "tipo_localidad": "village",
+      "latitud": 12.6441699,
+      "longitud": -87.3566553,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333891",
+      "nombre": "El Suplicadero",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6248702,
+      "longitud": -87.3448116,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333893",
+      "nombre": "Río Chiquito Abajo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6349678,
+      "longitud": -87.1997523,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333894",
+      "nombre": "Alfonso",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6347689,
+      "longitud": -87.2073913,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333895",
+      "nombre": "Los Hermanos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6328426,
+      "longitud": -87.2052026,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333896",
+      "nombre": "Arveda",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6295709,
+      "longitud": -87.1611178,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333897",
+      "nombre": "San Jorge",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6230538,
+      "longitud": -87.1712137,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333898",
+      "nombre": "La Tejana",
+      "tipo_localidad": "village",
+      "latitud": 12.6297542,
+      "longitud": -87.1676892,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333900",
+      "nombre": "Espinales",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6291312,
+      "longitud": -87.2132009,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333903",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6277545,
+      "longitud": -87.2036952,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333914",
+      "nombre": "El Pedregal",
+      "tipo_localidad": "village",
+      "latitud": 12.6766704,
+      "longitud": -87.3108845,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333933",
+      "nombre": "Espavel",
+      "tipo_localidad": "village",
+      "latitud": 12.6588884,
+      "longitud": -87.2740737,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333947",
+      "nombre": "La Cocoroca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6057507,
+      "longitud": -87.2519704,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10746333952",
+      "nombre": "San Miguel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5879157,
+      "longitud": -87.2693503,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10762021943",
+      "nombre": "Terencio Munguía",
+      "tipo_localidad": "village",
+      "latitud": 12.5754759,
+      "longitud": -87.1994342,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763976792",
+      "nombre": "Opico",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.700621,
+      "longitud": -87.2052831,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763976796",
+      "nombre": "Campirano",
+      "tipo_localidad": "village",
+      "latitud": 12.6984336,
+      "longitud": -87.2438908,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981815",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.683508,
+      "longitud": -87.2272342,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981817",
+      "nombre": "Sasama",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6781583,
+      "longitud": -87.2348852,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981819",
+      "nombre": "Roma",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6770212,
+      "longitud": -87.2191235,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981820",
+      "nombre": "San José Inés Amador",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6809142,
+      "longitud": -87.2009984,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981821",
+      "nombre": "Acinco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6779697,
+      "longitud": -87.1983979,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981833",
+      "nombre": "Veracruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6714602,
+      "longitud": -87.1833095,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981843",
+      "nombre": "La Perrera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6570512,
+      "longitud": -87.1479267,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981844",
+      "nombre": "Villa 19 de Julio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6426623,
+      "longitud": -87.1476853,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981873",
+      "nombre": "Las Marías",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6109376,
+      "longitud": -87.1368867,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981874",
+      "nombre": "Los Cedros",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6130866,
+      "longitud": -87.1417442,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981875",
+      "nombre": "El Hular",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6201746,
+      "longitud": -87.1683383,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981884",
+      "nombre": "Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6044382,
+      "longitud": -87.1650714,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981886",
+      "nombre": "Los Lirios",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6001115,
+      "longitud": -87.151832,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981892",
+      "nombre": "Rancho Lindo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5805441,
+      "longitud": -87.1496916,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763981908",
+      "nombre": "Esparta",
+      "tipo_localidad": "village",
+      "latitud": 12.5583044,
+      "longitud": -87.184818,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10763982337",
+      "nombre": "El Bálsamo",
+      "tipo_localidad": "village",
+      "latitud": 12.6233273,
+      "longitud": -87.226859,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10764039838",
+      "nombre": "Gancho de La Mona",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6377866,
+      "longitud": -87.1794178,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10764085039",
+      "nombre": "Estela",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6493152,
+      "longitud": -87.1172798,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10772176347",
+      "nombre": "Pikín Guerrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8035688,
+      "longitud": -87.1450947,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10772176353",
+      "nombre": "San Cayetano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7520843,
+      "longitud": -87.0670536,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10772176358",
+      "nombre": "Oro Verde",
+      "tipo_localidad": "village",
+      "latitud": 12.7765779,
+      "longitud": -87.1396738,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10772176359",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.772729,
+      "longitud": -87.1258628,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949426",
+      "nombre": "Las Ardenas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7441258,
+      "longitud": -87.2319603,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949427",
+      "nombre": "El Palomar",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7353041,
+      "longitud": -87.2163284,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949428",
+      "nombre": "La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7410806,
+      "longitud": -87.2039581,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949431",
+      "nombre": "Amayo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7640076,
+      "longitud": -87.2040761,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949434",
+      "nombre": "Las Pozas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.834037,
+      "longitud": -87.1861513,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949438",
+      "nombre": "Sandino",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7890438,
+      "longitud": -87.2213726,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949440",
+      "nombre": "Ticuantepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8171682,
+      "longitud": -87.2130186,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949446",
+      "nombre": "Lorena",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7717435,
+      "longitud": -87.1842815,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949475",
+      "nombre": "Las Chilcas",
+      "tipo_localidad": "village",
+      "latitud": 12.7530153,
+      "longitud": -87.1709132,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949476",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7573526,
+      "longitud": -87.1516925,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949492",
+      "nombre": "Estación",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7440211,
+      "longitud": -87.1340114,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949498",
+      "nombre": "Monte Líbano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7606828,
+      "longitud": -87.1332094,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776949499",
+      "nombre": "Santa Cristana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7605598,
+      "longitud": -87.121861,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776955915",
+      "nombre": "Malinche",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7344302,
+      "longitud": -87.104609,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776955973",
+      "nombre": "Santa Rosalía",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7237767,
+      "longitud": -87.1134432,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776955974",
+      "nombre": "Silvio Castro",
+      "tipo_localidad": "village",
+      "latitud": 12.730727,
+      "longitud": -87.1344813,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776955975",
+      "nombre": "San Martín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7138592,
+      "longitud": -87.121064,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776955992",
+      "nombre": "La Trinidad",
+      "tipo_localidad": "village",
+      "latitud": 12.6893233,
+      "longitud": -87.1408779,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776956003",
+      "nombre": "San Felipe",
+      "tipo_localidad": "village",
+      "latitud": 12.684764,
+      "longitud": -87.1049523,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776956009",
+      "nombre": "El Macao",
+      "tipo_localidad": "village",
+      "latitud": 12.6967642,
+      "longitud": -87.0993895,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776956010",
+      "nombre": "San Pedro",
+      "tipo_localidad": "village",
+      "latitud": 12.7039388,
+      "longitud": -87.0998669,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776956013",
+      "nombre": "Sabana Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7228741,
+      "longitud": -87.0994404,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10776956015",
+      "nombre": "San Cristóbal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7280308,
+      "longitud": -87.0817995,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10777178238",
+      "nombre": "La Concepción",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6796038,
+      "longitud": -87.1192753,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10777178246",
+      "nombre": "Santo Tomás",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6765186,
+      "longitud": -87.1091339,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10777730398",
+      "nombre": "Santa Rita de Tonalá",
+      "tipo_localidad": "village",
+      "latitud": 12.7150307,
+      "longitud": -87.1317386,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10777730403",
+      "nombre": "Pablo Herrado",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7196777,
+      "longitud": -87.1413705,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10779995495",
+      "nombre": "La Palma",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8080299,
+      "longitud": -86.7525047,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10779995504",
+      "nombre": "Pikín Guerrero (Versalle)",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6683409,
+      "longitud": -86.9743717,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10780107576",
+      "nombre": "José Salmerón Castro (El Porvenir)",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6794284,
+      "longitud": -86.9059217,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10780107592",
+      "nombre": "Miriam Tinoco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.7965058,
+      "longitud": -86.9428611,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10780107595",
+      "nombre": "La Pistola",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.791217,
+      "longitud": -86.9678325,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10780108273",
+      "nombre": "Pozo Viejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6848059,
+      "longitud": -86.8656779,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10780108275",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6967799,
+      "longitud": -86.8650341,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10780108277",
+      "nombre": "Monte Olivo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.679677,
+      "longitud": -86.8717128,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10780108322",
+      "nombre": "Lourdes",
+      "tipo_localidad": "village",
+      "latitud": 12.7691505,
+      "longitud": -86.7548598,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10855926578",
+      "nombre": "Mayocuda",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8564585,
+      "longitud": -86.7437232,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10855926585",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9330862,
+      "longitud": -86.7267394,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/10855926586",
+      "nombre": "Guadalupe del Guayabal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9289035,
+      "longitud": -86.7499244,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554535",
+      "nombre": "Los Sitiales",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.805495,
+      "longitud": -87.3654072,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554598",
+      "nombre": "Las Mesas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8529004,
+      "longitud": -87.4166429,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554640",
+      "nombre": "Aurelio Carrasco",
+      "tipo_localidad": "village",
+      "latitud": 12.8603808,
+      "longitud": -87.4951613,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554770",
+      "nombre": "Cabo de Horno",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.9222634,
+      "longitud": -87.4997622,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554859",
+      "nombre": "Cosigüina Sur",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8959369,
+      "longitud": -87.5041838,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554860",
+      "nombre": "Los Paniquines",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8919107,
+      "longitud": -87.5230649,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554867",
+      "nombre": "San Luis Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9279127,
+      "longitud": -87.5370807,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554904",
+      "nombre": "Elena María",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9372858,
+      "longitud": -87.6033196,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554908",
+      "nombre": "El Vigía (Las Noventa)",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.906425,
+      "longitud": -87.5995102,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554909",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9250308,
+      "longitud": -87.5869312,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446554968",
+      "nombre": "El Chorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8977859,
+      "longitud": -87.5801674,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446555107",
+      "nombre": "Camaronera Don Denis",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8470624,
+      "longitud": -87.5439036,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446555162",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8600099,
+      "longitud": -87.5804093,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11446892454",
+      "nombre": "Hermanos Blanco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7139751,
+      "longitud": -87.3522452,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11447045591",
+      "nombre": "El Ranchón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.7016313,
+      "longitud": -87.3417556,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11447119955",
+      "nombre": "Villa Francia",
+      "tipo_localidad": "village",
+      "latitud": 12.7102556,
+      "longitud": -87.3727256,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11448588590",
+      "nombre": "Tecomatepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7871557,
+      "longitud": -87.244871,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11448588591",
+      "nombre": "Rancho Redondo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8450917,
+      "longitud": -87.1891484,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11448588687",
+      "nombre": "El Limonal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8601684,
+      "longitud": -87.2052373,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11448930115",
+      "nombre": "La Picata",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7017858,
+      "longitud": -87.3285559,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11448930277",
+      "nombre": "La Curva",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7078649,
+      "longitud": -87.2783053,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11448930365",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6975216,
+      "longitud": -87.2650292,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11448930722",
+      "nombre": "San Jacinto de Achuapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6678058,
+      "longitud": -87.361161,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11474681461",
+      "nombre": "Los Trujillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1702515,
+      "longitud": -86.9085038,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11474724527",
+      "nombre": "Las Pavas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0634676,
+      "longitud": -86.8330836,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11474724604",
+      "nombre": "Consuelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1045687,
+      "longitud": -86.8563116,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11532552644",
+      "nombre": "La Pitahaya",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8986448,
+      "longitud": -86.6999441,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11532660777",
+      "nombre": "Zapotillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0540823,
+      "longitud": -86.7642313,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11559991772",
+      "nombre": "Casa de Tejas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7264467,
+      "longitud": -87.3302205,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11582093581",
+      "nombre": "Las Palancas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7699823,
+      "longitud": -86.7102867,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11595519385",
+      "nombre": "Santa Matilde",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8211016,
+      "longitud": -86.899538,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11599149770",
+      "nombre": "Aquespalapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8271351,
+      "longitud": -86.9156474,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11600123776",
+      "nombre": "Rincón García",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9326575,
+      "longitud": -86.781081,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11600123901",
+      "nombre": "Mata de Caña",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8807503,
+      "longitud": -86.8458362,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11600123908",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8992776,
+      "longitud": -86.856351,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11600123973",
+      "nombre": "Mata Palo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8399418,
+      "longitud": -86.883536,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11607002629",
+      "nombre": "El Papalón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9746428,
+      "longitud": -87.0800614,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11607002646",
+      "nombre": "San Enrique",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.9837541,
+      "longitud": -87.0567262,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11608279757",
+      "nombre": "El Chupadero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0069621,
+      "longitud": -86.7257524,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11608280678",
+      "nombre": "Los Guasimitos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0425016,
+      "longitud": -86.7976463,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11608280709",
+      "nombre": "El Becerro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0089221,
+      "longitud": -86.8336201,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11608280787",
+      "nombre": "Becerro Nº 2 (La Pacaira)",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0248423,
+      "longitud": -86.8455076,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11608280924",
+      "nombre": "Las Vegas",
+      "tipo_localidad": "village",
+      "latitud": 13.0111539,
+      "longitud": -86.860866,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11874643839",
+      "nombre": "Cerro Colorado",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1734156,
+      "longitud": -86.8126667,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11877669644",
+      "nombre": "Llano El Espinal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.1447457,
+      "longitud": -86.8990724,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/11877693234",
+      "nombre": "Colonia Villa España",
+      "tipo_localidad": "village",
+      "latitud": 13.1806,
+      "longitud": -86.9236618,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12004966841",
+      "nombre": "Carlos Espinoza (Las Nubes)",
+      "tipo_localidad": "village",
+      "latitud": 12.6157145,
+      "longitud": -86.9973207,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12004966867",
+      "nombre": "Juan José Briceño",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6293877,
+      "longitud": -86.9968271,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12005030404",
+      "nombre": "Apastepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6411548,
+      "longitud": -86.9921601,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12005030415",
+      "nombre": "Santa Matilde",
+      "tipo_localidad": "village",
+      "latitud": 12.5924077,
+      "longitud": -87.0418882,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12005030467",
+      "nombre": "Pellizco Central",
+      "tipo_localidad": "village",
+      "latitud": 12.6073647,
+      "longitud": -87.0193899,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12005030483",
+      "nombre": "Sirama",
+      "tipo_localidad": "village",
+      "latitud": 12.5975488,
+      "longitud": -87.0184779,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12005030485",
+      "nombre": "Julio Picado",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.606213,
+      "longitud": -87.0131886,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12005030812",
+      "nombre": "Pellizco Occidental",
+      "tipo_localidad": "village",
+      "latitud": 12.614856,
+      "longitud": -87.0329404,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12005031257",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.630254,
+      "longitud": -87.0177189,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12005031304",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6064093,
+      "longitud": -87.0610821,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12005031644",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6409665,
+      "longitud": -87.0389164,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12009651495",
+      "nombre": "La Chocolata",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.518442,
+      "longitud": -87.1461404,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12009800393",
+      "nombre": "Filadelfia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5909156,
+      "longitud": -87.1185109,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12011157559",
+      "nombre": "La Barricada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5694547,
+      "longitud": -87.1504748,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021046498",
+      "nombre": "San Benito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5535818,
+      "longitud": -87.0404399,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021046508",
+      "nombre": "Colonia La Trinidad",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5569093,
+      "longitud": -87.0730448,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021046536",
+      "nombre": "Guanacastal",
+      "tipo_localidad": "village",
+      "latitud": 12.5540818,
+      "longitud": -87.0222116,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021069196",
+      "nombre": "Cuitanca Sur",
+      "tipo_localidad": "village",
+      "latitud": 12.5657163,
+      "longitud": -87.0523596,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021069197",
+      "nombre": "Cuitanca Norte",
+      "tipo_localidad": "village",
+      "latitud": 12.5732716,
+      "longitud": -87.0486823,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021323322",
+      "nombre": "San Benito Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 12.6184576,
+      "longitud": -87.097925,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021328594",
+      "nombre": "Gerardo Aguilera",
+      "tipo_localidad": "village",
+      "latitud": 12.612495,
+      "longitud": -87.0961011,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021328616",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6315653,
+      "longitud": -87.0630455,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021370969",
+      "nombre": "La Bolsa",
+      "tipo_localidad": "village",
+      "latitud": 12.6468289,
+      "longitud": -87.0605457,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021371029",
+      "nombre": "La Mora",
+      "tipo_localidad": "village",
+      "latitud": 12.6429241,
+      "longitud": -87.0780444,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021371126",
+      "nombre": "San Benito Nº 1",
+      "tipo_localidad": "village",
+      "latitud": 12.6126783,
+      "longitud": -87.0755124,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021371291",
+      "nombre": "El Chorizo",
+      "tipo_localidad": "village",
+      "latitud": 12.6047838,
+      "longitud": -87.0804477,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021371393",
+      "nombre": "Monserrat",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6253125,
+      "longitud": -87.1146137,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12021371394",
+      "nombre": "José Benito Centeno",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.614835,
+      "longitud": -87.1053064,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12022959628",
+      "nombre": "San Cayetano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6024594,
+      "longitud": -87.0479286,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12038186061",
+      "nombre": "El Rotario",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.707984,
+      "longitud": -87.0886445,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12038209500",
+      "nombre": "El Raizal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6109716,
+      "longitud": -87.1651518,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12038209656",
+      "nombre": "Santa Virginia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5837639,
+      "longitud": -87.1381849,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12038209657",
+      "nombre": "El Rosario",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5859471,
+      "longitud": -87.1460223,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12038209752",
+      "nombre": "Ameyo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5939364,
+      "longitud": -87.1566868,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12038209758",
+      "nombre": "Amberes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6047576,
+      "longitud": -87.1313989,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12038209768",
+      "nombre": "El Cortjio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6001611,
+      "longitud": -87.1380347,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12038290430",
+      "nombre": "La Grecia",
+      "tipo_localidad": "village",
+      "latitud": 12.66586,
+      "longitud": -87.109437,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12077279040",
+      "nombre": "Barrio Cantón Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4843791,
+      "longitud": -87.1704197,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12077279041",
+      "nombre": "Barrio Cantón Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4812522,
+      "longitud": -87.1732575,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12077279042",
+      "nombre": "Barrio Nuevo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4814146,
+      "longitud": -87.1770824,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12077279043",
+      "nombre": "Calle Nueva",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4870293,
+      "longitud": -87.1773291,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12077302204",
+      "nombre": "Barrio Isla del Amor",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4871812,
+      "longitud": -87.1724475,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091028030",
+      "nombre": "Reparto Ramón López",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5329269,
+      "longitud": -87.1979714,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091028031",
+      "nombre": "Reparto 19 de Juiio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5346078,
+      "longitud": -87.2003585,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091028032",
+      "nombre": "Reparto José Schendel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5378073,
+      "longitud": -87.1998113,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039126",
+      "nombre": "El Playón",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4857408,
+      "longitud": -87.1729732,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039127",
+      "nombre": "Apatlan",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4916278,
+      "longitud": -87.1786863,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039128",
+      "nombre": "Rizo El Pantanal",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4910255,
+      "longitud": -87.1773398,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039129",
+      "nombre": "San Luis",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4901561,
+      "longitud": -87.178579,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039130",
+      "nombre": "San Martín",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4861808,
+      "longitud": -87.1781337,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039131",
+      "nombre": "El Chorizo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4837977,
+      "longitud": -87.1776402,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039132",
+      "nombre": "Arlen Siu",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4984206,
+      "longitud": -87.1814704,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039133",
+      "nombre": "Azarías H. Pallais",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5000835,
+      "longitud": -87.1838763,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039134",
+      "nombre": "Felix Salgado",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5070987,
+      "longitud": -87.1877897,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039135",
+      "nombre": "Los Cocales",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5116392,
+      "longitud": -87.1955144,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12091039136",
+      "nombre": "El Humito",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5215632,
+      "longitud": -87.1994036,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310704",
+      "nombre": "Barrio El Chorrizo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5584278,
+      "longitud": -87.037012,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310705",
+      "nombre": "Reparto Nueva Candelaria",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5621558,
+      "longitud": -87.0367116,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310707",
+      "nombre": "Reparto Altamirano I Etapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5642816,
+      "longitud": -87.0284611,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310708",
+      "nombre": "Reparto Wells",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5629727,
+      "longitud": -87.0243251,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310709",
+      "nombre": "Barrio San Antonio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5675593,
+      "longitud": -87.0257628,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310710",
+      "nombre": "Marvin Salazar I",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5691406,
+      "longitud": -87.0416629,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310711",
+      "nombre": "Barrio Marvin Salazar II",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5697375,
+      "longitud": -87.0384443,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310712",
+      "nombre": "Marvin Salazar III",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5692715,
+      "longitud": -87.035923,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310713",
+      "nombre": "Reparto Augusto César Sandino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5693709,
+      "longitud": -87.0337611,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310714",
+      "nombre": "Barrio Santiago",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5686222,
+      "longitud": -87.02815,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310715",
+      "nombre": "Barrio Candelaria",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5711721,
+      "longitud": -87.0255214,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310716",
+      "nombre": "Barrio Parroquia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5712428,
+      "longitud": -87.0279944,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310717",
+      "nombre": "Carlos Fonseca I",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5813398,
+      "longitud": -87.0250118,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310718",
+      "nombre": "Modesto R. Palma",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.581633,
+      "longitud": -87.0295608,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310719",
+      "nombre": "San José",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5836539,
+      "longitud": -87.0283216,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310720",
+      "nombre": "Camino de Jesús",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.584434,
+      "longitud": -87.0299363,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310721",
+      "nombre": "Erick Ramirez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5836435,
+      "longitud": -87.0282841,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310722",
+      "nombre": "Carlos Fonseca II",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5833293,
+      "longitud": -87.0265621,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310723",
+      "nombre": "San José",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5836173,
+      "longitud": -87.0252827,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310724",
+      "nombre": "Los Maderos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5865178,
+      "longitud": -87.0296574,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310725",
+      "nombre": "Esquipulas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5887743,
+      "longitud": -87.0299041,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12105310726",
+      "nombre": "Nueva Salvación",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5882821,
+      "longitud": -87.0324254,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12106116846",
+      "nombre": "Valle Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5666614,
+      "longitud": -87.0086369,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12106116864",
+      "nombre": "Valle Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5782299,
+      "longitud": -86.9957328,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12106116894",
+      "nombre": "Valle Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5753188,
+      "longitud": -87.0058179,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12106161421",
+      "nombre": "Valle Viejo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5726014,
+      "longitud": -87.0162517,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12106194514",
+      "nombre": "Bethel",
+      "tipo_localidad": "village",
+      "latitud": 12.5884183,
+      "longitud": -87.0182902,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12106976519",
+      "nombre": "Sirama Norte",
+      "tipo_localidad": "village",
+      "latitud": 12.5876644,
+      "longitud": -87.0094764,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12106989032",
+      "nombre": "Sirama Sur",
+      "tipo_localidad": "village",
+      "latitud": 12.5843346,
+      "longitud": -87.0134246,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12107028617",
+      "nombre": "Todo es Humo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6021977,
+      "longitud": -86.9837112,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12107028627",
+      "nombre": "Rigoberto López Pérez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6458134,
+      "longitud": -86.9520342,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12107195949",
+      "nombre": "Las Carpas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6436098,
+      "longitud": -86.8825999,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12108384871",
+      "nombre": "Calle Real del Bosque",
+      "tipo_localidad": "village",
+      "latitud": 12.5834864,
+      "longitud": -86.96419,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12108385235",
+      "nombre": "Tololar Nº 2",
+      "tipo_localidad": "village",
+      "latitud": 12.5892978,
+      "longitud": -86.9875038,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12108576411",
+      "nombre": "Filiberto Morales",
+      "tipo_localidad": "village",
+      "latitud": 12.5668577,
+      "longitud": -86.9731808,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12108694183",
+      "nombre": "Jacinto Baca",
+      "tipo_localidad": "village",
+      "latitud": 12.5725857,
+      "longitud": -86.9837272,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12109310513",
+      "nombre": "Posoltegüilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5365846,
+      "longitud": -86.9701579,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12109310859",
+      "nombre": "San Gilberto",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5312407,
+      "longitud": -86.9534719,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12109310934",
+      "nombre": "Santa María",
+      "tipo_localidad": "village",
+      "latitud": 12.5399595,
+      "longitud": -86.9511277,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12109418106",
+      "nombre": "El Tanque",
+      "tipo_localidad": "village",
+      "latitud": 12.5370218,
+      "longitud": -86.9451678,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12109418205",
+      "nombre": "La Virgen",
+      "tipo_localidad": "village",
+      "latitud": 12.5570036,
+      "longitud": -86.9403237,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12110481684",
+      "nombre": "El Guanacastal",
+      "tipo_localidad": "village",
+      "latitud": 12.6079236,
+      "longitud": -86.9240374,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12113444282",
+      "nombre": "Las Carpas",
+      "tipo_localidad": "village",
+      "latitud": 12.6555909,
+      "longitud": -86.8747544,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12117491390",
+      "nombre": "La Chepa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8615092,
+      "longitud": -86.8539304,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12117491391",
+      "nombre": "El Nancital",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.865326,
+      "longitud": -86.8513132,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582822",
+      "nombre": "El Amparo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6581347,
+      "longitud": -87.1121407,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582823",
+      "nombre": "Carlos Núñez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6213053,
+      "longitud": -87.1132672,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582824",
+      "nombre": "Concepción de María",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6147094,
+      "longitud": -87.113353,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582825",
+      "nombre": "Rafaela Herrara",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6129609,
+      "longitud": -87.1141255,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582826",
+      "nombre": "Barrio Progreso II",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6127411,
+      "longitud": -87.1174193,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582827",
+      "nombre": "Barrio Progreso I",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6149607,
+      "longitud": -87.1165824,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582828",
+      "nombre": "Rubén Darío",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6163218,
+      "longitud": -87.1187496,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582829",
+      "nombre": "Joaquín Chamorro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6175153,
+      "longitud": -87.1209169,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582830",
+      "nombre": "La Florida",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6176828,
+      "longitud": -87.1274615,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582831",
+      "nombre": "Walter Arrada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6140184,
+      "longitud": -87.1265817,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582832",
+      "nombre": "Bayardo Arce C.",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6136415,
+      "longitud": -87.128942,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582833",
+      "nombre": "Nuevo Amanecer",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6095373,
+      "longitud": -87.1295428,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582834",
+      "nombre": "San Luis",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6248859,
+      "longitud": -87.1182883,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582835",
+      "nombre": "Los Arcos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6256188,
+      "longitud": -87.1212924,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582836",
+      "nombre": "San Luis",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6288747,
+      "longitud": -87.1224403,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582837",
+      "nombre": "El Galvario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6314083,
+      "longitud": -87.1242964,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582838",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6331043,
+      "longitud": -87.1159387,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582839",
+      "nombre": "Dávila Bolaños",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6353342,
+      "longitud": -87.1209383,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582840",
+      "nombre": "Carmita",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6369674,
+      "longitud": -87.1184278,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582841",
+      "nombre": "Roberto González",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6325389,
+      "longitud": -87.1425569,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582842",
+      "nombre": "David Andino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6291993,
+      "longitud": -87.1432221,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582843",
+      "nombre": "España",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6229805,
+      "longitud": -87.1457541,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582844",
+      "nombre": "Azrias H. Pallais",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6243938,
+      "longitud": -87.1452928,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582845",
+      "nombre": "Roberto Gonzàlez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6286339,
+      "longitud": -87.1513707,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582846",
+      "nombre": "Lester Garcia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6339209,
+      "longitud": -87.1375787,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582847",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.632675,
+      "longitud": -87.1325469,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582848",
+      "nombre": "San Agustín",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6238232,
+      "longitud": -87.1272174,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582849",
+      "nombre": "Guadalupe",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6267547,
+      "longitud": -87.1318764,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582850",
+      "nombre": "El Rosario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6255193,
+      "longitud": -87.1377289,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582851",
+      "nombre": "Ayapal",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.621431,
+      "longitud": -87.1391827,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582852",
+      "nombre": "Noel Vallecillo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6208237,
+      "longitud": -87.1329385,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582853",
+      "nombre": "Camilo Ortega",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6168924,
+      "longitud": -87.1321553,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582854",
+      "nombre": "Walter Estrada",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6180964,
+      "longitud": -87.1368116,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582855",
+      "nombre": "Carlos Fonseca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6159448,
+      "longitud": -87.140379,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582856",
+      "nombre": "Carlos Manzanares",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6408356,
+      "longitud": -87.1449226,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582857",
+      "nombre": "Asentamiento Santa Patricia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6383074,
+      "longitud": -87.1445793,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582858",
+      "nombre": "Ana Virgen Robles",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6347688,
+      "longitud": -87.1426964,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582859",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.637674,
+      "longitud": -87.1404111,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582860",
+      "nombre": "Gerardo Lindo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.636915,
+      "longitud": -87.1366668,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582861",
+      "nombre": "Barrio La Cruz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6352609,
+      "longitud": -87.1253049,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582862",
+      "nombre": "Miriam Tinoco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6374489,
+      "longitud": -87.1319997,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582863",
+      "nombre": "Divino Niño",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6506446,
+      "longitud": -87.1302992,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582864",
+      "nombre": "Santa Mélida",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6527331,
+      "longitud": -87.1258038,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582865",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.652105,
+      "longitud": -87.1230143,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118582866",
+      "nombre": "Abraham Rugama",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6539788,
+      "longitud": -87.12192,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664975",
+      "nombre": "Los Laureles",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6548215,
+      "longitud": -87.1714604,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664976",
+      "nombre": "Pedro J. Chamorro",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6549523,
+      "longitud": -87.1736008,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664980",
+      "nombre": "María Emilia González",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6535627,
+      "longitud": -87.1557722,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664984",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6580352,
+      "longitud": -87.1555495,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664985",
+      "nombre": "Pancasán",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6596525,
+      "longitud": -87.1587735,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664986",
+      "nombre": "Los Robles",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6555202,
+      "longitud": -87.1640602,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664987",
+      "nombre": "Narciso Zepeda",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6574516,
+      "longitud": -87.1626279,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664988",
+      "nombre": "Mario Carrillo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6572135,
+      "longitud": -87.1678019,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664989",
+      "nombre": "Bananera",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6560724,
+      "longitud": -87.1683383,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664990",
+      "nombre": "Amigos de Holanda",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6569308,
+      "longitud": -87.1726406,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664991",
+      "nombre": "Hermanos Real Espinales",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6596316,
+      "longitud": -87.1692288,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664992",
+      "nombre": "Arístides Rodríguez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6629238,
+      "longitud": -87.1595728,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664993",
+      "nombre": "El Calvario",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6626725,
+      "longitud": -87.1635693,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664994",
+      "nombre": "La Parroquia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6618534,
+      "longitud": -87.1670079,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664995",
+      "nombre": "Nidia Espinales",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6626987,
+      "longitud": -87.1785951,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664996",
+      "nombre": "Sáenz",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6621125,
+      "longitud": -87.1760416,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664997",
+      "nombre": "Aurelio Carrasco",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6637664,
+      "longitud": -87.175473,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664998",
+      "nombre": "Teodoro Kint",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6659647,
+      "longitud": -87.174561,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118664999",
+      "nombre": "Fernando Obiedo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6659018,
+      "longitud": -87.1779943,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118665000",
+      "nombre": "Miguel Jarquín",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6680791,
+      "longitud": -87.1756661,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118698101",
+      "nombre": "Raúl Martínez",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6678907,
+      "longitud": -87.1724904,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118698102",
+      "nombre": "Esquipula",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6662054,
+      "longitud": -87.1694863,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118698110",
+      "nombre": "Los Cheros",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6714706,
+      "longitud": -87.1691322,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118698127",
+      "nombre": "Pablo M. Arteaga",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6676395,
+      "longitud": -87.1657527,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118698128",
+      "nombre": "20 de Junio",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6664776,
+      "longitud": -87.1606886,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118698137",
+      "nombre": "Entimo Anido",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6689898,
+      "longitud": -87.1598679,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118698139",
+      "nombre": "La Unidad",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.670102,
+      "longitud": -87.1562442,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12118698140",
+      "nombre": "Colonia Villa España",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6750296,
+      "longitud": -87.158162,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12119128518",
+      "nombre": "La Parcelas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0140286,
+      "longitud": -87.5147939,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12119128519",
+      "nombre": "El Divisadero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.0213667,
+      "longitud": -87.5183451,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12119128634",
+      "nombre": "El Jicarito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8949269,
+      "longitud": -87.5293529,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12121179748",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7356808,
+      "longitud": -87.3949367,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12127545182",
+      "nombre": "El Polvoncito",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.6761496,
+      "longitud": -87.1538276,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686129",
+      "nombre": "Corintillo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.048198,
+      "longitud": -86.9075739,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686130",
+      "nombre": "San Luis",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0512159,
+      "longitud": -86.9095507,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686131",
+      "nombre": "Colonia Catalulnya",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0312445,
+      "longitud": -86.9001228,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686132",
+      "nombre": "Santa Eulalia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0336251,
+      "longitud": -86.9014156,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686133",
+      "nombre": "Emanuel",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0378766,
+      "longitud": -86.9012868,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686134",
+      "nombre": "Augusto César Sandino Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0395437,
+      "longitud": -86.9020084,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686135",
+      "nombre": "Sagrada Familia",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0416132,
+      "longitud": -86.9161382,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686136",
+      "nombre": "Socrates Sandino",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0429197,
+      "longitud": -86.9094837,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686137",
+      "nombre": "Carlos Fonseca",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0412474,
+      "longitud": -86.9081587,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686138",
+      "nombre": "Germán Pomares",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0451617,
+      "longitud": -86.9049722,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686139",
+      "nombre": "Francisco Reyes",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0425069,
+      "longitud": -86.9045913,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686140",
+      "nombre": "Augusto César Sandino Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0444248,
+      "longitud": -86.899243,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686141",
+      "nombre": "Resistencia Nº 2",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0465257,
+      "longitud": -86.8991572,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686142",
+      "nombre": "Las Colinas",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.047887,
+      "longitud": -86.8995944,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12164686143",
+      "nombre": "Resistencia Nº 1",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.0480569,
+      "longitud": -86.9030571,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12166683133",
+      "nombre": "Repto. Carolina Santana",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5421064,
+      "longitud": -87.1627271,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12166683136",
+      "nombre": "Germán Omier",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5412738,
+      "longitud": -87.1677429,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12166683137",
+      "nombre": "Realejo Sur",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5405512,
+      "longitud": -87.1653128,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12166683138",
+      "nombre": "Realejo Norte",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5435412,
+      "longitud": -87.1642372,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12166683139",
+      "nombre": "Repto. 25 de Febrero II Etapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5465416,
+      "longitud": -87.1650124,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12166683140",
+      "nombre": "Repto. 25 de Febrero I Etapa",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5479816,
+      "longitud": -87.16667,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12439109545",
+      "nombre": "Venecia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7807673,
+      "longitud": -87.4918717,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12439109595",
+      "nombre": "Playa Paso Caballos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5253101,
+      "longitud": -87.2091481,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12442124388",
+      "nombre": "Playa Nahualapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.672151,
+      "longitud": -87.385549,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/12476205497",
+      "nombre": "El Rosario",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.8682439,
+      "longitud": -86.696291,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/13038549959",
+      "nombre": "Reparto Nueva Candelaria",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.5619682,
+      "longitud": -87.0338788,
+      "departamento": "Chinandega"
+    },
+    {
+      "osm_id": "node/13414416379",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.7412847,
+      "longitud": -87.3949903,
+      "departamento": "Chinandega"
+    }
+  ]
+}

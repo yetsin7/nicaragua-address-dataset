@@ -1,0 +1,69 @@
+{
+    "total": 8,
+    "data": [
+        {
+            "NomDepto": "Jinotega",
+            "NomMunicipio": "Jinotega",
+            "CodPostal": 65000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 120,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Jinotega",
+            "NomMunicipio": "San Rafael del Norte",
+            "CodPostal": 66100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 121,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Jinotega",
+            "NomMunicipio": "San Sebasti\u00e1n de Yal\u00ed",
+            "CodPostal": 66200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 122,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Jinotega",
+            "NomMunicipio": "La Concordia",
+            "CodPostal": 66300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 123,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Jinotega",
+            "NomMunicipio": "Santa Mar\u00eda de Pantasma",
+            "CodPostal": 66400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 124,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Jinotega",
+            "NomMunicipio": "El Cu\u00e1",
+            "CodPostal": 66500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 125,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Jinotega",
+            "NomMunicipio": "San Jos\u00e9 de Bocay",
+            "CodPostal": 66600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 126,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Jinotega",
+            "NomMunicipio": "Wiwil\u00ed de Jinotega",
+            "CodPostal": 66700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 127,
+            "CodBarrio": null
+        }
+    ]
+}

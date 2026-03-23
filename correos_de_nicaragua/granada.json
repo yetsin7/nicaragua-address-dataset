@@ -1,0 +1,37 @@
+{
+    "total": 4,
+    "data": [
+        {
+            "NomDepto": "Granada",
+            "NomMunicipio": "Granada",
+            "CodPostal": 43000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 69,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Granada",
+            "NomMunicipio": "Diriomo",
+            "CodPostal": 44100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 70,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Granada",
+            "NomMunicipio": "Diri\u00e1",
+            "CodPostal": 44200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 71,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Granada",
+            "NomMunicipio": "Nandaime",
+            "CodPostal": 44300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 72,
+            "CodBarrio": null
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "total": 6,
+    "data": [
+        {
+            "NomDepto": "Estelí",
+            "NomMunicipio": "Estelí",
+            "CodPostal": 31000,
+            "Barrio": "Código Maestro",
+            "CodMunicipio": 33,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Estelí",
+            "NomMunicipio": "Condega",
+            "CodPostal": 32100,
+            "Barrio": "Código Maestro",
+            "CodMunicipio": 34,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Estelí",
+            "NomMunicipio": "Pueblo Nuevo",
+            "CodPostal": 32200,
+            "Barrio": "Código Maestro",
+            "CodMunicipio": 35,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Estelí",
+            "NomMunicipio": "San Juan de Limay",
+            "CodPostal": 32300,
+            "Barrio": "Código Maestro",
+            "CodMunicipio": 36,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Estelí",
+            "NomMunicipio": "San Nicolás",
+            "CodPostal": 32400,
+            "Barrio": "Código Maestro",
+            "CodMunicipio": 37,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Estelí",
+            "NomMunicipio": "La Trinidad",
+            "CodPostal": 32500,
+            "Barrio": "Código Maestro",
+            "CodMunicipio": 38,
+            "CodBarrio": null
+        }
+    ]
+}

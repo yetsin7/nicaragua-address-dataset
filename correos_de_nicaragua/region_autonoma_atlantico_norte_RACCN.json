@@ -1,0 +1,69 @@
+{
+    "total": 8,
+    "data": [
+        {
+            "NomDepto": "RAAN",
+            "NomMunicipio": "Puerto Cabezas",
+            "CodPostal": 71000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 128,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAN",
+            "NomMunicipio": "Waspam",
+            "CodPostal": 72100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 129,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAN",
+            "NomMunicipio": "Rosita",
+            "CodPostal": 72200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 130,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAN",
+            "NomMunicipio": "Bonanza",
+            "CodPostal": 72300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 131,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAN",
+            "NomMunicipio": "Siuna",
+            "CodPostal": 72400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 132,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAN",
+            "NomMunicipio": "Prinzapolka",
+            "CodPostal": 72500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 133,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAN",
+            "NomMunicipio": "Mulukuk\u00fa",
+            "CodPostal": 72600,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 134,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "RAAN",
+            "NomMunicipio": "Waslala",
+            "CodPostal": 72700,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 135,
+            "CodBarrio": null
+        }
+    ]
+}

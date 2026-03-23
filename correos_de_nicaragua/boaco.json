@@ -1,0 +1,53 @@
+{
+    "total": 6,
+    "data": [
+        {
+            "NomDepto": "Boaco",
+            "NomMunicipio": "Boaco",
+            "CodPostal": 51000,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 91,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Boaco",
+            "NomMunicipio": "Camoapa",
+            "CodPostal": 52100,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 92,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Boaco",
+            "NomMunicipio": "Santa Lucia",
+            "CodPostal": 52200,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 93,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Boaco",
+            "NomMunicipio": "Teustepe",
+            "CodPostal": 52300,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 94,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Boaco",
+            "NomMunicipio": "San Lorenzo",
+            "CodPostal": 52400,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 95,
+            "CodBarrio": null
+        },
+        {
+            "NomDepto": "Boaco",
+            "NomMunicipio": "San Jos\u00e9 de los Remates",
+            "CodPostal": 52500,
+            "Barrio": "C\u00f3digo Maestro",
+            "CodMunicipio": 96,
+            "CodBarrio": null
+        }
+    ]
+}

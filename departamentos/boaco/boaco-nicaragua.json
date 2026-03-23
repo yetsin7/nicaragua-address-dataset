@@ -1,0 +1,2382 @@
+{
+  "departamento": "Boaco",
+  "total_registros": 297,
+  "lugares": [
+    {
+      "osm_id": "node/302360314",
+      "nombre": "San José de los Remates",
+      "tipo_localidad": "town",
+      "latitud": 12.5969269,
+      "longitud": -85.7620628,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/302360539",
+      "nombre": "Teustepe",
+      "tipo_localidad": "town",
+      "latitud": 12.4202403,
+      "longitud": -85.7998732,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/304247102",
+      "nombre": "Santa Lucía",
+      "tipo_localidad": "town",
+      "latitud": 12.532563,
+      "longitud": -85.7111656,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/304247120",
+      "nombre": "Boaco",
+      "tipo_localidad": "city",
+      "latitud": 12.4718043,
+      "longitud": -85.6598144,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/304247202",
+      "nombre": "Camoapa",
+      "tipo_localidad": "town",
+      "latitud": 12.3844531,
+      "longitud": -85.5126428,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/1844810644",
+      "nombre": "Empalme de Boaco",
+      "tipo_localidad": "village",
+      "latitud": 12.4154935,
+      "longitud": -85.7474404,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/1844810648",
+      "nombre": "Boaquito",
+      "tipo_localidad": "village",
+      "latitud": 12.4516922,
+      "longitud": -85.749806,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2124165085",
+      "nombre": "Colonia Santa Helena",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4143345,
+      "longitud": -85.7398117,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710260519",
+      "nombre": "Barranco Alto",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4489184,
+      "longitud": -85.7680465,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710260523",
+      "nombre": "Coyusne",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5192956,
+      "longitud": -85.7761316,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710260526",
+      "nombre": "El Bramadero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5052181,
+      "longitud": -85.8611728,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710260530",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4974194,
+      "longitud": -85.8058489,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710260539",
+      "nombre": "El Potrerito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4985578,
+      "longitud": -85.8239243,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710260542",
+      "nombre": "Puerta de Golpe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4566147,
+      "longitud": -85.7809342,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710260545",
+      "nombre": "San Diego",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5048241,
+      "longitud": -85.8100073,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710260548",
+      "nombre": "San Jerónimo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4978024,
+      "longitud": -85.8621753,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710260551",
+      "nombre": "Tierra Colorada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.525199,
+      "longitud": -85.7891107,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710352177",
+      "nombre": "Asiento Viejo",
+      "tipo_localidad": "village",
+      "latitud": 12.4404805,
+      "longitud": -85.8674175,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710352182",
+      "nombre": "La Canita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5032154,
+      "longitud": -85.9249983,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710352184",
+      "nombre": "Las Mercedes del Rancho",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4609966,
+      "longitud": -85.8501451,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710352185",
+      "nombre": "Los Negritos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.464055,
+      "longitud": -85.908716,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710352187",
+      "nombre": "Maderas Negras",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.501625,
+      "longitud": -85.9429566,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2710352188",
+      "nombre": "Tomatoyita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5088883,
+      "longitud": -85.9555909,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711102947",
+      "nombre": "La Cruz",
+      "tipo_localidad": "village",
+      "latitud": 12.4179581,
+      "longitud": -85.8292164,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711114375",
+      "nombre": "El Caracol",
+      "tipo_localidad": "village",
+      "latitud": 12.351426,
+      "longitud": -85.8899077,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711114376",
+      "nombre": "La Concha",
+      "tipo_localidad": "village",
+      "latitud": 12.3649864,
+      "longitud": -85.8779729,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711114384",
+      "nombre": "Los Ventarrones Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3885621,
+      "longitud": -85.869918,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711114385",
+      "nombre": "Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3882804,
+      "longitud": -85.8857451,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711139963",
+      "nombre": "El Boquerón",
+      "tipo_localidad": "village",
+      "latitud": 12.3981682,
+      "longitud": -85.8529568,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711139981",
+      "nombre": "El Cruzero de Teustepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4101318,
+      "longitud": -85.7980745,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711139992",
+      "nombre": "Las Cañitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4288039,
+      "longitud": -85.8179787,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711140006",
+      "nombre": "Las Limas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3990942,
+      "longitud": -85.7944253,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711140227",
+      "nombre": "El Llanito Sector 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4259305,
+      "longitud": -85.8156453,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711140271",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4155694,
+      "longitud": -85.7902533,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711140278",
+      "nombre": "Ojo de Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4366333,
+      "longitud": -85.7493464,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711140292",
+      "nombre": "Las Tunitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4434749,
+      "longitud": -85.7229587,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711792412",
+      "nombre": "La Calamidad",
+      "tipo_localidad": "village",
+      "latitud": 12.4624458,
+      "longitud": -85.3351911,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711792414",
+      "nombre": "Las García",
+      "tipo_localidad": "village",
+      "latitud": 12.5271868,
+      "longitud": -85.7008077,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711792415",
+      "nombre": "Saguatepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5229549,
+      "longitud": -85.6561439,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2711792416",
+      "nombre": "Santa Juana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5977867,
+      "longitud": -85.7172101,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2712763218",
+      "nombre": "San José de Murra",
+      "tipo_localidad": "village",
+      "latitud": 12.6129187,
+      "longitud": -85.2151773,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2714623050",
+      "nombre": "San Lorenzo",
+      "tipo_localidad": "town",
+      "latitud": 12.3778785,
+      "longitud": -85.6672097,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2714623051",
+      "nombre": "Tecolostote",
+      "tipo_localidad": "village",
+      "latitud": 12.2508264,
+      "longitud": -85.6432967,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2714753605",
+      "nombre": "El Recreo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2209064,
+      "longitud": -85.6596151,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2714753608",
+      "nombre": "El Cinchal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2309419,
+      "longitud": -85.6525102,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2714753611",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1760055,
+      "longitud": -85.6792838,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2714753612",
+      "nombre": "Masapíta",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1750164,
+      "longitud": -85.7426763,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2714753613",
+      "nombre": "El Pochotal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2115864,
+      "longitud": -85.7299719,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2714753615",
+      "nombre": "Las Peñitas",
+      "tipo_localidad": "village",
+      "latitud": 12.20813,
+      "longitud": -85.6691596,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2718511083",
+      "nombre": "El Carrizal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.358244,
+      "longitud": -85.6522551,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2718511090",
+      "nombre": "El Bálsamo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3891084,
+      "longitud": -85.680266,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2718511179",
+      "nombre": "La Montañita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3837239,
+      "longitud": -85.6618407,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596212",
+      "nombre": "El Portón",
+      "tipo_localidad": "village",
+      "latitud": 12.6090303,
+      "longitud": -85.5396993,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596231",
+      "nombre": "Gracias a Dios",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.631145,
+      "longitud": -85.4962294,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596238",
+      "nombre": "La Argentina",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6363767,
+      "longitud": -85.4715415,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596242",
+      "nombre": "La Corona",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6205669,
+      "longitud": -85.3629097,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596246",
+      "nombre": "La Curva",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6006821,
+      "longitud": -85.3942641,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596272",
+      "nombre": "San Felipe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5918993,
+      "longitud": -85.3774233,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596276",
+      "nombre": "San José de La Vega",
+      "tipo_localidad": "village",
+      "latitud": 12.6871955,
+      "longitud": -85.2937276,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596279",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6532184,
+      "longitud": -85.3310761,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596283",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6291999,
+      "longitud": -85.4236103,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596286",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5410331,
+      "longitud": -85.339479,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721596290",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6218106,
+      "longitud": -85.5184305,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2721598864",
+      "nombre": "Santa Elisa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6405769,
+      "longitud": -85.4381993,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2722166656",
+      "nombre": "Valle Bocao Viejo",
+      "tipo_localidad": "village",
+      "latitud": 12.457975,
+      "longitud": -85.5334169,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2722166666",
+      "nombre": "Los Valerio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5299419,
+      "longitud": -85.5665792,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2722166678",
+      "nombre": "La Codorniz",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4708469,
+      "longitud": -85.4401853,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2722166682",
+      "nombre": "Las Pitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4698754,
+      "longitud": -85.5908465,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2722166685",
+      "nombre": "San Isidro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5577289,
+      "longitud": -85.488875,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2722166691",
+      "nombre": "Tuncar",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4138446,
+      "longitud": -85.4362194,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2722166695",
+      "nombre": "Yula Sacal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5239999,
+      "longitud": -85.54133,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2729183137",
+      "nombre": "San Pablo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3679266,
+      "longitud": -85.2635541,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735267237",
+      "nombre": "La Uva",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2894036,
+      "longitud": -85.6972932,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735267255",
+      "nombre": "El Ahuehue",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.306302,
+      "longitud": -85.7479471,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735267258",
+      "nombre": "El Caribe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3064413,
+      "longitud": -85.7140152,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735267260",
+      "nombre": "El Tigre",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2701387,
+      "longitud": -85.6967135,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735267270",
+      "nombre": "La Rejoya",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3132134,
+      "longitud": -85.7120594,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735267273",
+      "nombre": "La Uva",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2886652,
+      "longitud": -85.7232767,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735267275",
+      "nombre": "Las Lajas",
+      "tipo_localidad": "village",
+      "latitud": 12.317004,
+      "longitud": -85.7288662,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537658",
+      "nombre": "Asedades",
+      "tipo_localidad": "village",
+      "latitud": 12.3937316,
+      "longitud": -85.7372991,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537665",
+      "nombre": "Catarina",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3744264,
+      "longitud": -85.6982799,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537705",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3105939,
+      "longitud": -85.6641964,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537710",
+      "nombre": "Rosa Cerda (El Coyote)",
+      "tipo_localidad": "village",
+      "latitud": 12.2876672,
+      "longitud": -85.6502771,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537714",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "village",
+      "latitud": 12.339332,
+      "longitud": -85.650535,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537732",
+      "nombre": "El Tule",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3893582,
+      "longitud": -85.7072941,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537739",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3578227,
+      "longitud": -85.6693813,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537746",
+      "nombre": "Las Pilas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3329255,
+      "longitud": -85.6821126,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537751",
+      "nombre": "El Llano",
+      "tipo_localidad": "village",
+      "latitud": 12.2788858,
+      "longitud": -85.6688844,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537773",
+      "nombre": "Los Cocos",
+      "tipo_localidad": "village",
+      "latitud": 12.3426178,
+      "longitud": -85.6575921,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735537780",
+      "nombre": "Monte Fresco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3185058,
+      "longitud": -85.6972646,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735539283",
+      "nombre": "San Francisco",
+      "tipo_localidad": "village",
+      "latitud": 12.3058533,
+      "longitud": -85.6420324,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735539286",
+      "nombre": "La Anselma",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3945769,
+      "longitud": -85.71859,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735539290",
+      "nombre": "La Riconada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.361464,
+      "longitud": -85.6875042,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2735539293",
+      "nombre": "El Tanque",
+      "tipo_localidad": "village",
+      "latitud": 12.2819193,
+      "longitud": -85.6544348,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2737009952",
+      "nombre": "El Papayal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2323881,
+      "longitud": -85.6450001,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2780073096",
+      "nombre": "El Quebrachal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.436222,
+      "longitud": -85.9410762,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2780073099",
+      "nombre": "El Bajo de Los Ramírez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4849054,
+      "longitud": -85.9117795,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2780073123",
+      "nombre": "Los Macias",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5480117,
+      "longitud": -85.8226732,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2780073137",
+      "nombre": "Sonzapote",
+      "tipo_localidad": "village",
+      "latitud": 12.4844793,
+      "longitud": -85.8755172,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2780073155",
+      "nombre": "Los Bajos de Cerro de Piedra",
+      "tipo_localidad": "village",
+      "latitud": 12.4504367,
+      "longitud": -85.920583,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2780073164",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4891321,
+      "longitud": -85.8544893,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2780073172",
+      "nombre": "San Joaquín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.463589,
+      "longitud": -85.9639489,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2780073196",
+      "nombre": "La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4526975,
+      "longitud": -85.9443918,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2780073197",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4943116,
+      "longitud": -85.8433119,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2780073205",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4896685,
+      "longitud": -85.9672879,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2810197462",
+      "nombre": "La Palma",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1081081,
+      "longitud": -85.7074993,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2810197472",
+      "nombre": "Miramontes",
+      "tipo_localidad": "village",
+      "latitud": 12.1222803,
+      "longitud": -85.6845095,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076560",
+      "nombre": "Caserío La Cuesta",
+      "tipo_localidad": "village",
+      "latitud": 12.3764542,
+      "longitud": -85.7616823,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076561",
+      "nombre": "Cusirina",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3626033,
+      "longitud": -85.7779153,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076562",
+      "nombre": "El Cacao",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3241653,
+      "longitud": -85.7026847,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076563",
+      "nombre": "El Bosque",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3549777,
+      "longitud": -85.7546168,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076565",
+      "nombre": "El Esquirín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3702274,
+      "longitud": -85.7409256,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076566",
+      "nombre": "El Güiscoyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4370635,
+      "longitud": -85.7099132,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076567",
+      "nombre": "Pochote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3743768,
+      "longitud": -85.7342236,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076568",
+      "nombre": "El Quebracho",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4448299,
+      "longitud": -85.6928794,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076569",
+      "nombre": "El Rincón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2509706,
+      "longitud": -85.7930019,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076573",
+      "nombre": "La Loya",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3414419,
+      "longitud": -85.730473,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076574",
+      "nombre": "La Leana",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3787909,
+      "longitud": -85.7378491,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076576",
+      "nombre": "La Rejoya",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3435743,
+      "longitud": -85.7424771,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076577",
+      "nombre": "Las Casitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3404401,
+      "longitud": -85.7217183,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076578",
+      "nombre": "Laguna de San Onofre",
+      "tipo_localidad": "village",
+      "latitud": 12.3510431,
+      "longitud": -85.6924286,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816076579",
+      "nombre": "Llano Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3214199,
+      "longitud": -85.7664729,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816083240",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4418999,
+      "longitud": -85.7095889,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816462741",
+      "nombre": "Posoli",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3902947,
+      "longitud": -85.659544,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816467531",
+      "nombre": "Las Torres",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4032623,
+      "longitud": -85.6151539,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2816467532",
+      "nombre": "Santa Inés",
+      "tipo_localidad": "village",
+      "latitud": 12.393368,
+      "longitud": -85.6235432,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2889304675",
+      "nombre": "El Paraíso",
+      "tipo_localidad": "village",
+      "latitud": 12.5711239,
+      "longitud": -85.543277,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2889305003",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.481522,
+      "longitud": -85.148551,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2889305007",
+      "nombre": "San Gregorio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3398077,
+      "longitud": -85.5156947,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/2889305025",
+      "nombre": "Tierra Azul",
+      "tipo_localidad": "village",
+      "latitud": 12.6965873,
+      "longitud": -85.5477538,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/4089242038",
+      "nombre": "El Bajo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2595961,
+      "longitud": -85.7245364,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/4089242039",
+      "nombre": "El Manidero",
+      "tipo_localidad": "village",
+      "latitud": 12.0987869,
+      "longitud": -85.7207969,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/4089242044",
+      "nombre": "El Potrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.25048,
+      "longitud": -85.7484725,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/4089242045",
+      "nombre": "San Juan de Pablo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2341415,
+      "longitud": -85.7641194,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/5551317138",
+      "nombre": "Los Álvarez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5478095,
+      "longitud": -85.7057901,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/5551317139",
+      "nombre": "Lomas de Cafén",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5041718,
+      "longitud": -85.51457,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/7194579837",
+      "nombre": "El Coyol",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5658211,
+      "longitud": -85.9157506,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/10858283909",
+      "nombre": "Germán Pomares Ordóñez",
+      "tipo_localidad": "village",
+      "latitud": 12.6613274,
+      "longitud": -85.5363053,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/10935458543",
+      "nombre": "La Gloria",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6671947,
+      "longitud": -85.3166646,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/10935458561",
+      "nombre": "La Reforma",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6878361,
+      "longitud": -85.3653574,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11552821350",
+      "nombre": "Monte Verdes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6218746,
+      "longitud": -85.062646,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11638832157",
+      "nombre": "Bajos El Nascolo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5599376,
+      "longitud": -85.8478158,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11667289903",
+      "nombre": "El Carrizal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6259957,
+      "longitud": -85.7594222,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11667289918",
+      "nombre": "La Cañada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6345176,
+      "longitud": -85.8203888,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11667289921",
+      "nombre": "Casas Nuevas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6076421,
+      "longitud": -85.8326398,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11667290097",
+      "nombre": "La Concepción",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5230452,
+      "longitud": -85.7604414,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11668150740",
+      "nombre": "La Guatusera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5651665,
+      "longitud": -85.9297907,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11668150770",
+      "nombre": "El Coyol Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5725177,
+      "longitud": -85.9130484,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11668150834",
+      "nombre": "Bajos de Tomatoya",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5587053,
+      "longitud": -85.8896328,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11669981109",
+      "nombre": "Las Jagüitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5277111,
+      "longitud": -85.9590966,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11669981124",
+      "nombre": "Los Arados",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5371135,
+      "longitud": -85.957396,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11669981131",
+      "nombre": "Las Lagunas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5391688,
+      "longitud": -85.9163529,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11669981203",
+      "nombre": "Tierra Blanca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5410958,
+      "longitud": -85.9049106,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11669981218",
+      "nombre": "Las Quebradas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5556422,
+      "longitud": -85.917238,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11669981270",
+      "nombre": "La Laguna",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5512909,
+      "longitud": -85.9382021,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11674266955",
+      "nombre": "El Jocote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5245063,
+      "longitud": -85.8590931,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11674266956",
+      "nombre": "El Espino",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5339925,
+      "longitud": -85.8440271,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11674267009",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5071144,
+      "longitud": -85.9240454,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11674325513",
+      "nombre": "Tomatoya",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5237941,
+      "longitud": -85.9165514,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11675222258",
+      "nombre": "Cacao de Los Chavarías",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5143258,
+      "longitud": -85.8806312,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11675222323",
+      "nombre": "El Bálsamo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5175832,
+      "longitud": -85.8472431,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11675222344",
+      "nombre": "Las Palomas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5140273,
+      "longitud": -85.920006,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11675222375",
+      "nombre": "El Jazmín",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5212299,
+      "longitud": -85.8396108,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11677447282",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.522189,
+      "longitud": -85.807997,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11682171940",
+      "nombre": "El Ventarrón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4787853,
+      "longitud": -85.936566,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11685121346",
+      "nombre": "El Nancital",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.337973,
+      "longitud": -85.900257,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11685121347",
+      "nombre": "Los Ventarrones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3831641,
+      "longitud": -85.8757013,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11685121401",
+      "nombre": "La Concha Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3583638,
+      "longitud": -85.8792901,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11685121437",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3579027,
+      "longitud": -85.9032798,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11685121469",
+      "nombre": "Candelaria Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.461207,
+      "longitud": -85.8751541,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11685121479",
+      "nombre": "Candelaria Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4570951,
+      "longitud": -85.8797836,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11687180408",
+      "nombre": "El Llanito Sector 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4273827,
+      "longitud": -85.8107543,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11687180538",
+      "nombre": "Santa Sofía",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4074801,
+      "longitud": -85.8133078,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11687180551",
+      "nombre": "Patastule",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4130701,
+      "longitud": -85.8212417,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11720151048",
+      "nombre": "Los Potrerillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3660405,
+      "longitud": -85.7975686,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11720975558",
+      "nombre": "El Chilamate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3765412,
+      "longitud": -85.7815182,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11720975612",
+      "nombre": "Aguas Calientes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3892106,
+      "longitud": -85.7893288,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11725931081",
+      "nombre": "Santo Domingo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4873776,
+      "longitud": -85.757845,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11725931118",
+      "nombre": "Santo Domingo Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4861864,
+      "longitud": -85.7592898,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11725931167",
+      "nombre": "La Guayaba",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4715048,
+      "longitud": -85.8148849,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11725931178",
+      "nombre": "Las Jabillas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4586037,
+      "longitud": -85.7866117,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11725931189",
+      "nombre": "Barranco Alto Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4433708,
+      "longitud": -85.7669914,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11726108640",
+      "nombre": "El Chilamate",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4964488,
+      "longitud": -85.9129438,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11726108890",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5162753,
+      "longitud": -85.7669659,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11738092079",
+      "nombre": "Raúl Urbina Valle",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5770571,
+      "longitud": -85.6344259,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11738092094",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5815807,
+      "longitud": -85.6285679,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11738092113",
+      "nombre": "Taswás",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6045011,
+      "longitud": -85.5990744,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11738092182",
+      "nombre": "Las Maderas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6567816,
+      "longitud": -85.5377752,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11738092211",
+      "nombre": "San Buena Ventura",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5687112,
+      "longitud": -85.6271732,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11738092238",
+      "nombre": "Filas Verdes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6317433,
+      "longitud": -85.6047513,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11738092253",
+      "nombre": "La Aurora",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6483992,
+      "longitud": -85.6474346,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11738092292",
+      "nombre": "Cumaica Sur",
+      "tipo_localidad": "village",
+      "latitud": 12.6373599,
+      "longitud": -85.6768102,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739395781",
+      "nombre": "El Riego",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5111836,
+      "longitud": -85.7238025,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739395787",
+      "nombre": "Malacatoya",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6065402,
+      "longitud": -85.7175475,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739649606",
+      "nombre": "Los Andes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5745151,
+      "longitud": -85.6740823,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739649625",
+      "nombre": "Las Mercedes Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.566075,
+      "longitud": -85.6655476,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739649657",
+      "nombre": "Las Mercedes Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5602971,
+      "longitud": -85.6694394,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739649658",
+      "nombre": "La Laguna",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5716799,
+      "longitud": -85.7412851,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739651989",
+      "nombre": "El Rosario",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5484319,
+      "longitud": -85.6905216,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739652015",
+      "nombre": "Los Rivas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5447089,
+      "longitud": -85.7022214,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739652043",
+      "nombre": "Santa Elena",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5453582,
+      "longitud": -85.7098174,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739652060",
+      "nombre": "El Llanito",
+      "tipo_localidad": "village",
+      "latitud": 12.5359012,
+      "longitud": -85.7162011,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739652140",
+      "nombre": "Miguel Ángel Martínez",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5045063,
+      "longitud": -85.7246554,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739652174",
+      "nombre": "Cerro Guape",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5117806,
+      "longitud": -85.5826485,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739652794",
+      "nombre": "Las García Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.521935,
+      "longitud": -85.6948614,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739652804",
+      "nombre": "Las García Nº 3",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5184263,
+      "longitud": -85.693177,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11739652857",
+      "nombre": "Manantial de Agua Viva",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5298966,
+      "longitud": -85.69635,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11741281241",
+      "nombre": "Los Limones",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.4955715,
+      "longitud": -85.6497896,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11741284541",
+      "nombre": "San Rafael",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5884863,
+      "longitud": -85.5354899,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753705636",
+      "nombre": "Loma Larga",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3734549,
+      "longitud": -85.7108206,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753705645",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3793444,
+      "longitud": -85.7037503,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753711666",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4054525,
+      "longitud": -85.7298106,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753711729",
+      "nombre": "Potrero del Platanal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4043051,
+      "longitud": -85.6720197,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753711750",
+      "nombre": "Sonzaponte",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4263507,
+      "longitud": -85.7065988,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753711847",
+      "nombre": "El Cascabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4432661,
+      "longitud": -85.7039434,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753711871",
+      "nombre": "La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4414588,
+      "longitud": -85.6719017,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753711891",
+      "nombre": "Cerro Lago",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.452496,
+      "longitud": -85.6378698,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753711910",
+      "nombre": "Las Lagunas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4681526,
+      "longitud": -85.6142449,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753711954",
+      "nombre": "Las Cañas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.488831,
+      "longitud": -85.6149584,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753712023",
+      "nombre": "Barrio San Nicolás",
+      "tipo_localidad": "suburb",
+      "latitud": 12.4906117,
+      "longitud": -85.6507874,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753712080",
+      "nombre": "Gaspar García Laviana",
+      "tipo_localidad": "suburb",
+      "latitud": 12.4839863,
+      "longitud": -85.6521714,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753712097",
+      "nombre": "Los Potrerillos",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4783191,
+      "longitud": -85.6645042,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753712148",
+      "nombre": "San Miguel",
+      "tipo_localidad": "village",
+      "latitud": 12.4828602,
+      "longitud": -85.662632,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753712191",
+      "nombre": "Los Corredores",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4922039,
+      "longitud": -85.6932575,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753712295",
+      "nombre": "Saguatepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4935299,
+      "longitud": -85.6515922,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11753712311",
+      "nombre": "El Orégano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4868942,
+      "longitud": -85.7147102,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11754015706",
+      "nombre": "Laguna El Carbonal",
+      "tipo_localidad": "village",
+      "latitud": 12.3354373,
+      "longitud": -85.6675726,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11754015759",
+      "nombre": "El Borbollón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.328918,
+      "longitud": -85.6517905,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11754015768",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3326441,
+      "longitud": -85.6535822,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11757084950",
+      "nombre": "La Guabita",
+      "tipo_localidad": "village",
+      "latitud": 12.3876335,
+      "longitud": -85.4984379,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11757084968",
+      "nombre": "El Carrizal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3721319,
+      "longitud": -85.5113044,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11757087408",
+      "nombre": "Piedra Sembrada",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4349764,
+      "longitud": -85.532363,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11757087409",
+      "nombre": "Los Limones",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3866511,
+      "longitud": -85.5293101,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11757087420",
+      "nombre": "El Abra",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3862555,
+      "longitud": -85.5379576,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11757087445",
+      "nombre": "Mombacho",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3932712,
+      "longitud": -85.5405378,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11757087502",
+      "nombre": "Mombachito Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3812202,
+      "longitud": -85.5832332,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11757087515",
+      "nombre": "Barrio La Concepción",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3889608,
+      "longitud": -85.5061604,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11757087697",
+      "nombre": "La Flor",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3814141,
+      "longitud": -85.6349945,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11757087715",
+      "nombre": "Mombachito Nº 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4037484,
+      "longitud": -85.5894572,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759349509",
+      "nombre": "La Zarca",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4987414,
+      "longitud": -85.7390025,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759452896",
+      "nombre": "La Calera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3096262,
+      "longitud": -85.6383473,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759452918",
+      "nombre": "Los Coyotes",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3032897,
+      "longitud": -85.6399459,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759452998",
+      "nombre": "Los Encuentros",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2949508,
+      "longitud": -85.6757748,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759453189",
+      "nombre": "Las Panamaces",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.308468,
+      "longitud": -85.7252616,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759453244",
+      "nombre": "El Aguacate de Los Ortices",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3150193,
+      "longitud": -85.7156003,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759453327",
+      "nombre": "San Lorenzo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3210489,
+      "longitud": -85.6937161,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759453336",
+      "nombre": "San Onofre",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3218849,
+      "longitud": -85.6892502,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759453408",
+      "nombre": "Laguna de San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3167357,
+      "longitud": -85.6616235,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759453434",
+      "nombre": "Las Jarquinas Sector 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3231846,
+      "longitud": -85.6455785,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759453453",
+      "nombre": "Las Jarquinas Sector 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3198147,
+      "longitud": -85.6435186,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759453558",
+      "nombre": "Los Robles",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3172047,
+      "longitud": -85.6324062,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759453927",
+      "nombre": "El Roblar",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.333818,
+      "longitud": -85.5105507,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759454164",
+      "nombre": "El Orégano",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3472965,
+      "longitud": -85.5566043,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759901222",
+      "nombre": "San Antonio",
+      "tipo_localidad": "village",
+      "latitud": 12.2451425,
+      "longitud": -85.6477511,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11759901258",
+      "nombre": "El Barillal",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2501568,
+      "longitud": -85.6477136,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11761618335",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2105749,
+      "longitud": -85.673043,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11761705871",
+      "nombre": "Rigoberto Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1959596,
+      "longitud": -85.6743179,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11762633440",
+      "nombre": "El Chagüite",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2545209,
+      "longitud": -85.7161367,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11762633494",
+      "nombre": "El Alto",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2608953,
+      "longitud": -85.7211739,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11762633517",
+      "nombre": "El Incendio",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2398267,
+      "longitud": -85.7127035,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11762633639",
+      "nombre": "Boca El Congo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1890877,
+      "longitud": -85.7227618,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11762633655",
+      "nombre": "El Riíto",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1889907,
+      "longitud": -85.709973,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11762633696",
+      "nombre": "Masapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1885083,
+      "longitud": -85.6990028,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11774222354",
+      "nombre": "El Jobo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1805774,
+      "longitud": -85.6684175,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11833339276",
+      "nombre": "Laguna Negra",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3645104,
+      "longitud": -85.5205017,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11833476772",
+      "nombre": "Barrio San Martín",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 12.3847674,
+      "longitud": -85.5190319,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11833476773",
+      "nombre": "Zárrigo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4106838,
+      "longitud": -85.4625446,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11833476809",
+      "nombre": "La Corona",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3624721,
+      "longitud": -85.5245572,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11833567296",
+      "nombre": "Santa Sofía",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3698237,
+      "longitud": -85.5407846,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11833733429",
+      "nombre": "La Leona",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5268837,
+      "longitud": -85.7212865,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11833733467",
+      "nombre": "El Ventarrón",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5253023,
+      "longitud": -85.7168877,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11833893017",
+      "nombre": "Sajonia",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4507857,
+      "longitud": -85.6694368,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11834179353",
+      "nombre": "Quisaltepe",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.350687,
+      "longitud": -85.6319261,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11861009045",
+      "nombre": "La Gloria",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.393004,
+      "longitud": -85.5003638,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11882397624",
+      "nombre": "Monte Fresco",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2130021,
+      "longitud": -85.7293679,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11882397631",
+      "nombre": "El Geníceral",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1735022,
+      "longitud": -85.7658073,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11882397632",
+      "nombre": "El Genícerito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1732981,
+      "longitud": -85.7556303,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/11920884404",
+      "nombre": "Belén",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.1690359,
+      "longitud": -85.6745625,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12442795906",
+      "nombre": "La Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6362921,
+      "longitud": -84.9713087,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12514731829",
+      "nombre": "La Pita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.2678672,
+      "longitud": -85.6543386,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12514731848",
+      "nombre": "La Culebra",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.277271,
+      "longitud": -85.6364215,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12862911558",
+      "nombre": "Masigüito",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4876132,
+      "longitud": -85.3480277,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12862920020",
+      "nombre": "Las Brisas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3696587,
+      "longitud": -85.4442868,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12862920026",
+      "nombre": "El Crucero",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3560844,
+      "longitud": -85.4844877,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12862920064",
+      "nombre": "Salinas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.3501472,
+      "longitud": -85.4528511,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12863417434",
+      "nombre": "La Lagartera",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4200327,
+      "longitud": -85.4303661,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12877142435",
+      "nombre": "Chistolapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5369634,
+      "longitud": -85.6990166,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12877169801",
+      "nombre": "Barrio Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6652398,
+      "longitud": -85.4251358,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12877169826",
+      "nombre": "Baguas Nº 2",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6361717,
+      "longitud": -85.4751402,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12877169861",
+      "nombre": "Peña de Cafén",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5103247,
+      "longitud": -85.4958147,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12877170283",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4677545,
+      "longitud": -85.456574,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12877189832",
+      "nombre": "Platanar Sur",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6757937,
+      "longitud": -85.1058188,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/12877189850",
+      "nombre": "Arenitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5108851,
+      "longitud": -85.3026098,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/13024552980",
+      "nombre": "La Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4115652,
+      "longitud": -85.8512194,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/13578247950",
+      "nombre": "Río Negro",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.5558569,
+      "longitud": -85.4100001,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/13623621243",
+      "nombre": "La Reina",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.4856151,
+      "longitud": -85.5078149,
+      "departamento": "Boaco"
+    },
+    {
+      "osm_id": "node/13628556206",
+      "nombre": "El Pirulino",
+      "tipo_localidad": "hamlet",
+      "latitud": 12.6260428,
+      "longitud": -85.4155469,
+      "departamento": "Boaco"
+    }
+  ]
+}

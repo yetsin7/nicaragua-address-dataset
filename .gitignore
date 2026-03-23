@@ -1,0 +1,52 @@
+# ── Credenciales y secretos ───────────────────────────────
+.env
+.env.*
+*.env
+secrets.json
+secrets.yaml
+secrets.yml
+credentials.json
+credentials.yaml
+tokens.md
+*tokens*.md
+*claves*.md
+*credenciales*.md
+
+# ── Scripts con credenciales hardcodeadas ────────────────
+upload_to_supabase.py
+sync_supabase.py
+fetch_municipality_info.py
+update_municipios_md.py
+
+# ── Supabase ──────────────────────────────────────────────
+supabase/.temp/
+supabase/functions/.env
+
+# ── Claude Code ───────────────────────────────────────────
+.claude/
+inide_gob_ni/.claude/
+
+# ── Archivos generados / grandes ─────────────────────────
+build_sqlite.js
+nicaragua_addresses.db
+nicaragua_addresses.sql
+*.db
+*.sqlite
+*.pbf
+*.osm
+fetch_output.log
+
+# ── Imágenes de mapas (pesadas, se regeneran desde PDFs) ──
+maps_images/*.png
+
+# ── Python ────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ── Sistema operativo ─────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini

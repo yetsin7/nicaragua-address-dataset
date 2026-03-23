@@ -1,0 +1,2662 @@
+{
+  "departamento": "Madriz",
+  "total_registros": 332,
+  "lugares": [
+    {
+      "osm_id": "node/302260982",
+      "nombre": "Totogalpa",
+      "tipo_localidad": "town",
+      "latitud": 13.5629663,
+      "longitud": -86.4927316,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/302524717",
+      "nombre": "Palacagüina",
+      "tipo_localidad": "town",
+      "latitud": 13.456744,
+      "longitud": -86.4063963,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/303916339",
+      "nombre": "Telpaneca",
+      "tipo_localidad": "town",
+      "latitud": 13.5317371,
+      "longitud": -86.2869128,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/303930749",
+      "nombre": "Sabana Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5285267,
+      "longitud": -86.4817023,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/303932621",
+      "nombre": "La Culebra",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.44163,
+      "longitud": -86.6946265,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/460399814",
+      "nombre": "San Juan del Río Coco",
+      "tipo_localidad": "town",
+      "latitud": 13.5445863,
+      "longitud": -86.1648222,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/524215413",
+      "nombre": "El Fraile",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5319696,
+      "longitud": -86.4850084,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/574699254",
+      "nombre": "Agua Dulce",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5635078,
+      "longitud": -86.4625759,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/574725641",
+      "nombre": "Cayantú",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.548655,
+      "longitud": -86.4329765,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/1336149970",
+      "nombre": "Ducualí",
+      "tipo_localidad": "village",
+      "latitud": 13.4124711,
+      "longitud": -86.3986054,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/1336151039",
+      "nombre": "Santa Rita",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4008024,
+      "longitud": -86.3815335,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/1688424825",
+      "nombre": "San Juan de Somoto",
+      "tipo_localidad": "village",
+      "latitud": 13.5227857,
+      "longitud": -86.5372489,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/1704432605",
+      "nombre": "El Jocote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5151821,
+      "longitud": -86.3938174,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/1745603532",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4866942,
+      "longitud": -86.4326751,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/1745603533",
+      "nombre": "La Esperanza",
+      "tipo_localidad": "village",
+      "latitud": 13.4938277,
+      "longitud": -86.5194316,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/1745603534",
+      "nombre": "San Francisco",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5150344,
+      "longitud": -86.4673246,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2738626029",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5131037,
+      "longitud": -86.3725493,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2738626033",
+      "nombre": "La Concepción",
+      "tipo_localidad": "village",
+      "latitud": 13.5005804,
+      "longitud": -86.3719312,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2738626279",
+      "nombre": "Saguasca",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5079356,
+      "longitud": -86.3874559,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2738626280",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4961171,
+      "longitud": -86.3865368,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2739812406",
+      "nombre": "Riíto Arriba",
+      "tipo_localidad": "village",
+      "latitud": 13.4683126,
+      "longitud": -86.4063153,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2750654886",
+      "nombre": "El Gualiqueme",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3953763,
+      "longitud": -86.7361839,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2750654899",
+      "nombre": "Hermanos Martinez",
+      "tipo_localidad": "village",
+      "latitud": 13.5150488,
+      "longitud": -86.6275754,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2750654902",
+      "nombre": "Los Tablones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4273903,
+      "longitud": -86.7142378,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2750654905",
+      "nombre": "El Melonar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4911415,
+      "longitud": -86.6120702,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2750654908",
+      "nombre": "Migüisle",
+      "tipo_localidad": "village",
+      "latitud": 13.374369,
+      "longitud": -86.6899913,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2750666369",
+      "nombre": "San José de Cusmapa",
+      "tipo_localidad": "town",
+      "latitud": 13.2879947,
+      "longitud": -86.6543905,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2750666372",
+      "nombre": "Valle Santa Isabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4500147,
+      "longitud": -86.5934963,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2773644825",
+      "nombre": "Somoto",
+      "tipo_localidad": "city",
+      "latitud": 13.4837096,
+      "longitud": -86.5826225,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2778099647",
+      "nombre": "Los Rincones",
+      "tipo_localidad": "village",
+      "latitud": 13.4456615,
+      "longitud": -86.4098783,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2780776139",
+      "nombre": "La Calera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4563975,
+      "longitud": -86.4239471,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2834234951",
+      "nombre": "La Carbonera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5629374,
+      "longitud": -86.6207733,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2834234952",
+      "nombre": "Las Sabanas",
+      "tipo_localidad": "town",
+      "latitud": 13.3429987,
+      "longitud": -86.6214862,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2834234954",
+      "nombre": "Los Lirios",
+      "tipo_localidad": "village",
+      "latitud": 13.4972177,
+      "longitud": -86.2643999,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2834238249",
+      "nombre": "Quibuto",
+      "tipo_localidad": "village",
+      "latitud": 13.4925278,
+      "longitud": -86.2005274,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2834238251",
+      "nombre": "San Lucas",
+      "tipo_localidad": "town",
+      "latitud": 13.4140449,
+      "longitud": -86.6116147,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2834238252",
+      "nombre": "Santo Domingo",
+      "tipo_localidad": "village",
+      "latitud": 13.5547078,
+      "longitud": -86.2295977,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/2834238253",
+      "nombre": "Yalagüina",
+      "tipo_localidad": "town",
+      "latitud": 13.485387,
+      "longitud": -86.4923654,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/3717725143",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "village",
+      "latitud": 13.5964427,
+      "longitud": -86.2038053,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/3717835000",
+      "nombre": "Samarcanda",
+      "tipo_localidad": "village",
+      "latitud": 13.5262186,
+      "longitud": -86.1159799,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/3882696409",
+      "nombre": "El Cipián",
+      "tipo_localidad": "village",
+      "latitud": 13.3313785,
+      "longitud": -86.626478,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/3924705787",
+      "nombre": "El Espino",
+      "tipo_localidad": "village",
+      "latitud": 13.44554,
+      "longitud": -86.7196011,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/3924720561",
+      "nombre": "La Playa",
+      "tipo_localidad": "village",
+      "latitud": 13.4352391,
+      "longitud": -86.6992454,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/3924917213",
+      "nombre": "Los Arados",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.452938,
+      "longitud": -86.4369099,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/4259178618",
+      "nombre": "Icalupe",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6297878,
+      "longitud": -86.6868724,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/5672639658",
+      "nombre": "Valle Los Encuentros",
+      "tipo_localidad": "village",
+      "latitud": 13.4684239,
+      "longitud": -86.4741546,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/5672639828",
+      "nombre": "Chagüite Grande",
+      "tipo_localidad": "village",
+      "latitud": 13.4926964,
+      "longitud": -86.5025548,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/5941780931",
+      "nombre": "Aguas Calientes",
+      "tipo_localidad": "village",
+      "latitud": 13.471955,
+      "longitud": -86.6195851,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9445921134",
+      "nombre": "Poza Redonda",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5747041,
+      "longitud": -86.3142854,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9445921135",
+      "nombre": "El Zapotillo",
+      "tipo_localidad": "village",
+      "latitud": 13.5413755,
+      "longitud": -86.2898263,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9445921339",
+      "nombre": "Las Trojas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5837551,
+      "longitud": -86.3393909,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9445921340",
+      "nombre": "San José de Amucayán",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5699288,
+      "longitud": -86.34615,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9445967650",
+      "nombre": "El Rodeo Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5380272,
+      "longitud": -86.2475414,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9445967652",
+      "nombre": "El Carbonal Abajo",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.5857482,
+      "longitud": -86.2198984,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9445980162",
+      "nombre": "El Paraisito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5756062,
+      "longitud": -86.2516129,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9445980163",
+      "nombre": "Casilia Arriba",
+      "tipo_localidad": "village",
+      "latitud": 13.5440236,
+      "longitud": -86.2668559,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9448606493",
+      "nombre": "Valle El Tamarindo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4797175,
+      "longitud": -86.3086796,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9448606583",
+      "nombre": "Apagüique",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4850279,
+      "longitud": -86.2590801,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9467273175",
+      "nombre": "Monte Cristo",
+      "tipo_localidad": "village",
+      "latitud": 13.558661,
+      "longitud": -86.1366347,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9510981592",
+      "nombre": "Los Ranchos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5265218,
+      "longitud": -86.3505114,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9510981593",
+      "nombre": "Villa Quezada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5263341,
+      "longitud": -86.2790197,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9511960729",
+      "nombre": "El Plan",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.589685,
+      "longitud": -86.2627602,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9511960995",
+      "nombre": "El Cajon",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5878366,
+      "longitud": -86.3065606,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9511960997",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5886683,
+      "longitud": -86.2872541,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9511961331",
+      "nombre": "Santa María",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.530204,
+      "longitud": -86.3402492,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9511961334",
+      "nombre": "Chagüite Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5291453,
+      "longitud": -86.3865495,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9520097201",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.547253,
+      "longitud": -86.403147,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9520097693",
+      "nombre": "La Veinte Robles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5400351,
+      "longitud": -86.3648772,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9532969644",
+      "nombre": "El Papayal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6177829,
+      "longitud": -86.254853,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9537452681",
+      "nombre": "El Carbonal",
+      "tipo_localidad": "village",
+      "latitud": 13.5853989,
+      "longitud": -86.2250108,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538675996",
+      "nombre": "La Maysuta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5413389,
+      "longitud": -86.4731875,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538675997",
+      "nombre": "Apatoro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5791755,
+      "longitud": -86.4701485,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538675998",
+      "nombre": "Quilan",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5653802,
+      "longitud": -86.4482939,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538676975",
+      "nombre": "Las Cruces",
+      "tipo_localidad": "village",
+      "latitud": 13.5135346,
+      "longitud": -86.492604,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538676976",
+      "nombre": "El Jocote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5034781,
+      "longitud": -86.4854693,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538676979",
+      "nombre": "El Palmar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5224536,
+      "longitud": -86.4794263,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538677464",
+      "nombre": "La Muta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4970883,
+      "longitud": -86.4586419,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538678172",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5090358,
+      "longitud": -86.3664785,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538678217",
+      "nombre": "Las Lajas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5096618,
+      "longitud": -86.3471371,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538800181",
+      "nombre": "Betania",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5032121,
+      "longitud": -86.2187022,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538846282",
+      "nombre": "Valle Babilonia",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5268192,
+      "longitud": -86.1396629,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538846310",
+      "nombre": "La Concepción",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5423507,
+      "longitud": -86.0962969,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538846311",
+      "nombre": "El Consuelo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5599099,
+      "longitud": -86.0999662,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538846312",
+      "nombre": "Santa Fé",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5718986,
+      "longitud": -86.1276519,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538846314",
+      "nombre": "Bonanza",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5431174,
+      "longitud": -86.1080343,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875829",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.556588,
+      "longitud": -86.1973894,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875832",
+      "nombre": "Los Pinos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5357794,
+      "longitud": -86.240294,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875834",
+      "nombre": "El Achiote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5286811,
+      "longitud": -86.2273926,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875837",
+      "nombre": "La Manchuria",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5037285,
+      "longitud": -86.2002272,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875840",
+      "nombre": "San Doroteo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.513253,
+      "longitud": -86.1682016,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875843",
+      "nombre": "La Nueva",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5121003,
+      "longitud": -86.1508906,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875844",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5087725,
+      "longitud": -86.1402155,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875845",
+      "nombre": "San Marcos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5020594,
+      "longitud": -86.1449576,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875846",
+      "nombre": "La Luz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5043466,
+      "longitud": -86.1264289,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875894",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5949774,
+      "longitud": -86.1905175,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9538875897",
+      "nombre": "Carrizalito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6016357,
+      "longitud": -86.2226451,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9544088033",
+      "nombre": "El Destino",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5175247,
+      "longitud": -86.1029917,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9545192997",
+      "nombre": "Valle Loma Chata",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5553573,
+      "longitud": -86.105969,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9545192998",
+      "nombre": "La Concepción",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5366817,
+      "longitud": -86.0982066,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9545193004",
+      "nombre": "El Bálsamo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5684935,
+      "longitud": -86.1677509,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9545193006",
+      "nombre": "La Lumeria",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5491618,
+      "longitud": -86.1446625,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924440",
+      "nombre": "El Piache",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4814912,
+      "longitud": -86.1543346,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924449",
+      "nombre": "Los Planes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4244669,
+      "longitud": -86.1996532,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924451",
+      "nombre": "Robledar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4046487,
+      "longitud": -86.2168837,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924452",
+      "nombre": "Miravalle",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4143337,
+      "longitud": -86.2206603,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924453",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4212005,
+      "longitud": -86.2123239,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924467",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.435925,
+      "longitud": -86.2404228,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924469",
+      "nombre": "El Pericón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4979959,
+      "longitud": -86.2290502,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924470",
+      "nombre": "San Antonio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4813399,
+      "longitud": -86.1717582,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924472",
+      "nombre": "Los Cerros",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4601283,
+      "longitud": -86.2020081,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924473",
+      "nombre": "El Guanacaste",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4577962,
+      "longitud": -86.1857164,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924491",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4560746,
+      "longitud": -86.1650312,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924492",
+      "nombre": "San Pedro de Ojoche",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4612864,
+      "longitud": -86.1785549,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924493",
+      "nombre": "Namaslí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4663729,
+      "longitud": -86.2230956,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924495",
+      "nombre": "Miramar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4882518,
+      "longitud": -86.1957264,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924497",
+      "nombre": "Las Vegas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4848559,
+      "longitud": -86.1836699,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924498",
+      "nombre": "Las Vegas No 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4971927,
+      "longitud": -86.1756689,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924499",
+      "nombre": "San José de Ojoche",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4928109,
+      "longitud": -86.1372221,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924500",
+      "nombre": "El Silencio",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4731862,
+      "longitud": -86.1279202,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9583924502",
+      "nombre": "La Estrechura",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.484089,
+      "longitud": -86.0989201,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596002100",
+      "nombre": "La Lima",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4353824,
+      "longitud": -86.2610758,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596002101",
+      "nombre": "El Roble",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4451391,
+      "longitud": -86.2562746,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596002102",
+      "nombre": "Valle San Andrés",
+      "tipo_localidad": "village",
+      "latitud": 13.4479669,
+      "longitud": -86.2825227,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596002105",
+      "nombre": "Las Lajitas de San Andrés",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4647349,
+      "longitud": -86.2699914,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596002111",
+      "nombre": "Valle La Plazuela",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4475182,
+      "longitud": -86.3268972,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596002114",
+      "nombre": "Río Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4543111,
+      "longitud": -86.3453615,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596003517",
+      "nombre": "Riíto Abajo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.452266,
+      "longitud": -86.3907605,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596003519",
+      "nombre": "Musulí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4406782,
+      "longitud": -86.4078731,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596003521",
+      "nombre": "La Jícara",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4531321,
+      "longitud": -86.4253557,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596003523",
+      "nombre": "Cuyalí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.48056,
+      "longitud": -86.4281613,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596003532",
+      "nombre": "El Portillo del Níspero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4568675,
+      "longitud": -86.4405048,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596003533",
+      "nombre": "Valle Río Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4693675,
+      "longitud": -86.4377475,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596003534",
+      "nombre": "El Cóbano",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4735331,
+      "longitud": -86.4599991,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596003535",
+      "nombre": "Villa Lucila",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4765614,
+      "longitud": -86.482299,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9596003536",
+      "nombre": "El Jardín",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4739478,
+      "longitud": -86.4774764,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597962831",
+      "nombre": "Cialcuna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4438035,
+      "longitud": -86.2988091,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597962836",
+      "nombre": "Santa Rosa",
+      "tipo_localidad": "village",
+      "latitud": 13.449913,
+      "longitud": -86.4526123,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597962837",
+      "nombre": "Las Tunas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.456085,
+      "longitud": -86.45221,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971895",
+      "nombre": "El Hatillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.455485,
+      "longitud": -86.4827603,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971896",
+      "nombre": "El Chilamatillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4621264,
+      "longitud": -86.492368,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971917",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4473148,
+      "longitud": -86.4696792,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971918",
+      "nombre": "El Trapíchito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4451913,
+      "longitud": -86.4854103,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971919",
+      "nombre": "La Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4386173,
+      "longitud": -86.4825511,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971920",
+      "nombre": "Los Arados",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.440026,
+      "longitud": -86.4747941,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971921",
+      "nombre": "Jamailí",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4216962,
+      "longitud": -86.4773852,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971962",
+      "nombre": "Los Zanjones",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4047061,
+      "longitud": -86.4264983,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971963",
+      "nombre": "Las Quebradas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4003801,
+      "longitud": -86.4123738,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971967",
+      "nombre": "Valle Abajo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4326588,
+      "longitud": -86.3941455,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971968",
+      "nombre": "San Ramón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4132978,
+      "longitud": -86.4232046,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971970",
+      "nombre": "El Socorro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4288081,
+      "longitud": -86.4141655,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971974",
+      "nombre": "Monte Verde",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4215292,
+      "longitud": -86.3686753,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9597971979",
+      "nombre": "Colón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4112824,
+      "longitud": -86.3432452,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9600842300",
+      "nombre": "El Níspero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4496886,
+      "longitud": -86.2316466,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9600867972",
+      "nombre": "La Unión",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4801557,
+      "longitud": -86.3168013,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9600915281",
+      "nombre": "Cusmají",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4732488,
+      "longitud": -86.350919,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9600915593",
+      "nombre": "Valle El Límon",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5004267,
+      "longitud": -86.3415313,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9600915595",
+      "nombre": "Los Ángeles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4926023,
+      "longitud": -86.3963449,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9603630777",
+      "nombre": "Guazure",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6379691,
+      "longitud": -86.6464127,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150550",
+      "nombre": "El Guapinol",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5086316,
+      "longitud": -86.5059185,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150551",
+      "nombre": "Samascunda",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5112396,
+      "longitud": -86.5177256,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150553",
+      "nombre": "Cerro Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5252362,
+      "longitud": -86.4921346,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150554",
+      "nombre": "El Jobo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5328249,
+      "longitud": -86.5006319,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150556",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5394876,
+      "longitud": -86.5308845,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150557",
+      "nombre": "Valle Santo Domingo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5389139,
+      "longitud": -86.5069324,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150562",
+      "nombre": "El Cacao",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5555346,
+      "longitud": -86.55404,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150563",
+      "nombre": "Verapaz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5685013,
+      "longitud": -86.5269551,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150565",
+      "nombre": "San José La Pita II",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5845177,
+      "longitud": -86.5179938,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150568",
+      "nombre": "El Achiote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.524785,
+      "longitud": -86.5255255,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150569",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5222085,
+      "longitud": -86.5290123,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150570",
+      "nombre": "Tierras Blancas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4985593,
+      "longitud": -86.5957404,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150571",
+      "nombre": "Valle Cacaulí",
+      "tipo_localidad": "village",
+      "latitud": 13.5153758,
+      "longitud": -86.5918083,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150572",
+      "nombre": "Cacaulí",
+      "tipo_localidad": "village",
+      "latitud": 13.5033842,
+      "longitud": -86.5856606,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150574",
+      "nombre": "Santa Ana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4968797,
+      "longitud": -86.535211,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150575",
+      "nombre": "Arado Quemado",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4925032,
+      "longitud": -86.5365064,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150576",
+      "nombre": "El Cascabel",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5011309,
+      "longitud": -86.5527499,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150578",
+      "nombre": "San Francisco de Las Cañas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5276954,
+      "longitud": -86.5643907,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150581",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.6209501,
+      "longitud": -86.7140982,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150585",
+      "nombre": "Chagüite del Carrizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5860455,
+      "longitud": -86.7676539,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150586",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5837199,
+      "longitud": -86.6470135,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150591",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "village",
+      "latitud": 13.5052151,
+      "longitud": -86.642966,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150596",
+      "nombre": "El Iguaje",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5392554,
+      "longitud": -86.6868175,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150599",
+      "nombre": "Valle El Tamarindo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5273694,
+      "longitud": -86.7138783,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9604150601",
+      "nombre": "Los Carcoles",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5091793,
+      "longitud": -86.7244328,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9609341011",
+      "nombre": "Las Delicias",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5028157,
+      "longitud": -86.5561697,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9609341013",
+      "nombre": "El Pilón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5080422,
+      "longitud": -86.5492952,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9609341015",
+      "nombre": "El Rosario",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5099174,
+      "longitud": -86.6108895,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9609341016",
+      "nombre": "Santa Mónica de Motuse",
+      "tipo_localidad": "village",
+      "latitud": 13.5201535,
+      "longitud": -86.6637665,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9609342654",
+      "nombre": "Las Pintadas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5164607,
+      "longitud": -86.7182637,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9609342665",
+      "nombre": "Los Macuelizos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5999725,
+      "longitud": -86.6330445,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9609342676",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5385201,
+      "longitud": -86.5499134,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9609342683",
+      "nombre": "Palmira",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5860663,
+      "longitud": -86.5216416,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527397",
+      "nombre": "El Zapotillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4412156,
+      "longitud": -86.6469974,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527398",
+      "nombre": "Colama",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4299351,
+      "longitud": -86.625588,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527399",
+      "nombre": "El Porcal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.424206,
+      "longitud": -86.6039371,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527400",
+      "nombre": "San José",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4135979,
+      "longitud": -86.6036421,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527401",
+      "nombre": "El Guaylo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4098774,
+      "longitud": -86.607365,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527402",
+      "nombre": "El Chagüite",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4038138,
+      "longitud": -86.6086364,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527407",
+      "nombre": "El Volcán",
+      "tipo_localidad": "village",
+      "latitud": 13.4215084,
+      "longitud": -86.5944689,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527408",
+      "nombre": "Las Soleras",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4153929,
+      "longitud": -86.5884232,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527409",
+      "nombre": "El Apanto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4066316,
+      "longitud": -86.5859449,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527410",
+      "nombre": "Cuyás",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4012986,
+      "longitud": -86.5948391,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527411",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3879496,
+      "longitud": -86.5909231,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622527412",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3841557,
+      "longitud": -86.576053,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544739",
+      "nombre": "Quebrada Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3635742,
+      "longitud": -86.5791446,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544751",
+      "nombre": "El Castillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3503673,
+      "longitud": -86.6138346,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544756",
+      "nombre": "El Chaguitillo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3402466,
+      "longitud": -86.65344,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544758",
+      "nombre": "Apanaje",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3691827,
+      "longitud": -86.6457045,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544759",
+      "nombre": "El Matasano",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3732952,
+      "longitud": -86.652925,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544760",
+      "nombre": "Las Lajitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3767137,
+      "longitud": -86.6590941,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544761",
+      "nombre": "Río Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3959758,
+      "longitud": -86.6432852,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544762",
+      "nombre": "El Coyolito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3912687,
+      "longitud": -86.6122949,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544763",
+      "nombre": "Moropoto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3954957,
+      "longitud": -86.6270793,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544764",
+      "nombre": "Regadío",
+      "tipo_localidad": "village",
+      "latitud": 13.397437,
+      "longitud": -86.6169566,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544765",
+      "nombre": "La Guayaba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4098826,
+      "longitud": -86.6250515,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544770",
+      "nombre": "La Grama",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4349336,
+      "longitud": -86.5927523,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544771",
+      "nombre": "El Centro de Unile",
+      "tipo_localidad": "village",
+      "latitud": 13.4375529,
+      "longitud": -86.602081,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544772",
+      "nombre": "Apatule",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.453732,
+      "longitud": -86.6053802,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544773",
+      "nombre": "Suyapa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4347693,
+      "longitud": -86.6067669,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544775",
+      "nombre": "Valle Los Canales",
+      "tipo_localidad": "village",
+      "latitud": 13.4324866,
+      "longitud": -86.6234047,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544778",
+      "nombre": "La Manzana",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4241278,
+      "longitud": -86.6428561,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544779",
+      "nombre": "El Chagüite",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4149181,
+      "longitud": -86.648655,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544780",
+      "nombre": "San Francisco de La Comayara",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4044139,
+      "longitud": -86.6531825,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544781",
+      "nombre": "Misalgualto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4033233,
+      "longitud": -86.6783524,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544782",
+      "nombre": "Mal Paso",
+      "tipo_localidad": "village",
+      "latitud": 13.3908095,
+      "longitud": -86.6690907,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544787",
+      "nombre": "Oruse",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3525751,
+      "longitud": -86.6655824,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544791",
+      "nombre": "La Palma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3518444,
+      "longitud": -86.6970098,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544925",
+      "nombre": "El Carmen",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.497203,
+      "longitud": -86.5500301,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544926",
+      "nombre": "El Crucero de Guadalupe",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.4890916,
+      "longitud": -86.5023136,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544927",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4891386,
+      "longitud": -86.5081233,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544929",
+      "nombre": "San Antonio",
+      "tipo_localidad": "village",
+      "latitud": 13.476358,
+      "longitud": -86.5275157,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544931",
+      "nombre": "La Susuba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4631906,
+      "longitud": -86.5189326,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544933",
+      "nombre": "Esquipulas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4552189,
+      "longitud": -86.5080428,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544934",
+      "nombre": "Chagüite Grande",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4489008,
+      "longitud": -86.5009028,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544935",
+      "nombre": "Santa Bárbara",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4534764,
+      "longitud": -86.5261049,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544943",
+      "nombre": "Portillo de La Cruz",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4354398,
+      "longitud": -86.5502554,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544944",
+      "nombre": "El Zapote",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4394469,
+      "longitud": -86.5628297,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544945",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4473825,
+      "longitud": -86.5725285,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544946",
+      "nombre": "Valle Santa Teresa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4615733,
+      "longitud": -86.5695083,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544949",
+      "nombre": "Musunse",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4680737,
+      "longitud": -86.5834344,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544950",
+      "nombre": "La Jabilla",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4679485,
+      "longitud": -86.5796256,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544951",
+      "nombre": "Las Minitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4647662,
+      "longitud": -86.5836382,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544952",
+      "nombre": "El Cerrito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.499965,
+      "longitud": -86.5728235,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544953",
+      "nombre": "San Joaquín",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4969579,
+      "longitud": -86.5903169,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544954",
+      "nombre": "Tierras Blancas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4987575,
+      "longitud": -86.5885091,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544955",
+      "nombre": "San Luis",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4774118,
+      "longitud": -86.6007668,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544957",
+      "nombre": "Los Copales",
+      "tipo_localidad": "village",
+      "latitud": 13.4662112,
+      "longitud": -86.6142315,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544958",
+      "nombre": "El Alto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4492295,
+      "longitud": -86.6212106,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544959",
+      "nombre": "La Susuta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4556206,
+      "longitud": -86.6206849,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544961",
+      "nombre": "El Aguacate",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4734679,
+      "longitud": -86.62812,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544963",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4672807,
+      "longitud": -86.6340101,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544967",
+      "nombre": "Patastule",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4973178,
+      "longitud": -86.6500068,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544971",
+      "nombre": "Hato Nuevo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4627576,
+      "longitud": -86.6676289,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544976",
+      "nombre": "Valle de Sonís",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4469809,
+      "longitud": -86.6876114,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622544977",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4260374,
+      "longitud": -86.6706624,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622545269",
+      "nombre": "Quebrada Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4714334,
+      "longitud": -86.7170405,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622545270",
+      "nombre": "Santa Soledad",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4777508,
+      "longitud": -86.6853744,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9622545271",
+      "nombre": "San Antonio del Potrero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4916059,
+      "longitud": -86.7101768,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624006738",
+      "nombre": "Tipa",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5450835,
+      "longitud": -86.3332593,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624006740",
+      "nombre": "Cerro Grande Amucayán",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5600768,
+      "longitud": -86.3555378,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624006742",
+      "nombre": "El Mojón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.553386,
+      "longitud": -86.3924289,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624006745",
+      "nombre": "Buena Vista",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.564598,
+      "longitud": -86.3747693,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624006748",
+      "nombre": "El Salto",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5409348,
+      "longitud": -86.4435894,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624006749",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5224902,
+      "longitud": -86.433912,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624006755",
+      "nombre": "Encuentros de Cuje",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5550183,
+      "longitud": -86.3063514,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624272392",
+      "nombre": "La Bodega",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5445307,
+      "longitud": -86.2433195,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624272394",
+      "nombre": "Betania",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5076458,
+      "longitud": -86.2181336,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624272395",
+      "nombre": "Gruta de Lourdes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5135815,
+      "longitud": -86.2007368,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624272397",
+      "nombre": "Matapalo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5091949,
+      "longitud": -86.1615122,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624272398",
+      "nombre": "Buenos Aires",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5233247,
+      "longitud": -86.1262894,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624272399",
+      "nombre": "Agua Fresca",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4971718,
+      "longitud": -86.0732782,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9624272400",
+      "nombre": "El Clavel",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5103581,
+      "longitud": -86.0853803,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632457011",
+      "nombre": "La Puerta",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2790852,
+      "longitud": -86.6471529,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632457012",
+      "nombre": "San Antonio de Imire",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2759578,
+      "longitud": -86.6548509,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632457013",
+      "nombre": "Valle El Ángel",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2726459,
+      "longitud": -86.6698266,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632488520",
+      "nombre": "La Ceiba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2733212,
+      "longitud": -86.7268038,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632488523",
+      "nombre": "El Rodeo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2969403,
+      "longitud": -86.6332269,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632488526",
+      "nombre": "El Zamorano",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3048807,
+      "longitud": -86.6434998,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632488527",
+      "nombre": "Los Llanitos",
+      "tipo_localidad": "neighbourhood",
+      "latitud": 13.2951601,
+      "longitud": -86.665231,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632488529",
+      "nombre": "Tierra Colorada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2910097,
+      "longitud": -86.6896391,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632488530",
+      "nombre": "Valle El Roble",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2933538,
+      "longitud": -86.704917,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632488533",
+      "nombre": "San Benito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3323126,
+      "longitud": -86.6319394,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632488535",
+      "nombre": "Miramar",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3282985,
+      "longitud": -86.6412038,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632488541",
+      "nombre": "El Mojón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3100025,
+      "longitud": -86.6756099,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9632488542",
+      "nombre": "La Victoria",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3249838,
+      "longitud": -86.6954059,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633736100",
+      "nombre": "El Gavilán",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2666119,
+      "longitud": -86.655516,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633736102",
+      "nombre": "Ojo De Agua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2664553,
+      "longitud": -86.6348684,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633736103",
+      "nombre": "El Apante",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2718175,
+      "longitud": -86.6305232,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742639",
+      "nombre": "Valle Buena Vista",
+      "tipo_localidad": "village",
+      "latitud": 13.3133117,
+      "longitud": -86.6177452,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742640",
+      "nombre": "Quebrada Honda",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3238406,
+      "longitud": -86.6226321,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742666",
+      "nombre": "Jocomico",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2312223,
+      "longitud": -86.6502241,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742667",
+      "nombre": "El Pilón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2228225,
+      "longitud": -86.663037,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742669",
+      "nombre": "La Jagua",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2168953,
+      "longitud": -86.672945,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742670",
+      "nombre": "La Jabonera",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2153599,
+      "longitud": -86.6775263,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742671",
+      "nombre": "La Fortuna",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2154226,
+      "longitud": -86.6842318,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742672",
+      "nombre": "Las Mesitas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.214399,
+      "longitud": -86.690315,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742673",
+      "nombre": "El Chilamatal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2066227,
+      "longitud": -86.6973585,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742674",
+      "nombre": "Las Managuas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2105135,
+      "longitud": -86.7135215,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742677",
+      "nombre": "El Carrizo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2412353,
+      "longitud": -86.6800368,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742679",
+      "nombre": "El Esquirín",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2663613,
+      "longitud": -86.6781002,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742681",
+      "nombre": "El Limón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2544983,
+      "longitud": -86.7395497,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742682",
+      "nombre": "Peña La Tajada",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2510678,
+      "longitud": -86.7353118,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742688",
+      "nombre": "Aguas Calientes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2234858,
+      "longitud": -86.7036939,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742691",
+      "nombre": "El Lajero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2352145,
+      "longitud": -86.7064512,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742692",
+      "nombre": "La Nave",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2422118,
+      "longitud": -86.7030824,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742693",
+      "nombre": "El Calero",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.245961,
+      "longitud": -86.6980613,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742695",
+      "nombre": "El Espino",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2629309,
+      "longitud": -86.6720385,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742698",
+      "nombre": "El Naranjo",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2579393,
+      "longitud": -86.6976643,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9633742699",
+      "nombre": "Las Amarillas",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.2617822,
+      "longitud": -86.6997242,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/9639913251",
+      "nombre": "El Horno",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.241157,
+      "longitud": -86.6313171,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11299038505",
+      "nombre": "El Carbonal Arriba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5755931,
+      "longitud": -86.2063238,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11299038507",
+      "nombre": "Valle Los Pinares",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5676487,
+      "longitud": -86.2358362,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11299038561",
+      "nombre": "Casilí Abajo",
+      "tipo_localidad": "village",
+      "latitud": 13.5255048,
+      "longitud": -86.2722015,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11299038562",
+      "nombre": "El Tizate",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5778771,
+      "longitud": -86.2906766,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11458664913",
+      "nombre": "San Pedro",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4756172,
+      "longitud": -86.1884952,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11458718125",
+      "nombre": "San Juan",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5210297,
+      "longitud": -86.1433724,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11458718265",
+      "nombre": "San José",
+      "tipo_localidad": "village",
+      "latitud": 13.5347572,
+      "longitud": -86.1827445,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11458718296",
+      "nombre": "La Dalia",
+      "tipo_localidad": "village",
+      "latitud": 13.5293539,
+      "longitud": -86.185298,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11458718371",
+      "nombre": "La Gruta de Lourdes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5121315,
+      "longitud": -86.1880446,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11458718556",
+      "nombre": "Cedrales",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4537946,
+      "longitud": -86.14043,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11534860619",
+      "nombre": "San José",
+      "tipo_localidad": "village",
+      "latitud": 13.3559051,
+      "longitud": -86.6262961,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11538265361",
+      "nombre": "El Hornito",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5548566,
+      "longitud": -86.4160967,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11538265385",
+      "nombre": "Chilca 1",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5537406,
+      "longitud": -86.4267719,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11538265457",
+      "nombre": "El Calejón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5534746,
+      "longitud": -86.4600474,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11538295129",
+      "nombre": "La Loma",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5215878,
+      "longitud": -86.2926614,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11539054870",
+      "nombre": "El Cimarrón",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5206698,
+      "longitud": -86.4712215,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11542193489",
+      "nombre": "Los Cabros",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5827735,
+      "longitud": -86.481261,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/11608847126",
+      "nombre": "El Porcal",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4270967,
+      "longitud": -86.4569038,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/12878184948",
+      "nombre": "La Mercedes",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.5099252,
+      "longitud": -86.5643424,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/12878184992",
+      "nombre": "La Guayaba",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4776804,
+      "longitud": -86.5566914,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/12878202343",
+      "nombre": "Los Mangos",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.3759021,
+      "longitud": -86.6171336,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/13093048053",
+      "nombre": "Carlos Fonseca Amador",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4184142,
+      "longitud": -86.3934804,
+      "departamento": "Madriz"
+    },
+    {
+      "osm_id": "node/13625873552",
+      "nombre": "Matasano",
+      "tipo_localidad": "hamlet",
+      "latitud": 13.4397129,
+      "longitud": -86.5338001,
+      "departamento": "Madriz"
+    }
+  ]
+}
